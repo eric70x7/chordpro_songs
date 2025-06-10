@@ -1,66 +1,81 @@
 {t: Same Old Song and Dance}
 {st: Aerosmith}
-{key: Em}
+{key: E}
 
 {sop: Intro}
-[Em] [A] [Em] [A]
-{sot}
-e|--------------------|--------------------|
-B|--------------------|--------------------|
-G|--------------------|---------------9--9-|
-D|-----------0--0-----|-0-------------9--9-|
-A|---------2--------2-|----2----------7--7-|
-E|-0--0-3b------------|------3b-0---0------|
-{eot}
+[E5]
+- -
+{eop}
+
+{sop: Solo}
+[E5] [G5] [A5] [C5] [D5] [F5]
+[G5] [A5] [C5] [D5] [E5]
+- - -
 {eop}
 
 {sop: Verse 1}
-[Em]Get yourself cooler, lay yourself low
-Co[A]incidental murder with nothing to show
-When the [Em]judge's constipation goes to his head
-And his [A]wife's aggravation, you're soon enough dead
+[E5]
+Get yourself cooler, lay yourself low
+Coincidental murder, with nothing to show
+With the judge, constipation will go to his head
+And his wife's aggravation, you're soon enough dead
 {eop}
 
 {soc}
-It's the [G]same old [A]story
-[G]Same old [A]song and dance, my [Em]friend
-It's the [G]same old [A]story
-[G]Same old [A]song and dance, fate comes a-[Em]knocking
+[G5]     [A5]     [C5]       [D5]       [E5]
+It's the same old story, same old song and dance, my friend
+[G5]       [A5]     [C5]       [D5]       [E5]
+It's the same old story, same old song and dance, my friend
 {eoc}
 
 {sop: Verse 2}
-When you [Em]take it downtown, you're bound to get burned
-You got your [A]fancy pants on, but you ain't learned
-[Em]Charlie's got the power, he's calling your name
-And your [A]low-rent lawyer ain't taking the blame
+[E5]
+Gotcha with the cocaine they found with your gun
+No smoothy face lawyer to getcha undone
+Say love ain't the same on the south side of town
+You could look, but you ain't gonna find it around
 {eop}
 
 {soc}
-It's the [G]same old [A]story
-[G]Same old [A]song and dance, my [Em]friend
-It's the [G]same old [A]story
-[G]Same old [A]song, same old [Em]song and dance
+[G5]     [A5]     [C5]       [D5]       [E5]
+It's the same old story, same old song and dance, my friend
+[G5]       [A5]     [C5]       [D5]
+It's the same old story, same old story
+[F5]       [G5]       [A5]   [C5] [D5]
+Same old song and dance
 {eoc}
 
+{sop: Bridge 1}
+[B5]  [A5]  [G5]  [A5]
+Fate comes a-knockin', doors start lockin'
+Your old time connection, change your direction
+Ain't gonna change it, can't rearrange it
+[B5]  [A5]  [G5]  [A5]  [B5]  [C#5]  [D5]  [D#5]  [E5]
+Can't stand the pain when it's all the same to you, my friend
+{eop}
+
 {sop: Solo}
-[Em] - [A] - [Em] - [A] -
+[B5] [C#5] [D5] [E5]
+- - -
 {eop}
 
 {sop: Verse 3}
-When you [Em]call it quits, it ain't over yet
-You keep on [A]running, but you’re up to your neck
-With the [Em]one-night stand, and a two-time romance
-You’re [A]caught in the middle of the same old dance
+[E5]
+When you're low down and dirty, from walkin' the street
+With your old hurdy-gurdy, no one to meet
+Say love ain't the same, on the south side of town
+You could look, but you ain't gonna find it around
 {eop}
 
 {soc}
-It's the [G]same old [A]story
-[G]Same old [A]song and dance, my [Em]friend
-It's the [G]same old [A]story
-[G]Same old [A]song, just the [Em]same old song and dance
+[G5]     [A5]     [C5]       [D5]       [E5]
+It's the same old story, same old song and dance, my friend
+[G5]       [A5]     [C5]       [D5]
+It's the same old story, same old story
+[F5]       [G5]       [A5]   [C5] [D5]
+Same old song and dance
 {eoc}
 
 {sop: Outro}
-[Em] [A] [Em] [A]
-[G]Same old [A]song and [Em]dance
+[E5]
 {eop}
