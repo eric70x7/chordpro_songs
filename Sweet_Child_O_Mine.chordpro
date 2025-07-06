@@ -1,5 +1,6 @@
 {t: Sweet Child O' Mine}
 {st: Guns N' Roses}
+{ipodid: 1814883450694426567}
 {key:D}
 
 {sop: Intro}
@@ -39,6 +40,7 @@ Whoa oh, oh oh, sweet love o' mine
 {eoc}
 
 {sop: Bridge 2}
+{c: Solo}
 [D] [Cadd9] [G] [Cm7]
 Dbm7
 [D]
@@ -73,6 +75,7 @@ Whoa oh, oh oh, sweet love o' mine
 {eoc}
 
 {sop: Bridge 3}
+{c: Solo}
 [D] [Cadd9] [G] [D] [D]
 [Cadd9] [G] [Gm7]
 Dbm7
@@ -93,6 +96,7 @@ Oh sweet love o' mine
 {eoc}
 
 {sop: Solo}
+{c: Solo}
 [Em] [C] [B7] [Am]
 [Em] [C] [B7] [Am]
 [Em] [C] [B7] [Gm7]
@@ -104,6 +108,7 @@ Oh sweet love o' mine
 [Em7]
 
 {sop: Solo}
+{c: Solo}
 [Em] [Em]
 [G] [A] [C] [D]
 [Em] [Gm7]
@@ -120,6 +125,7 @@ Oh sweet love o' mine
 {eop}
 
 {sop: Bridge 4}
+{c: Solo}
 [Em] [Fm7]
 [G] [A] [C] [D]
 [Em7]

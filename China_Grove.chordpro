@@ -1,5 +1,6 @@
 {t: China Grove}
 {st: The Doobie Brothers}
+{ipodid: 330315343343630447}
 {key: E}
 
 {sop: Intro}
@@ -53,7 +54,8 @@ China Grove
 {eoc}
 
 {sop: Bridge 1}
-[E] [G#m] [B]    [C#m]
+[G#m] [B]    
+[C#m]
 But ev'ry day there's a new thing comin'
 [F#m]                 [C#m]
 The ways of an oriental view
@@ -61,7 +63,8 @@ The ways of an oriental view
 The sheriff and his buddies with their samurai swords
 [F#]
 You can even hear the music at night
-[F#sus4] [F#] [G#m] [B]    [C#m]
+[G#m] [B]
+[C#m]
 And though it's a part of the Lone Star State
 [F#m]                       [C#m]
 People don't seem to care
@@ -76,6 +79,7 @@ They just keep on lookin' to the East
 {eop}
 
 {sop: Solo}
+{c: Solo}
 [E] [D] [A/C#] [A] [E] [D] [A/C#] [A]
 [E] [D] [A/C#] [A] [E] [D] [A/C#] [A]
 [E] [C#m] [A] [A#] [B] [C]

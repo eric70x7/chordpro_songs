@@ -1,4 +1,5 @@
 {t: You Wreck Me}
+{ipodid: 6175295615369468615}
 {artist: Tom Petty}
 {key: D}
 
@@ -13,13 +14,13 @@ Tonight we sail, on a radio song
 [D]If I stay too [A]long in trouble [E]town
 {eop}
 
-{sop: Chorus 1}
+{soc}
 [G]Oh, [A]yeah
 You [D]wreck [A]me, [E]baby
 Yeah, you break me in two
 [D]But you [A]move me, [E]honey
 [D]Yes, [A]you [E]do
-{eop}
+{eoc}
 
 {sop: Verse 2}
 [D]Now and a[A]gain I get the [E]feeling
@@ -28,13 +29,13 @@ Well if I don't win, I'm a going to break even
 [D]If I dig too [A]deep, if I stay too [E]long
 {eop}
 
-{sop: Chorus 2}
+{soc}
 [G]Oh, [A]yeah
 You [D]wreck [A]me, [E]baby
 Yeah, you break me in two
 But you move me, honey
 Yes, you do
-{eop}
+{eoc}
 
 {sop: Bridge 1}
 [C] [G] [C] [G] [C] [G] [C] [G]
@@ -52,7 +53,7 @@ Yes, you do
 [D]And just play [A]dumb, whatever you [E]know
 {eop}
 
-{sop: Chorus 3}
+{soc}
 [G]Oh, [A]yeah
 You [D]wreck [A]me, [E]baby
 Yeah, you break me in two
