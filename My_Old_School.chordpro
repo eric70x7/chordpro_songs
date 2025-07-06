@@ -1,5 +1,6 @@
 {t: My Old School}
 {st: Steely Dan}
+{ipodid: 6175295615369464378}
 {key: G}
 
 {sop: Intro}
@@ -47,6 +48,7 @@ To my old school
 {eoc}
 
 {sop: Solo}
+{c: Solo}
 [D] [Em7] [Am7] [Bm7] [Em7] [D] [Em7] [Am7]
 [Bm7] [Em7]
 - - -
@@ -92,6 +94,7 @@ To my old school
 {eoc}
 
 {sop: Solo}
+{c: Solo}
 [D] [Em7] [Am7] [Bm7] [Em7] [D] [Em7] [Am7]
 [Bm7] [Em7] [D] [Em7] [Am7] [Bm7]
 [Em7] [C] [C#dim] [D]
@@ -144,6 +147,7 @@ To my old school
 {eoc}
 
 {sop: Solo}
+{c: Solo}
 [D] [Em7] [Am7] [Bm7] [Em7] [D] [Em7] [Am7]
 [Bm7] [Em7] [D] [Em7] [Am7] [Bm7]
 [Em7] [D] [Em7] [Am7] [Bm7] [Em7]

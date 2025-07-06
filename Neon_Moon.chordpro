@@ -1,73 +1,76 @@
 {t: Neon Moon}
 {st: Brooks & Dunn}
-{key: A}
+{ipodid: 1814883450694426522}
+{key:D}
 
 {sop: Verse 1}
-[Asus2]
+[Dsus2]
 When the sun goes down on my side of town, that lonesome feeling comes to my door
-[D]                 [Asus2]
+[G]                 [Dsus2]
 And the whole world turns blue
 {eop}
 
 {sop: Verse 2}
-[Asus2]
+[Dsus2]
 And there's a rundown bar across the railroad tracks, I got a table for two, way in the back
-[D]                          [Asus2]
+[G]                          [Dsus2]
 Where I sit alone and I think of losing you
-[E]
+[A]
 I spend most every night
-[Asus2]
+[Dsus2]
 Beneath the light of a neon moon
 {eop}
 
 {soc}
-[D]                   [E]
+[G]                   [A]
 If you lose your one and only
-[D]                   [E]
+[G]                   [A]
 There's always room here for the lonely
-[D]                          [E]
+[G]                          [A]
 To watch your broken dreams dance in and out of the beams
-[Asus2]
+[Dsus2]
 Of a neon moon
 {eoc}
 
 {sop: Verse 3}
-[Asus2]
+[Dsus2]
 I think of two young lovers running wild and free, I close my eyes and sometimes see
-[D]                           [Asus2]
+[G]                           [Dsus2]
 You in the shadows of that smokefilled room
 {eop}
 
 {sop: Verse 4}
-[Asus2]
+[Dsus2]
 No telling how many tears I've sat here and cried, or how many lies that I've lied
-[D]
+[G]
 Telling my poor heart
-[Asus2]
+[Dsus2]
 She'll come back someday
-[E]                                          [Asus2]
+[A]                                          [Dsus2]
 Oh, but I'll be alright as long as there's light from a neon moon
 {eop}
 
 {soc}
-[D]                   [E]
+[G]                   [A]
 Oh, if you lose your one and only
-[D]                   [E]
+[G]                   [A]
 There's always room here for the lonely
-[D]                          [E]
+[G]                          [A]
 To watch your broken dreams dance in and out of the beams
-[Asus2]
+[Dsus2]
 Of a neon moon
 {eoc}
 
 {sop: Solo}
-[Asus2] [D] [Asus2]
+{c: Solo}
+[Dsus2] [G] [Dsus2]
 - - -
 {eop}
 
 {sop: Verse 5}
-[Asus2]
+[Dsus2]
 The jukebox plays on drink by drink,
 
+{eop}
 
 {tag: Whiskey Lizard}

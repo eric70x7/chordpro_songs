@@ -1,13 +1,13 @@
 {t: Hotel California}
 {st: Eagles}
+{ipodid: 6175295615369468628}
 {key: Bm}
 
 {sop: Intro}
-[Bm] [F#] [A] [E]
-[G] [D] [Em] [F#7]
-[Bm] [F#] [A] [E]
-[G] [D] [Em]
-[F#7]
+[Bm] [F#]
+[A] [E]
+[G] [D]
+[Em] [F#7]
 - - -
 {eop}
 
@@ -91,12 +91,11 @@ You can check out any time you like, but you can never leave
 {eop}
 
 {sop: Solo}
-[Bm] [F#] [A] [E]
-[G] [D] [Em] [F#7]
-[Bm] [F#] [A] [E]
-[G] [D] [Em] [F#7]
-[Bm] [F#] [A] [E]
-[G] [D] [Em] [F#7]
+{c: Solo}
+[Bm] [F#] 
+[A] [E]
+[G] [D] 
+[Em] [F#7]
 - - -
 {eop}
 

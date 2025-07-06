@@ -1,5 +1,6 @@
 {t: Footloose}
 {st: Kenny Loggins}
+{ipodid: 4092329790592629971}
 {key: A}
 
 {sop: Intro}
@@ -23,13 +24,13 @@ E|-4^-------0--------|
 [F#7sus4] [G] [E/G#]Tonight I gotta cut 
 {eop}
 
-{sop: Chorus 1}
+{soc}
 [A]loose, [D]foot[A]loose
 [D]Kick off your Sunday [A] shoes
 [D] [A]Please, Louise, [D] pull me off of my [A] knees
 [D] [A]Jack, get back, [D] come on before we [A] crack
 [D] [A]Lose your [G] blues, everybody [D] cut foot[A]loose
-{eop}
+{eog}
 
 {sop: Verse 2}
 [A]You’re playing [D/A] so cool [A] Obeying [D/A] every rule
@@ -39,13 +40,13 @@ E|-4^-------0--------|
 [G] [E/G#]You can fly if you’d only cut
 {eop}
 
-{sop: Chorus 2}
+{soc}
 [A]loose, [D]foot[A]loose
 [D] Kick off your Sunday [A] shoes
 [D] [A] Please, Louise, [D] pull me off of my [A] knees
 [D] [A] Jack, get back, [D] come on before we [A] crack
 [D] [A] Lose your [G] blues, everybody [D] cut foot[A]loose
-{eop}
+{eoc}
 
 {sop: Bridge 1}
 [A] You’ve got to turn me around
@@ -54,7 +55,7 @@ And put your feet on the ground
 [A] I’m turning it [D] loose foot[A]loose
 {eop}
 
-{sop: Chorus 3}
+{soc}
 [A]loose, [D]foot[A]loose
 [D] Kick off your Sunday [A] shoes
 [D] [A] Please, Louise, [D] pull me off of my [A] knees
@@ -64,7 +65,7 @@ And put your feet on the ground
 [D] Kick off your Sunday [A] shoes
 [D] [A] Please, Louise, [D] pull me off of my [A] knees
 [D] [A] Jack, get back, [D] come on before we [A] crack
-{eop}
+{eoc}
 
 {sop: Outro}
 [D] [A] Lose your blues, everybody cut, everybody cut

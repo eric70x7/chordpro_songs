@@ -1,5 +1,7 @@
+
 {t: My Maria}
 {st: Brooks & Dunn}
+{ipodid: 1814883450694426533}
 {key:A}
 
 {sop: Intro}
@@ -59,13 +61,14 @@ Maria I love you
 {eoc}
 
 {sop: Solo}
+{c: Solo}
 [E] [B] [A] [E] [A] [B] [A] [E] [B]
 [A] [E] [A] [E]
 
 - - -
 {eop}
 
-{sop: Outro}
+{soc}
 [B] [A] [E] [A] [B] [A] [E]
 My Maria
 [B]    [E]
@@ -74,6 +77,6 @@ Maria I love you
 My Maria
 [B]    [E]
 Maria I love you
-{eop}
+{eoc}
 
 {tag: Whiskey Lizard}

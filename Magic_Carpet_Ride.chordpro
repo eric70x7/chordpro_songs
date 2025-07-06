@@ -1,3 +1,4 @@
+
 {t: Magic Carpet Ride}
 {st: Steppenwolf}
 {key: G}
@@ -37,9 +38,6 @@ Why don't you tell your dreams to me
 Fantasy will set you free
 [G]
 Close your eyes girl
-{eoc}
-
-{sop: Bridge 1}
 [Bb]
 Look inside girl
 [C]
@@ -47,7 +45,7 @@ Let the sound
 [G7sus2] [Gsus2] [G7sus2]
 Take you away
 [G7sus2] [Gsus2] [G7sus2] [G7sus2] [Gsus2] [G7sus2]
-{eop}
+{eoc}
 
 {sop: Verse 2}
 [D]           [C] [G]
@@ -79,9 +77,6 @@ Why don't you tell your dreams to me
 Fantasy will set you free
 [G]
 Close your eyes girl
-{eoc}
-
-{sop: Bridge 2}
 [Bb]
 Look inside girl
 [C]
@@ -89,14 +84,14 @@ Let the sound
 [G7sus2] [Gsus2] [G7sus2]
 Take you away
 [G7sus2] [Gsus2] [G7sus2] [G7sus2] [Gsus2] [G7sus2] [G7sus2] [Gsus2] [G7sus2]
-{eop}
+{eoc}
 
 {sop: Bridge 3}
 [E7sus2] [Esus2] [E7sus2] [E7sus2] [Esus2] [E7sus2] [E7sus2] [Esus2] [E7sus2] [E7sus2] [Esus2] [E7sus2]
 [E7sus2] [Esus2] [E7sus2] [E7sus2] [Esus2] [E7sus2]
 {eop}
 
-{sop: Outro}
+{soc}
 [D]    [C]     [G]        [D]  [C]        [G]
 You don't know what we can find
 [D]                 [C]     [G]
