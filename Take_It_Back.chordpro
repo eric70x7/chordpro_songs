@@ -1,80 +1,105 @@
 {t: Take It Back}
 {st: Reba McEntire}
-{key: C}
+{key:D}
 {tempo: 110 BPM}
 {duration: 3:17}
-
+[A] [G] [D]
+[A] [C] [A] [C] [D] [C] 
 {sop: Verse 1}
-[C]
+[D]
 You talked me into moving in and giving you my keys
-[C7]
+[D7]
 You said you'd be a mess now if it hadn't been for me
-[F]
+[G]
 You said I stole your heart away by looking in your eyes
-[C]
+[D]
 I wonder now how many times you sold that pack of lies
 {eop}
 
 {soc}
-[G7]                                 [F]
+[A7]                                 [G]
 If this is how you act when you give your heart away
-[C]
+[D]
 Well, take it back, take it back
 {eoc}
 
 {sop: Verse 2}
 [N.C.]
 You told me I was everything you wanted and more
-[C7]
+[D7]
 Then tell me what you're doing now sneaking out the back door
-[F]
+[G]
 You're bringing home flowers and a bottle of Chablis
-[C]
+[D]
 You forgot I don't drink wine, I know that bottle's not for me
 {eop}
 
 {soc}
-[G7]                                 [F]
+[A7]                                 [G]
 If this is how you act when you give your heart away
-[C]
+[D]
 Well, take it back, take it back
 {eoc}
 
 {sop: Instrumental}
-[C] [C7] [F] [C] [F] [G] [C]
+{c: SOLO}
+[D] [D7] [G] [D] [G] [A] [D]
 - - -
 {eop}
 
 {sop: Bridge}
-[F]                                     [C]
+[G]                                     [D]
 Oh, you must think I'm blind and I don't smell your new cologne
-[D]                                   [G]
+[E]                                   [A]
 You don't think I notice all the nights I've spent alone
 {eop}
 
 {sop: Verse 3}
-[C]
+[D]
 Well, I'm not one for sitting 'round in some ole pity pool
-[C7]
+[D7]
 You think you got a ticket and I must be some kind of fool
-[F]
+[G]
 I hate to steal your thunder but your playing days are through
-[C]
+[D]
 At least they are with me 'cause babe, I got no use for you
 {eop}
 
 {soc}
-[G7]                           [F]
+[A7]                           [G]
 Tonight laying on the street babe, your bag is packed
-[C]
+[D]
 So, take it back, ah take it back
 {eoc}
 
 {sop: Instrumental}
-[C] [C7] [F] [C] [F] [G] [C]
+{c: SAX SOLO}
+[D] [D7] [G] [D] [G] [A] [D]
 - - -
 {eop}
 
-{sop: Coda}
-[C] [F] [G] [F] [C]
+{sop: Verse 4}
+[D]
+Well, I'm not one for sitting 'round in some ole pity pool
+[D7]
+You think you got a ticket and I must be some kind of fool
+[G]
+I hate to steal your thunder but your playing days are through
+[D]
+At least they are with me 'cause babe, I got no use for you
 {eop}
+
+{soc}
+[A7]                           [G]
+Tonight laying on the street babe, your bag is packed
+[D]
+So, take it back, ah take it back
+{eoc}
+
+
+{sop: Coda}
+{c: Intro}
+[D] [G] [A] [G] [D]
+{eop}
+
+{Whiskey Lizard}
