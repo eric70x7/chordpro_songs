@@ -4,6 +4,8 @@
 {tempo: 120 BPM}
 {duration: 4:02}
 
+[B] [F] [B] [F]
+
 {sop: Verse 1}
 [Bb] [Bbsus2] [Bb]                [Cm]
 I put that record on
@@ -11,7 +13,7 @@ I put that record on
 Girl you know what song
 [F]                       [Bb]
 And I let it play again and again
-[Cm]
+[Bb] [Bbsus2] [Bb]                [Cm]
 You're in every line
 [Eb]
 Takes me back in time
@@ -123,8 +125,8 @@ I put that record on
 Girl you know what song
 [F]
 And I let it play again and again
-[Bb] [Bbsus2] [Bb] [Bbsus2]
-[Bb] [Bbsus2] [Bb]
+{c: Intro}
+[B] [F] [B] [F]
 {eop}
 
 {tag: Whiskey Lizard}
