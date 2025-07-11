@@ -4,10 +4,11 @@
 {tempo: 125 BPM}
 {duration: 3:54}
 
+[A] [A] [A] [F#] [E]
 {sop: Intro}
+{c: Intro lick}
 [A]
 Let's go, girls!
-[A]
 Come on!
 - - -
 {eop}
@@ -15,13 +16,10 @@ Come on!
 {sop: Verse 1}
 [A]
 I'm going out tonight
-[A]
 I'm feelin' alright
 [D] [A]
 Gonna let it all hang out
-[A]
 Wanna make some noise
-[A]
 Really raise my voice
 [D] [A]
 Yeah, I wanna scream and shout
@@ -30,11 +28,9 @@ Yeah, I wanna scream and shout
 {sop: Verse 2}
 [A]
 No inhibitions
-[A]
 Make no conditions
 [D] [A]
 Get a little outta line
-[A]
 I ain't gonna act politically correct
 [D] [A]
 I only wanna have a good time
@@ -50,19 +46,14 @@ Is the prerogative to have a little fun and...
 {soc}
 [E]
 Oh, oh, oh, go totally crazy
-[E]
 Forget I'm a lady
-[E]
 Men's shirts, short skirts
 [Dbm]
 Oh, oh, oh, really go wild
 [A]           [E]
 Yeah, doin' it in style
-[E]
 Oh, oh, oh, get in the action
-[E]
 Feel the attraction
-[E]
 Color my hair, do what I dare
 [Dbm]
 Oh, oh, oh, I wanna be free
@@ -71,17 +62,14 @@ Yeah, to feel the way I feel
 [Gbm]
 Man! I feel like a woman!
 {eoc}
-
+{sop: Intro lick}
 {sop: Verse 3}
 [A]
 The girls need a break
-[A]
 Tonight we're gonna take
 [D] [A]
 The chance to get out on the town
-[A]
 We don't need romance
-[A]
 We only wanna dance
 [D] [A]
 We're gonna let our hair hang down
@@ -97,19 +85,14 @@ Is the prerogative to have a little fun and...
 {soc}
 [E]
 Oh, oh, oh, go totally crazy
-[E]
 Forget I'm a lady
-[E]
 Men's shirts, short skirts
 [Dbm]
 Oh, oh, oh, really go wild
 [A]           [E]
 Yeah, doin' it in style
-[E]
 Oh, oh, oh, get in the action
-[E]
 Feel the attraction
-[E]
 Color my hair, do what I dare
 [Dbm]
 Oh, oh, oh, I wanna be free
@@ -120,6 +103,7 @@ Man! I feel like a woman!
 {eoc}
 
 {sop: Solo}
+{c: SOLO}
 [G] [D] [A] [G]
 [D] [A]
 - - -
@@ -130,24 +114,20 @@ Man! I feel like a woman!
 The best thing about being a woman
 [A]
 Is the prerogative to have a little fun, fun, fun
+{c: PAUSE}
 {eop}
 
 {soc}
 [E]
 Oh, oh, oh, go totally crazy
-[E]
 Forget I'm a lady
-[E]
 Men's shirts, short skirts
 [Dbm]
 Oh, oh, oh, really go wild
 [A]           [E]
 Yeah, doin' it in style
-[E]
 Oh, oh, oh, get in the action
-[E]
 Feel the attraction
-[E]
 Color my hair, do what I dare
 [Dbm]
 Oh, oh, oh, I wanna be free
@@ -158,6 +138,7 @@ Man! I feel like a woman!
 {eoc}
 
 {sop: Outro}
+{c: Intro lick}
 [A] [G] [D] [A]
 [G] [D] [A] [G]
 [D] [A]

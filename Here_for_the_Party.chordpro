@@ -3,76 +3,64 @@
 {key: D}
 {tempo: 124 BPM}
 {duration: 3:16}
-
+{c: DROP D}
 {sop: Intro}
-[D5] [F6/C] [G/B] [C5] [D5] [F6/C] [G/B] [C5]
-[D5] [F6/C] [G/B] [Bbmaj7]
-[D5] [F6/C]
+
+{c: Intro lick}
 - - -
 {eop}
 
 {sop: Verse 1}
-[G/B] [Bbmaj7]            [D5]
-Well I'm an eightball shooting double fisted drinking son of a gun
-[C5]
-I wear my jeans a little tight
-[D5]
+[D5]                                                              
+Well I'm an eightball shooting double fisted 
+                             [D5] [C5] [D5] [C5] 
+Drinking son of a gun
+I wear my jeans a little tight 
 Just to watch the little boys come undone
 {eop}
 
 {sop: Pre-Chorus}
-[D5] [C5]    [G5]
-I'm here for the beer
 [G5]
-And the ballbusting band
+I'm here for the beer And the ballbusting band
 [A5]
 Gonna get a little crazy just because I can
 {eop}
 
 {soc}
-[D5]           [F6/C]
+                       [D5]           [C] [G] [D]
 You know I'm here for the party
-[G/B] [D5/A]            [D5]                [F6/C]      [G/B] [D5/A]
 And I ain't leaving till they throw me out
-[D5]            [F6/C]     [G/B]       [D5/A]
 Gonna have a little fun gonna get me some
-[D5]  [F6/C] [G/B]                 [D5]   [F6/C]
+{c: STOP}
 You know I'm here, I'm here for the party
 {eoc}
-
-{sop: Bridge 1}
-[G/B] [Bbmaj7] [D5] [F6/C] [G/B] [Bbmaj7]  [D5]
-I may not be a ten
-{eop}
+{c: Intro lick}
 
 {sop: Verse 2}
-[D5]                                [C5]
+[D5]                                                              
+I may not be a ten
+                            [D5] [C5] [D5] [C5] 
 But the boys say I clean up good
-[C5]
 And if I gave 'em half a chance for some rowdy romance
-[D5]
 You know they would
 {eop}
 
 {sop: Pre-Chorus}
-[D5] [C5]          [G5]
+[G5]
 I've been waiting all week just to have a good time
 [A5]
-So bring on them cowboys
-[A5]
-And their pick up lines
+So bring on them cowboys And their pick up lines
 {eop}
 
 {soc}
-[D5]           [F6/C]
+                       [D5]           [C] [G] [D]
 You know I'm here for the party
-[G/B] [D5/A]            [D5]                [F6/C]      [G/B] [D5/A]
 And I ain't leaving till they throw me out
-[D5]            [F6/C]     [G/B]       [D5/A]
 Gonna have a little fun gonna get me some
-[D5]  [F6/C] [G/B]                 [D5]
 You know I'm here, I'm here for the party
 {eoc}
+
+{c: SOLO}
 
 {sop: Solo}
 [G5] [F5] [D5] [G5] [F5]
@@ -89,43 +77,20 @@ Don't mind me if I start that trashy talk
 {eop}
 
 {soc}
-[D5]           [F6/C]
+{c: Intro lick}
 You know I'm here for the party
-[G/B] [C5]            [D5]                [F6/C]      [G/B] [C5]
 And I ain't leaving till they throw me out
-[D5]            [F6/C]     [G/B]       [C5]
 Gonna have a little fun gonna get me some
-[D5]     [F6/C] [G/B]
+{c: LONG STOP}
 I'm here, I, I
 {eoc}
 
 {soc}
-[D5]           [F6/C]
+                       [D5]           [C] [G] [D]
 You know I'm here for the party
-[G/B] [D5/A]            [D5]                [F6/C]      [G/B] [D5/A]
 And I ain't leaving till they throw me out
-[D5]            [F6/C]     [G/B]       [D5/A]
 Gonna have a little fun gonna get me some
-[D5]  [F6/C]
-You know I'm here
-[G/B]    [D5/A]         [D5]   [F6/C]
-I'm here for the party
+You know I'm here, I'm here for the party
 {eoc}
-
-{sop: Outro}
-[G/B]        [Bbmaj7]        [D5]         [F6/C]
-I'm here for the party, yeah
-[G/B]        [Bbmaj7]        [D5]   [F6/C]
-I'm here for the party
-[G/B] [Bbmaj7] [D5] [F6/C]     [G/B]         [Bbmaj7]
-Just try to throw me out
-[D5] [F6/C] [G/B] [Bbmaj7] [D5] [F6/C]
-[G/B]        [Bbmaj7]        [D5]   [F6/C]
-I'm here for the party
-[G/B]         [Bbmaj7]
-Just try to throw me out
-[D5] [F6/C] [G/B]        [Bbmaj7]                   [D5]
-I'm here for the party, yeah
-{eop}
 
 {tag: Whiskey Lizard}

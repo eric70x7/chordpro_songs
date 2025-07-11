@@ -22,6 +22,7 @@ D|0--------------------------------------------------------------------------|
 A|---------------------------------------------------------------------------|
 E|---------------------------------------------------------------------------|
 {eot}
+{c: Pick}
 [D]         [C]         [G]          [D]
 Hey, I've been driving all over the town
 [C]
@@ -29,7 +30,7 @@ On my cellphone wearin' it out
 [G]            [D]
 And I've finally tracked you down
 {eop}
-
+{c: Chords}
 {sop: Verse 1}
 [D]         [C]         [G]          [D]
 Hey, everybody says you're the man
@@ -43,10 +44,11 @@ You got my world in the palm of your hand
 Well I know that you got it
 Come on and just sell it
 Got the cash up in my pocket
+{c: Run}
 [F] [F#] [G] [G#] [A] [A#] [B] [C]
 You know I gotta get it
 {eop}
-
+{c: Chord change}
 {soc}
 [D]                     [F]        [G]     [D]
 Hey mister won't you sell me a fake ID
@@ -57,7 +59,8 @@ I got my money and you got what I need
 [F] [F]   [G] [G]   [D]
 Hey mister won't you sell me a fake ID
 {eoc}
-
+{c: Pick}
+{c: Chords with leads}
 {sop: Verse 2}
 [D]                [C]           [G]         [D]
 Hey, don't even think about tellin' me no
@@ -80,6 +83,7 @@ So the bouncer don't call the police
 And don't tell my daddy
 Stole the keys to his caddy
 Don't dilly dally
+{c: Run}
 [F] [F#] [G] [G#] [A] [A#] [B] [C]
 I gotta get the hell out of this alley
 {eop}
@@ -94,14 +98,14 @@ I got my money and you got what I need
 [F] [F]   [G] [G]  [D]
 Hey mister won't you sell me a fake ID
 {eoc}
-
+{c: Pick}
 {sop: Bridge 1}
 [Bb]
 Here's my money, now get out of my way
+{c: Run}
 [G]                                         [F] [F#] [G] [G#] [A] [A#] [B] [C]
 Gonna push my luck right up to the stage
 {eop}
-
 {sop: Solo}
 [D] [F] [G]
 {sot}
@@ -142,7 +146,7 @@ E|---------------------------------------------------------------------------|
 
 [C] [C]                   [G] [G] 
 {eop}
-
+{c: Run}
 {sop: Bridge 2}
 Hey mister won't you sell me a fake ID
 There's a band in the bar that I'm dying to see
