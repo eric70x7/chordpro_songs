@@ -1,5 +1,6 @@
 {t: Take It Back}
 {st: Reba McEntire}
+{ipodid: 8898384342880132097}
 {key:D}
 {tempo: 110 BPM}
 {duration: 3:17}
@@ -78,6 +79,13 @@ So, take it back, ah take it back
 - - -
 {eop}
 
+{sop: Bridge}
+[G]                                     [D]
+Oh, you must think I'm blind and I don't smell your new cologne
+[E]                                   [A]
+You don't think I notice all the nights I've spent alone
+{eop}
+{c:STOP}
 {sop: Verse 4}
 [D]
 Well, I'm not one for sitting 'round in some ole pity pool
