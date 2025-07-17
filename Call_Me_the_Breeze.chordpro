@@ -4,6 +4,12 @@
 {tempo: 133 BPM}
 {duration: 5:08}
 
+{c:Chorus Verse}
+{c:Guitar Solo over 2x}
+{c:Verse}
+{c:Piano Solo over 2x}
+{c:Verse Chorus}
+
 {sop: Intro}
 [A]
 - - -
@@ -45,12 +51,13 @@ Oh, that's the way its supposed to be
 [A] [D] [A] [E]
 [D] [A] [A] [D]
 [A] [E] [D] [A]
-[A]
-Well I got that green light baby
+
 - - -
 {eop}
 
 {sop: Verse 2}
+[A]
+Well I got that green light baby
 [A]
 I got to keep movin' on
 [D]

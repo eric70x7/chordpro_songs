@@ -4,13 +4,13 @@
 {tempo: 109 BPM}
 {duration: 5:00}
 
-{sop: Intro}
-[E9]
-Hey, do it now
-[E9]
-Yeah, hey
-- - -
-{eop}
+{c:Verse Pre-Chorus Chorus}
+{c:Verse Pre-Chorus Chorus}
+{c:Solo}
+{c:Verse Pre-Chorus Chorus}
+{c:Pre-Chorus}
+{c:Key Up}
+{c:Chorus Out}
 
 {sop: Verse 1}
 [E9]

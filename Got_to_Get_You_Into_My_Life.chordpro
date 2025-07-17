@@ -4,24 +4,17 @@
 {tempo: 132 BPM}
 {duration: 2:30}
 
-{sop: Intro}
-[G] [F/G] [G]
-- - -
-{eop}
-
 {sop: Verse 1}
 [G]
 I was alone, I took a ride
-[F/G]
 I didn't know what I would find there
-[G]
 Another road where maybe I could see another kind of mind there
 {eop}
 
 {sop: Pre-Chorus}
-[Bm] [Bmmaj7]          [Bm7]      [Bm6]
+[Bm]  [Bm/Bb]  [Bm/A]  [Bm/G#]
 Ooh, then I suddenly see you
-[Bm] [Bmmaj7]          [Bm7]          [Bm6]
+[Bm]  [Bm/Bb]  [Bm/A]  [Bm/G#]
 Ooh, did I tell you I need you
 [C]     [C/B]    [Am]  [D7]    [G]
 Every single day of my life
@@ -30,18 +23,15 @@ Every single day of my life
 {sop: Verse 2}
 [G]
 You didn't run, you didn't lie
-[F/G]
 You knew I wanted just to hold you
-[G]
 And had you gone you knew in time we'd meet again
-[F/G]
 For I had told you
 {eop}
 
 {sop: Pre-Chorus}
-[Bm] [Bmmaj7]              [Bm7]          [Bm6]
+[Bm]  [Bm/Bb]  [Bm/A]  [Bm/G#]
 Ooh, you were meant to be near me
-[Bm] [Bmmaj7]          [Bm7]           [Bm6]
+[Bm]  [Bm/Bb]  [Bm/A]  [Bm/G#]
 Ooh, and I want you to hear me
 [C]         [C/B]  [Am]     [D7]    [G]
 Say we'll be together every day
@@ -55,18 +45,15 @@ Got to get you into my life
 {sop: Verse 3}
 [G]
 What can I do, what can I be
-[F/G]
 When I'm with you I want to stay there
-[G]
 If I'm true I'll never leave
-[F/G]
 And if I do I know the way there
 {eop}
 
 {sop: Pre-Chorus}
-[Bm] [Bmmaj7]          [Bm7]      [Bm6]
+[Bm]  [Bm/Bb]  [Bm/A]  [Bm/G#]
 Ooh, then I suddenly see you
-[Bm] [Bmmaj7]          [Bm7]          [Bm6]
+[Bm]  [Bm/Bb]  [Bm/A]  [Bm/G#]
 Ooh, did I tell you I need you
 [C]     [C/B]    [Am]  [D7]    [G]
 Every single day of my life
@@ -97,10 +84,7 @@ I was alone, I took a ride
 {sop: Outro}
 [G]
 I didn't know what I would find there
-[F/G]                                    [G]                      [F/G]
 Another road where maybe I could see another kind of mind there
-[G]              [F/G]
 Then suddenly I see you
-[G]              [F/G] [G] [F/G]
 Did I tell you I need you
 {eop}
