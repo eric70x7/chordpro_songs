@@ -3,9 +3,8 @@
 {key: D}
 {tempo: 124 BPM}
 {duration: 3:16}
-{c: DROP D}
-{sop: Intro}
 
+{c:DROP D}
 {c:Intro lick}
 {c:Verse Pre-Chorus Chorus}
 {c:Intro lick}
@@ -14,7 +13,6 @@
 {c:Pre-Chorus low Chorus}
 {c:PAUSE}
 {c:Chorus Outro}
-{eop}
 
 {sop: Verse 1}
 [D5]                                                              
