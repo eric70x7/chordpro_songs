@@ -3,6 +3,18 @@
 {ipodid: 4092329790592629971}
 {key: A}
 
+{c:Key}
+[A]
+
+{c:Drums -> Bass -> Intro lick x4}
+{c:Verse Pre-Chorus Chorus}
+{c:Intro Lick}
+{c:Verse Pre-Chorus Chorus}
+{c:Percussion}
+{c:PAUSE}
+{c:Pre-Chorus Chorus}
+{c:Chorus Outro w guitar}
+
 {sop: Intro}
 [A] 
 [D/A] Ooh
@@ -11,32 +23,34 @@ e|-------------------|
 B|-------------------|
 G|------------4-2-2--|
 D|------------5-4-2--|
-A|----0-3^0----------|
-E|-4^-------0--------|
+A|----0-3^4-0--------|
+E|-4^----------------|
 {eot}
+
 {eop}
 
 {sop: Verse 1}
 [A]I’ve been working [D/A] so hard [A] I’m punching [D/A] my card
 [A]Eight hours for what Oh, tell me what I got
-[D]I’ve got this feeling That times are holding me down
-[D]I’ll hit the ceiling [D#m7b5] Or else I’ll tear [E] up this town
-[F#7sus4] [G] [E/G#]Tonight I gotta cut 
+[D]I’ve got this feeling That times are holding me [A] down
+[D]I’ll hit the ceiling [D#] Or else I’ll tear [E] up this town
+[F#] [G] [E/G#]
 {eop}
 
 {soc}
+Tonight I gotta cut 
 [A]loose, [D]foot[A]loose
 [D]Kick off your Sunday [A] shoes
 [D] [A]Please, Louise, [D] pull me off of my [A] knees
 [D] [A]Jack, get back, [D] come on before we [A] crack
 [D] [A]Lose your [G] blues, everybody [D] cut foot[A]loose
-{eog}
+{eoc}
 
 {sop: Verse 2}
 [A]You’re playing [D/A] so cool [A] Obeying [D/A] every rule
 [A]Deep’a way down in your heart You’re burning yearning for some
-[D]Somebody to tell you That life ain’t passing you by
-[A] [D]I’m trying to tell you [D#m7b5] It will if you [E] don’t even [F#7sus4] try
+[D]Somebody to tell you That life ain’t passing you [A]by
+[A] [D]I’m trying to tell you [D#] It will if you [E] don’t even [F#] try
 [G] [E/G#]You can fly if you’d only cut
 {eop}
 
@@ -51,11 +65,12 @@ E|-4^-------0--------|
 {sop: Bridge 1}
 [A] You’ve got to turn me around
 And put your feet on the ground
-[E] Now take the hold of all, aah
-[A] I’m turning it [D] loose foot[A]loose
+Now take the hold of all, aah
+[E]
 {eop}
 
 {soc}
+[A] I’m turning it [D] loose foot[A]loose
 [A]loose, [D]foot[A]loose
 [D] Kick off your Sunday [A] shoes
 [D] [A] Please, Louise, [D] pull me off of my [A] knees
@@ -73,6 +88,9 @@ And put your feet on the ground
 [G] [D/F#] Everybody cut, everybody cut
 [D] Everybody, everybody cut footloose
 [A]
+
+{c:Intro Lick}
+
 {eop}
 
 {tag: Whiskey Lizard}

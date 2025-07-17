@@ -6,17 +6,11 @@
 {duration: 2:56}
 
 {sop: Intro}
-[Bm] [Em] [Bm]
-- - -
-{eop}
-
-{sop: Pre-Verse}
 [Em] [Bm]
-[Em]
 {eop}
 
 {sop: Verse 1}
-[Bm]      [Em]
+[Em]
 I'm a friendly stranger in a black sedan
 [Bm]
 I want you hop inside my car
@@ -49,8 +43,10 @@ Got to have you child
 Great God in heaven you know I love you
 {eoc}
 
+[Em] [Bm]
+
 {sop: Verse 2}
-[Bm] [Em] [Bm]     [Em]
+[Em]
 Well if you want to be a movie star
 [Bm]
 I'll get a ticket to Hollywood
@@ -86,6 +82,7 @@ Great God in heaven you know I love you
 {eop}
 
 {sop: Solo}
+{c: SOLO}
 [Em] [Bm] [Em] [Bm]
 [Am] [Bm] [C] [Bsus4] [B]
 [Am] [B] [C] [B] [Em]
@@ -93,8 +90,7 @@ Great God in heaven you know I love you
 {eop}
 
 {sop: Pre-Verse}
-[Em] [Bm] [Em]
-[Bm]
+[Em] [Bm] [Em] [Bm]
 Well
 {eop}
 
@@ -132,12 +128,11 @@ Got to have you child
 Great God in heaven you know I love you
 {eoc}
 
-{sop: Bridge}
-[Bm] [Em] [Bm]  [Bsus4]
-I love ya
-{eop}
+[Em] [Bm] [Em] [Bm]
 
-{soc}
+{sop: Bridge}
+[Em] 
+I love ya
 [B]
 I need ya
 [Am]
@@ -148,4 +143,5 @@ Got to have you child
 Great God in heaven you know I love you
 {eoc}
 
+[Bm] [Bm] [Bm] [Em]
 {tag: Whiskey Lizard}
