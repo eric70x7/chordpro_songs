@@ -1,19 +1,33 @@
+
 # ChordPro Format Guidelines
 
-These guidelines outline the preferred ChordPro format for structuring and presenting song chord sheets, based on specific formatting preferences. The format is designed to be clear, consistent, and compatible with standard ChordPro conventions, with additional details for tempo, duration, and section handling.
+These guidelines outline the preferred ChordPro format for structuring and presenting song chord sheets, based on specific formatting preferences. The format is designed to be clear, consistent, and compatible with standard ChordPro conventions, with details for a song structure synopsis, metronome (tempo), duration, and section handling.
+
+## Synopsis
+- **Placement**: Include a synopsis at the top of the file, after the header but before the first section, using ChordPro comments (`{c:XXXXX}`).
+- **Content**: List each section of the song in the order they appear, with one comment per section, using the exact section names as provided (e.g., `{c:Intro}`, `{c:Verse 1}`, `{c:Chorus}`, `{c:Break}`, `{c:Solo}`, `{c:Outro}`, `{c:Fade Out}`).
+- **Example**:
+  ```
+  {c:Intro}
+  {c:Verse 1}
+  {c:Chorus}
+  {c:Verse 2}
+  {c:Chorus}
+  {c:Outro}
+  ```
 
 ## Header
 - **Title**: Include the song title using the `{t: <Song Title>}` directive.
 - **Subtitle/Artist**: Include the artist or band name using the `{st: <Artist Name>}` directive.
 - **Key**: Specify the song's key using the `{key: <Key>}` directive (e.g., `C`, `Am`, `F#m`).
-- **Tempo**: Include the tempo in beats per minute (BPM) using the `{tempo: <Value> BPM}` directive. Source the tempo from reliable references like SongBPM or Musicstax, if available.
+- **Metronome**: Include the tempo in beats per minute (BPM) using the `{metronome: <xxx>}` directive. Source the tempo from reliable references like SongBPM, Musicstax, or Tunebat, if available.
 - **Duration**: Include the song duration in minutes and seconds using the `{duration: <M:SS>}` directive. Source the duration from reliable references like Apple Music or Musicstax for the album version.
 - **Example**:
   ```
   {t: Song Title}
   {st: Artist Name}
   {key: C}
-  {tempo: 120 BPM}
+  {metronome: 120}
   {duration: 3:45}
   ```
 
@@ -33,7 +47,7 @@ These guidelines outline the preferred ChordPro format for structuring and prese
 - **Alignment**: Ensure chords are placed directly above the word or syllable where the chord change occurs for clarity.
 
 ## Lyrics
-- **Line Length**: Keep lyrics in longer lines, combining phrases where appropriate to reflect the natural flow of the song (e.g., "Just a small town girl livin' in a lonely world" as a single line).
+- **Line Length**: Keep lyrics in longer lines, combining phrases where appropriate to reflect the natural flow of the song (e.g., "Just a small town girl livin' in a lonely world" as a single line), unless explicitly instructed to preserve original line breaks.
 - **Preserve Stylistic Elements**: Retain stylistic elements, typos, or unique phrasing exactly as provided (e.g., "oooon", "al__ways", "ya'll", "four whell").
 - **Punctuation and Spacing**: Preserve all punctuation, spacing, and capitalization as provided in the input.
 
@@ -80,8 +94,14 @@ Below is an example of a formatted song in the preferred ChordPro format:
 {t: Sample Song}
 {st: Sample Artist}
 {key: G}
-{tempo: 120 BPM}
+{metronome: 120}
 {duration: 3:30}
+
+{c:Intro}
+{c:Verse 1}
+{c:Chorus}
+{c:Solo}
+{c:Outro}
 
 {sop: Intro}
 [G] [C] [D]
@@ -124,10 +144,12 @@ Till the end of time
 ```
 
 ## Notes
-- Always source tempo and duration from reliable references (e.g., SongBPM, Musicstax, Apple Music) for accuracy.
-- If no tempo or duration is available, note this in the response outside the artifact, but still include the `{tempo:}` and `{duration:}` directives with placeholders or estimates, if instructed.
+- Always source metronome (tempo) and duration from reliable references (e.g., SongBPM, Musicstax, Tunebat, Apple Music) for accuracy.
+- If no metronome or duration is available, note this in the response outside the artifact, but still include the `{metronome:}` and `{duration:}` directives with placeholders or estimates, if instructed.
 - For instrumental sections like solos or intros, use `- - -` to indicate measures without lyrics, ensuring no use of `|`.
 - Ensure chord alignment enhances readability, especially for longer lyric lines or complex progressions.
 - If updating a previous song, preserve the original artifact ID and update only the specified sections, keeping unchanged content intact.
+- When reformatting songs with interleaved chords, extract chords to place above each lyric line, preserving original line breaks if explicitly requested.
+- The synopsis must include every section as it appears in the song, in order, using the exact section names provided.
 
 These guidelines ensure a consistent and professional ChordPro format tailored to your preferences, suitable for both performance and archival purposes.
