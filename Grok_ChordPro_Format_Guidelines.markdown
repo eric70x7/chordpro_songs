@@ -1,18 +1,17 @@
-
 # ChordPro Format Guidelines
 
 These guidelines outline the preferred ChordPro format for structuring and presenting song chord sheets, based on specific formatting preferences. The format is designed to be clear, consistent, and compatible with standard ChordPro conventions, with details for a song structure synopsis, metronome (tempo), duration, and section handling.
 
 ## Synopsis
 - **Placement**: Include a synopsis at the top of the file, after the header but before the first section, using ChordPro comments (`{c:XXXXX}`).
-- **Content**: List each section of the song in the order they appear, with one comment per section, using the exact section names as provided (e.g., `{c:Intro}`, `{c:Verse 1}`, `{c:Chorus}`, `{c:Break}`, `{c:Solo}`, `{c:Outro}`, `{c:Fade Out}`).
+- **Content**: List each section of the song in the order they appear, with one comment per section, using the exact section names as provided (e.g., `{c:Intro}`, `{c:Verse 1}`, `{c:Chorus}`, `{c:Break}`, `{c:Solo}`, `{c:Outro}`, `{c:Fade Out}`). For sections with lyrics, place the first line of lyrics on the same line as the comment, after the closing curly brace, separated by a space (e.g., `{c:Verse 1} I got my first real sixstring`). For sections without lyrics (e.g., Intro, Break, or purely instrumental Solos), include only the section name in the comment (e.g., `{c:Intro}`).
 - **Example**:
   ```
   {c:Intro}
-  {c:Verse 1}
-  {c:Chorus}
-  {c:Verse 2}
-  {c:Chorus}
+  {c:Verse 1} First line of verse
+  {c:Chorus} First line of chorus
+  {c:Verse 2} First line of second verse
+  {c:Chorus} First line of chorus
   {c:Outro}
   ```
 
@@ -75,81 +74,4 @@ These guidelines outline the preferred ChordPro format for structuring and prese
   - Include chords and any lyrical or spoken content.
 - **Outro/Fade Out**:
   - Label as `{sop: Outro}/{eop}` and `{sop: Fade Out}/{eop}` if a fade-out is specified.
-  - Include chords and lyrics, preserving fade-out indication if provided.
-- **Main Theme**:
-  - Label as `{sop: Main Theme}/{eop}` for recurring instrumental or thematic sections.
-  - Include chords only, unless lyrics are provided.
-
-## General Formatting
-- **Content Type**: Use `text/plain` for ChordPro files.
-- **Artifact ID**: Assign a unique UUID for each new song (e.g., `4b9d2e7c-5f8a-4e6b-a3f9-2j0f4h1c3g6j`). Use the same artifact ID for updates to a previous song, if applicable.
-- **File Naming**: Use the song title followed by the artist in the title attribute (e.g., `title="Song Title - Artist Name"`).
-- **No Nesting**: Do not nest `<xaiArtifact>` tags or mention them outside the tag content.
-- **Preserve Source**: Maintain all lyrics, chords, and section labels exactly as provided, including any errors or stylistic choices, unless explicitly instructed to correct.
-
-## Example
-Below is an example of a formatted song in the preferred ChordPro format:
-
-```
-{t: Sample Song}
-{st: Sample Artist}
-{key: G}
-{metronome: 120}
-{duration: 3:30}
-
-{c:Intro}
-{c:Verse 1}
-{c:Chorus}
-{c:Solo}
-{c:Outro}
-
-{sop: Intro}
-[G] [C] [D]
-- - -
-{eop}
-
-{sop: Verse 1}
-[G]       [C]
-I walk down the road alone
-[D]
-Trying to find my way
-[G]       [C]
-With a heart that's made of stone
-[D]
-I face another day
-{eop}
-
-{soc}
-[G]
-This is the chorus line
-[C]       [D]
-Singing loud and clear
-[G]
-Never gonna give up trying
-[C]       [D]
-I'll be forever here
-{eoc}
-
-{sop: Solo}
-[G] [C] [D]
-- - -
-{eop}
-
-{sop: Outro}
-[G]       [C]
-Keep on moving forward
-[D]
-Till the end of time
-{eop}
-```
-
-## Notes
-- Always source metronome (tempo) and duration from reliable references (e.g., SongBPM, Musicstax, Tunebat, Apple Music) for accuracy.
-- If no metronome or duration is available, note this in the response outside the artifact, but still include the `{metronome:}` and `{duration:}` directives with placeholders or estimates, if instructed.
-- For instrumental sections like solos or intros, use `- - -` to indicate measures without lyrics, ensuring no use of `|`.
-- Ensure chord alignment enhances readability, especially for longer lyric lines or complex progressions.
-- If updating a previous song, preserve the original artifact ID and update only the specified sections, keeping unchanged content intact.
-- When reformatting songs with interleaved chords, extract chords to place above each lyric line, preserving original line breaks if explicitly requested.
-- The synopsis must include every section as it appears in the song, in order, using the exact section names provided.
-
-These guidelines ensure a consistent and professional ChordPro format tailored to your preferences, suitable for both performance and archival purposes.
+  - Include chords and lyrics, preserving fade-out indication
