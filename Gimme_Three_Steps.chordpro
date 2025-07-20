@@ -1,11 +1,18 @@
 {t: Gimme Three Steps}
 {st: Lynyrd Skynyrd}
-{duration: 4:30}
-{metronome: 134}
 {key: D}
+{metronome: 134}
+{duration: 4:30}
+{tag: Eric Sings}
 
-{c:Key}
-[D]
+{c:Verse 1} I was cutting the rug Down at a place called The Jug
+{c:Bridge 1}
+{c:Verse 2} I was scared and fearing for my life
+{c:Chorus} Oh, won't you give me three steps Gimme three steps mister
+{c:Solo}
+{c:Verse 3} Well the crowd cleared away And I began to pray
+{c:Chorus} Oh, won't you give me three steps Gimme three steps mister
+{c:Outro}
 
 {sop: Verse 1}
 [D]
@@ -29,6 +36,7 @@ And this might be all for you
 {sop: Bridge 1}
 [D] [A] [D] [A]
 [D]
+- - -
 {eop}
 
 {sop: Verse 2}
@@ -104,5 +112,5 @@ Show me the back door
 [A] [D] [G] [E]
 [D] [A] [D] [D]
 [A] [D] [E] [A]
+- - -
 {eop}
-{tag: Eric Sings}

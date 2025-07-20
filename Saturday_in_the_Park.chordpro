@@ -1,6 +1,23 @@
 {t: Saturday in the Park}
 {st: Chicago}
 {key: C}
+{metronome: 114}
+{duration: 3:55}
+{tag: Whiskey Lizard}
+
+{c:Intro}
+{c:Verse 1} Saturday in the park
+{c:Pre-Chorus} People dancing, people laughing
+{c:Chorus} Eh cumpari, ci vo sunari
+{c:Verse 2} Another day in the park
+{c:Pre-Chorus} People talking, really smiling
+{c:Chorus} Will you help him change the world
+{c:Bridge 1} Slow motion riders fly the colours of the day
+{c:Bridge 2}
+{c:Verse 3} Forty days in the park
+{c:Pre-Chorus} People reaching, people touching
+{c:Chorus} If we want it, really want it
+{c:Outro} And I've been waiting such a long time
 
 {sop: Intro}
 {c: G shape C chord walk down}
@@ -10,11 +27,11 @@
 {sop: Verse 1}
 [Am7]      [D]
 Saturday in the park
-[F/G]                            [C]
+[F/G]                [C]
 I think it was the Fourth of July
 [Am7]      [D]
-Saturday in the park
-[F/G]                            [C]
+Another day in the park
+[F/G]                [C]
 I think it was the Fourth of July
 {eop}
 
@@ -29,25 +46,26 @@ Singing Italian songs
 
 {soc}
 {c: Hold G on High E}
-[G]                        [F]
+[G]                 [F]
 Eh cumpari, ci vo sunari
-[C]                        [G]
+[C]           [G]
 Can you dig it, yes, I can
 [Am7]
 And I've been waiting such a long time
 [D]
 For Saturday
 {eoc}
+
 [G]    [C]
 
 {sop: Verse 2}
-[Am7]        [D]
+[Am7]      [D]
 Another day in the park
-[F/G]                            [C]
+[F/G]                [C]
 I think it was the Fourth of July
-[Am7]        [D]
+[Am7]      [D]
 Another day in the park
-[F/G]                            [C]
+[F/G]                [C]
 I think it was the Fourth of July
 {eop}
 
@@ -62,9 +80,9 @@ Singing for us all
 
 {soc}
 {c: Hold G on High E}
-[G]                        [F]
+[G]                 [F]
 Will you help him change the world
-[C]                        [G]
+[C]           [G]
 Can you dig it, yes, I can
 [Am7]
 And I've been waiting such a long time
@@ -79,28 +97,28 @@ Slow motion riders fly the colours of the day
 A bronze man still can tell stories his own way
 [G]
 Listen children all is not lost, all is not lost
-[G]
 Oh no, no
 {eop}
 
 {sop: Bridge 2}
 [Am7] [D] [F/G] [C]
 [Am7] [D] [F/G] [C]
+- - -
 {eop}
 
 {sop: Verse 3}
-[Am7]        [D]
+[Am7]      [D]
 Forty days in the park
-[F/G]                            [C]
+[F/G]                [C]
 And every day's the Fourth of July
-[Am7]        [D]
+[Am7]      [D]
 Forty days in the park
-[F/G]                           [C]
+[F/G]                [C]
 Every day's the Fourth of July
 {eop}
 
 {sop: Pre-Chorus}
-[Bm7]              [Em]
+[Bm7]             [Em]
 People reaching, people touching
 [DM7]
 A real celebration
@@ -110,9 +128,9 @@ Waiting for us all
 
 {soc}
 {c: Hold G on High E}
-[G]                       [F]
+[G]                 [F]
 If we want it, really want it
-[C]                        [G]
+[C]           [G]
 Can you dig it, yes, I can
 {eoc}
 
@@ -124,5 +142,3 @@ For the day
 [G]    [C]
 Yeah, yeah, yeah
 {eop}
-
-{tag: Whiskey Lizard}

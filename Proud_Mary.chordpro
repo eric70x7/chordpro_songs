@@ -5,17 +5,17 @@
 {duration: 3:08}
 
 {c:Intro}
-{c:Verse 1}
-{c:Chorus}
-{c:Verse 2}
-{c:Chorus}
+{c:Verse 1} Left a good job in the city
+{c:Chorus} Big wheel keep on turning
+{c:Verse 2} Cleaned a lot of plates in Memphis
+{c:Chorus} Big wheel keep on turning
 {c:Break}
-{c:Solo}
+{c:Solo} Rolling rolling rolling on the river
 {c:Break}
-{c:Verse 3}
-{c:Chorus}
-{c:Outro}
-{c:Fade Out}
+{c:Verse 3} If you come down to the river
+{c:Chorus} Big wheel keep on turning
+{c:Outro} Rolling rolling rolling on the river
+{c:Fade Out} Rolling rolling rolling on the river
 
 {sop: Intro}
 [C] [A] [G] [C] [A] [G] [C] [A] [G] [F] [F6] [F] [D]
@@ -25,11 +25,8 @@
 {sop: Verse 1}
 [D]
 Left a good job in the city
-[D]
 Working for The man every night and day
-[D]
 And I never lost one minute of sleeping
-[D]
 Worrying 'bout the way things might have been
 {eop}
 
@@ -45,11 +42,8 @@ Rolling rolling rolling on the river
 {sop: Verse 2}
 [D]
 Cleaned a lot of plates in Memphis
-[D]
 Pumped a lot of 'pane down in New Orleans
-[D]
 But I never saw the good side of the city
-[D]
 Until I hitched a ride on a river boat queen
 {eop}
 
@@ -82,11 +76,8 @@ Rolling rolling rolling on the river
 {sop: Verse 3}
 [D]
 If you come down to the river
-[D]
 Bet you gonna find some people who live
-[D]
 You don't have to worry 'cause you have no money
-[D]
 People on the river are happy to give
 {eop}
 
@@ -107,6 +98,5 @@ Rolling rolling rolling on the river
 {sop: Fade Out}
 [D]
 Rolling rolling rolling on the river
-[D]
 Rolling rolling rolling on the river
 {eop}

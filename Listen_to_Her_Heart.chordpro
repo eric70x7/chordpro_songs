@@ -1,54 +1,88 @@
 {t: Listen to Her Heart}
 {st: Tom Petty}
 {key: A}
+{metronome: 116}
+{duration: 3:03}
+{tag: Eric Sings}
+{tag: Acoustic}
+
+{c:Verse 1} You think you’re gonna take her away
+{c:Chorus 1} She’s gonna listen to her heart
+{c:Verse 2} You want me to think that I’m being used
+{c:Chorus 2} She’s gonna listen to her heart
+{c:Bridge} And you just can’t creep up behind her
+{c:Chorus 3} She’s gonna listen to her heart
 
 {sop: Verse 1}
-[A]You think you’re gonna [Asus2]take her a[A]way
-With your [Asus2]money and your co[A]caine
-Keep thinking that [Asus2]mind is gonna [A]change
-But I know everything is [Asus2]o [A]kay
+[A]           [Asus2]           [A]
+You think you’re gonna take her away
+[Asus2]           [A]
+With your money and your cocaine
+[Asus2]           [A]
+Keep thinking that mind is gonna change
+[Asus2]           [A]
+But I know everything is okay
 {eop}
 
-{sop: Verse 2}
-She’s gonna [G]listen to her [A]heart
-It’s gonna [G]tell her what to [A]do
-She might [E]need a lot of loving
-But she [E7]don’t need [A]you
-{eop}
+{soc}
+[G]           [A]
+She’s gonna listen to her heart
+[G]           [A]
+It’s gonna tell her what to do
+[E]
+She might need a lot of loving
+[E7]           [A]
+But she don’t need you
+{eoc}
 
 {sop: Verse 3}
-[A][A/Asus2][Asus2][Asus2][Asus2/A]
+[A] [A/Asus2] [Asus2] [Asus2] [Asus2/A]
+- - -
 {eop}
 
 {sop: Verse 4}
-[A]You want me to think that [Asus2]I’m being [A]used
-You want [Asus2]her to think it’s [A]over
-You can’t see it doesn’t [Asus2]matter what you [A]do
-Buddy, you don’t even [Asus2]know [A]her
+[A]           [Asus2]           [A]
+You want me to think that I’m being used
+[Asus2]           [A]
+You want her to think it’s over
+[Asus2]           [A]
+You can’t see it doesn’t matter what you do
+[Asus2]           [A]
+Buddy, you don’t even know her
 {eop}
 
-{sop: Verse 5}
-She’s gonna [G]listen to her [A]heart
-It’s gonna [G]tell her what to [A]do
-She might [E]need a lot of loving
-But she [E7]don’t need [A]you
-{eop}
+{soc}
+[G]           [A]
+She’s gonna listen to her heart
+[G]           [A]
+It’s gonna tell her what to do
+[E]
+She might need a lot of loving
+[E7]           [A]
+But she don’t need you
+{eoc}
 
 {sop: Verse 6}
-And [G]you just can’t creep up be[A]hind her
-[G]And you can’t understand that she’s [A]my girl
-She’s [E]my girl
+[G]           [A]
+And you just can’t creep up behind her
+[G]           [A]
+And you can’t understand that she’s my girl
+[E]
+She’s my girl
 {eop}
 
 {sop: Verse 7}
-[A][A/Asus2][Asus2][Asus2][Asus2/A][A][A/Asus2][Asus2][A]
+[A] [A/Asus2] [Asus2] [Asus2] [Asus2/A] [A] [A/Asus2] [Asus2] [A]
+- - -
 {eop}
 
-{sop: Verse 8}
-She’s gonna [G]listen to her [A]heart
-It’s gonna [G]tell her what to [A]do
-She might [E]need a lot of loving
-But she [E7]don’t need [A]you
-{eop}
-{tag: Eric Sings}
-{tag: Acoustic}
+{soc}
+[G]           [A]
+She’s gonna listen to her heart
+[G]           [A]
+It’s gonna tell her what to do
+[E]
+She might need a lot of loving
+[E7]           [A]
+But she don’t need you
+{eoc}

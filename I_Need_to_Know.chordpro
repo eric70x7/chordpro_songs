@@ -1,17 +1,29 @@
 {t: I Need to Know}
 {st: Tom Petty and the Heartbreakers}
 {key: Em}
+{metronome: 150}
+{duration: 2:24}
+
+{c:Intro}
+{c:Verse 1} Well, the talk on the street says you might go solo
+{c:Chorus} I need to know
+{c:Bridge 1} I need to know
+{c:Verse 2} Who would've thought that you'd fall for his line
+{c:Chorus} I need to know
+{c:Bridge 2} I need to know
+{c:Solo} Baby, I need to know
+{c:Chorus} I need to know
+{c:Outro} I need to know
 
 {sop: Intro}
 [Em] [D] [Em]
-- -
+- - -
 {eop}
 
 {sop: Verse 1}
 [Em]          [D]
 Well, the talk on the street says you might go solo
 Good friend of mine saw you leavin' by your back door
-
 {eop}
 
 {soc}

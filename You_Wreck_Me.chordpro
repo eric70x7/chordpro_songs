@@ -1,70 +1,110 @@
 {t: You Wreck Me}
+{st: Tom Petty}
 {ipodid: 6175295615369468615}
-{artist: Tom Petty}
 {key: D}
+{metronome: 165}
+{duration: 3:27}
+{tag: Eric Sings}
+{tag: Whiskey Lizard}
+
+{c:Intro}
+{c:Verse 1} Tonight we ride, right or wrong
+{c:Chorus} Oh, yeah
+{c:Verse 2} Now and again I get the feeling
+{c:Chorus} Oh, yeah
+{c:Bridge 1}
+{c:Solo}
+{c:Verse 3} I'll be the boy in the corduroy pants
+{c:Chorus} Oh, yeah
+{c:Outro}
 
 {sop: Intro}
 [D] [A] [E]
+- - -
 {eop}
 
 {sop: Verse 1}
-Tonight we [D]ride, [A]right or [E]wrong
+[D]           [A]           [E]
+Tonight we ride, right or wrong
+[D]           [A]           [E]
 Tonight we sail, on a radio song
-[G]Rescue [D]me, [A]should I go [G]down
-[D]If I stay too [A]long in trouble [E]town
+[G]           [D]           [A]           [G]
+Rescue me, should I go down
+[D]           [A]           [E]
+If I stay too long in trouble town
 {eop}
 
 {soc}
-[G]Oh, [A]yeah
-You [D]wreck [A]me, [E]baby
+[G]     [A]
+Oh, yeah
+[D]           [A]           [E]
+You wreck me, baby
 Yeah, you break me in two
-[D]But you [A]move me, [E]honey
-[D]Yes, [A]you [E]do
+[D]           [A]           [E]
+But you move me, honey
+[D]           [A]           [E]
+Yes, you do
 {eoc}
 
 {sop: Verse 2}
-[D]Now and a[A]gain I get the [E]feeling
+[D]           [A]           [E]
+Now and again I get the feeling
+[D]           [A]           [E]
 Well if I don't win, I'm a going to break even
-[G]Rescue [D]me, [A]should I go [G]wrong
-[D]If I dig too [A]deep, if I stay too [E]long
+[G]           [D]           [A]           [G]
+Rescue me, should I go wrong
+[D]           [A]           [E]
+If I dig too deep, if I stay too long
 {eop}
 
 {soc}
-[G]Oh, [A]yeah
-You [D]wreck [A]me, [E]baby
+[G]     [A]
+Oh, yeah
+[D]           [A]           [E]
+You wreck me, baby
 Yeah, you break me in two
+[D]           [A]           [E]
 But you move me, honey
+[D]           [A]           [E]
 Yes, you do
 {eoc}
 
 {sop: Bridge 1}
 [C] [G] [C] [G] [C] [G] [C] [G]
 [E] [B] [E] [B] [E] [B] [E] [B]
+- - -
 {eop}
 
 {sop: Solo}
-[D] - [A] - [E] 
+[D] - [A] - [E]
+- - -
 {eop}
 
 {sop: Verse 3}
-[D]I'll be the [A]boy in the corduroy [E]pants
-[D]You be the [A]girl at the high school [E]dance
-[G]Run with [D]me, [A]wherever I [G]go
-[D]And just play [A]dumb, whatever you [E]know
+[D]           [A]           [E]
+I'll be the boy in the corduroy pants
+[D]           [A]           [E]
+You be the girl at the high school dance
+[G]           [D]           [A]           [G]
+Run with me, wherever I go
+[D]           [A]           [E]
+And just play dumb, whatever you know
 {eop}
 
 {soc}
-[G]Oh, [A]yeah
-You [D]wreck [A]me, [E]baby
+[G]     [A]
+Oh, yeah
+[D]           [A]           [E]
+You wreck me, baby
 Yeah, you break me in two
+[D]           [A]           [E]
 But you move me, honey
+[D]           [A]           [E]
 Yes, you do
-{eop}
+{eoc}
 
 {sop: Outro}
-[D] [A] [D] [A] [E] [D] [A] [D] [A] [E]
-[D] [A] [D] [A] [E] [D] [A] [D] [A] [E]
+[D] [A] [D] [A] [E]
+[D] [A] [D] [A] [E]
+- - -
 {eop}
-
-{tag: Eric Sings}
-{tag: Whiskey Lizard}

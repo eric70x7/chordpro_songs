@@ -1,42 +1,64 @@
-{title: American Girl}
+{t: American Girl}
+{st: Tom Petty}
 {ipodid: 7182843792945448483}
-{artist: Tom Petty}
+{key: D}
 {metronome: 114}
 {duration: 3:34}
-{key: D}
-
-{sop:Verse 1}
-[D]Well, she was an [E7]American girl
-[G]Raised on [A]promises
-[D]She couldn't help [E7]thinkin' that there was a 
-[G]little more to life [A]somewhere else
-[A]After all it was a [D]great big world
-[G]With lots of places to [Em]run to
-[A]And if she had to die...tryin' she...
-had one more promise she was gonna keep
-{eop}
-
-{soc}
-[G]Oh yeah, [A]all right,
- [D]take it easy, baby, [Bm]make it last all night
-[G]She was [A]an American [D]girl
-{eoc}
-
-{sop:Verse 2}
-[D]Well, it was kinda [E7]cold that night
-[G]She stood alone on the [A]balcony
-[D]Yeah, she could hear the [E7]cars roll by
-[G]Out on 441 like [A]waves crashin' on the beach
-[A]And for one desperate [D]moment there
-[G]He crept back in her [Em]memory
-[A]God it's so painful when something that's so close 
-is still so far out of reach
-{eop}
-
-{soc}
-[G]Oh yeah, [A]all right,
- [D]take it easy, baby, [Bm]make it last all night
-[G]She was [A]an American [D]girl
-{eoc}
-
 {tag: Eric Sings}
+
+{c:Verse 1} Well, she was an American girl
+{c:Chorus} Oh yeah, all right
+{c:Verse 2} Well, it was kinda cold that night
+{c:Chorus} Oh yeah, all right
+
+{sop: Verse 1}
+[D]           [E7]
+Well, she was an American girl
+[G]         [A]
+Raised on promises
+[D]                 [E7]
+She couldn't help thinkin' that there was a
+[G]                    [A]
+little more to life somewhere else
+[A]                [D]
+After all it was a great big world
+[G]                      [Em]
+With lots of places to run to
+[A]
+And if she had to die...tryin' she had one more promise she was gonna keep
+{eop}
+
+{soc}
+[G]         [A]
+Oh yeah, all right
+[D]                      [Bm]
+take it easy, baby, make it last all night
+[G]         [A]          [D]
+She was an American girl
+{eoc}
+
+{sop: Verse 2}
+[D]               [E7]
+Well, it was kinda cold that night
+[G]                        [A]
+She stood alone on the balcony
+[D]                     [E7]
+Yeah, she could hear the cars roll by
+[G]                            [A]
+Out on 441 like waves crashin' on the beach
+[A]                     [D]
+And for one desperate moment there
+[G]                  [Em]
+He crept back in her memory
+[A]
+God it's so painful when something that's so close is still so far out of reach
+{eop}
+
+{soc}
+[G]         [A]
+Oh yeah, all right
+[D]                      [Bm]
+take it easy, baby, make it last all night
+[G]         [A]          [D]
+She was an American girl
+{eoc}
