@@ -1,11 +1,32 @@
 {t: Take It Back}
 {st: Reba McEntire}
 {ipodid: 8898384342880132097}
-{key:D}
+{key: D}
 {metronome: 110}
 {duration: 3:17}
+{tag: Whiskey Lizard}
+
+{c:Intro}
+{c:Verse 1} You talked me into moving in and giving you my keys
+{c:Chorus} If this is how you act when you give your heart away
+{c:Verse 2} You told me I was everything you wanted and more
+{c:Chorus} If this is how you act when you give your heart away
+{c:Instrumental}
+{c:Bridge} Oh, you must think I'm blind and I don't smell your new cologne
+{c:Verse 3} Well, I'm not one for sitting 'round in some ole pity pool
+{c:Chorus} Tonight laying on the street babe, your bag is packed
+{c:Instrumental}
+{c:Bridge} Oh, you must think I'm blind and I don't smell your new cologne
+{c:Verse 4} Well, I'm not one for sitting 'round in some ole pity pool
+{c:Chorus} Tonight laying on the street babe, your bag is packed
+{c:Coda}
+
+{sop: Intro}
 [A] [G] [D]
-[A] [C] [A] [C] [D] [C] 
+[A] [C] [A] [C] [D] [C]
+- - -
+{eop}
+
 {sop: Verse 1}
 [D]
 You talked me into moving in and giving you my keys
@@ -80,13 +101,14 @@ So, take it back, ah take it back
 {eop}
 
 {sop: Bridge}
-[G]                                     [D]
+{G]                                     [D]
 Oh, you must think I'm blind and I don't smell your new cologne
 [E]                                   [A]
 You don't think I notice all the nights I've spent alone
 {eop}
-{c:STOP}
+
 {sop: Verse 4}
+{c:STOP}
 [D]
 Well, I'm not one for sitting 'round in some ole pity pool
 [D7]
@@ -104,10 +126,8 @@ Tonight laying on the street babe, your bag is packed
 So, take it back, ah take it back
 {eoc}
 
-
 {sop: Coda}
 {c: Intro}
 [D] [G] [A] [G] [D]
+- - -
 {eop}
-
-{Whiskey Lizard}

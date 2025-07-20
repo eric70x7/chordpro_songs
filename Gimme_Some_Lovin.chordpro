@@ -3,6 +3,20 @@
 {key: G}
 {metronome: 148}
 {duration: 2:55}
+{tag: Whiskey Lizard}
+
+{c:Intro} Hey!
+{c:Verse 1} Well, my temperature is rising, got my feet on the floor
+{c:Pre-Chorus} And I'm so glad you made it, so glad you made it
+{c:Chorus} You got to gimme some lovin'
+{c:Bridge} Hey!
+{c:Verse 2} Well, I feel so good, everything's getting high
+{c:Pre-Chorus} And I'm so glad you made it, so glad you made it
+{c:Chorus} You got to gimme some lovin'
+{c:Bridge} Yeah!
+{c:Verse 3} Well, I feel so good, everything's getting high
+{c:Pre-Chorus} And I'm so glad you made it, hey, hey so glad you made it
+{c:Chorus} You got to gimme some lovin'
 
 {sop: Intro}
 [G]
@@ -13,11 +27,8 @@ Hey!
 {sop: Verse 1}
 [G]
 Well, my temperature is rising, got my feet on the floor
-[G]
 Crazy people rocking cause they want to go more
-[G]
 Let me in baby, I don't know what you got
-[G]
 But you better take it easy cause this place is hot
 {eop}
 
@@ -29,25 +40,21 @@ And I'm so glad you made it, so glad you made it
 {soc}
 [G]          [C]
 You got to gimme some lovin'
-[G]          [C]
 Gimme some lovin'
-[G]          [C]               [G]
 Gimme some lovin' everyday
 {eoc}
 
 {sop: Bridge}
 [G]
 Hey!
+- - -
 {eop}
 
 {sop: Verse 2}
 [G]
 Well, I feel so good, everything's getting high
-[G]
 You better take it easy cause the place is on fire
-[G]
 Been a hard day and I had no work to do
-[G]
 Wait a minute baby, let it happen to you
 {eop}
 
@@ -59,27 +66,22 @@ And I'm so glad you made it, so glad you made it
 {soc}
 [G]          [C]
 You got to gimme some lovin'
-[G]          [C]
 Gimme some lovin'
-[G]          [C]               [G]
 Gimme some lovin' everyday
 {eoc}
 
 {sop: Bridge}
 [G]
 Yeah!
-[G]
 Hey!
+- - -
 {eop}
 
 {sop: Verse 3}
 [G]
 Well, I feel so good, everything's getting high
-[G]
 You better take it easy cause the place is on fire
-[G]
 Been a hard day nothing went too good
-[G]
 Now I'm gonna relax, buddy everybody should
 {eop}
 
@@ -91,7 +93,6 @@ And I'm so glad you made it, hey, hey so glad you made it
 {soc}
 [G]          [C]
 You got to gimme some lovin'
-[G]          [C]
 Gimme some lovin'
 [G] [C]      [G]    [C]
 Oh oh every night
