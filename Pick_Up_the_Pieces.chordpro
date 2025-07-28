@@ -3,54 +3,50 @@
 {key: Fm}
 {comment: Instrumental}
 
-{sop: Theme A1}
-[Fm7] [Bbsus4] [Fm7]
-- - -
-{eop}
+[Bbsus4 Intro]
+{sot}
+E|--11---
+B|--11---
+G|--10---
+D|-------
+A|-------
+E|-------
+{eot}
 
-{sop: Bridge 1}
-[Fm7]
-{eop}
+{c: Theme A1}
+[Fm7 x 4] 
+[Fm7 x 4] 
+[Bbsus4 x 2] [Fm7 x 2]
+[Fm7 x 2]
 
-{sop: Theme A2}
-[Fm7] [Bb7sus4] [Fm7]
-{eop}
+{c: Theme A1}
+[Fm7 x 4] 
+[Fm7 x 4] 
+[Bbsus4 x 2] [Fm7 x 2]
+[Fm7 x 2]
+[Bbsus4 Intro x 4] [Cm]
 
-{sop: Bridge 2}
-[Fm7]
-{eop}
+[Fm7 x 2] 
 
-{sop: Theme B1}
-[Bb7sus4] [C7#9]
-{eop}
+{c: Theme A1}
+[Fm7 x 4] 
+[Fm7 x 4] 
+[Bbsus4 x 2] [Fm7 x 2]
+[Bbsus4 Intro x 4] [Cm]
 
-{sop: Bridge 3}
-[Fm7]
-{eop}
+{c: SAX SOLO}
+[Bb7sus4 x 4] 
+[Bb7sus4 x 4] 
+[Fm7 x 4] 
 
-{sop: Theme A3}
-[Fm7] [Bb7sus4] [Fm7]
-{eop}
+{c: Theme A1}
+[Fm7 x 4] 
+[Fm7 x 4] 
+[Bbsus4 x 2] [Fm7 x 2]
+[Bbsus4 Intro x 4]
+[Bbsus4 Intro x 4] [Cm]
 
-{sop: Theme B2}
-[Bb7sus4] [C7#9]
-{eop}
-
-{sop: Solo}
-[Bb7sus4] [Fm7]
-- - -
-{eop}
-
-{sop: Theme A1}
-[Fm7] [Bb7sus4] [Fm7]
-{eop}
-
-{sop: Theme B3}
-[Bb7sus4] [C7#9]
-{eop}
-
-{sop: Outro}
-[Fm7]
-{eop}
+{c: Theme A1}
+[Fm7 x 12] 
 
 {tag: Whiskey Lizard}
