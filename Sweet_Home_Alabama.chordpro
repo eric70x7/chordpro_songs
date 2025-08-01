@@ -1,57 +1,89 @@
 {t: Sweet Home Alabama}
+{st: Lynyrd Skynyrd}
 {ipodid: 836242602347649736}
-{artist: Lynyrd Skynyrd}
 {key: G}
+{metronome: 98}
+{duration: 4:43}
+{tag: Acoustic}
+{tag: Whiskey Lizard}
+
+{c:Tempo 98}
+{c:Intro}
+{c:Verse 1} Big wheels keep on turning
+{c:Bridge 1}
+{c:Verse 2} Well I heard Mister Young sing about her
+{c:Chorus} Sweet home Alabama
+{c:Solo}
+{c:Verse 3} In Birmingham they love the Gov'nor, boohoohoo
+{c:Chorus} Sweet home Alabama
+{c:Solo}
+{c:Bridge 2}
+{c:Verse 4} Now Muscle Shoals has got the Swampers
+{c:Chorus} Sweet home Alabama
+{c:Outro}
 
 {sop: Intro}
 [D] [C] [G]
+- - -
 {eop}
 
 {sop: Verse 1}
-Big [D]wheels keep [C]on turning[G]
+[D]          [C]         [G]
+Big wheels keep on turning
 Carry me home to see my kin
 Singing songs about the south-land
-{soh}I miss 'ole' 'bamy once again and I think it's a sin{eoh}
+[D]          [C]                   [G]
+I miss 'ole' 'bamy once again and I think it's a sin
 {eop}
 
 {sop: Bridge 1}
 [D] [C] [G] [D] [C] [G]
+- - -
 {eop}
 
 {sop: Verse 2}
-Well I [D]heard Mister [C]Young sing a[G]bout her
-Well I [D]heard ole [C]Neil put her down
-Well, I [D]hope Neil [C]Young will re[G]member
-{soh}A [D]southern [C]man don't need him a[G]round anyhow{eoh}
+[D]          [C]           [G]
+Well I heard Mister Young sing about her
+Well I heard ole Neil put her down
+Well, I hope Neil Young will remember
+A southern man don't need him around anyhow
 {eop}
 
-{sop: Chorus 1}
-Sweet [D]home [C]Ala[G]bama
-Where [D]the skies [C]are so blue
-Sweet [D]home [C]Ala[G]bama
-Lord, [D]I'm coming [C]home to [G]you [F] [C]
-{eop}
+{soc}
+[D]      [C]     [G]
+Sweet home Alabama
+Where the skies are so blue
+Sweet home Alabama
+[D]          [C]       [G]   [F] [C]
+Lord, I'm coming home to you
+{eoc}
 
 {sop: Solo}
-[D] - [C] - [G]
+{c:Solo 1}
+[D] [C] [G]
 {eop}
 
 {sop: Verse 3}
-In [D]Birmingham they [C]love the [G]Gov'nor, [F]boohoohoo [C]
-Now we [D]all did [C]what we could do
-Now [D]Water[C]gate does not [G]bother me
-{soh}Does [D]your con[C]science bother [G]you, tell me true{eoh}
+[D]            [C]            [G]         [F] [C]
+In Birmingham they love the Gov'nor, boohoohoo
+[D]       [C]         [G]
+Now we all did what we could do
+Now Watergate does not bother me
+Does your conscience bother you, tell me true
 {eop}
 
-{sop: Chorus 2}
-Sweet [D]home [C]Ala[G]bama
-Where [D]the skies [C]are so blue
-Sweet [D]home [C]Ala[G]bama
-Lord, [D]I'm coming [C]home to [G]you, here I [F]come [C]
-{eop}
+{soc}
+[D]      [C]     [G]
+Sweet home Alabama
+Where the skies are so blue
+Sweet home Alabama
+[D]          [C]       [G]         [F] [C]
+Lord, I'm coming home to you, here I come
+{eoc}
 
 {sop: Solo}
-[D] - [C] - [G] 
+{c:Solo 2}
+[D] [C] [G]
 {eop}
 
 {sop: Bridge 2}
@@ -59,31 +91,27 @@ Lord, [D]I'm coming [C]home to [G]you, here I [F]come [C]
 {eop}
 
 {sop: Verse 4}
-Now [D]Muscle [C]Shoals has got the [G]Swampers
-And [D]they've been [C]known to pick a song or two
-Lord [D]they [C]get me off so [G]much
-{soh}They [D]pick me [C]up when I'm feeling [G]blue{eoh}, now how 'bout you?
+[D]         [C]            [G]
+Now Muscle Shoals has got the Swampers
+And they've been known to pick a song or two
+Lord they get me off so much
+They pick me up when I'm feeling blue, now how 'bout you?
 {eop}
 
-{sop: Chorus 3}
-Sweet [D]home [C]Ala[G]bama
-Where [D]the skies [C]are so blue
-[F]Sweet [C]home [D]Ala[C]ba[G]ma
-Lord, [D]I'm coming [C]home to [G]you [F/C] [C]
-Sweet [D]home [C]Ala[G]bama, oh sweet home
-Where [D]the skies [C]are so blue [G]and the governor's true
-Sweet [D]home [C]Ala[G]bama
-Lord, [D]I'm coming [C]home to [G]you
-{eop}
-
-{sop: Outro}
-[D] [C] [G] [D] [C] [G]
-[D] [C] [G]
-{eop}
+{soc}
+[D]      [C]     [G]
+Sweet home Alabama
+Where the skies are so blue
+Sweet home Alabama
+Lord, I'm coming home to you
+Sweet home Alabama, oh sweet home
+Where the skies are so blue and the governor's true
+Sweet home Alabama
+Lord, I'm coming home to you
+{eoc}
 
 {sop: Outro}
 [D] [C] [G] [D] [C] [G]
 [D] [C] [G]
+- - -
 {eop}
-{tag: Acoustic}
-{tag: Whiskey Lizard}
