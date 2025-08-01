@@ -1,14 +1,26 @@
 {t: Surrender}
 {st: Cheap Trick}
 {ipodid: 6175295615369465104}
+{key: B}
 {metronome: 134}
 {duration: 4:14}
-{key:B}
+{tag: Whiskey Lizard}
 
-{c:Verse Chorus}
-{c:Verse Chorus}
-{c:Key Up}
-{c:Verse Chorus}
+{c:Tempo 134}
+{c:Intro}
+{c:Verse 1} Mother told me, yes, she told me
+{c:Pre-Chorus} Just the other day
+{c:Chorus} Mommy's alright, Daddy's alright
+{c:Bridge 1}
+{c:Verse 2} Father says your mother's right
+{c:Pre-Chorus} Now, I had heard the WACs
+{c:Chorus} Mommy's alright, Daddy's alright
+{c:Bridge 2}
+{c:Verse 3} Whatever happened to all
+{c:Pre-Chorus} When I woke up
+{c:Chorus} Mommy's alright, Daddy's alright
+{c:Bridge 3}
+{c:Outro} But don't give yourself away
 
 {sop: Intro}
 [G#] [A#] [G#] [A#]
@@ -54,6 +66,7 @@ Ay, ay, ay
 
 {sop: Bridge 1}
 [A] [B] [A] [B]
+- - -
 {eop}
 
 {sop: Verse 2}
@@ -95,6 +108,7 @@ Ay, ay, aaay
 
 {sop: Bridge 2}
 [A] [B] [A] [B]
+- - -
 {eop}
 
 {sop: Verse 3}
@@ -167,5 +181,3 @@ Surrender, surrender
 But don't give yourself away
 [C] [C/A] [C/G] [F]
 {eop}
-
-{tag: Whiskey Lizard}

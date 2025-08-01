@@ -1,102 +1,178 @@
 {t: Proud Mary}
-{st: Creedence Clearwater Revival}
+{st: Ike and Tina Turner}
 {key: D}
 {metronome: 121}
-{duration: 3:08}
+{duration: 3:30}
+{tag: Whiskey Lizard}
 
-{c:Intro}
-{c:Verse 1} Left a good job in the city
-{c:Chorus} Big wheel keep on turning
-{c:Verse 2} Cleaned a lot of plates in Memphis
-{c:Chorus} Big wheel keep on turning
-{c:Break}
-{c:Solo} Rolling rolling rolling on the river
-{c:Break}
-{c:Verse 3} If you come down to the river
-{c:Chorus} Big wheel keep on turning
-{c:Outro} Rolling rolling rolling on the river
-{c:Fade Out} Rolling rolling rolling on the river
+{c:Tempo 121}
 
-{sop: Intro}
-[C] [A] [G] [C] [A] [G] [C] [A] [G] [F] [F6] [F] [D]
+{sop: Part 1}
+[D]
 - - -
 {eop}
 
 {sop: Verse 1}
 [D]
-Left a good job in the city
-Working for The man every night and day
+I left a good job in the city
+Working for the man every night and day
 And I never lost one minute of sleeping
-Worrying 'bout the way things might have been
+I was worrying 'bout the way the things might've been
+Big wheel keep on turning
+Proud Mary keep on burning
 {eop}
 
 {soc}
-[A]
-Big wheel keep on turning
-[Bm]
-Proud Mary keep on burning
 [D]
-Rolling rolling rolling on the river
+And we're rolling, rolling
+Rolling on the river
 {eoc}
 
 {sop: Verse 2}
 [D]
-Cleaned a lot of plates in Memphis
-Pumped a lot of 'pane down in New Orleans
-But I never saw the good side of the city
-Until I hitched a ride on a river boat queen
+I left a good job in the city
+Working for the man every night and day
+And I never lost one minute of sleeping
+I was worrying 'bout the way the things might've been
+{eop}
+
+{sop: Pre-Chorus}
+[A]
+Big wheel keep on turning
+[Bm]               [G]
+Proud Mary keep on burning
 {eop}
 
 {soc}
-[A]
-Big wheel keep on turning
-[Bm]
-Proud Mary keep on burning
 [D]
-Rolling rolling rolling on the river
+And we're rolling, rolling yeah
+Rolling on the river
+Rolling on the river
 {eoc}
-
-{sop: Break}
-[C] [A] [G] [C] [A] [G] [C] [A] [G] [F] [F6] [F] [D]
-- - -
-{eop}
-
-{sop: Solo}
-[D] [A] [Bm]
-[D]
-Rolling rolling rolling on the river
-- - -
-{eop}
-
-{sop: Break}
-[C] [A] [G] [C] [A] [G] [C] [A] [G] [F] [F6] [F] [D]
-- - -
-{eop}
 
 {sop: Verse 3}
 [D]
-If you come down to the river
-Bet you gonna find some people who live
-You don't have to worry 'cause you have no money
-People on the river are happy to give
+Cleaned a lot of plates in Memphis
+Pumped a lot of tane down in New Orleans
+But I never saw the good side of the city
+Until I hitched a ride on a riverboat queen
+{eop}
+
+{sop: Pre-Chorus}
+[A]
+You know that big wheel keep on turning
+[Bm]               [G]
+Proud Mary keep on burning
 {eop}
 
 {soc}
+[D]
+And we're rolling, rolling, rolling yeah rolling
+Rolling on the river
+Rolling on the river
+Say we're rolling rolling rolling yeah
+Rolling on the river
+Rolling on the river
+{eoc}
+
+{sop: Verse 4}
+[D] [G]        [D]
+Oh I left a good job in the city
+Working for the man every night and day
+And I never lost one minute of sleeping
+Worrying about the way the things might've been
+{eop}
+
+{sop: Pre-Chorus}
 [A]
 Big wheel keep on turning
-[Bm]
+[Bm]               [G]
 Proud Mary keep on burning
+{eop}
+
+{soc}
 [D]
-Rolling rolling rolling on the river
+Rolling, rolling, rolling on the river
+Say we're rolling, rolling, rolling on the river
+{eoc}
+
+{sop: Post-Chorus}
+[D]
+[C] [A] [C] [A] [C] [A] [G] [F] [G]
+{eop}
+
+{sop: Interlude}
+[D]
+- - -
+{eop}
+
+{sop: Verse 5}
+[D]
+Oh I cleaned a lot of plates in Memphis
+And I pumped a lot of tane down in New Orleans
+But I never saw the good side of the city
+Until I hitched a ride on a riverboat queen
+{eop}
+
+{sop: Pre-Chorus}
+[A]
+Big wheel keep on turning
+[Bm]               [G]
+Proud Mary keep on burning
+{eop}
+
+{soc}
+[D]
+And we're rolling, tell you rolling, we're rolling on the river
+I tell you we're rolling, rolling, rolling on the river
+{eoc}
+
+{sop: Post-Chorus}
+[D]
+[C] [A] [C] [A] [C] [A] [G] [F] [G]
+{eop}
+
+{sop: Interlude}
+[D]
+- - -
+{eop}
+
+{sop: Verse 6}
+[D]
+If you come down to the river
+I bet you gonna find some people who live
+And you don't have to worry if you got no money
+People on the river are happy to give
+{eop}
+
+{sop: Pre-Chorus}
+[A]
+Big wheel keep on turning
+[Bm]               [G]
+Proud Mary keep on burning
+{eop}
+
+{soc}
+[D]
+And we're rolling, tell you rolling, we're rolling on the river
+Tell you we have no time rolling, rolling, rolling on the river
+{eoc}
+
+{sop: Post-Chorus}
+[D]
+[C] [A] [C] [A] [C] [A] [G] [F]
+{eop}
+
+{soc}
+[G]   [D]
+Rolling, rolling, rolling on the river
+Rolling, rolling, rolling on the river
+[D]
+Tell you we're rolling, rolling, rolling on the river
+I tell you we're rolling, rolling, rolling on the river
 {eoc}
 
 {sop: Outro}
-[D]
-Rolling rolling rolling on the river
-{eop}
-
-{sop: Fade Out}
-[D]
-Rolling rolling rolling on the river
-Rolling rolling rolling on the river
+[C] [A] [C] [A] [C] [A] [G] [F] [D]
+- - -
 {eop}

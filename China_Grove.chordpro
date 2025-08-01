@@ -2,6 +2,20 @@
 {st: The Doobie Brothers}
 {ipodid: 330315343343630447}
 {key: E}
+{metronome: 146}
+{duration: 3:15}
+{tag: Whiskey Lizard}
+
+{c:Tempo 146}
+{c:Intro}
+{c:Verse 1} When the sun comes up on a sleepy little town
+{c:Chorus} You're talkin' 'bout China Grove, oh
+{c:Verse 2} Well, the preacher and the teacher, Lord, they're a caution
+{c:Chorus} We're talkin' 'bout China Grove, oh
+{c:Bridge 1} But ev'ry day there's a new thing comin'
+{c:Bridge 2}
+{c:Solo}
+{c:Chorus} Talkin' 'bout China Grove, oh
 
 {sop: Intro}
 [E] [D] [A/C#] [A] [E] [D] [A/C#] [A]
@@ -54,7 +68,7 @@ China Grove
 {eoc}
 
 {sop: Bridge 1}
-[G#m] [B]    
+[G#m] [B]
 [C#m]
 But ev'ry day there's a new thing comin'
 [F#m]                 [C#m]
@@ -76,6 +90,7 @@ They just keep on lookin' to the East
 {sop: Bridge 2}
 [E] [D] [A/C#] [A] [E] [D] [A/C#] [A]
 [E]
+- - -
 {eop}
 
 {sop: Solo}
@@ -93,5 +108,3 @@ Talkin' 'bout China Grove, oh
 China Grove
 [D] [A/C#] [E]
 {eoc}
-
-{tag: Whiskey Lizard}

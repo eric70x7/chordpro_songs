@@ -6,21 +6,6 @@
 {duration: 3:17}
 {tag: Whiskey Lizard}
 
-{c:Intro}
-{c:Verse 1} You talked me into moving in and giving you my keys
-{c:Chorus} If this is how you act when you give your heart away
-{c:Verse 2} You told me I was everything you wanted and more
-{c:Chorus} If this is how you act when you give your heart away
-{c:Instrumental}
-{c:Bridge} Oh, you must think I'm blind and I don't smell your new cologne
-{c:Verse 3} Well, I'm not one for sitting 'round in some ole pity pool
-{c:Chorus} Tonight laying on the street babe, your bag is packed
-{c:Instrumental}
-{c:Bridge} Oh, you must think I'm blind and I don't smell your new cologne
-{c:Verse 4} Well, I'm not one for sitting 'round in some ole pity pool
-{c:Chorus} Tonight laying on the street babe, your bag is packed
-{c:Coda}
-
 {sop: Intro}
 [A] [G] [D]
 [A] [C] [A] [C] [D] [C]
@@ -64,7 +49,7 @@ Well, take it back, take it back
 {eoc}
 
 {sop: Instrumental}
-{c: SOLO}
+{c: GUITAR SOLO}
 [D] [D7] [G] [D] [G] [A] [D]
 - - -
 {eop}
