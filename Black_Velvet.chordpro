@@ -1,13 +1,29 @@
 {t: Black Velvet}
 {st: Alannah Myles}
 {ipodid: 6175295615369468493}
-{key:Dm}
+{key: Dm}
+{metronome: 91}
+{duration: 4:47}
+{tag: Whiskey Lizard}
+
+{c:Tempo 91}
+{c:Intro}
+{c:Verse 1} Mississippi in the middle of a dry spell
+{c:Pre-Chorus} The boy could sing, knew how to move, everything
+{c:Chorus} Black velvet and that little boy's smile
+{c:Verse 2} Up in Memphis the music's like a heatwave
+{c:Pre-Chorus} The way he moved, it was a sin, so sweet and true
+{c:Chorus} Black velvet and that little boy's smile
+{c:Bridge 1} Every word of every song that he sang was for you, hoo oo hoo hoo
+{c:Solo}
+{c:Chorus} Black velvet and that little boy's smile
+{c:Outro} If you please, if you please, if you please
 
 {sop: Intro}
 [Dm]
 Mmm
 Mmm Mmm
-- -
+- - -
 {eop}
 
 {sop: Verse 1}
@@ -77,11 +93,11 @@ In a flash he was gone, it happened so soon, what could you do?
 {soc}
 [Gm]                      [Csus4]            [C]
 Black velvet and that little boy's smile
-[Gm]                       [Eb]             [Bb]
+[Gm] Eighteenth [Eb]             [Bb]
 Black velvet with that slow southern style
 [Gm]                        [Csus4]           [C]
 A new religion that'll bring ya to your knees
-[Bb7]         [A7] [Dm]
+[Bb7]         [A7]        [Dm]
 Black velvet if you please
 [Gm]                      [Csus4]            [C]
 Black velvet and that little boy's smile
@@ -89,7 +105,7 @@ Black velvet and that little boy's smile
 Black velvet with that slow southern style
 [Gm]                        [Csus4]           [C]
 A new religion that'll bring ya to your knees
-[Bb7]         [A7]   [Dm]
+[Bb7]         [A7]        [Dm]
 Black velvet if you please
 {eoc}
 
@@ -97,5 +113,3 @@ Black velvet if you please
 [Dm]
 If you please, if you please, if you please
 {eop}
-
-{tag: Whiskey Lizard}

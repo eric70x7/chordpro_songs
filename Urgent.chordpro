@@ -3,6 +3,9 @@
 {key: Em}
 {metronome: 115}
 {duration: 4:31}
+{tag: Whiskey Lizard}
+
+{c:Tempo 115}
 
 {sop: Intro}
 [Em]
@@ -23,7 +26,6 @@ You want to fly, don't want your feet on the ground
 You stay up, you won't come down
 [Em]
 You want to live, you want to move to the sound
-[Em]
 Got fire in your veins
 [C]
 Burning hot but you don't feel the pain
@@ -31,7 +33,6 @@ Burning hot but you don't feel the pain
 Your desire is insane
 [Em]
 You can't stop until you do it again
-[Em]
 But sometimes I wonder as I look in your eyes
 [C]
 Maybe you're thinking of some other guy
@@ -67,7 +68,6 @@ You're everywhere but you're so hard to find
 You're not warm or sentimental
 [Em]
 You're so extreme, you can be so temperamental
-[Em]
 But I'm not looking for a love that will last
 [C]
 I know what I need and I need it fast
@@ -75,11 +75,11 @@ I know what I need and I need it fast
 Yeah, there's one thing in common that we both share
 [Em]
 That's a need for each other anytime, anywhere
-[Em]    [D]
-It gets so urgent
 {eop}
 
 {soc}
+[Em]    [D]
+It gets so urgent
 [Am] [C]   [Em]    [D]
 So urgent
 [Am] [C]             [Em]  [D]
@@ -99,17 +99,18 @@ It's urgent
 {sop: Bridge}
 [Em] [D] [Am] [C] [Em] [D] [Am] [C]
 [Em] [D] [Am] [C] [Em] [D] [Am] [C]
+- - -
 {eop}
 
 {sop: Solo}
 [Em] [C] [Am] [Em]
 [Em] [C] [Am] [Em]
-[Em]    [D]
-You say it's urgent
 - - -
 {eop}
 
 {soc}
+[Em]    [D]
+You say it's urgent
 [Am] [C]                      [Em]    [D]
 Make it fast, make it urgent
 [Am] [C]                   [Em]    [D]
@@ -140,5 +141,3 @@ Oh oh         oh oh       oh oh
 It's urgent
 [Em] [D] [Am] [C] [Em]
 {eop}
-
-{tag: Whiskey Lizard}

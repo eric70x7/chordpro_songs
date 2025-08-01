@@ -1,12 +1,27 @@
 {t: Vehicle}
 {st: The Ides of March}
 {ipodid: 4092329790592628826}
-{key:Bm}
+{key: Bm}
 {metronome: 102}
 {duration: 2:56}
+{tag: Whiskey Lizard}
+
+{c:Tempo 102}
+{c:Intro}
+{c:Verse 1} I'm a friendly stranger in a black sedan
+{c:Chorus} I'm your vehicle baby
+{c:Verse 2} Well if you want to be a movie star
+{c:Chorus} I'm your vehicle baby
+{c:Bridge}
+{c:Solo}
+{c:Pre-Verse} Well
+{c:Verse 3} I'm a friendly stranger in a black sedan
+{c:Chorus} I'm your vehicle baby
+{c:Bridge} I love ya
 
 {sop: Intro}
 [Em] [Bm]
+- - -
 {eop}
 
 {sop: Verse 1}
@@ -16,7 +31,6 @@ I'm a friendly stranger in a black sedan
 I want you hop inside my car
 [Em]
 I got pictures, got candy
-[Em]
 I'm a loveable man
 [Bm]
 And I can take you to the nearest star
@@ -39,11 +53,13 @@ I need ya
 I want ya
 [B]
 Got to have you child
-[Em]                               [Em]
+[Em]
 Great God in heaven you know I love you
 {eoc}
 
+{sop: Pre-Verse}
 [Em] [Bm]
+{eop}
 
 {sop: Verse 2}
 [Em]
@@ -73,12 +89,13 @@ I need ya
 I want ya
 [B]
 Got to have you child
-[Em]                               [Em]
+[Em]
 Great God in heaven you know I love you
 {eoc}
 
 {sop: Bridge}
 [Bm] [Em] [Bm]
+- - -
 {eop}
 
 {sop: Solo}
@@ -101,7 +118,6 @@ I'm a friendly stranger in a black sedan
 I want you hop inside my car
 [Em]
 I got pictures, got candy
-[Em]
 I'm a loveable man
 [Bm]
 And I can take you to the nearest star
@@ -124,14 +140,16 @@ I need ya
 I want ya
 [B]
 Got to have you child
-[Em]                               [Em]
+[Em]
 Great God in heaven you know I love you
 {eoc}
 
+{sop: Pre-Verse}
 [Em] [Bm] [Em] [Bm]
+{eop}
 
 {sop: Bridge}
-[Em] 
+[Em]
 I love ya
 [B]
 I need ya
@@ -141,7 +159,9 @@ I want ya
 Got to have you child
 [C]             [B]              [Em]         [Bm]
 Great God in heaven you know I love you
-{eoc}
+{eop}
 
+{sop: Outro}
 [Bm] [Bm] [Bm] [Em]
-{tag: Whiskey Lizard}
+- - -
+{eop}

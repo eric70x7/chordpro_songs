@@ -3,6 +3,17 @@
 {key: A}
 {metronome: 110}
 {duration: 4:53}
+{tag: Whiskey Lizard}
+
+{c:Tempo 110}
+{c:Intro}
+{c:Verse 1} I used to spend my nights out in a barroom
+{c:Chorus} You're as smooth as Tennessee whiskey
+{c:Verse 2} I've looked for love in all the same old places
+{c:Chorus} You're as smooth as Tennessee whiskey
+{c:Solo}
+{c:Chorus} You're as smooth as Tennessee whiskey
+{c:Outro} You're as smooth as Tennessee whiskey
 
 {sop: Intro}
 [A] [Bm]
@@ -39,7 +50,7 @@ I've looked for love in all the same old places
 Found the bottom of a bottle always dry
 [Bm]
 But when you poured out your heart I didn't waste it
-[Bm]                                                    [A]
+[Bm]                                                    [A] [D/A] [A]
 'Cause there's nothing like your love to get me high
 {eop}
 
@@ -60,7 +71,7 @@ And honey, I stay stoned on your love all the time
 {eop}
 
 {soc}
-[A] [D/A] [A]          [A]                          [Bm]
+[A] [D/A] [A]          [Bm]
 You're as smooth as Tennessee whiskey
 [Bm]                                  [A] [D/A] [A]
 You're as sweet as strawberry wine
@@ -81,6 +92,6 @@ Tennessee whiskey
 You're as smooth as Tennessee whiskey
 [Bm]
 Tennessee whiskey
-[A]
+[A] [D/A] [A]
 Tennessee whiskey
 {eop}

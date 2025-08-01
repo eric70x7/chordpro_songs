@@ -1,76 +1,131 @@
 {t: Neon Moon}
 {st: Brooks & Dunn}
 {ipodid: 1814883450694426522}
-{key:D}
+{key: A}
+{metronome: 102}
+{duration: 4:21}
+{tag: Whiskey Lizard}
+
+{c:Tempo 102}
+{c:Intro}
+{c:Verse 1} When the sun goes down on my side of town
+{c:Verse 2} And there's a rundown bar across the railroad tracks
+{c:Chorus} If you lose your one and only
+{c:Verse 3} I think of two young lovers running wild and free
+{c:Verse 4} No telling how many tears I've sat here and cried
+{c:Chorus} Oh, if you lose your one and only
+{c:Solo}
+{c:Verse 5} The jukebox plays on drink by drink
+{c:Chorus} Oh, if you lose your one and only
+{c:Fade Out}
+
+{sop: Intro}
+[Asus2]
+- - -
+{eop}
 
 {sop: Verse 1}
-[Dsus2]
-When the sun goes down on my side of town, that lonesome feeling comes to my door
-[G]                 [Dsus2]
+[Asus2]
+When the sun goes down on my side of town
+That lonesome feeling comes to my door
+[D]                 [Asus2]
 And the whole world turns blue
 {eop}
 
 {sop: Verse 2}
-[Dsus2]
-And there's a rundown bar across the railroad tracks, I got a table for two, way in the back
-[G]                          [Dsus2]
+[Asus2]
+And there's a rundown bar across the railroad tracks
+I got a table for two, way in the back
+[D]                          [Asus2]
 Where I sit alone and I think of losing you
-[A]
+[E]
 I spend most every night
-[Dsus2]
+[Asus2]
 Beneath the light of a neon moon
 {eop}
 
 {soc}
-[G]                   [A]
+[D]                   [E]
 If you lose your one and only
-[G]                   [A]
+[D]                   [E]
 There's always room here for the lonely
-[G]                          [A]
+[D]                          [E]
 To watch your broken dreams dance in and out of the beams
-[Dsus2]
+[Asus2]
 Of a neon moon
 {eoc}
 
 {sop: Verse 3}
-[Dsus2]
-I think of two young lovers running wild and free, I close my eyes and sometimes see
-[G]                           [Dsus2]
+[Asus2]
+I think of two young lovers running wild and free
+I close my eyes and sometimes see
+[D]                           [Asus2]
 You in the shadows of that smokefilled room
 {eop}
 
 {sop: Verse 4}
-[Dsus2]
-No telling how many tears I've sat here and cried, or how many lies that I've lied
-[G]
+[Asus2]
+No telling how many tears I've sat here and cried
+Or how many lies that I've lied
+[D]
 Telling my poor heart
-[Dsus2]
+[Asus2]
 She'll come back someday
-[A]                                          [Dsus2]
+[E]                                          [Asus2]
 Oh, but I'll be alright as long as there's light from a neon moon
 {eop}
 
 {soc}
-[G]                   [A]
+[D]                   [E]
 Oh, if you lose your one and only
-[G]                   [A]
+[D]                   [E]
 There's always room here for the lonely
-[G]                          [A]
+[D]                          [E]
 To watch your broken dreams dance in and out of the beams
-[Dsus2]
+[Asus2]
 Of a neon moon
 {eoc}
 
 {sop: Solo}
-{c: Solo}
-[Dsus2] [G] [Dsus2]
+[Asus2] [D] [Asus2]
 - - -
 {eop}
 
 {sop: Verse 5}
-[Dsus2]
-The jukebox plays on drink by drink,
-
+[Asus2]
+The jukebox plays on drink by drink
+And the words of every sad song seem to say what I think
+[D]
+And this hurt inside of me
+[Asus2]
+It ain't never gonna end
+[E]
+Oh, but I'll be alright
+As long as there's light
+[Asus2]
+From a neon moon
 {eop}
 
-{tag: Whiskey Lizard}
+{soc}
+[D]                   [E]
+Oh, if you lose your one and only
+[D]                   [E]
+There's always room here for the lonely
+[D]
+To watch your broken dreams
+[E]                     [Asus2]
+Dance in and out of the beams of a neon moon
+[E]
+To watch your broken dreams
+[Asus2]
+Dance in and out of the beams of a neon moon
+[E]
+Oh, watch your broken dreams
+[Asus2]
+Dance in and out of the beams of a neon moon
+{eoc}
+
+{sop: Fade Out}
+[Asus2]
+- - -
+{eop}
