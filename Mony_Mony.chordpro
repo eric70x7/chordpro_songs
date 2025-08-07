@@ -9,30 +9,6 @@
 {c:Key}
 [F]
 
-{c:Key}
-{c:Verse 1} Here she come now saying, "Mony, Mony"
-{c:Pre-Chorus} You gotta toss and turn and feel alright
-{c:Chorus} 'Cause you make me feel (Like a pony)
-{c:Bass & Drums}
-{c:Verse 2} Well, you could shake it, Mony, Mony
-{c:Pre-Chorus} But don't stop now, come on, Mony
-{c:Chorus} 'Cause you make me feel (Like a pony)
-{c:Drop out}
-{c:Bridge} I love you Mony MoMoMony
-{c:Pre-Chorus} Yeah, yeah, yeah, yeah
-{c:SCRAPE}
-{c:Chorus} Come on
-{c:Drop out}
-{c:Verse 3} Wake it, shake it, Mony Mony
-{c:Pre-Chorus} I said don't stop now, come on, Mony
-{c:Chorus} So good (Like a pony)
-{c:Outro} I wanna ride your pony
-
-{sop: Key}
-[F]
-- - -
-{eop}
-
 {sop: Verse 1}
 [F]                                            [Bb] [F]
 Here she come now saying, "Mony, Mony"
@@ -70,9 +46,7 @@ Yeah
 Yeah, yeah, yeah, yeah
 {eoc}
 
-{sop: Bass & Drums}
-- - -
-{eop}
+{c: Bass & Drums}
 
 {sop: Verse 2}
 [F]                                            [Bb] [F]
@@ -111,9 +85,7 @@ Yeah
 Yeah, yeah, yeah, yeah
 {eoc}
 
-{sop: Drop out}
-- - -
-{eop}
+{c: SCRAPE}
 
 {sop: Bridge}
 [F] [Bb] [F] [Bb]
@@ -127,10 +99,6 @@ Yeah
 {sop: Pre-Chorus}
 [C]
 Yeah, yeah, yeah, yeah
-{eop}
-
-{sop: SCRAPE}
-- - -
 {eop}
 
 {soc}
