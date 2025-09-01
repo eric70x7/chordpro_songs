@@ -3,123 +3,94 @@
 {key: E}
 {metronome: 119}
 {duration: 4:11}
+{ipodid: Unknown}
+{tag: Whiskey Lizard}
+
+{c:Tempo 119}
+{c:Intro}
+{c:Verse 1} Just a small town girl
+{c:Break}
+{c:Verse 2} A singer in a smoky room
+{c:Chorus} Strangers waiting
+{c:Break}
+{c:Verse 3} Working hard to get my fill
+{c:Chorus} Strangers waiting
+{c:Solo}
+{c:Outro} Don't stop believin'
 
 {sop: Intro}
-[E] [B] [C#m7] [A]
-[E] [B] [G#m]
-[A]
-- - -
+[E][B][C#m7][A]
+[E][B][G#m]
+[A] - - -
 {eop}
 
 {sop: Verse 1}
-[E]       [B]
-Just a small town girl
-[C#m7]            [A]
-Livin' in a lonely world
-[E]             [B]                    [G#m]     [A]
-She took the midnight train goin' anywhere
-[E]       [B]
-Just a city boy
-[C#m7]                   [A]
-Born and raised in South Detroit
-[E]            [B]                    [G#m]     [A]
-He took the midnight train goin' anywhere
+[E]Just a small town [B]girl
+[C#m7]Livin' in a lonely [A]world
+[E]She took the midnight [B]train goin' any[G#m]where[A]
+[E]Just a city [B]boy
+[C#m7]Born and raised in South De[A]troit
+[E]He took the midnight [B]train goin' any[G#m]where[A]
 {eop}
 
 {sop: Break}
-[E] [B] [C#m7] [A]
-[E] [B] [G#m] [A]
+[E][B][C#m7][A]
+[E][B][G#m][A]
 {eop}
 
 {sop: Verse 2}
-[E]              [B]
-A singer in a smoky room
-[C#m7]                    [A]
-A smell of wine and cheap perfume
-[E]                     [B]
-For a smile they can share the night
-[G#m]                [A]
-It goes on and on, and on, and oooon
+[E]A singer in a smoky [B]room
+[C#m7]A smell of wine and cheap per[A]fume
+[E]For a smile they can share the [B]night
+[G#m]It goes on and on, and on, and [A]oooon
 {eop}
 
 {soc}
-[A]
-Strangers waiting
-[E]
-Up and down the boulevard
-[A]                         [E]
-Their shadows searching in the night
-[A]
-Streetlights, people
-[E]
-Living just to find emotion
-[A]                            [B] [E] [B] [E] [A]
-Hiding somewhere in the night
+[A]Strangers waiting
+[E]Up and down the boulevard
+[A]Their shadows searching in the [E]night
+[A]Streetlights, people
+[E]Living just to find emotion
+[A]Hiding somewhere in the [B]night[E][B][E][A]
 {eoc}
 
 {sop: Break}
-[E] [B] [C#m7] [A]
+[E][B][C#m7][A]
 {eop}
 
 {sop: Verse 3}
-[E]                [B]
-Working hard to get my fill
-[C#m7]          [A]
-Everybody wants a thrill
-[E]                   [B]
-Payin' anything to roll the dice
-[G#m]          [A]
-Just one more time
-[E]              [B]
-Some will win, some will lose
-[C#m7]                  [A]
-Some were born to sing the blues
-[E]                [B]
-Oh, the movie never ends
-[G#m]                [A]
-It goes on and on, and on, and ooooon
+[E]Working hard to get my [B]fill
+[C#m7]Everybody wants a [A]thrill
+[E]Payin' anything to roll the [B]dice
+[G#m]Just one more [A]time
+[E]Some will win, some will [B]lose
+[C#m7]Some were born to sing the [A]blues
+[E]Oh, the movie never [B]ends
+[G#m]It goes on and on, and on, and [A]oooon
 {eop}
 
 {soc}
-[A]
-Strangers waiting
-[E]
-Up and down the boulevard
-[A]                         [E]
-Their shadows searching in the night
-[A]
-Streetlights, people
-[E]
-Living just to find emotion
-[A]                            [B] [E] [B] [E] [A]
-Hiding somewhere in the night
+[A]Strangers waiting
+[E]Up and down the boulevard
+[A]Their shadows searching in the [E]night
+[A]Streetlights, people
+[E]Living just to find emotion
+[A]Hiding somewhere in the [B]night[E][B][E][A]
 {eoc}
 
 {sop: Solo}
-[E] [B] [C#m7] [A]
-[E] [B] [G#m] [A]
-- - -
+[E][B][C#m7][A]
+[E][B][G#m][A] - - -
 {eop}
 
 {sop: Outro}
-[E]            [B]
-Don't stop believin'
-[C#m7]               [A]
-Hold on to the feelin'
-[E]             [B]
-Streetlights, people
-[G#m] [A] [E]            [B]
-Don't stop believin'
-[C#m7]       [A]
-Hold on
-[E]             [B]     [G#m] [A]
-Streetlights, people
-[E]            [B]
-Don't stop believin'
-[C#m7]                [A]
-Hold on to the feelin'
-[E]             [B]     [G#m] [A]
-Streetlights, people
+[E]Don't stop be[B]lievin'
+[C#m7]Hold on to the [A]feelin'
+[E]Streetlights, [B]people
+[G#m][A][E]Don't stop be[B]lievin'
+[C#m7]Hold [A]on
+[E]Streetlights, [B]people[G#m][A]
+[E]Don't stop be[B]lievin'
+[C#m7]Hold on to the [A]feelin'
+[E]Streetlights, [B]people[G#m][A]
 {eop}
-
-{tag: Whiskey Lizard}
