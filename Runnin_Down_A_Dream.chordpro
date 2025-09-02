@@ -17,11 +17,15 @@
 {c:Interlude}
 {c:Solo}
 
+{c:Intro lick x 4}
+
 {sop: Verse 1}
          [E]
 It was a beautiful day, the sun beat down
           [D]                 [E]
 I had the radio on, I was drivin'
+
+{c:Intro lick x 1}
 Trees flew by, me and Del were singin'
        [D]               [E]
 Little Runaway I was flyin'
@@ -38,11 +42,14 @@ Workin' on a mystery, goin' wherever it leads
 Runnin' down a dream
 {eoc}
 
+{c:Intro lick x 1}
+
 {sop: Verse 2}
   [E]
 I felt so good like anything was possible
       [D]                               [E]
 I hit cruise control and rubbed my eyes
+{c:Intro lick x 1}
 The last three days the rain was unstoppable
        [D]                 [E]
 It was always cold, no sunshine
@@ -59,8 +66,9 @@ Workin' on a mystery, goin' wherever it leads
 Runnin' down a dream
 Oooo
 {eoc}
+{c:Intro lick x 2 then under bridge chords}
 
-{sop: Interlude}
+{sop: Bridge}
 [Cmaj7] - [Dsus2] - [E] -
      Oooo     Oooo
     [Cmaj7] - [Dsus2] -
@@ -72,6 +80,7 @@ Oooo     Oooo     Oooo
 I rolled on as the sky grew dark
           [D]                      [E]
 I put the pedal down to make some time
+{c:Intro lick x 1}
 There's something good waitin' down this road
     [D]                    [E]
 I'm pickin' up whatever's mine
@@ -86,6 +95,7 @@ That never would come to me
 Workin' on a mystery, goin' wherever it leads
 [A]      [G]     [E]
 Runnin' down a dream
+{c:Intro lick x 1}
 [E]    [D]      [G]     [E]
  Yeah runnin' down a dream
      [E]          [G]      [A]
@@ -104,19 +114,11 @@ Oooo
  Oooo
 {eop}
 
+{c:Intro lick x 3 then under }
+
 {sop: Solo}
 [Cmaj7] - [Dsus2] - [E] -
      Oooo     Oooo
 [E] - [Cmaj7] - [Dsus2] - [E] -
- Oooo     Oooo     Oooo
-[E] - [Cmaj7] - [Dsus2] - [E] -
- Oooo     Oooo     Oooo
-[E] - [Cmaj7] - [Dsus2] - [E] -
- Oooo     Oooo     Oooo
-[E] - [Cmaj7] - [Dsus2] - [E] -
- Oooo     Oooo     Oooo
-[E] - [Cmaj7] - [Dsus2] - [E] -
- Oooo     Oooo     Oooo
-[E] - [Cmaj7] - [Dsus2] -
  Oooo     Oooo     Oooo
 {eop}
