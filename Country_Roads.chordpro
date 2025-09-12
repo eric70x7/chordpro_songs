@@ -1,0 +1,110 @@
+{t: Country Roads}
+{st: John Denver}
+{key: A}
+{metronome: 82}
+{duration: 3:10}
+{tag: KAB}
+
+{c:Tempo 82}
+{c:Intro}
+{c:Verse 1} Almost heaven, West Virginia
+{c:Chorus} Country roads, take me home
+{c:Verse 2} All my memories, gather round her
+{c:Chorus} Country roads, take me home
+{c:Bridge} I hear her voice in the morning hour she calls me
+{c:Chorus} Country roads, take me home
+{c:Outro}
+
+{sop: Intro}
+[A]
+- - -
+{eop}
+
+{sop: Verse 1}
+[A]              [F#m]
+Almost heaven, West Virginia
+[E]                      [D]          [A]
+Blue ridge mountains, Shenandoah river
+[A]                   [F#m]
+Life is old there, older than the trees
+[E]                           [D]                    [A]
+Younger than the mountains, blowing like a breeze
+{eop}
+
+{soc}
+[A]                           [E]
+Country roads, take me home
+[F#m]        [D]
+To the place I belong
+[A]
+West Virginia
+[E]               [D]
+Mountain mamma, take me home
+[A]
+Country roads
+{eoc}
+
+{sop: Verse 2}
+[A]                [F#m]
+All my memories, gather round her
+[E]              [D]                [A]
+Miner's lady, stranger to blue water
+[A]                [F#m]
+Dark and dusty, painted on the sky
+[E]                         [D]              [A]
+Misty taste of moonshine, teardrop in my eye
+{eop}
+
+{soc}
+[A]                           [E]
+Country roads, take me home
+[F#m]        [D]
+To the place I belong
+[A]
+West Virginia
+[E]               [D]
+Mountain mamma, take me home
+[A]
+Country roads
+{eoc}
+
+{sop: Bridge}
+[F#m]                [E]          [A]
+I hear her voice in the morning hour she calls me
+[D]            [A]         [E]
+Radio reminds me of my home far away
+[F#m]                  [G]        [D]
+Driving down the road I get a feeling
+[A]                     [E]                   [E7]
+That I should have been home yesterday, yesterday
+{eop}
+
+{soc}
+[A]            [E]
+Country roads, take me home
+[F#m]        [D]
+To the place I belong
+[A]
+West Virginia
+[E]               [D]
+Mountain mamma, take me home
+[A]
+Country roads
+[A]            [E]
+Country roads, take me home
+[F#m]        [D]
+To the place I belong
+[A]
+West Virginia
+[E]               [D]
+Mountain mamma, take me home
+[A]
+Country roads
+{eoc}
+
+{sop: Outro}
+[E]                  [A]
+Take me home, down country roads
+[E]                  [A]
+Take me home, down country roads
+{eop}
