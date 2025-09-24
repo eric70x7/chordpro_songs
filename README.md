@@ -1,15 +1,12 @@
-# chordpro_songs
-
 # Preferred ChordPro Format Settings
 
 - **Header**:
   - `{t: <Song Title>}`: Song title.
   - `{st: <Artist Name>}`: Artist name.
   - `{key: <Key>}`: Key of the song (e.g., G, Dm).
-  - `{metronome: xxx}`: Tempo in beats per minute (BPM).
-  - `{duration: m:ss}`: Song duration in minutes and seconds.
-  - `{ipodid: <ID>}`: Custom metadata, included if provided.
-  - `{tag: Whiskey Lizard}`: Custom tag, included if provided or for consistency with previous submissions.
+  - `{metronome: <XXX>}`: Tempo in beats per minute (BPM).
+  - `{duration: <M:SS>}`: Song duration in minutes and seconds.
+  - `{ipodid: <ID>}`: Custom metadata, included only if explicitly provided in the input.
 
 - **Synopsis**:
   - Placed at the top, before song sections.
@@ -31,5 +28,5 @@
 - **Additional Notes**:
   - Content type is `text/plain` for ChordPro files.
   - Sections are labeled as provided (e.g., `{c: SAX SOLO}`, `{c:STOP}`), with interpretation based on content if ambiguous (e.g., `{c: Verse Chorus}` as Verse or Chorus).
-  - If no `{ipodid}` or `{tag: Whiskey Lizard}` is provided, `{tag: Whiskey Lizard}` may be included for consistency with previous submissions unless specified otherwise.
-  - Key, metronome, and duration are sourced from the input or verified via external sources (e.g., SongBPM, Musicstax, Apple Music) if not provided.
+  - The `{tag: Whiskey Lizard}` is **not** included unless explicitly specified in the input.
+  - Key, metronome, and duration are sourced from the input or estimated/verified via external sources (e.g., SongBPM, Musicstax, Apple Music) if not provided.

@@ -3,7 +3,7 @@
 {key: G}
 {metronome: 96}
 {duration: 2:25}
-{tag: Whiskey Lizard}
+
 
 {c:Tempo 96}
 {c:Intro}
@@ -131,3 +131,4 @@ Big hands, I know you're the one
 [C] [G]
 - - -
 {eop}
+{tag: KAB}

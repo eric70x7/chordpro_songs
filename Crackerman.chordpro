@@ -3,7 +3,7 @@
 {key: F#}
 {metronome: 136}
 {duration: 3:14}
-{tag: Whiskey Lizard}
+
 
 {c:Tempo 136}
 {c:Intro}
@@ -120,3 +120,4 @@ I'm aroaming
 I'm aroaming
 I'm aroaming
 {eop}
+{tag: KAB}

@@ -3,7 +3,7 @@
 {key: D}
 {metronome: 126}
 {duration: 4:34}
-{tag: Whiskey Lizard}
+
 
 {c:Tempo 126}
 {c:Intro}
@@ -136,3 +136,4 @@ Ooo, your face is a mess
 Ooo, so how could they know?
 How could they know?
 {eop}
+{tag: KAB}

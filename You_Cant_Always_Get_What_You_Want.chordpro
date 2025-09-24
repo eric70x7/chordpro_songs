@@ -3,7 +3,7 @@
 {key: E}
 {metronome: 86}
 {duration: 7:28}
-{tag: Whiskey Lizard}
+
 
 {c:Tempo 86}
 {c:Intro (Choir)}
@@ -162,3 +162,4 @@ You get what you need
 [E] [Aadd9/C#] [E]
 - - -
 {eop}
+{tag: KAB}
