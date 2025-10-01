@@ -4,7 +4,7 @@
 {metronome: 96}
 {duration: 3:08}
 {ipodid: 12345}
-{tag: Whiskey Lizard}
+
 
 {c:Tempo 96}
 {c:Intro}
@@ -164,3 +164,4 @@ For one of them girls
             [C#m]     [A]
 Hmm, one of them girls
 {eop}
+{tag: On Deck}
