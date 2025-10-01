@@ -1,6 +1,23 @@
 {t: Stop Draggin' My Heart Around}
 {st: Stevie Nicks and Tom Petty}
-{key: A}
+{key: E}
+{metronome: 107}
+{duration: 4:04}
+{tag: Whiskey Lizard}
+
+{c:Tempo 107}
+{c:Intro}
+{c:Verse 1} Baby, you'll come knocking on my front door
+{c:Chorus} So you've had a little trouble in town
+{c:Bridge 1}
+{c:Verse 2} It's hard to think about what you've wanted
+{c:Chorus} Baby, you could never look me in the eye
+{c:Bridge 2}
+{c:Bridge 3}
+{c:Bridge 4}
+{c:Verse 3} People running 'round loose in the world
+{c:Chorus} Baby, you could never look me in the eye
+{c:Outro}
 
 {sop: Intro}
 [A] [Cadd9] [G/B] [Cadd9] [E5] [G] [A]
@@ -31,6 +48,7 @@ Stop dragging my heart around
 
 {sop: Bridge 1}
 [E5] [G] [A] [E5] [G] [A]
+- - -
 {eop}
 
 {sop: Verse 2}
@@ -57,15 +75,18 @@ Stop dragging my heart around
 
 {sop: Bridge 2}
 [E5] [G] [A]
+- - -
 {eop}
 
 {sop: Bridge 3}
 [D] [C] [G] [D] [C] [G]
 [D] [C] [G] [A5] [Cadd9] [G/B] [Cadd9]
+- - -
 {eop}
 
 {sop: Bridge 4}
 [E5] [G] [A] [E5] [G] [A]
+- - -
 {eop}
 
 {sop: Verse 3}
@@ -100,5 +121,3 @@ Stop dragging my heart around
 Stop dragging my heart around
 [E5] [G] [A]
 {eop}
-
-{tag: Whiskey Lizard}

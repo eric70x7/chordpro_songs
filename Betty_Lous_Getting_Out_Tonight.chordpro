@@ -1,79 +1,128 @@
 {t: Betty Lou's Gettin' Out Tonight}
-{artist: Bob Seger & The Silver Bullet Band}
+{st: Bob Seger & The Silver Bullet Band}
 {key: F}
+{metronome: 128}
+{duration: 2:52}
+{tag: Whiskey Lizard}
 
-[Intro]
-F     Bb7    F     C     F
+{c:Tempo 128}
+{c:Intro}
+{c:Verse 1} Have you heard the news
+{c:Verse 2} First heard the rumor down on 12th and Main
+{c:Chorus} Betty Lou's gettin' out tonight
+{c:Interlude} Betty Lou
+{c:Guitar Solo} Guitar Solo F pent
+{c:Saxophone Solo}
+{c:Interlude} Betty Lou
+{c:Chorus} Betty Lou's gettin' out tonight
+
+{sop: Intro}
+[F] [Bb7] [F] [C] [F]
+- - -
+{eop}
 
 {sop: Verse 1}
-[F]Have you heard the news
+[F]
+Have you heard the news
 It's all over town
 If you ain't heard it boys
 You better sit down
-[Bb]I got the story here
+[Bb]
+I got the story here
 It's hot off the press
-[F]Brace yourself now
+[F]
+Brace yourself now
 And take a deep breath
-[C]Grob a hold of something
+[C]
+Grob a hold of something
 Hold on tight
-[F]Betty Lou's gettin' out tonight
+[F]
+Betty Lou's gettin' out tonight
 {eop}
 
 {sop: Verse 2}
-[F]First heard the rumor down on 12th and Main
+[F]
+First heard the rumor down on 12th and Main
 The poor druggist he was going insane
-[Bb]His stuff is selling out like never before
-[F]He finally had to up and close the store
-[C]All the boys were getting ready to fight
-[F]Betty Lou's gettin' out tonight
+[Bb]
+His stuff is selling out like never before
+[F]
+He finally had to up and close the store
+[C]
+All the boys were getting ready to fight
+[F]
+Betty Lou's gettin' out tonight
 {eop}
 
 {soc}
-[F]Betty Lou's gettin' out tonight
+[F]
 Betty Lou's gettin' out tonight
-[Bb7]She was bad Her momma got mad
-[F]But now her momma said it's all right
-[C]All the boys are getting ready and right
-[F]Betty Lou's gettin' out tonight
+Betty Lou's gettin' out tonight
+[Bb7]
+She was bad Her momma got mad
+[F]
+But now her momma said it's all right
+[C]
+All the boys are getting ready and right
+[F]
+Betty Lou's gettin' out tonight
 {eoc}
 
 {sop: Interlude}
-[F]Betty Lou
+[F]
 Betty Lou
-[Bb7]It's all true
-[F]It's really true
-[C]What do you think about that boys
+Betty Lou
+[Bb7]
+It's all true
+[F]
+It's really true
+[C]
+What do you think about that boys
 [F]
 {eop}
- 
 
+{sop: Guitar Solo}
 {c: Guitar Solo F pent}
-F    Bb7    F    C    F
- 
-{c: Saxophone Solo}
-F    Bb7    F    C    F
- 
+[F] [Bb7] [F] [C] [F]
+- - -
+{eop}
+
+{sop: Saxophone Solo}
+[F] [Bb7] [F] [C] [F]
+- - -
+{eop}
+
 {sop: Interlude}
-[F]Betty Lou
+[F]
 Betty Lou
-[Bb7]Yes it's true
-[F]Betty Lou
-[C]Uh uh, well
+Betty Lou
+[Bb7]
+Yes it's true
+[F]
+Betty Lou
+[C]
+Uh uh, well
 [F]
 {eop}
 
 {soc}
-[F]Betty Lou's gettin' out tonight
+[F]
 Betty Lou's gettin' out tonight
-[Bb7]She was bad
+Betty Lou's gettin' out tonight
+[Bb7]
+She was bad
 Her momma got mad
 But now her momma said it's all right
-[C]All the boys are getting ready and right
-[F]Betty Lou's gettin' out tonight
-[C]Her mama said that it would be all right
-[F]Betty Lou's gettin' out tonight
-[C]Grab a hold of somethin' hold on tight
-[F]Betty Lou's gettin' out tonight
+[C]
+All the boys are getting ready and right
+[F]
+Betty Lou's gettin' out tonight
+[C]
+Her mama said that it would be all right
+[F]
+Betty Lou's gettin' out tonight
+[C]
+Grab a hold of somethin' hold on tight
+[F]
+Betty Lou's gettin' out tonight
 {eoc}
-
-{tag: Whiskey Lizard}

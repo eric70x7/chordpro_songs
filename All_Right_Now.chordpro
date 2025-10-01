@@ -2,16 +2,37 @@
 {st: Free}
 {ipodid: 4092329790592629207}
 {key: A}
+{metronome: 120}
+{duration: 5:33}
+{tag: Whiskey Lizard}
+
+{c:Tempo 120}
+{c:Intro}
+{c:Verse 1} There she stood in the street
+{c:Chorus} All right now
+{c:Bridge 1} Let me tell you all
+{c:Verse 2} I took her home to my place
+{c:Chorus} All right now
+{c:Bridge 2} Yeah, it's all right now
+{c:Solo} Solo A to F# to A
+{c:Bridge 3}
+{c:Bridge 4} Let me tell you all about it, now Ow!
+{c:Verse 3} Took her home, yeah, to my place
+{c:Chorus} All right now
+{c:Outro}
 
 {sop: Intro}
 [A5] [D/F#] [A5]
 [D] [D/A]
-[A5]Oh, whoa, whoa Ow
+[A5]
+Oh, whoa, whoa Ow
 [D/F#]
+- - -
 {eop}
 
 {sop: Verse 1}
-[A5]There she [Dadd11]stood in the [D/A]street[A5] [D/F#] [A5]
+[A5]          [Dadd11]      [D/A]        [A5] [D/F#] [A5]
+There she stood in the street
 Smiling from her head to her feet
 I saidah, hey, what is this?
 Now baby, maybe, maybe she's in need of a kiss
@@ -23,19 +44,25 @@ Ow!
 {eop}
 
 {soc}
-[A]All right [G]now
-[D/F#]Baby, it'sah all right [A]now
-All right [G]now
-[D/F#]Baby, it'sah all right [A]now
+[A]           [G]
+All right now
+[D/F#]
+Baby, it'sah all right [A]now
+[A]           [G]
+All right now
+[D/F#]
+Baby, it'sah all right [A]now
 Whoa, ooh
 {eoc}
 
 {sop: Bridge 1}
-[A5]Let me tell you [D/F#]all
+[A5]          [D/F#]
+Let me tell you all
 {eop}
 
 {sop: Verse 2}
-[A5]I took her [Dadd11]home to my [D/A]place[A5] [D/F#] [A5]
+[A5]          [Dadd11]      [D/A]        [A5] [D/F#] [A5]
+I took her home to my place
 Watching every move on her face
 She said, "Look, what's your game, baby?
 Are you tryin' to put me in shame?"
@@ -46,34 +73,45 @@ Now you're trying to trick me in love"
 {eop}
 
 {soc}
-[A]All right [G]now
-[D/F#]Baby, it'sah all right [A]now
-All right [G]now
-[D/F#]Baby, it'sah all right [A]now
+[A]           [G]
+All right now
+[D/F#]
+Baby, it'sah all right [A]now
+[A]           [G]
+All right now
+[D/F#]
+Baby, it'sah all right [A]now
 {eoc}
 
 {sop: Bridge 2}
+[A5]
 Yeah, it's all right now
 {eop}
 
-{c:Solo A to F# to A}
 {sop: Solo}
+{c: Solo A to F# to A}
+[A5]
 Hoo!
+- - -
 {eop}
 
 {sop: Bridge 3}
 [A] [G] [D] [A] [G] [D]
 [E]
-[A5]Oh yeah, [D/F#]ow!
+[A5]          [D/F#]
+Oh yeah, ow!
 {eop}
 
 {sop: Bridge 4}
-[A5]Let me tell you all about [D/F#]it, now Ow!
-[A5]Yeah
+[A5]          [D/F#]
+Let me tell you all about it, now Ow!
+[A5]
+Yeah
 {eop}
 
 {sop: Verse 3}
-[Dadd11]Took her [D/A]home, yeah, to my [A5]place[D/F#] [A5]
+[Dadd11]      [D/A]        [A5] [D/F#] [A5]
+Took her home, yeah, to my place
 Watching every move on her face
 She said, "Look, uh, what's your game?
 Are you trying to put me in shame?"
@@ -85,25 +123,38 @@ Yeah!
 {eop}
 
 {soc}
-[A]All right [G]now
-[D/F#]Baby, it'sah all right [A]now, yeah
-All right [G]now
-[D/F#]Baby, it'sah all right [A]now
-All right [G]now
-[D/F#]Baby, it'sah all [A]right yeah
-All right [G]now
-[D/F#]Baby, baby, baby, it's all [A]right
+[A]           [G]
+All right now
+[D/F#]
+Baby, it'sah all right [A]now, yeah
+[A]           [G]
+All right now
+[D/F#]
+Baby, it'sah all right [A]now
+[A]           [G]
+All right now
+[D/F#]
+Baby, it'sah all [A]right yeah
+[A]           [G]
+All right now
+[D/F#]
+Baby, baby, baby, it's all [A]right
 {eoc}
 
 {sop: Outro}
-[A]All all right [G]now yeah
-[D/F#]It's all right, it's all right, its all right [A]yeah
-All right [G]now
-[D/F#]Baby, it'sah all right [A]now
+[A]           [G]
+All all right now yeah
+[D/F#]
+It's all right, it's all right, its all right [A]yeah
+[A]           [G]
+All right now
+[D/F#]
+Baby, it'sah all right [A]now
+[A]
 Yeah we're so happy to[G]gether ow
-[D/F#]It's all right, it's all right, its all [A]right
+[D/F#]
+It's all right, it's all right, its all [A]right
 Everything is all right [G]yeah
-[D/F#]Woo[A]
+[D/F#]          [A]
+Woo
 {eop}
-
-{tag: Whiskey Lizard}

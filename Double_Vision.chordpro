@@ -1,8 +1,19 @@
 {t: Double Vision}
 {st: Foreigner}
+{key: Am}
 {metronome: 130}
 {duration: 3:44}
-{key: Am}
+{tag: Whiskey Lizard}
+
+{c:Tempo 130}
+{c:Intro}
+{c:Verse 1} Feeling down 'n' dirty, feeling kinda mean
+{c:Chorus} Fill my eyes with that double vision
+{c:Verse 2} Never do more than I, I really need
+{c:Chorus} Fill my eyes with that double vision
+{c:Bridge 1} Yeaheah eaheahhey
+{c:Chorus} Ohooh ohoh, double vision
+{c:Outro}
 
 {sop: Intro}
 [Am] [C] [Dm]
@@ -12,13 +23,13 @@
 {sop: Verse 1}
 [Am]
 Feeling down 'n' dirty, feeling kinda mean
-[G][Am][Dm] [C] [G] [Am]
+[G] [Am] [Dm] [C] [G] [Am]
 I've been from one to another extreme
-[E][F] [C] [B] [G] [Am]
+[E] [F] [C] [B] [G] [Am]
 This time I had a good time, ain't got time to wait
-[G][Am][Dm] [C] [G] [Am]
+[G] [Am] [Dm] [C] [G] [Am]
 I wanna stick around 'till I can't see straight
-[E][F] [C] [B] [G] [Am]
+[E] [F] [C] [B] [G] [Am]
 {eop}
 
 {soc}
@@ -28,20 +39,20 @@ Fill my eyes with that double vision
 No disguise for that double vision
 [F]   [C]           [Dm]             [F]     [C]   [Dm]
 Ooh, when it gets through to me, it's always new to me
-                      [E]  [Eb] [D]  [Am]        [C] [Dm]
+[E]  [Eb] [D]  [Am]        [C] [Dm]
 My double vision gets the best of me
 {eoc}
 
 {sop: Verse 2}
 [Am]
 Never do more than I, I really need
-[G][Am][Dm] [C] [G] [Am]
+[G] [Am] [Dm] [C] [G] [Am]
 My mind is racing, but my body's in the lead
-[E][F] [C] [B] [G] [Am]
+[E] [F] [C] [B] [G] [Am]
 Tonight's the night, I'm gonna push it to the limit
-[G][Am][Dm] [C] [G] [Am]
+[G] [Am] [Dm] [C] [G] [Am]
 I live all of my years in a single minute
-[E][F] [C] [B] [G] [Am]
+[E] [F] [C] [B] [G] [Am]
 {eop}
 
 {soc}
@@ -51,11 +62,12 @@ Fill my eyes with that double vision
 No disguise for that double vision
 [F]   [C]           [Dm]             [F]     [C]   [Dm]
 Ooh, when it gets through to me, it's always new to me
-                 [E]  [Eb] [D]  [C]             [G] [F#] [F]  [E]                          [C] [Dm]
+[E]  [Eb] [D]  [C]             [G] [F#] [F]  [E]                          [C] [Dm]
 My double vision always seems to get the best of me, the best of me
 {eoc}
 
 {sop: Bridge 1}
+[Am]
 Yeaheah eaheahhey
 {eop}
 
@@ -66,7 +78,7 @@ Ohooh ohoh, double vision
 I need double vision
 [Dm]                     [Am]                       [Dm]
 It takes me out of my head, taking me out of my head
-                  [Am]
+[Am]
 I get my double vision, woaoah
 [Dm]
 Seeing double double
@@ -77,9 +89,8 @@ Ohoh my my double vision
 {sop: Outro}
 [Dm] [Am]        [Dm]
 Yeahahah
-               [Am]
+[Am]
 I get double vision, oooh
 [Dm]
 How?
 {eop}
-{tag: Whiskey Lizard}

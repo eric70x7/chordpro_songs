@@ -3,6 +3,20 @@
 {key: G}
 {metronome: 108}
 {duration: 3:49}
+{tag: Whiskey Lizard}
+
+{c:Tempo 108}
+{c:Intro}
+{c:Verse 1} I would climb any mountain
+{c:Pre-Chorus} And I guess it's just the woman in you
+{c:Chorus} It feels like the first time
+{c:Verse 2} I have waited a lifetime
+{c:Pre-Chorus} And I know it must be the woman in you
+{c:Interlude} It feels like the first time
+{c:Chorus} It feels like the first time
+{c:Solo} Open up the door
+{c:Chorus} Feels like the first time
+{c:Outro}
 
 {sop: Intro}
 [G] [F] [Am] [G]
@@ -39,7 +53,7 @@ It feels like the very first time
 {eoc}
 
 {sop: Verse 2}
-[G] 
+[G]
 I have waited a lifetime
 Spent my time so foolishly
 But now that I've found you
@@ -56,9 +70,8 @@ I know I can't help myself
 You're all in the world to me
 {eop}
 
-[A] [B] [D] 
-
 {sop: Interlude}
+[A] [B] [D]
 [Em] [D] [C] [B] [Em]
 It feels like the first time
 [C]        [B]           [Em]
@@ -112,14 +125,12 @@ It feels like the very first
 Oh, it feels
 [F/G]                        [Am/G]
 Yeah, It feels like the first time
-{eop}
-
-[G]                [F]  
+[G]                [F]
 Open up the door
-                     [C] 
+[C]
 Open up the door
-                  [D#] 
+[D#]
 Because it feels like
-        [F]            [G]
+[F]            [G]
 The very first time
-{tag: Whiskey Lizard}
+{eop}
