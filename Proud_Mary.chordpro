@@ -5,15 +5,13 @@
 {duration: 3:30}
 {tag: Whiskey Lizard}
 
+{c:Key: D}
 {c:Tempo 121}
-
-{sop: Part 1}
-[D]
-- - -
-{eop}
 
 {sop: Verse 1}
 [D]
+
+{c: Talking with male BG}
 I left a good job in the city
 Working for the man every night and day
 And I never lost one minute of sleeping
@@ -37,6 +35,7 @@ I was worrying 'bout the way the things might've been
 {eop}
 
 {sop: Pre-Chorus}
+[F#] [G]  [G#]
 [A]
 Big wheel keep on turning
 [Bm]               [G]
@@ -59,6 +58,7 @@ Until I hitched a ride on a riverboat queen
 {eop}
 
 {sop: Pre-Chorus}
+[F#] [G]  [G#]
 [A]
 You know that big wheel keep on turning
 [Bm]               [G]
@@ -75,6 +75,8 @@ Rolling on the river
 Rolling on the river
 {eoc}
 
+{c:Up Tempo}
+
 {sop: Verse 4}
 [D] [G]        [D]
 Oh I left a good job in the city
@@ -84,6 +86,7 @@ Worrying about the way the things might've been
 {eop}
 
 {sop: Pre-Chorus}
+[F#] [G]  [G#]
 [A]
 Big wheel keep on turning
 [Bm]               [G]
@@ -98,6 +101,7 @@ Say we're rolling, rolling, rolling on the river
 
 {sop: Post-Chorus}
 [D]
+Do - do - do - do...
 [C] [A] [C] [A] [C] [A] [G] [F] [G]
 {eop}
 
@@ -115,6 +119,7 @@ Until I hitched a ride on a riverboat queen
 {eop}
 
 {sop: Pre-Chorus}
+[F#] [G]  [G#]
 [A]
 Big wheel keep on turning
 [Bm]               [G]
@@ -129,6 +134,7 @@ I tell you we're rolling, rolling, rolling on the river
 
 {sop: Post-Chorus}
 [D]
+Do - do - do - do...
 [C] [A] [C] [A] [C] [A] [G] [F] [G]
 {eop}
 
@@ -146,6 +152,7 @@ People on the river are happy to give
 {eop}
 
 {sop: Pre-Chorus}
+[F#] [G]  [G#]
 [A]
 Big wheel keep on turning
 [Bm]               [G]
@@ -160,6 +167,7 @@ Tell you we have no time rolling, rolling, rolling on the river
 
 {sop: Post-Chorus}
 [D]
+Do - do - do - do...
 [C] [A] [C] [A] [C] [A] [G] [F]
 {eop}
 
@@ -173,6 +181,6 @@ I tell you we're rolling, rolling, rolling on the river
 {eoc}
 
 {sop: Outro}
-[C] [A] [C] [A] [C] [A] [G] [F] [D]
+[C] [A] [C] [A] [C] [A] [G] [D]
 - - -
 {eop}
