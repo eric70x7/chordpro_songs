@@ -3,6 +3,22 @@
 {key: Am}
 {metronome: 116}
 {duration: 4:55}
+{tag: Whiskey Lizard}
+
+{c:Tempo 116}
+{c:Intro}
+{c:Verse 1} Man, it's a hot one
+{c:Pre-Chorus} And if you said, "This life ain't good enough."
+{c:Chorus} And it's just like the ocean under the moon
+{c:Main Theme}
+{c:Verse 2} Well, I'll tell you one thing
+{c:Pre-Chorus} And if you said, "This life ain't good enough."
+{c:Chorus} And it's just like the ocean under the moon
+{c:Solo 1}
+{c:Solo 2}
+{c:Chorus} And it's just like the ocean under the moon
+{c:Main Theme} Or else forget about it
+{c:Outro}
 
 {sop: Intro}
 [Am] [F] [E7] [Am] [F] [E7] [Am] [F] [E7]
@@ -53,6 +69,7 @@ Or else forget about it
 
 {sop: Main Theme}
 [Am] [F] [E7] [Am] [F] [E7]
+- - -
 {eop}
 
 {sop: Verse 2}
@@ -146,5 +163,3 @@ Let's don't forget about it
 Let's don't forget about it
 [Am] [F] [E7] [Am] [F] [E7] [Am] [F] [E7]
 {eop}
-
-{tag: Whiskey Lizard}
