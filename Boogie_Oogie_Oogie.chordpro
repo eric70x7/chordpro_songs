@@ -5,6 +5,7 @@
 {duration: 3:38}
 {tag: Whiskey Lizard}
 
+{c:Patch 3.1 - Clean dotted 18}
 {c:Tempo 124}
 {c:Intro}
 {c:Pre-Verse}
@@ -20,12 +21,14 @@
 {c:Fade Out}
 
 {sop: Intro}
+{c:Bass & Drums}
 [D7sus4] [Dm7] [Gm7] [D7sus4] [Dm7] [Gm7]
 [D7sus4] [Dm7] [Gm7] [D7sus4] [Dm7] [Gm7]
 - - -
 {eop}
 
 {sop: Pre-Verse}
+{c:Start pluck}
 [D7sus4] [Dm7] [Gm7] [D7sus4] [Dm7] [Gm7]
 [D7sus4] [Dm7] [Gm7] [D7sus4] [Dm7] [Gm7]
 - - -
@@ -89,6 +92,8 @@ Boogie no more
 [Gm7]                      [D7sus4] [Dm7]
 Listen to my bass here
 {eoc}
+
+{c:Bass & Drums}
 
 {sop: Interlude}
 [Gm7] [D7sus4] [Dm7] [Gm7] [D7sus4] [Dm7]

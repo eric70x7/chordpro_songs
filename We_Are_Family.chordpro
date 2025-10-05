@@ -3,6 +3,16 @@
 {key: A}
 {metronome: 116}
 {duration: 3:36}
+{tag: Whiskey Lizard}
+
+{c:Tempo 116}
+{c:Intro}
+{c:Chorus} We are family
+{c:Verse 1} Everyone can see we're together
+{c:Chorus} We are family
+{c:Verse 2} Living life is fun and we've just begun
+{c:Chorus} We are family
+{c:Outro}
 
 {sop: Intro}
 [A7] [G7] [D7] [Dm7/G] [A7]
@@ -141,5 +151,3 @@ Get up now
 [G7]
 We are family
 {eop}
-
-{tag: Whiskey Lizard}
