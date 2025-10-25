@@ -5,17 +5,17 @@
 {duration: 6:05}
 
 {sop: Intro}
-[G/A] [D#/F] [Fadd9] [G/A]
-[D#/F] [Fadd9] [G/A] [D#/F]
-[Fadd9]
+[G/A] [D#/F] [Fadd9] 
+[G/A] [D#/F] [Fadd9] 
+[G/A] [D#/F] [Fadd9]
 - - -
 {eop}
 
 {sop: Main Theme}
 [D] [Fadd9] [D] [Fadd9]
-[C] [Asus4] [G] [D]
-[Fadd9] [D] [Fadd9] [C]
-[Asus4] [G]
+[C] [Asus4] [G] 
+[D] [Fadd9] [D] [Fadd9] 
+[C] [Asus4] [G]
 {eop}
 
 {sop: Verse 1}
@@ -60,9 +60,9 @@ But you're crying, you're crying now
 
 {sop: Main Theme}
 [D] [Fadd9] [D] [Fadd9]
-[C] [Asus4] [G] [D]
-[Fadd9] [D] [Fadd9] [C]
-[Asus4] [G]
+[C] [Asus4] [G] 
+[D] [Fadd9] [D] [Fadd9] 
+[C] [Asus4] [G]
 {eop}
 
 {sop: Verse 2}
@@ -121,23 +121,23 @@ And you're going, you're going home
 
 {sop: Main Theme}
 [D] [Fadd9] [D] [Fadd9]
-[C] [Asus4] [G] [D]
-[Fadd9] [D] [Fadd9] [C]
-[Asus4] [G]
+[C] [Asus4] [G] 
+[D] [Fadd9] [D] [Fadd9] 
+[C] [Asus4] [G]
 {eop}
 
 {sop: Interlude}
-[G/A] [D#/F] [Fadd9] [G/A]
-[D#/F] [Fadd9] [G/A] [D#/F]
-[Fadd9]
+[G/A] [D#/F] [Fadd9] 
+[G/A] [D#/F] [Fadd9] 
+[G/A] [D#/F] [Fadd9]
 - - -
 {eop}
 
 {sop: Solo}
 [D] [Fadd9] [D] [Fadd9]
-[C] [Asus4] [G] [D]
-[Fadd9] [D] [Fadd9] [C]
-[Asus4] [G]
+[C] [Asus4] [G] 
+[D] [Fadd9] [D] [Fadd9] 
+[C] [Asus4] [G]
 - - -
 {eop}
 
@@ -148,8 +148,9 @@ And you're going, you're going home
 
 {sop: Fade Out}
 [D] [Fadd9] [D] [Fadd9]
-[C] [Asus4] [G] [D]
-[Fadd9] [D] [Fadd9]
+[C] [Asus4] [G] 
+[D] [Fadd9] [D] [Fadd9] 
+[C] [Asus4] [G]
 {eop}
 
 {tag: Whiskey Lizard}
