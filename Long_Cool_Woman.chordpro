@@ -1,10 +1,23 @@
-{t:Long Cool Woman (In a Black Dress)}
+{t: Long Cool Woman (In a Black Dress)}
 {st: The Hollies}
 {key: E}
+{metronome: 138}
+{duration: 3:17}
+{tag: Whiskey Lizard}
+{tag: BBB}
+{tag: Eric Sings}
+
+{c:Tempo 138}
+{c:Intro}
+{c:Verse 1} Saturday night I was down town
+{c:Chorus} She was a long cool woman in a black dress
+{c:Verse 2} Saw her heading to the table
+{c:Chorus} A long cool woman in a black dress
+{c:Outro}
 
 {sop: Intro}
 [Em]
-- -
+- - -
 {eop}
 
 {sop: Verse 1}
@@ -37,7 +50,7 @@ When Charlie said "I hope that you're able, boy," well I'm telling you she knows
 Well suddenly we heard a siren, and everybody started to run
 A jumping out of doors and tables, well I heard somebody shooting a gun
 Well the D.A. was pumping my left hand, and a she a holding my right
-          [G]                                                         [A]
+[G]                                                         [A]
 And I told her don't get scared, 'cause you're gonna be spared
 [A]
 I gotta be forgiven, if I want to spend my living with
@@ -60,7 +73,3 @@ Had it all, had it all
 [E]
 Had it all, had it all, had it all, had it all, had it all
 {eop}
-
-{tag: Whiskey Lizard}
-{tag: BBB}
-{tag: Eric Sings}
