@@ -1,15 +1,35 @@
 {t: Little Miss Can't Be Wrong}
 {st: Spin Doctors}
 {key: G}
+{metronome: 118}
+{duration: 3:55}
+{tag: Eric Sings}
+{tag: BBB}
+{tag: Whiskey Lizard}
+
+{c:Tempo 118}
+{c:Intro}
+{c:Verse 1} It's been a whole lot easier since the bitch left town
+{c:Chorus} Little miss, little miss, little miss can't be wrong
+{c:Solo}
+{c:Verse 2} Other people's thoughts, they ain't your handmedowns
+{c:Chorus} Little miss, little miss, little miss can't be wrong
+{c:Bridge 1} Ay yeah, can't be wrong
+{c:Verse 3} I hope them cigarettes are gonna make you cough
+{c:Chorus} Little miss, little miss, little miss can't be wrong
+{c:Post-Chorus} Oh, little miss, little miss, little miss, little miss can't be wrong
+{c:Outro}
 
 {sop: Intro}
 [G] - [D] - [C] - [G] - [D] - [C]
 [G] - [D] - [C] - [G]
 [D] - [C]
+- - -
 {eop}
 
 {sop: Verse 1}
-[G]It's been a whole lot easier since the [D]bitch left [C]town
+[G]
+It's been a whole lot easier since the [D]bitch left [C]town
 It's been a whole lot happier without her [D]face a[C]round
 [G]Nobody upstairs gonna [D]stomp and [C]shout
 Nobody at the back door gonna [D]throw my laundry [C]out
@@ -20,7 +40,8 @@ Little miss, little miss, little [D]miss can't be [C]wrong
 {eop}
 
 {soc}
-[G]Little miss, little miss, little [D]miss can't be [C]wrong
+[G]
+Little miss, little miss, little [D]miss can't be [C]wrong
 Ain't nobody gonna [D]bow no more when you [C]sound your gong
 [G]Little miss, little miss, little [D]miss can't be [C]wrong
 Whatcha gon' [D]do to get into a[C]nother one of these here rock 'n' roll songs?
@@ -29,17 +50,20 @@ Whatcha gon' [D]do to get into a[C]nother one of these here rock 'n' roll songs?
 {sop: Solo}
 [G] - [D] - [C] - [G] - [D] - [C]
 [G] - [D] - [C] - [G] - [D] - [C]
+- - -
 {eop}
 
 {sop: Verse 2}
-[G]Other people's thoughts, they ain't your [D]handme[C]downs
+[G]
+Other people's thoughts, they ain't your [D]handme[C]downs
 Would it be so bad to [D]simply turn a[C]round?
 [G]You cook so well, all [D]nice and [C]French
 You do your brain surgery [D]too, mama, with your [C]monkey wrench
 {eop}
 
 {soc}
-[G]Little miss, little miss, little [D]miss can't be [C]wrong
+[G]
+Little miss, little miss, little [D]miss can't be [C]wrong
 Ain't nobody gonna [D]bow no more when you [C]sound your gong
 [G]Little miss, little miss, little [D]miss can't be [C]wrong
 Whatcha gon' [D]do to get into a[C]nother one of these here rock 'n' roll songs?
@@ -52,24 +76,28 @@ No, no, [Bb]no, [C]you can't be [G]wrong
 [Bb]You can't be [C]wrong, no, no, [G]no
 [Bb] - [C] - [G] - [Bb] - [C] - [G]
 [Bb] - [C] - [G] - [Bb] - [C]
+- - -
 {eop}
 
 {sop: Verse 3}
-[G]I hope them cigarettes are gonna [D]make you [C]cough
+[G]
+I hope them cigarettes are gonna [D]make you [C]cough
 I hope you hear this song and it [D]pissed you [C]off
 [G]I take that back, I [D]hope you're doing [C]fine
 And if I had a dollar, I might [D]give you ninety[C]nine
 {eop}
 
 {soc}
-[G]Little miss, little miss, little [D]miss can't be [C]wrong
+[G]
+Little miss, little miss, little [D]miss can't be [C]wrong
 Ain't nobody gonna [D]bow no more when you [C]sound your gong
 [G]Little miss, little miss, little [D]miss can't be [C]wrong
 Whatcha gon' [D]do to get into a[C]nother one of these here rock 'n' roll songs?
 {eoc}
 
 {sop: Post-Chorus}
-[G]Oh, little miss, little [D]miss, little miss, little miss can't be [C]wrong
+[G]
+Oh, little miss, little [D]miss, little miss, little miss can't be [C]wrong
 No, no, [D]no, no, no, no, [C]no
 [G]Oh, you [D]can't be wrong, no, you [C]can't be [G]wrong
 You [D]can't be [C]wrong
@@ -79,9 +107,7 @@ Little miss, little [D]miss, little miss, little miss can't be [C]wrong, oh
 {eop}
 
 {sop: Outro}
-[C]Oh, oh, oh
+[C]
+Oh, oh, oh
 Oh
 {eop}
-
-{tag: Eric Sings}
-{tag: BBB}
