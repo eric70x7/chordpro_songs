@@ -1,6 +1,6 @@
 {t: 25 or 6 to 4}
 {st: Chicago}
-{key: Am}
+{key:Gm}
 {metronome: 147}
 {duration: 4:50}
 {tag: Whiskey Lizard}
@@ -20,93 +20,93 @@
 
 {sop: Intro}
 {c:Horns}
-[Am] [G] [D/F#] [F] [E7]
-[Am] [G] [D/F#] [F] [E7]
-[Am] [G] [D/F#] [F] [E7]
-[Am] [G] [D/F#]
-[F] [E7]
+[Gm] [F] [C/E] [Eb] [D7]
+[Gm] [F] [C/E] [Eb] [D7]
+[Gm] [F] [C/E] [Eb] [D7]
+[Gm] [F] [C/E]
+[Eb] [D7]
 - - -
 {eop}
 
 {sop: Verse 1}
-[Am]           [G]                [D/F#]
+[Gm]           [F]                [C/E]
 Waiting for the break of day
-[F] [E7] [Am]             [G]                [D/F#]
+[Eb] [D7] [Gm]             [F]                [C/E]
 Searching for something to say
-[F] [E7] [Am]              [G]               [D/F#]
+[Eb] [D7] [Gm]              [F]               [C/E]
 Dancing lights against the sky
-[F] [E7] [Am]         [G]               [D/F#] [F] [E7]
+[Eb] [D7] [Gm]         [F]               [C/E] [Eb] [D7]
 Giving up I close my eyes
 {eop}
 
 {soc}
-[F]                                 [C]
+[Eb]                                 [Bb]
 Sitting cross-legged on the floor
-[G]                          [F]
+[F]                          [Eb]
 Twenty five or six to four
 {eoc}
 
 {sop: Interlude}
 {c:Horns + Guitar}
-[Am] [G] [D/F#] [F] [E7]
-[Am] [G] [D/F#] [F] [E7]
+[Gm] [F] [C/E] [Eb] [D7]
+[Gm] [F] [C/E] [Eb] [D7]
 - - -
 {eop}
 
 {sop: Verse 2}
 {c:Guitar under VOX}
-[Am]             [G]            [D/F#]
+[Gm]             [F]            [C/E]
 Staring blindly into space
-[F] [E7] [Am]          [G]                 [D/F#]
+[Eb] [D7] [Gm]          [F]                 [C/E]
 Getting up to splash my face
-[F] [E7] [Am]            [G]             [D/F#]
+[Eb] [D7] [Gm]            [F]             [C/E]
 Wanting just to stay awake
-[F] [E7] [Am]             [G]               [D/F#] [F] [E7]
+[Eb] [D7] [Gm]             [F]               [C/E] [Eb] [D7]
 Wondering how much I can take
 {eop}
 
 {soc}
-[F]                             [C]
+[Eb]                             [Bb]
 Should I try to do some more?
-[G]                          [F]
+[F]                          [Eb]
 Twenty five or six to four
 {eoc}
 
 {sop: Solo}
 {c:Guitar walk up then jam}
-[Am] [G] [D/F#] [F] [E7] x 8
+[Gm] [F] [C/E] [Eb] [D7] x 8
 {eop}
 
 {sop: Interlude}
 {c:Intro}
-[Am] [G] [D/F#] [F] [E7] x 4
+[Gm] [F] [C/E] [Eb] [D7] x 4
 - - -
 {eop}
 
 {sop: Verse 3}
 {c:Guitar under VOX}
-[Am]            [G]                [D/F#]
+[Gm]            [F]                [C/E]
 Feeling like I ought to sleep
-[F] [E7] [Am]             [G]               [D/F#]
+[Eb] [D7] [Gm]             [F]               [C/E]
 Spinning room is sinking deep
-[F] [E7] [Am]             [G]                [D/F#]
+[Eb] [D7] [Gm]             [F]                [C/E]
 Searching for something to say
-[F] [E7] [Am]           [G]                [D/F#] [F] [E7]
+[Eb] [D7] [Gm]           [F]                [C/E] [Eb] [D7]
 Waiting for the break of day
 {eop}
 
 {soc}
-[F]                          [C]
+[Eb]                          [Bb]
 Twenty five or six to four
-[G]                          [F]
+[F]                          [Eb]
 Twenty five or six to four
 {eoc}
 
 {sop: Outro}
 {c:Guitar}
-[Am] [G] [D/F#] [F] [E7]
-[Am] [G] [D/F#] [F] [E7]
+[Gm] [F] [C/E] [Eb] [D7]
+[Gm] [F] [C/E] [Eb] [D7]
 {c:Horn Outro}
-[Dm] [C] [G/B] [Bb]
-[Asus2]
+[Cm] [Bb] [F/A] [Ab]
+[Gsus2]
 {eop}
