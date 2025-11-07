@@ -1,32 +1,42 @@
-# Preferred ChordPro Format Settings
+# Current ChordPro Formatting Rules
 
-- **Header**:
-  - `{t: <Song Title>}`: Song title.
-  - `{st: <Artist Name>}`: Artist name.
-  - `{key: <Key>}`: Key of the song (e.g., G, Dm).
-  - `{metronome: <XXX>}`: Tempo in beats per minute (BPM).
-  - `{duration: <M:SS>}`: Song duration in minutes and seconds.
-  - `{ipodid: <ID>}`: Custom metadata, included only if explicitly provided in the input.
+## Header
+- `{t: <Song Title>}`: Song title.
+- `{st: <Artist Name>}`: Artist name.
+- `{key: <Key>}`: Key of the song (e.g., G, Em).
+- `{metronome: <XXX>}`: Tempo in BPM (sourced/verified via SongBPM or similar).
+- `{duration: <M:SS>}`: Song duration (sourced/verified).
+- `{ipodid: <ID>}`: **Only** if explicitly provided in input.
 
-- **Synopsis**:
-  - Placed at the top, before song sections.
-  - Includes `{c:Tempo XXX}` as the first comment, where XXX is the tempo in BPM.
-  - Includes `{c:<Section Name>}` for each section (e.g., `{c:Intro}`, `{c:Verse 1}`, `{c:Chorus}`).
-  - For sections with lyrical content, the first line of lyrics is placed on the same line, immediately after the closing curly brace (e.g., `{c:Verse 1} Well, the whole town's talkin', 'bout the line I'm walkin'`).
-  - For sections without lyrics (e.g., Intro, Solo), only the section name is included (e.g., `{c:Intro}`).
-  - Preserves any additional comments provided (e.g., `{c: SOLO}`, `{c: SCRAPE}`).
+## Synopsis (placed at top, before sections)
+- `{c:Tempo XXX}`: First line, XXX = BPM.
+- One `{c:<Section Name>}` per section (e.g., `{c:Intro}`, `{c:Verse 1}`, `{c:Chorus}`).
+- For **lyrical sections**: first lyric line **immediately after** closing brace on same line:
+  - e.g., `{c:Verse 1} Well, the whole town's talkin', 'bout the line I'm walkin'`
+- For **non-lyrical sections** (Intro, Solo, etc.): only section name:
+  - e.g., `{c:Intro}`
+- Preserve additional comments exactly (e.g., `{c: SOLO}`, `{c: SCRAPE}`).
 
-- **Section Structure**:
-  - Non-chorus sections use `{sop: <Section Name>}` to start and `{eop}` to end (e.g., Verse, Intro, Bridge, Solo, Interlude, Outro).
-  - Chorus sections use `{soc}` to start and `{eoc}` to end.
-  - Chords are placed in `[brackets]` above the corresponding lyrics.
-  - Duplicate chord progressions are omitted within the same section if unchanged from the previous line.
-  - Instrumental measures in sections without lyrics use `- - -` instead of `|`.
-  - Long lyric lines are preserved, maintaining original line breaks where provided.
-  - Stylistic elements (e.g., contractions like "’bout", "gimme", or "MoMoMony") are preserved exactly as provided.
+## Section Structure
+- **Non-chorus**: `{sop: <Section Name>}` → `{eop}`
+- **Chorus**: `{soc}` → `{eoc}`
+- **Chords on separate line above lyrics**, in `[brackets]`.
+- **Chords and lyrics strictly separated** — never on same line.
+- **Duplicate chord progressions omitted** within same section if unchanged.
+- **Instrumental measures**: use chords only (no `- - -` unless specified).
+- **Preserve original line breaks** in lyrics.
+- **Preserve stylistic text** exactly (e.g., `dre__ams`, `’bout`, `groovey`, `Borealice`).
 
-- **Additional Notes**:
-  - Content type is `text/plain` for ChordPro files.
-  - Sections are labeled as provided (e.g., `{c: SAX SOLO}`, `{c:STOP}`), with interpretation based on content if ambiguous (e.g., `{c: Verse Chorus}` as Verse or Chorus).
-  - The `{tag: Whiskey Lizard}` is **not** included unless explicitly specified in the input.
-  - Key, metronome, and duration are sourced from the input or estimated/verified via external sources (e.g., SongBPM, Musicstax, Apple Music) if not provided.
+## Alignment & Spacing
+- Chords aligned **above** corresponding lyric syllables/words using spaces.
+- Example:
+
+[G5]     [A5]      [A5]
+Well we had a lot of luck on Venus
+
+## Additional Rules
+- **Content type**: `text/plain`
+- **Section labels**: use exactly as provided; interpret ambiguous ones by content.
+- **Do NOT include** `{tag: Whiskey Lizard}` unless explicitly in input.
+- **Key, BPM, duration**: source from input or verify via external (SongBPM, Musicstax, etc.).
+- **Outro/Fade Out**: treated as separate sections if labeled.

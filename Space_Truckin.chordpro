@@ -1,82 +1,135 @@
 {t: Space Truckin'}
 {st: Deep Purple}
-{key: Am}
+{key: A}
+{metronome: 134}
+{duration: 4:34}
 
-{sop: Intro}
-[G5][A5][D5][C5][A5][C5][D5][G5][A5] - - - -
+{c:Tempo 134}
+{c:Intro}
+[sop: Intro]
+[G5] [A5] [G5] [A5] [D5] [C5] [A5] [C5] [D5] 
+[G5] [A5] [G5] [A5] [D5] [C5] [A5] [C5] [D5] 
+[G5] [A5] [G5] [A5] [D5] [C5] [A5] [C5] [D5] 
+[G5] [A5] [G5] [A5] [D5] [C5] [A5] [C5] [D5]
 {eop}
 
-{sop: Verse 1}
-[G5]Well we had a lot of luck on [A5]Venus
-[C5]We always had a ball on [D5]Mars[A5]
+{c:Verse 1} Well we had a lot of luck on Venus
+[sop: Verse 1]
+[G5]     [A5]      [A5]
+Well we had a lot of luck on Venus
+[C5]        [D5]     [A5]
+We always had a ball on Mars
+[A5]
 We meeting all the groovey people
+[C5]        [D5]     [A5]
 We've rocked the Milky Way so far
 {eop}
 
-{sop: Bridge 1}
-[D5]We danced around with Bore[A5]alice
-[D5]We're space truckin' round the [E5]stars
+{c:Pre-Chorus}
+[sop: Pre-Chorus]
+[D5]        [A5]
+We danced around with Borealice
+[D5]                 [E5]
+We're space truckin' round the stars
 {eop}
 
-{soc}
-[A5]Come on! Come on! Come [D5]on! let's go Space Truckin'[A5][D5][A5][D5]
-[E5]Come on! Come on! Come [A5]on! Space Truckin'[E5][A5][E5][A5][E5][A5]
+{c:Chorus}
+[soc]
+[A5]     [D5] [A5]     [D5] [A5]     [D5] [A5]     [D5]
+Come on! Come on! Come on! let's go Space Truckin'
+[E5]     [A5] [E5]     [A5] [E5]     [A5] [E5]     [A5]
+Come on! Come on! Come on! Space Truckin'
 {eoc}
 
-{sop: Verse 2}
-[A5]Remember when we did the moonshot
-[C5]And Pony Trekker led the [D5]way[A5]
+{c:Verse 2} Remember when we did the moonshot
+[sop: Verse 2]
+[A5]
+Remember when we did the moonshot
+[C5]        [D5]     [A5]
+And Pony Trekker led the way
+[A5]
 We'd move to the Canaveral moonstop
+[C5]        [D5]     [A5]
 And everynaut would dance and sway
 {eop}
 
-{sop: Bridge 2}
-[D5]We got music in our solar [A5]system
-[D5]We're space truckin' round the [E5]stars
+{c:Pre-Chorus}
+[sop: Pre-Chorus]
+[D5]        [A5]
+We got music in our solar system
+[D5]                 [E5]
+We're space truckin' round the stars
 {eop}
 
-{soc}
-[A5]Come on! Come on! Come [D5]on! let's go Space Truckin'[A5][D5][A5][D5][A5][D5]
-[E5]Come on! Come on! Come [A5]on! Space Truckin'[E5][A5][E5][A5][E5][A5][E5][A5]
+{c:Chorus}
+[soc]
+[A5]     [D5] [A5]     [D5] [A5]     [D5] [A5]     [D5]
+Come on! Come on! Come on! let's go Space Truckin'
+[E5]     [A5] [E5]     [A5] [E5]     [A5] [E5]     [A5]
+Come on! Come on! Come on! Space Truckin'
 {eoc}
 
-{sop: Verse 3}
-[A5]The fireball that we rode was moving
-[C5]But now we've got a new ma[D5]chine[A5]
+{c:Verse 3} The fireball that we rode was moving
+[sop: Verse 3]
+[A5]
+The fireball that we rode was moving
+[C5]        [D5]     [A5]
+But now we've got a new machine
+[A5]
 Yeah Yeah Yeah Yeah the freaks said
-[C5]Man those cats can really [D5]swing
-{eop}
-
-{sop: Bridge 3}
-[A5]They got music in their solar system
-[C5]They've rocked around the Milky [D5]Way[A5]
+[C5]        [D5]
+Man those cats can really swing
+[A5]     [A5]
+They got music in their solar system
+[C5]        [D5]     [A5]
+They've rocked around the Milky Way
+[A5]
 They dance around the Borealice
-[C5]They're Space Truckin' every [D5]day[E5]
+[C5]        [D5]     [E5]
+They're Space Truckin' every day
 {eop}
 
-{soc}
-[A5]Come on! Come on! Come [D5]on! let's go Space Truckin'[A5][D5][A5][D5][A5][D5]
-[E5]Come on! Come on! Come [A5]on! Space Truckin'[E5][A5][E5][A5][E5][A5][E5][A5][A5]
+{c:Chorus}
+[soc]
+[A5]     [D5] [A5]     [D5] [A5]     [D5] [A5]     [D5]
+Come on! Come on! Come on! let's go Space Truckin'
+[E5]     [A5] [E5]     [A5] [E5]     [A5] [E5]     [A5] [A5]
+Come on! Come on! Come on! Space Truckin'
 {eoc}
 
-{sop: Solo}
-[A5] - - - -
+{c:Drum Solo}
+[sop: Drum Solo]
+[A5]
 {eop}
 
-{sop: Bridge 4}
-[E5][F5][F#5][G5][G#5][A#5]
-[E5]
+{c:Bridge}
+[sop: Bridge]
+[E5] [F5] [F#5] [G5] [G#5] [A#5] [E5]
 {eop}
 
-{soc}
-[A5]Come on! Come on! Come [D5]on! let's go Space Truckin'[A5][D5][A5][D5][A5][D5]
-[E5]Come on! Come on! Come [A5]on! Space Truckin'[E5][A5][E5][A5][E5][A5][E5][A5][A5]
+{c:Chorus}
+[soc]
+[A5]     [D5] [A5]     [D5] [A5]     [D5] [A5]     [D5]
+Come on! Come on! Come on! let's go Space Truckin'
+[E5]     [A5] [E5]     [A5] [E5]     [A5] [E5]     [A5]
+Come on! Come on! Come on! Space Truckin'
 {eoc}
 
-{sop: Outro}
-[A5]Yeah Yeah Yeah Space [D5]Truckin'[A5][D5]
+{c:Outro} Yeah Yeah Yeah Space Truckin'
+[sop: Outro]
+[A5]     [D5] [A5]     [D5]
 Yeah Yeah Yeah Space Truckin'
-[E5]Yeah Yeah Yeah Space [A5]Truckin'[E5][A5]
-[E5][A5][E5][A5][E5][A5][E5][A5] - - - -
+[A5]     [D5] [A5]     [D5]
+Yeah Yeah Yeah Space Truckin'
+[E5]     [A5] [E5]     [A5]
+Yeah Yeah Yeah Space Truckin'
+[E5]     [A5] [E5]     [A5]
+Yeah Yeah Yeah Yeah Yeah Yeah
+[A5]     [D5] [A5]     [D5] [A5]     [D5] [A5]     [D5] [E5]     [A5] [E5]     [A5] [E5]     [A5] [E5]     [A5]
+Yeah Yeah Yeah Space Truckin'
 {eop}
-{tag: BBB}
+
+{c:Fade Out}
+[sop: Fade Out]
+[A5]     [D5] [A5]     [D5] [A5]     [D5] [A5]     [D5]
+{eop}
