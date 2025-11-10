@@ -48,6 +48,7 @@ I'm a power load
 {eoc}
 
 {sop: Solo}
+{c:SOLO}
 [A5][E5]T.N.T. - - - -
 {eop}
 
@@ -61,6 +62,7 @@ I'm a power load
 {eoc}
 
 {sop: Outro}
+{c:Outro half step swells starting at E}
 [E5]
 {eop}
 {tag: BBB}

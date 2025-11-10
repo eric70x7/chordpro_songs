@@ -5,6 +5,7 @@
 {tag: KAB}
 
 {sop: Intro}
+{c:SOLO intro}
 [A] [D] [A] [E]
 [D]
 [A]
@@ -68,6 +69,7 @@ Johnny B Good
 {eoc}
 
 {sop: Solo}
+{c:Solo}
 [A] [D] [A] [E]
 [A] [A] [D] [A]
 [E] [A]
@@ -99,6 +101,7 @@ Oh, go, go, Johnny, go
 {eoc}
 
 {sop: Outro}
+{c:SOLO Outro}
 [E]             [A]
 Go, Johnny B Good
 {eop}
