@@ -1,84 +1,139 @@
 {t: My Generation}
 {st: The Who}
 {key: G}
+{metronome: 96}
+{duration: 3:18}
+{tag: BBB}
+{tag: Whiskey Lizard}
 
-{sop: Intro}
-[G] [G/F]
-{eop}
+{c:Tempo 96}
+{c:Verse 1} People try to put us ddown
+{c:Chorus} This is my generation, baby
+{c:Verse 2} Why don't you all ffade away
+{c:Chorus} This is my generation, baby
+{c:Bass Solo}
+{c:Guitar Solo}
+{c:Verse 3} Why don't you all ffffade away
+{c:Chorus} This is my generation, baby
+{c:Verse 4} People try to put us ddown
+{c:Chorus} This is my generation, baby
+{c:Drum Solo}
+{c:Outro}
 
 {sop: Verse 1}
-[G]People try to [G/F]put us d-down
-[G]Talkin' 'bout my gener[G/F]ation
-[G]Just because we [G/F]get around
-[G]Talkin' 'bout my gener[G/F]ation
-[G]Things they do look [G/F]awful c-c-cold
-[G]Talkin' 'bout my gener[G/F]ation
-[G]I hope I die before I [G/F]get old
-[G]Talkin' 'bout my gener[G/F]ation
+[G] [F] [G]
+People try to put us ddown
+[F] [G] [F] [G]
+Just because we get around
+[F] [G] [F] [G]
+Things they do look awful cccold
+[F] [G] [F] [G]
+I hope I die before I get old
+[F] [G]
+This is my generation
 {eop}
 
-{sop: Chorus 1}
-This is my gener[G]ation
-This is my gener[G/F]ation, [G]baby[G/F]
-{eop}
+{soc}
+[F] [G] [F]
+This is my generation, baby
+{eoc}
 
 {sop: Verse 2}
-[G]Why don't you [G/F]all f-f-fade away
-[G]Talkin' 'bout my gener[G/F]ation
-[G]Don't try to dig what we [G/F]all s-s-say
-[G]Talkin' 'bout my gener[G/F]ation
-[G]I'm not tryin' to [G/F]cause a big s-s-sensation
-[G]Talkin' 'bout my gener[G/F]ation
-[G]I'm just talkin' 'bout my [G/F]gener-ation
-[G]Talkin' 'bout my gener[G/F]ation
+[G] [F] [G]
+Why don't you all ffade away
+[F] [G] [F] [G]
+And don't try to dig what we all sssay
+[F] [G] [F] [G]
+[F]
+I'm not trying to cause a big sssensation
+[G] [F] [G]
+I'm just talkin' 'bout my ggggeneration
+[F] [G]
+This is my generation
 {eop}
 
-{sop: Chorus 2}
-This is my gener[G]ation
-This is my gener[G/F]ation, [G]baby[G/F]
+{soc}
+[F] [G] [F]
+This is my generation, baby
+{eoc}
+
+{sop: Bass Solo}
+[G] [F] [G] [F] [G] [F] [G] [F]
+[G] [F] [G] [F]
+- - -
 {eop}
 
-{sop: Bridge 1}
-[A] [A/G]
+{sop: Guitar Solo}
+[G] [F] [G] [F] [G] [F]
+- - -
 {eop}
 
 {sop: Verse 3}
-[A]Why don't you [A/G]all f-f-fade away
-[A]Talkin' 'bout my gener[A/G]ation
-[A]Don't try to [A/G]dig what we all s-s-say
-[A]Talkin' 'bout my gener[A/G]ation
-[A]I'm not tryin' to [A/G]cause a big s-s-sensation
-[A]Talkin' 'bout my gener[A/G]ation
-[A]I'm just talkin' 'bout my [A/G]gener-ation
-[A]Talkin' 'bout my gener[A/G]ation
+[A] [A] [G]
+Why don't you all ffffade away
+[A] [A] [G]
+Yeah don't try and ddig what we all ssssssssay
+[A] [A]
+Not trying to cause big sensation
+[G] [A] [A]
+I'm just talkin' 'bout my ggeneration
+[G] [A]
+This is my generation
 {eop}
 
-{sop: Chorus 3}
-This is my gener[A]ation
-This is my gener[A/G]ation, [A]baby[A/G]
-{eop}
-
-{sop: Bridge 2}
-[Bb] [Bb/Ab]
-{eop}
+{soc}
+[G] [A] [G]
+This is my generation, baby
+[A] [G] [A]
+My, my, gengeneration, my, my,
+[G] [A#] [G#]
+Oh my my, my, my, my, generation
+[A#] [G#]
+My, my, my, generation
+{eoc}
 
 {sop: Verse 4}
-[Bb]People try to [Bb/Ab]put us d-down
-[Bb]Talkin' 'bout my gener[Bb/Ab]ation
-[Bb]Just because we [Bb/Ab]get around
-[Bb]Talkin' 'bout my gener[Bb/Ab]ation
-[Bb]Things they do look [Bb/Ab]awful c-c-cold
-[Bb]Talkin' 'bout my gener[Bb/Ab]ation
-[Bb]I hope I die before I [Bb/Ab]get old
-[Bb]Talkin' 'bout my gener[Bb/Ab]ation
+[A#] [A#]
+People try to put us ddown
+[G#] [A#] [A#] [G#]
+Just because we gggget around
+[A#] [A#]
+Things they do look awful cccold
+[G#] [A#] [A#]
+Yeah I hope I die before I get old
+[G#] [A#]
+My generation
 {eop}
 
-{sop: Chorus 4}
-This is my gener[Bb]ation
-This is my gener[Bb/Ab]ation, [Bb]baby[Bb/Ab]
+{soc}
+[A#] [G#]
+This is my generation, baby
+[A#] [A#] [G#]
+My my, my, my, my, my, generation, generation
+{eoc}
+
+{sop: Drum Solo}
+[C] [A#] [C] [A#] [C] [A#] [C] [A#]
+[C] [A#] [C] [A#] [C] [A#] [C] [A#]
+[C] [A#] [C] [A#]
+- - -
 {eop}
 
 {sop: Outro}
-[Bb] [Bb/Ab] [Bb] [Bb/Ab]
+[C] [A#]
+Talkin' 'bout my generation
+[C] [A#]
+Talkin' 'bout my generation
+[C] [A#]
+Talkin' 'bout my generation
+[C] [A#]
+Talkin' 'bout my generation
+[C] [A#]
+Talkin' 'bout my generation
+[C] [A#]
+Talkin' 'bout my generation
+[C] [A#]
+Talkin' 'bout my generation
+[C] [A#] [C]
+Talkin' 'bout my generation
 {eop}
-{tag: BBB}

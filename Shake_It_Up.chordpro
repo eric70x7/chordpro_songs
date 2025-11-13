@@ -1,107 +1,163 @@
 {t: Shake It Up}
 {st: The Cars}
 {key: C}
+{metronome: 146}
+{duration: 3:32}
+{tag: Whiskey Lizard}
+
+{c:Tempo 146}
+{c:Intro}
+{c:Verse 1} Oh well, dance all night, play all day
+{c:Chorus} Shake it up
+{c:Verse 2} Oh well, dance all night, get realloose
+{c:Chorus} Oohooh, shake it up
+{c:Bridge} And dance all night
+{c:Solo}
+{c:Verse 3} Well, dance all night, whirl your hair
+{c:Chorus} Ooh ooh, shake it up
+{c:Bridge} And get so light
+{c:Verse 4} Shake it up. Make a scene
+{c:Chorus} Ooh ooh, shake it up
+{c:Outro}
 
 {sop: Intro}
-[C][Am][A#][C]
-[Am]
+[C] [Am] [A#] [C] [Am]
+- - -
 {eop}
 
 {sop: Verse 1}
-[A#]Oh well, dance all [C]night, play all day.
-[Am]Don't let nothing get in the way.
-[C]Dance all night, keep the beat.
-[Am]Don't you worry 'bout two left feet.
-[C]Shake it up.
+[A#] [C]
+Oh well, dance all night, play all day
+[Am]
+Don't let nothing get in the way
+[C]
+Dance all night, keep the beat
+[Am]
+Don't you worry 'bout two left feet
 {eop}
 
 {soc}
-[Am]Shake it up.
-[A#]Ooh yeah, shake it [C]up.
-[Am]Just shake it up.
+[C]
+Shake it up
+[Am]
+Shake it up
+[A#] [C]
+Ooh yeah, shake it up
+[Am]
+Just shake it up
 {eoc}
 
 {sop: Verse 2}
-[A#]Oh well, dance all [C]night, get realloose.
-[Am]You don't need no bad excuse.
-[C]Dance all night with anyone.
-[Am]Don't let nobody pick your fun.
-[C]Shake it up.
+[A#] [C]
+Oh well, dance all night, get realloose
+[Am]
+You don't need no bad excuse
+[C]
+Dance all night with anyone
+[Am]
+Don't let nobody pick your fun
 {eop}
 
 {soc}
-[Am]Oohooh, shake it up.
-[A#]Yeah hm yeah, shake it [C]up.
-[Am]Oohooh, shake it up.
-[A#]That's right, I said dance all [C]night.
+[C]
+Shake it up
+[Am]
+Oohooh, shake it up
+[A#] [C]
+Yeah hm yeah, shake it up
+[Am]
+Oohooh, shake it up
+[A#] [G]
+That's right, I said dance all night
 {eoc}
 
-{sop: Bridge 1}
-[Am]And dance all night.
-Go all night.
-[Am]Well, shake it [F]up with all you've [G]got, woo.
+{sop: Bridge}
+[Am] [G]
+And dance all night
+[Am] [G]
+Go all night
+[Am] [F] [G]
+Well, shake it up with all you've got, woo
 {eop}
 
 {sop: Solo}
-[C][Am][A#][C]
-[Am][A#][C][Am]
-[A#][C][Am]
+[C] [Am] [A#] [C] [Am] [A#]
+[C] [Am] [A#] [C] [Am]
+- - -
 {eop}
 
 {sop: Verse 3}
-[A#]Well, dance all [C]night, whirl your hair.
-[Am]Make the night cats stop and stare.
-[C]Dance all night, go to work.
-[Am]Do the move with the quirky jerk.
-[C]Just shake it up.
+[A#] [C]
+Well, dance all night, whirl your hair
+[Am]
+Make the night cats stop and stare
+[C]
+Dance all night, go to work
+[Am]
+Do the move with the quirky jerk
 {eop}
 
 {soc}
-[Am]Ooh ooh, shake it up.
-[A#]Oh yeah, shake it [C]up.
-[Am]Shake it up.
-[A#]Oh well, dance all [G]night.
+[C]
+Just shake it up
+[Am]
+Ooh ooh, shake it up
+[A#] [C]
+Oh yeah, shake it up
+[Am]
+Shake it up
+[A#] [G]
+Oh well, dance all night
 {eoc}
 
-{sop: Bridge 2}
-[Am]And get so light.
-Dance all night.
-[Am]Well, shake it [F]up with all you've [G]got, woo.
+{sop: Bridge}
+[Am] [G]
+And get so light
+[Am] [G]
+Dance all night
+[Am] [F] [G]
+Well, shake it up with all you've got, woo
 {eop}
 
 {sop: Verse 4}
-[C]Shake it up.
-[Am]Make a scene.
-Let them know what you really mean.
-[C]Dance all night, keep a beat.
-[Am]And don't you worry 'bout two left feet.
-[C]Shake it up.
+[C]
+Shake it up. Make a scene
+[Am]
+Let them know what you really mean
+[C]
+Dance all night, keep a beat
+[Am]
+And don't you worry 'bout two left feet
 {eop}
 
 {soc}
-[Am]Ooh ooh, shake it up.
-[A#]Ooh ooh yeah, shake it [C]up.
-[Am]Ooh ooh, shake it up.
+[C]
+Shake it up
+[Am]
+Ooh ooh, shake it up
+[A#] [C]
+Ooh ooh yeah, shake it up
+[Am]
+Ooh ooh, shake it up
 {eoc}
 
 {sop: Outro}
-[A#]Shake it up, shake it [C]up.
-Shake it up baby.
-[Am]Shake it up, shake it up.
-[A#]Ooh ooh, shake it [C]up.
-Shake it up.
-Shake it up.
-Shake it up.
-[A#]Ooh ooh, shake it [C]up.
-[A#]Ooh ooh, shake it [C]up.
-[A#]Ooh ooh, shake it up, shake it [C]up.
-[A#]Ooh ooh, shake it up, shake it [C]up.
-[A#]Ooh ooh, shake it up, shake it [C]up.
-[A#]Ooh ooh, shake it up, shake it [C]up.
-[A#]Ooh ooh, shake it up, shake it [C]up.
-[A#]Ooh ooh, shake it up, shake it [C]up.
-[A#]Ooh ooh, shake it up, shake it [C]up.
-[A#]Ooh ooh, shake it up, shake it [C]up.
-[A#]Ooh ooh, shake it up, shake it [C]up.
+[A#] [C]
+Shake it up, shake it up. Shake it up baby
+[Am]
+Shake it up, shake it up
+[A#] [C]
+Ooh ooh, shake it up. Shake it up. Shake it up baby
+[Am]
+Shake it up, shake it up
+[A#] [C]
+Ooh ooh, shake it up, shake it up
+[Am]
+Ooh ooh, shake it up, shake it up
+[A#] [C]
+Ooh ooh, shake it up, shake it up
+[Am]
+Ooh ooh, shake it up, shake it up
+[A#]
+Ooh ooh, shake it...
 {eop}
-{tag: BBB}
