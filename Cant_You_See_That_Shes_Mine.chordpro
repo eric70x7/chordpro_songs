@@ -1,68 +1,125 @@
 {t: Can't You See That She's Mine}
 {st: The Dave Clark Five}
 {key: D}
+{metronome: 132}
+{duration: 2:22}
+{tag: BBB}
+{tag: Whiskey Lizard}
 
-{sop: Intro}
-{sot}
-e|--3--2--1--0--------------------|
-B|--------------------------------|
-G|--3--2--1--0--------------------|
-D|--------------------------------|
-A|--------------------------------|
-E|--------------------------------|
-{eot}
-{eop}
+{c:Tempo 132}
+{c:Verse 1} Can't you see that she's mine?
+{c:Verse 2} And don't you know I love her so
+{c:Chorus} People talk and try to break us up
+{c:Verse 3} Can't you see that she's mine?
+{c:Solo}
+{c:Verse 4} And don't you know I love her so?
+{c:Outro}
 
 {sop: Verse 1}
-Whoa
-[D7]Can't you see that she's mine[G7]
-We've been together [D7]for a long, long time[G7]
-[D7]And yet they try so very hard, to pull us apart[A7]
-For we don't care[D7] what they say[G7]
-We're gonna k[D7]eep on lovin this way[G7]
-But if they [D7]break us up
-[A7]You know they'll only break my [D7]heart
+[G7] [D7]
+Woh
+[D7]
+Can't you see that she's mine?
+[G7]                      [D7]
+We've been together for a long, long time
+And yet they try so very hard,
+[A7]
+to pull us apart
+[D7]
+But we don't care what they say,
+[G7]
+we're gonna keep on loving this way
+[D7]
+'Cause if they break us up,
+[A7]                       [D7]
+you know it'll only break my heart
 {eop}
 
 {sop: Verse 2}
-[D7]Oh, don't you know I love her so[G7]
-I'll never, [D7]never ever let her go[G7]
-No matter what [D7]the people may say or try to do[A7]
-'Cause can't you see[D7] that she's mine
-We've been together [G7]for a long, long time
-And it'll [D7]stay that way, be[A7]cause I know she'll love me, [D7]too
+[D7]
+And don't you know I love her so
+[G7]                      [D7]
+I'll never, never, never let her go
+No matter what the people may say
+[A7]
+Or try to do
+[D7]
+'Cause can't you see that she's mine?
+[G7]                      [D7]
+We've been together for a long, long time
+And it'll stay that way
+[A7]                       [D7]
+Because I know she'll love me too
 {eop}
 
 {soc}
-[A7]People talk, they try to break us up
-[D7]When they know they don't understand
-[E7]But I don't care what the people may say
-[A7]I'm gonna keep on holding her [A7]hand
+[A7]
+People talk and try to break us up
+[D7]
+When they know they don't understand
+[E7]
+But I don't care what the people may say
+[A7]                  [G7]
+I'm gonna keep on holding her hand
 {eoc}
 
 {sop: Verse 3}
-[D7]Can't you see that she's mine[G7]
-We've been together [D7]for a long, long time[G7]
-[D7]And yet they try so very hard, to pull us apart[A7]
-For we don't care[D7] what they say[G7]
-We're gonna k[D7]eep on lovin this way[G7]
-But if they [D7]break us up
-[A7]You know they'll only break my [D7]heart
+[D7]
+Can't you see that she's mine?
+[G7]                      [D7]
+We've been together for a long, long time
+And yet they try so very hard,
+[A7]
+to pull us apart
+[D7]
+But we don't care what they say,
+[G7]
+we're gonna keep on loving this way
+[D7]
+'Cause if they break us up,
+[A7]                       [D7]
+you know it'll only break my heart
 {eop}
 
 {sop: Solo}
-[D]  [G]  [D]  [G]
-[D]  -   [A]  -
-[D]  -   [G]  -
-[D]  [A]  [D]  -
+[D7] [G7] [D7] [G7]
+[D7] [A7] [D7] [G7]
+[D7] [A7] [D7]
+- - -
 {eop}
 
+{soc}
+[A7]
+People talk and try to break us up
+[D7]
+When they know they don't understand
+[E7]
+But I don't care what the people may say
+[A7]                  [G7]
+I'm gonna keep on holding her hand
+{eoc}
+
 {sop: Verse 4}
-[D7]Oh, don't you know I love her so[G7]
-I'll never, [D7]never ever let her go[G7]
-No matter what [D7]the people may say or try to do[A7]
-'Cause can't you see[D7] that she's mine
-We've been together [G7]for a long, long time
-And it'll [D7]stay that way, be[A7]cause I know she'll love me, [D7]too
+[D7]
+And don't you know I love her so?
+[G7]                      [D7]
+I'll never, never, never let her go
+No matter what the people may say,
+[A7]
+or try to do
+[D7]
+'Cause can't you see that she's mine?
+[G7]                      [D7]
+We've been together for a long, long time
+And it'll stay that way,
+[A7]                       [D7]
+because I know she'll love me too
+[D7]
+And it'll stay that way,
+[A7]                       [D7]
+Because I know she'll love me too
 {eop}
-{tag: BBB}
+
+{sop: Outro}
+[G7] [D7] [D9]
+{eop}

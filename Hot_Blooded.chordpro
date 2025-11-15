@@ -1,66 +1,141 @@
 {t: Hot Blooded}
 {st: Foreigner}
 {key: G}
+{metronome: 108}
+{duration: 4:28}
+{tag: BBB}
+
+{c:Tempo 108}
+{c:Intro}
+{c:Chorus} Well, I'm hot blooded, check it and see
+{c:Verse 1} You don't have to read my mind
+{c:Pre-Chorus} Now it's up to you
+{c:Chorus} That's why, I'm hot blooded, check it and see
+{c:Verse 2} If it feels alright, maybe you can stay all night
+{c:Pre-Chorus} Are you old enough?
+{c:Chorus} Yeah I'm hot blooded, check it and see
+{c:Solo}
+{c:Pre-Chorus} Now it's up to you, we can make a secret rendezvous
+{c:Chorus} Well, I'm hot blooded, check it and see
+{c:Outro}
 
 {sop: Intro}
-[G5][G][C]
+[G5] [G] [C]
+- - -
 {eop}
 
 {soc}
-Well, I'm [G]hot blooded, [C]check it and see
+[G] [C] [G] [C]
+Well, I'm hot blooded, check it and see
+[G] [C]
 I got a fever of a hundred three
+[G] [C]
 Come on baby, do you do more than dance?
-[D]I'm hot blooded, hot blooded
+[D]
+I'm hot blooded, hot blooded
 {eoc}
 
 {sop: Verse 1}
-[G5][F5][C5]
+[G5] [F5] [C5] [G5] [F5] [C5] [G5]
 You don't have to read my mind, to know what I have in mind
+[F5] [C5] [G5]
 Honey you oughta know
+[F5] [C5] [G5] [F5] [C5] [G5]
 Now you move so fine, let me lay it on the line
+[F5] [C5] [G5] [F5] [C5] [G5]
 I wanna know what you're doin' after the show
 {eop}
 
-{sop: Bridge 1}
-[C5][D5][F5][C5][C5][D5][E5][C5]
-Now it's up to you, we can make a secret rendezvous oh
-Before we do, you have to get away from you know who
+{sop: Pre-Chorus}
+[F5] [C5] [C5] [D5] [C5] [D5]
+Now it's up to you, we can make a secret rendezvous
+[F5] [C5] [C5] [D5] [C5] [D5]
+Just me and you, I'll show you lovin' like you never knew
 {eop}
 
 {soc}
-Yeah, I'm [G]hot blooded, [C]check it and see
-I got a fever burnin inside of me
+[F5] [D5] [A#5] [G5] [G] [C]
+That's why, I'm hot blooded, check it and see
+[G] [C]
+I got a fever of a hundred three
+[G] [C]
 Come on baby, do you do more than dance?
-[D]I'm hot blooded, hot blooded
+[D]
+I'm hot blooded, hot blooded
 {eoc}
 
-[Lead over Verse x2]
+{sop: Verse 2}
+[G5] [F5] [C5] [G5] [F5] [C5] [G5]
+If it feels alright, maybe you can stay all night
+[F5] [C5] [G5]
+Shall I leave you my key?
+[F5] [C5] [G5] [F5] [C5] [G5]
+But you've got to give me a sign, come on girl, some kind of sign
+[F5] [C5] [G5] [F5] [C5] [G5]
+Tell me, are you hot mama? you sure look that way to me
+{eop}
 
-{c:G Pent}
+{sop: Pre-Chorus}
+[F5] [C5] [C5] [D5] [C5] [D5]
+Are you old enough? will you be ready when I call you bluff?
+[E5] [C5] [C5] [D5] [C5] [D5]
+[F5] [C5] [C5] [D5] [C5] [D5]
+Is my timing right? did you save your love for me to__night?
+{eop}
 
-{sop: Bridge 2}
-[C5][D5][F5][C5][C5][D5][E5][C5]
+{soc}
+[F5] [D5] [A#5] [G5] [G] [C]
+Yeah I'm hot blooded, check it and see
+[G] [C]
+I feel the fever burnin' inside of me
+[G] [C]
+Come on baby, do you do more than dance?
+[D]
+I'm hot blooded, hot blooded
+{eoc}
+
+{sop: Solo}
+[G5] [F5] [C5] [G5] [F5] [C5]
+[G5] [F5] [C5] [G5] [F5] [C5]
+[G5] [F5] [C5] [G5] [F5] [C5] [G5]
+- - -
+{eop}
+
+{sop: Pre-Chorus}
+[F5] [C5] [C5] [D5] [C5] [D5]
+[F5] [C5] [C5] [D5] [C5] [D5]
 Now it's up to you, we can make a secret rendezvous oh
+[C5] [D5] [C5] [D5]
+[F5] [C5] [C5] [D5] [C5] [D5]
 Before we do, you have to get away from you know who
 {eop}
- 
+
 {soc}
-Well, I'm [G]hot blooded, [C]check it and see
+[F5] [D5] [A#5] [G5] [G] [C]
+Well, I'm hot blooded, check it and see
+[G] [C]
 I got a fever of a hundred three
+[G] [C]
 Come on baby, do you do more than dance?
-[D]I'm hot blooded, hot blooded
+[D]
+I'm hot blooded, hot blooded
 {eoc}
 
 {sop: Outro}
-[G]Every [C]night
+[G] [C]
+Every night
+[G] [C]
 You're looking so tight
+[G] [C]
 Now you're driving me wild
-[D]I'm so hot for you, child
-[G]I'm a little bit [C]high
+[D]
+I'm so hot for you, child
+[G] [C]
+I'm a little bit high
+[G] [C]
 You're a little bit shy
+[G] [C]
 You're making me sing
-[D]For your sweet sweet thing
-[Fade Out]
-[G][C] - - - -
-[G][C] - - - -
+[D]
+For your sweet sweet thing
 {eop}

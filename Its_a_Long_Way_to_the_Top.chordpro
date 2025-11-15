@@ -30,6 +30,8 @@ It's a long way to the top if you wanna rock 'n' roll
 {eoc}
 
 {sop: Solo}
+{c:Bagpipe riff x2}
+{c:Bagpipe guitar call/response}
 [A] [G] [D] [A] [G] [D]
 [A] [G] [D] [A] [G] [D]
 [A]
@@ -47,7 +49,7 @@ That's how it goes, playin' in a band
 {eop}
 
 {soc}
-[A]
+[A]              [G]         [D]             [A]
 It's a long way to the top if you wanna rock 'n' roll
 [A]              [G]         [D]             [A]
 It's a long way to the top if you wanna rock 'n' roll
@@ -59,20 +61,17 @@ Look out it is rough and mean
 It's a long way to the top if you wanna rock 'n' roll
 [G]              [D]                        [A]
 It's a long way to the top if you wanna rock 'n' roll
-[G]              [D]                        [A]
-It's a long way to the top if you wanna rock 'n' roll
-[G]              [D]                        [A]
-It's a long way to the top if you wanna rock 'n' roll
-{eoc}
-
-{sop: Bridge 1}
 [A]
-It's a long way, you should've told me
-It's a long way, such a long way
-{eop}
+It's a long way
+[A]
+It's a long way
+[A]
+It's a long way
+[A]
+It's a long way
+{eoc}
 
 {sop: Outro}
 [A]
-It's a long way to the top if you wanna rock 'n' roll
 {eop}
 {tag: BBB}

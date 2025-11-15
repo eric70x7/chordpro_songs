@@ -26,10 +26,11 @@ Blood on the streets
 Blood on the rocks
 Blood in gutter
 Every last drop
- You want blood, you got it
+You want blood, you got it
 {eoc}
-[Dsus4] [D] [Dsus4] [A] [D] [A] [D] [G] [D] [A] [D] [A] [D]
+[Dsus4] [D] [Dsus4] 
 
+[A] [D] [A] [D] [G] [D] [A] [D] [A] [D]
 
 {sop: Verse 2}
 [G] [D]     [A]     [D] [A] [D]
@@ -56,16 +57,25 @@ You want blood, you got
 
 {sop: Solo}
 {c: Lead}
-[A] [D] [A] [D] [G] [D] 
+[A] [D] [A] [D] [G] [D] x4
 {eop}
 
-{soc}
-[A]        [D]     [A] [D] [Dsus4] [A]           [D]     [A]
-It blood on the rocks blood on the
-Streets blood in the sky blood on the
-Sheets
-If you want blood you got it
-{eoc}
+{sop: Bridge}
+{c:Bridge}
+[A]        [D]     [A] [D] [Dsus4] [A]
+[A]        [D]     [A] [F#] [G] [C]
+
+[A]        [D]     [A] [D] [Dsus4] [A]
+It blood on the rocks 
+[A]        [D]     [A] [F#] [G] [C]
+Blood on the streets 
+[A]        [D]     [A] [D] [Dsus4] [A]
+Blood in the sky 
+[A]        [D]     [A] [F#] [G] [C]
+Blood on the sheets
+[A]
+If you want blood - you got it
+{eop}
 
 {sop: Outro}
 [G]

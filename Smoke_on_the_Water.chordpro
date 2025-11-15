@@ -2,91 +2,108 @@
 {st: Deep Purple}
 {key: G}
 {metronome: 114}
-{duration: 5:41}
+{duration: 5:40}
+{tag: BBB}
 
 {c:Tempo 114}
 {c:Intro}
+{c:Verse 1} We all came out to Montreux
+{c:Chorus} Smoke on the water
+{c:Verse 2} It burned down the gambling house
+{c:Chorus} Smoke on the water
+{c:Guitar Solo}
+{c:Verse 3} We ended up at the Grand hotel
+{c:Chorus} Smoke on the water
+{c:Outro}
+
 {sop: Intro}
 [G5]
+- - -
 {eop}
 
-{c:Verse 1} We all came out to Montreux,
-[sop: Verse 1]
+{sop: Verse 1}
 [G5]
 We all came out to Montreux,
 [F5] [G5]
-On the lake Geneva shoreline.
-To make records with a mobile.
-We didn't have much time.
+On the lake Geneva shoreline
+To make records with a mobile
+[F5] [G5]
+We didn't have much time
 But Frank Zappa an the Mothers,
-Were at the best place around.
+[F5] [G5]
+Were at the best place around
 But some stupid with a flare gun,
-Burned the place to the ground.
+[F5] [G5]
+Burned the place to the ground
 {eop}
 
-{c:Chorus}
-[soc]
+{soc}
 [C5] [G#5]
 Smoke on the water,
 [G5]
-And fire in the sky.
+And fire in the sky
 [C5] [G#5] [G5]
-Smoke on the water.
+Smoke on the water
 {eoc}
 
-{c:Verse 2} It burned down the gambling house,
-[sop: Verse 2]
+{sop: Verse 2}
 [G5]
 It burned down the gambling house,
 [F5] [G5]
-it died with an awful sound.
+it died with an awful sound
 A Funky Claude was running in and out,
-Pulling kinds on the ground.
+[F5] [G5]
+Pulling kinds on the ground
 When it all was over,
-We had to find another place.
-Swiss time was running out.
-It seemed that we would lose the race.
+[F5]
+We had to find another place
+[G5]
+Swiss time was running out
+[F5] [G5]
+It seemed that we would lose the race
 {eop}
 
-{c:Chorus}
-[soc]
+{soc}
 [C5] [G#5]
 Smoke on the water,
 [G5]
-and fire in the sky.
+and fire in the sky
 [C5] [G#5] [G5]
-Smoke on the water.
+Smoke on the water
 {eoc}
 
-{c:Guitar Solo}
-[sop: Guitar Solo]
-[G5] [C5] [G5] [C5] [G5] [G5] [C5] [G5] [F5] [G5] [C5] [F] [G5]
+{sop: Guitar Solo}
+[G5] [C5] [G5] [C5] [G5]
+[G5] [C5] [G5] [F5]
+[G5] [C5] [F] [G5]
+- - -
 {eop}
 
-{c:Verse 3} We ended up at the Grand hotel.
-[sop: Verse 3]
+{sop: Verse 3}
 [G5]
-We ended up at the Grand hotel.
-It was empty, cold and dead.
+We ended up at the Grand hotel
+[F5] [G5]
+It was empty, cold and dead
 But with the Rolling truck Stones staying just outside,
-ha, making our music there.
+[F5] [G5]
+ha, making our music there
 With a few red lights, a few old beds,
-we made a place to sweat.
+[F5] [G5]
+we made a place to sweat
 No matter what we get out of this,
-I know, I know we'll never forget.
+[F5] [G5]
+I know, I know we'll never forget
 {eop}
 
-{c:Chorus}
-[soc]
+{soc}
 [C5] [G#5]
 Smoke on the water,
 [G5]
-and fire in the sky.
+and fire in the sky
 [C5] [G#5] [G5]
-Smoke on the water.
+Smoke on the water
 {eoc}
 
-{c:Outro}
-[sop: Outro]
+{sop: Outro}
 [G5]
 {eop}
