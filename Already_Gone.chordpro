@@ -1,96 +1,119 @@
 {t: Already Gone}
-{st: The Eagles}
+{st: Eagles}
 {key: G}
+{metronome: 146}
+{duration: 4:16}
+
+{c:Tempo 146}
+{c:Intro}
+{c:Verse 1} Well, I heard some people talkin' just the other day
+{c:Chorus}
+{c:Verse 2} The letter that you wrote me made me stop and wonder why
+{c:Chorus}
+{c:Solo}
+{c:Verse 3} Well, I know it wasn't you who held me down
+{c:Chorus}
+{c:Outro}
+{c:Fade Out}
 
 {sop: Intro}
-[G] [D] [C] [G]
+[G]         [D]         [C]         [G]
 [D]
 [C]
-- -
 {eop}
 
 {sop: Verse 1}
-[G]                    [D]                   [C]
+        [G]                               [D]                   [C]
 Well, I heard some people talkin' just the other day
+         [G]                          [D]                 [C]
 And they said you were gonna put me on a shelf
+                  [G]                        [D]
 But let me tell I got some news for you
+               [C]
 And you'll soon find out it's true
+                [G]                         [D]               [C]
 And then you'll have to eat your lunch all by yourself
-'Cause I'm
 {eop}
 
 {soc}
-[G] [D]         [C]
-Already gone
-[G]          [C]
+[G]   [D]               [C]
+'Cause I'm already gone
+               [G]          [C]
 And I'm feelin' strong
-[G] [D]                 [C]
-I will sing this vict'ry song
-[G]   [D]              [C]
+               [G]   [D]                     [C]
+I will sing   this vict'ry song
+                [G]   [D]              [C]
 Woo hoo hoo, my my, woo hoo hoo
 {eoc}
 
 {sop: Verse 2}
-[G]                  [D]             [C]
+    [G]                          [D]             [C]
 The letter that you wrote me made me stop and wonder why
+      [G]                              [D]                       [C]
 But I guess you felt like you had to set things right
+[G]                        [D]                  [C]
 Just remember this, my girl, when you look up in the sky
+        [G]                          [D]                 [C]
 You can see the stars and still not see the light that's right
-'Cause I'm
 {eop}
 
 {soc}
-[G] [D]         [C]
-Already gone
-[G]          [C]
+[G]   [D]               [C]
+'Cause I'm already gone
+               [G]          [C]
 And I'm feelin' strong
-[G] [D]                 [C]
-I will sing this vict'ry song
-[G]   [D]              [C]
+               [G]   [D]                     [C]
+I will sing   this vict'ry song
+                [G]   [D]              [C]
 Woo hoo hoo, my my, woo hoo hoo
 {eoc}
 
 {sop: Solo}
-[G] [D] [C] [G]
-[D] [C] [G] [D]
-[C] [G] [D] [C]
-- -
+[G]   [D]   [C]   [G]
+[D]   [C]   [G]   [D]
+[C]   [G]   [D]   [C]
 {eop}
 
 {sop: Verse 3}
-[G]                 [D]                [C]
+        [G]                         [D]                [C]
 Well, I know it wasn't you who held me down
+       [G]                          [D]               [C]
 Heaven knows it wasn't you who set me free
+   [G]                     [D]            [C]
 So often times it happens that we live our lives in chains
+       [G]                  [D]               [C]
 And we never even know we have the key
 {eop}
 
 {soc}
-[G] [D]         [C]
+                [G]   [D]               [C]
 But me, I'm already gone
-[G]          [C]
+               [G]          [C]
 And I'm feelin' strong
-[G] [D]                 [C]
-I will sing this vict'ry song
-[G]         [C]
+               [G]   [D]                     [C]
+I will sing   this vict'ry song
+                 [G]         [C]
 'Cause I'm already gone
 {eoc}
 
 {sop: Outro}
-[C] [G]         [F]
-Already gone
-[C] [G]         [F]
-And I'm feelin' strong
-[C] [G]                [F]
-I will sing this vict'ry song
-[C] [G]        [F]
+[C]   [G]             [F]
 'Cause I'm already gone
-[C] [G]        [F]
-Yes, I'm already gone
-[C] [G]         [F]
-And I'm feelin' strong
-[C] [G]                [F]
+               [C]   [G]             [F]
+And I'm fee_lin' strong
+               [C]   [G]                    [F]
+I will sing  this vict'ry song
+                 [C]   [G]            [F]
+'Cause I'm al_ready gone
+               [C]   [G]            [F]
+Yes, I'm al_ready gone
+               [C]   [G]             [F]
+And I'm fee_lin' strong
+{eop}
+
+{sop: Fade Out}
+[C]   [G]                    [F]
 I will sing this vict'ry song
-[C] [G]        [F]
-'Cause I'm already gone
+                 [C]   [G]            [F]
+'Cause I'm al_ready gone
 {eop}
