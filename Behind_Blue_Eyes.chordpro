@@ -2,129 +2,141 @@
 {st: The Who}
 {key: Em}
 {metronome: 126}
-{duration: 3:42}
+{duration: 3:41}
+{tag: Eric Sings}
+{tag: Whiskey Lizard}
 
 {c:Tempo 126}
 {c:Intro}
-[sop: Intro]
-[Em] [Gadd13] [Dsus2] [Cadd9] [Asus2]
+{c:Verse 1} No one knows what it's like
+{c:Chorus} They aren't as empty
+{c:Verse 2} No one knows what it's like
+{c:Chorus} They aren't as empty
+{c:Interlude}
+{c:Verse 3} When my fist clenches, crack it open
+{c:Verse 4} And if I swallow anything evil
+{c:Solo}
+{c:Bridge}
+{c:Outro}
+
+{sop: Intro}
+[Em]
+- - -
 {eop}
 
-{c:Verse 1} No one knows what it's like
-[sop: Verse 1]
-[Em] [Gadd13]
+{sop: Verse 1}
+[Em]                          [G] 
 No one knows what it's like
-[Dsus2]
+                 [D]
 To be the bad man
-[Cadd9]
+                   [Cadd9]
 To be the sad man
-[A]
+[Aadd9]
 Behind blue eyes
-
-[Em] [Gadd13]
-And no one knows what it's like
-[Dsus2]
+[Em]                             [G] 
+No one knows what it's like
+           [D]
 To be hated
 [Cadd9]
 To be fated
-[A]
+[Aadd9]
 To telling only lies
 {eop}
 
-{c:Chorus}
-[soc]
-[Cadd9] [D] [G]
-But my dre__ams
+{soc}
+[C]
+But my dreams
+[D]                  [G]
 They aren't as empty
-[Cadd9] [D] [E]
+              [C]                [D]         [E]
 As my conscience seems to be
-[Bm] [C] [D]
+[Bm]                       [C]
 I have hours, only lonely
+[D]
 My love is vengeance
 [Asus2]
 That's never free
 {eoc}
 
-{c:Verse 2} No one knows what it's like
-[sop: Verse 2]
-[Em] [Gadd13]
+{sop: Verse 2}
+[Em]                                 [G] 
 No one knows what it's like
-[Dsus2]
+                         [D]
 To feel these feelings
-[Cadd9]
+        [Cadd9]
 Like I do
-[Asus2]
+              [Aadd9]
 And I blame you
-
-[Em] [Gadd13]
+[Em]                          [G] 
 No one bites back as hard
-[Dsus2]
+                 [D]
 On their anger
-[Cadd9]
+                     [Cadd9]
 None of my pain and woe
-[Asus2]
+                 [Aadd9]
 Can show through
 {eop}
 
-{c:Chorus}
-[soc]
-[Cadd9] [D] [G]
-But my dre__ams
+{soc}
+[C]
+But my dreams
+[D]                  [G]
 They aren't as empty
-[Cadd9] [D] [E]
+                  [C]         [D]         [E]
 As my conscience seems to be
-[Bm] [C] [D]
+[Bm]                       [C]
 I have hours, only lonely
+[D]
 My love is vengeance
 [Asus2]
 That's never free
 {eoc}
 
-{c:Bridge}
-[sop: Bridge]
-[Em] [Gadd13] [Dsus2] [Cadd9] [Asus2]
-[Em] [Gadd13] [Dsus2] [Cadd9] [Asus2]
+{sop: Interlude}
+[E] [Bm] [A]
+[E] [Bm] [A]
 {eop}
 
-{c:Verse 3} No one knows what its like
-[sop: Verse 3]
-[Em] [Gadd13] [Dsus2]
-No one knows what its like
-To be mistreated,
-[Cadd9]
-to be defeated
-[Asus2]
-Behind blue eyes
-
-[Em] [Gadd13]
-No one knows how to say
-[Dsus2] [Cadd9] [Asus2]
-That they're sorry and don't worry
-I'm not telling lies
+{sop: Verse 3}
+[E] [Bm] [A]
+When my fist clenches, crack it open
+[E] [Bm] [G] [D]
+Before I use it and lose my cool
+[Bm] [A] [D]
+When I smile, tell me some bad news
+[Bm] [A] [E] [Bm] [A]
+Before I laugh and act like a fool
 {eop}
 
-{c:Chorus}
-[soc]
-[Cadd9] [D] [G]
-But my dre__ams
-They aren't as empty
-[Cadd9] [D] [E]
-As my conscience seems to be
-[Bm] [C] [D]
-I have hours, only lonely
-My love is vengeance
-[Asus2]
-That's never free
-{eoc}
+{sop: Verse 4}
+[E] [Bm] [A] [E]
+And if I swallow anything evil
+[Bm] [G] [D]
+Put your finger down my throat
+[Bm] [A] [D]
+And if I shiver, please give me a blanket
+[Bm] [A] [E]
+Keep me warm, let me wear your coat
+{eop}
 
-{c:Outro} No one knows what it's like
-[sop: Outro]
-[Em] [Gadd13]
+{sop: Solo}
+[Bm] [A] [E] [Bm] [A]
+- - -
+{eop}
+
+{sop: Bridge}
+[B] [A] [G] [D]
+[B] [A] [G] [D]
+[B] [A] [G] [D] [B]
+{eop}
+
+{sop: Outro}
+[Em]
 No one knows what it's like
-[Dsus2]
+[G] [D]
 To be the bad man
-[Cadd9]
+[Dsus4] [D] [Cadd9]
 To be the sad man
-[A]
+[Asus2]
 Behind blue eyes
 {eop}
