@@ -1,40 +1,18 @@
 {t: Turn the Page}
 {st: Metallica}
-{key: Em}
-{metronome: 78}
-{duration: 5:13}
-
-
-
-{c:Tempo 78}
-{c:Intro}
-{c:Verse 1} On a long and lonesome highway east of Omaha
-{c:Chorus} Here I am on the road again
-{c:Verse 2} So you walk into this restaurant
-{c:Chorus} Here I am on the road again
-{c:Verse 3} Out there in the spotlight, you're a million miles away
-{c:Interlude}
-{c:Solo}
-{c:Chorus} And here I am on the road again
-{c:Outro}
+{key:Em}
 
 {sop: Intro}
-[Em]
-- - -
+[Em] - - -
 {eop}
 
 {sop: Verse 1}
-[Em]
-On a long and lonesome highway east of Omaha
-[D]
-You can listen to the engine moanin' out his one note song
-[A]
-You'd think about the woman or the girl you knew the night [Em]before
+[Em]On a long and lonesome highway east of Omaha
+[D]You can listen to the engine moanin' out his one note song
+[A]You'd think about the woman or the girl you knew the night [Em]before
 But your thoughts will soon be wandrin' the way they always do
-[D]
-When you're ridin' sixteen hours there's nothin' much to do
-[A]
-And you don't feel much like ridin', you just wish the trip was [Em]through
+[D]When you're ridin' sixteen hours there's nothin' much to do
+[A]And you don't feel much like ridin', you just wish the trip was [Em]through
 {eop}
 
 {soc}
@@ -45,18 +23,12 @@ And you don't feel much like ridin', you just wish the trip was [Em]through
 {eoc}
 
 {sop: Verse 2}
-[Em]
-So you walk into this restaurant, all strung out from the road
-[D]
-And you feel the eyes upon you as you're shakin' off the cold
-[A]
-You pretend it doesn't bother you, but you just want to ex[Em]plode
-[Em]
-Yeah, most times you can't hear 'em talk, other times you can
-[D]
-All the same old clichés, "Is it woman? Is it man?"
-[A]
-And you always seem outnumbered, you don't dare make your [Em]stand
+[Em]So you walk into this restaurant, all strung out from the road
+[D]And you feel the eyes upon you as you're shakin' off the cold
+[A]You pretend it doesn't bother you, but you just want to ex[Em]plode
+[Em]Yeah, most times you can't hear 'em talk, other times you can
+[D]All the same old clichés, "Is it woman? Is it man?"
+[A]And you always seem outnumbered, you don't dare make your [Em]stand
 Make your stand
 {eop}
 
@@ -68,18 +40,12 @@ Make your stand
 {eoc}
 
 {sop: Verse 3}
-[Em]
-Out there in the spotlight, you're a million miles away
-[D]
-Ev'ry ounce of energy, you try to give away
-[A]
-As the sweat pours out your body, like the music that you [Em]play
-[Em]
-Later in the evenin' as you lie awake in bed
-[D]
-With the echoes of the amplifiers ringin' in your head
-[A]
-You smoke the day's last cigarette, rememb'rin' what she [Em]said
+[Em]Out there in the spotlight, you're a million miles away
+[D]Ev'ry ounce of energy, you try to give away
+[A]As the sweat pours out your body, like the music that you [Em]play
+[Em]Later in the evenin' as you lie awake in bed
+[D]With the echoes of the amplifiers ringin' in your head
+[A]You smoke the day's last cigarette, rememb'rin' what she [Em]said
 What she said
 {eop}
 
@@ -95,7 +61,6 @@ Oh, yeah
 [D] - [Em] - [C] - [D]
 [Em] - - - [D]
 And here I am
-- - -
 {eop}
 
 {soc}
@@ -117,3 +82,4 @@ yeah
 [Em]There I go
 And I'm
 {eop}
+{tag: Whiskey Lizard}

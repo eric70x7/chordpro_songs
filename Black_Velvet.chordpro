@@ -1,33 +1,17 @@
 {t: Black Velvet}
 {st: Alannah Myles}
 {ipodid: 6175295615369468493}
-{key: Dm}
-{metronome: 91}
-{duration: 4:47}
-
-
-{c:Tempo 91}
-{c:Intro}
-{c:Verse 1} Mississippi in the middle of a dry spell
-{c:Pre-Chorus} The boy could sing, knew how to move, everything
-{c:Chorus} Black velvet and that little boy's smile
-{c:Verse 2} Up in Memphis the music's like a heatwave
-{c:Pre-Chorus} The way he moved, it was a sin, so sweet and true
-{c:Chorus} Black velvet and that little boy's smile
-{c:Bridge 1} Every word of every song that he sang was for you, hoo oo hoo hoo
-{c:Solo}
-{c:Chorus} Black velvet and that little boy's smile
-{c:Outro} If you please, if you please, if you please
+{key:Em}
 
 {sop: Intro}
-[Dm]
+[Em]
 Mmm
 Mmm Mmm
-- - -
+- -
 {eop}
 
 {sop: Verse 1}
-[Dm]
+[Em]
 Mississippi in the middle of a dry spell
 Jimmy Rogers on the Victrola up high
 Mama's dancin' with baby on her shoulder
@@ -35,25 +19,25 @@ The sun is settin' like molasses in the sky
 {eop}
 
 {sop: Pre-Chorus}
-[Asus4]                   [A]            [Gsus4] [G]
+[Bsus4]                   [B]            [Asus4] [A]
 The boy could sing, knew how to move, everything
-[Fsus4]       [F]           [Csus2]
+[Gsus4]       [G]           [Dsus2]
 Always wanting more, he'd leave you longing for
 {eop}
 
 {soc}
-[Gm]                      [Csus4]            [C]
+[Am]                      [Dsus4]            [D]
 Black velvet and that little boy's smile
-[Gm]                       [Eb]             [Bb]
+[Am]                       [F]             [C]
 Black velvet with that slow southern style
-[Gm]                        [Csus4]           [C]
+[Am]                        [Dsus4]           [D]
 A new religion that'll bring ya to your knees
-[Bb7]         [A7]        [Dm]
+[C7]         [B7]        [Em]
 Black velvet if you please
 {eoc}
 
 {sop: Verse 2}
-[Dm]
+[Em]
 Up in Memphis the music's like a heatwave
 White lightning, bound to drive you wild
 Mama's baby's in the heart of every school girl
@@ -61,57 +45,57 @@ Mama's baby's in the heart of every school girl
 {eop}
 
 {sop: Pre-Chorus}
-[Asus4]             [A]            [Gsus4]   [G]
+[Bsus4]             [B]            [Asus4]   [A]
 The way he moved, it was a sin, so sweet and true
-[Fsus4]       [F]           [Csus2]
+[Gsus4]       [G]           [Dsus2]
 Always wanting more, he'd leave you longing for
 {eop}
 
 {soc}
-[Gm]                      [Csus4]            [C]
+[Am]                      [Dsus4]            [D]
 Black velvet and that little boy's smile
-[Gm]                       [Eb]             [Bb]
+[Am]                       [F]             [C]
 Black velvet with that slow southern style
-[Gm]                        [Csus4]           [C]
+[Am]                        [Dsus4]           [D]
 A new religion that'll bring ya to your knees
-[Bb7]         [A7]        [Dm]
+[C7]         [B7]        [Em]
 Black velvet if you please
 {eoc}
 
 {sop: Bridge 1}
-[Gm]                        [A7]                        [Dm7]
+[Am]                        [B7]                        [Em7]
 Every word of every song that he sang was for you, hoo oo hoo hoo
-[Gm]                       [Ebadd9]              [Bbsus2]     [A]
+[Am]                       [Fadd9]              [Csus2]     [B]
 In a flash he was gone, it happened so soon, what could you do?
 {eop}
 
 {sop: Solo}
-{c:Solo D Pent}
-
-[Dm]
+[Em]
 - - -
 {eop}
 
 {soc}
-[Gm]                      [Csus4]            [C]
+[Am]                      [Dsus4]            [D]
 Black velvet and that little boy's smile
-[Gm] Eighteenth [Eb]             [Bb]
+[Am]                       [F]             [C]
 Black velvet with that slow southern style
-[Gm]                        [Csus4]           [C]
+[Am]                        [Dsus4]           [D]
 A new religion that'll bring ya to your knees
-[Bb7]         [A7]        [Dm]
+[C7]         [B7] [Em]
 Black velvet if you please
-[Gm]                      [Csus4]            [C]
+[Am]                      [Dsus4]            [D]
 Black velvet and that little boy's smile
-[Gm]                       [Eb]             [Bb]
+[Am]                       [F]             [C]
 Black velvet with that slow southern style
-[Gm]                        [Csus4]           [C]
+[Am]                        [Dsus4]           [D]
 A new religion that'll bring ya to your knees
-[Bb7]         [A7]        [Dm]
+[C7]         [B7]   [Em]
 Black velvet if you please
 {eoc}
 
 {sop: Outro}
-[Dm]
+[Em]
 If you please, if you please, if you please
 {eop}
+
+{tag: Whiskey Lizard}

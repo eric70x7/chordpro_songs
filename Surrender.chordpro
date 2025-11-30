@@ -1,183 +1,163 @@
 {t: Surrender}
 {st: Cheap Trick}
-{ipodid: 6175295615369465104}
-{key: B}
-{metronome: 134}
-{duration: 4:14}
-
-
-{c:Tempo 134}
-{c:Intro}
-{c:Verse 1} Mother told me, yes, she told me
-{c:Pre-Chorus} Just the other day
-{c:Chorus} Mommy's alright, Daddy's alright
-{c:Bridge 1}
-{c:Verse 2} Father says your mother's right
-{c:Pre-Chorus} Now, I had heard the WACs
-{c:Chorus} Mommy's alright, Daddy's alright
-{c:Bridge 2}
-{c:Verse 3} Whatever happened to all
-{c:Pre-Chorus} When I woke up
-{c:Chorus} Mommy's alright, Daddy's alright
-{c:Bridge 3}
-{c:Outro} But don't give yourself away
+{key: Bb}
 
 {sop: Intro}
-[G#] [A#] [G#] [A#]
+[G] [A] [G] [A]
 - - -
 {eop}
 
 {sop: Verse 1}
-[B]                      [F#]
+[Bb]                      [F]
 Mother told me, yes, she told me
-[E]                  [B]
+[Eb]                  [Bb]
 I'd meet girls like you
-[B]
+[Bb]
 She also told me
-[F#]                 [E]
+[F]                 [Eb]
 Stay away, you'll never know
-[B]
+[Bb]
 What you'll catch
 {eop}
 
 {sop: Pre-Chorus}
-[E]                [F#]
+[Eb]                [F]
 Just the other day
-[B]
+[Bb]
 I heard of a soldier's falling off
-[E]           [F#]
+[Eb]           [F]
 Some Indonesian junk
-[B]
+[Bb]
 That's going round
 {eop}
 
 {soc}
-[B]               [G#m7]
+[Bb]               [Gm7]
 Mommy's alright, Daddy's alright
-[B/F#]                 [E]
+[Bb/F]                 [Eb]
 They just seem a little weird
-[B]         [G#m7]
+[Bb]         [Gm7]
 Surrender, surrender
-[B/F#]                   [E]
+[Bb/F]                   [Eb]
 But don't give yourself away
-[E]
+[Eb]
 Ay, ay, ay
 {eoc}
 
 {sop: Bridge 1}
-[A] [B] [A] [B]
-- - -
+[Ab] [Bb] [Ab] [Bb]
 {eop}
 
 {sop: Verse 2}
-[B]                   [F#]
+[Bb]                   [F]
 Father says your mother's right
-[E]             [B]
+[Eb]             [Bb]
 She's really up on things
-[B]
+[Bb]
 Before we married
-[F#]                   [E]
+[F]                   [Eb]
 Mommy served in the WACs
-[B]
+[Bb]
 In the Philippines
 {eop}
 
 {sop: Pre-Chorus}
-[E]                  [F#]
+[Eb]                  [F]
 Now, I had heard the WACs
-[B]
+[Bb]
 Recruited old maids for the war
-[E]                   [F#]
+[Eb]                   [F]
 But mommy isn't one of those
-[B]
+[Bb]
 I've known her all these years
 {eop}
 
 {soc}
-[B]               [G#m7]
+[Bb]               [Gm7]
 Mommy's alright, Daddy's alright
-[B/F#]                 [E]
+[Bb/F]                 [Eb]
 They just seem a little weird
-[B]         [G#m7]
+[Bb]         [Gm7]
 Surrender, surrender
-[B/F#]                   [E]
+[Bb/F]                   [Eb]
 But don't give yourself away
-[E]
+[Eb]
 Ay, ay, aaay
 {eoc}
 
 {sop: Bridge 2}
-[A] [B] [A] [B]
-- - -
+[Ab] [Bb] [Ab] [Bb]
 {eop}
 
 {sop: Verse 3}
-[C]                [G]
+[B]                [Gb]
 Whatever happened to all
-[F]                   [C]
+[E]                   [B]
 This season's losers of the year?
-[C]               [G]
+[B]               [Gb]
 Every time I got to thinking
-[F]                      [C]
+[E]                      [B]
 Where'd they disappear?
 {eop}
 
 {sop: Pre-Chorus}
-[F]
+[E]
 When I woke up
-[G]                  [C]
+[Gb]                  [B]
 Mom and Dad are rolling on the couch
-[F]                    [G]
+[E]                    [Gb]
 Rolling numbers, rock and rollin'
-[C]
+[B]
 Got my Kiss records out
 {eop}
 
 {soc}
-[C]                [C/A]
+[B]                [B/Ab]
 Mommy's alright, Daddy's alright
-[C/G]                 [F]
+[B/F#]                 [E]
 They just seem a little weird
-[C]          [C/A]
+[B]          [B/Ab]
 Surrender, surrender
-[C/G]               [F]
+[B/F#]               [E]
 But don't give yourself away
-[F]
+[E]
 Ay, ay, aaay
-[F]
+[E]
 Away
 {eoc}
 
 {sop: Bridge 3}
-[C] [Fadd9] [F]
-[C]    [G] [C] [Fadd9] [F]
+[B] [Eadd9] [E]
+[B]    [Gb] [B] [Eadd9] [E]
 Away
-[C]     [G]   [C]
+[B]     [Gb]   [B]
 Surrender, surrender
 {eop}
 
 {sop: Outro}
-[C/A]           [C/G]          [F]
+[B/Ab]           [B/F#]          [E]
 But don't give yourself away
-[C]
+[B]
 Surrender, surrender
-[C/A]           [C/G]          [F]
+[B/Ab]           [B/F#]          [E]
 But don't give yourself away
-[C]
+[B]
 Surrender, surrender
-[C/A]           [C/G]          [F]
+[B/Ab]           [B/F#]          [E]
 But don't give yourself away
-[C]
+[B]
 Surrender, surrender
-[C/A]           [C/G]          [F]
+[B/Ab]           [B/F#]          [E]
 But don't give yourself away
-[C]
+[B]
 Surrender, surrender
-[C/A]           [C/G]          [F]
+[B/Ab]           [B/F#]          [E]
 But don't give yourself away
-[C]
+[B]
 Surrender, surrender
-[C/A]           [C/G]          [F]
+[B/Ab]           [B/F#]          [E]
 But don't give yourself away
-[C] [C/A] [C/G] [F]
+[B] [B/Ab] [B/F#] [E]
 {eop}
+
+{tag: Whiskey Lizard}

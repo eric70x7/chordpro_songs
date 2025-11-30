@@ -1,23 +1,21 @@
 {t: What Are You Listening To?}
 {st: Chris Stapleton}
 {key: Bb}
-{metronome: 120}
+{tempo: 120 BPM}
 {duration: 4:02}
-
-[B] [F] [B] [F]
 
 {sop: Verse 1}
 [Bb] [Bbsus2] [Bb]                [Cm]
 I put that record on
 [Eb]
 Girl you know what song
-[F]                     
+[F]                       [Bb]
 And I let it play again and again
-[Bb] [Bbsus2] [Bb]                [Cm]
+[Cm]
 You're in every line
 [Eb]
 Takes me back in time
-[F] 
+[F]             [Bb]
 Yeah tonight I'm wondering
 {eop}
 
@@ -43,13 +41,13 @@ What are you listening to?
 {eoc}
 
 {sop: Verse 2}
-[Bb] [Bbsus2] [Bb]                [Cm]
+[Bb]               [Cm]
 I like to believe
 [Eb]
 That you're just like me
-[F]
+[F]                                 [Bb]
 Trying to figure out how a good thing goes bad
-[Bb] [Bbsus2] [Bb]                [Cm]
+[Cm]
 I don't know
 [Eb]
 I can't let it go
@@ -125,7 +123,8 @@ I put that record on
 Girl you know what song
 [F]
 And I let it play again and again
-{c: Intro}
-[B] [F] [B] [F]
+[Bb] [Bbsus2] [Bb] [Bbsus2]
+[Bb] [Bbsus2] [Bb]
 {eop}
 
+{tag: Whiskey Lizard}

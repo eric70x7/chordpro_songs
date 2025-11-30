@@ -1,7 +1,7 @@
 {t: I Will Survive}
 {st: Gloria Gaynor}
 {key: Am}
-{metronome: 117}
+{tempo: 117 BPM}
 {duration: 3:18}
 
 {sop: Intro}
@@ -195,3 +195,4 @@ I will survive
 [Dm7] [G] [Cmaj7]
 {eop}
 
+{tag: Whiskey Lizard}

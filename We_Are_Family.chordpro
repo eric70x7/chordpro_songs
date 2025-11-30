@@ -1,154 +1,145 @@
 {t: We Are Family}
 {st: Sister Sledge}
-{ipodid: 415107524900013847}
-{key:G}
-{metronome: 116}
+{key: A}
+{tempo: 116 BPM}
 {duration: 3:36}
 
-
-{c:Tempo 116}
-{c:Intro}
-{c:Chorus} We are family
-{c:Verse 1} Everyone can see we're together
-{c:Chorus} We are family
-{c:Verse 2} Living life is fun and we've just begun
-{c:Chorus} We are family
-{c:Outro}
-
 {sop: Intro}
-[G7] [F7] [C7] [Cm7/F] [G7]
-[F7] [C7] [Cm7/F] [G7]
-[F7] [C7] [Cm7/F] [G7]
-[F7] [C7] [Cm7/F]
-[G7]
+[A7] [G7] [D7] [Dm7/G] [A7]
+[G7] [D7] [Dm7/G] [A7]
+[G7] [D7] [Dm7/G] [A7]
+[G7] [D7] [Dm7/G]
+[A7]
 - - -
 {eop}
 
 {soc}
-[G7]         [F7]
+[A7]         [G7]
 We are family
-[C7]                          [Cm7/F]
+[D7]                          [Dm7/G]
 I got all my sisters with me
-[G7]           [F7]
+[A7]           [G7]
 We are family
-[C7]                     [Cm7/F]
+[D7]                     [Dm7/G]
 Get up everybody and sing
-[G7]           [F7]
+[A7]           [G7]
 We are family
-[C7]                          [Cm7/F]
+[D7]                          [Dm7/G]
 I got all my sisters with me
-[G7]           [F7]
+[A7]           [G7]
 We are family
-[C7]                     [Cm7/F]
+[D7]                     [Dm7/G]
 Get up everybody and sing
 {eoc}
 
 {sop: Verse 1}
-[G7]     [Dm7]     [C7]            [G7]
+[A7]     [Em7]     [D7]            [A7]
 Everyone can see we're together
-[Dm7]     [C7]
+[Em7]     [D7]
 As we walk on by
-[G7]       [Dm7]           [C7]            [G7]
+[A7]       [Em7]           [D7]            [A7]
 And we fly just like birds of a feather
-[Dm7]     [C7]
+[Em7]     [D7]
 I won't tell no lie
-[G7]           [Dm7]    [C7]                [G7]
+[A7]           [Em7]    [D7]                [A7]
 All of the people around us they say
-[Dm7]          [C7]
+[Em7]          [D7]
 Can they be that close
-[G7]                          [Dm7]   [C7]
+[A7]                          [Em7]   [D7]
 Just let me state for the record
-[G7]                       [Dm7]        [C7] [G7]
+[A7]                       [Em7]        [D7] [A7]
 We're giving love in a family dose
 {eop}
 
 {soc}
-[G7]         [F7]
+[A7]         [G7]
 We are family
-[C7]
+[D7]
 Yeah, yeah, ah
-[Cm7/F]
+[Dm7/G]
 I got all my sisters with me
-[G7]
+[A7]
 I have, I have
-[F7]
-We are family
-[C7]                     [Cm7/F]
-Get up everybody and sing
 [G7]
+We are family
+[D7]                     [Dm7/G]
+Get up everybody and sing
+[A7]
 Sing it to me
-[F7]
+[G7]
 We are family
-[C7]                          [Cm7/F]
+[D7]                          [Dm7/G]
 I got all my sisters with me
-[G7]           [F7]
+[A7]           [G7]
 We are family
-[C7]                     [Cm7/F]
+[D7]                     [Dm7/G]
 Get up everybody and sing
 {eoc}
 
 {sop: Verse 2}
-[G7]                           [Dm7]       [C7]
+[A7]                           [Em7]       [D7]
 Living life is fun and we've just begun
-[G7]        [Dm7]       [C7]
+[A7]        [Em7]       [D7]
 To get our share of this world's delights
-[G7]              [Dm7] [C7]          [G7]
+[A7]              [Em7] [D7]          [A7]
 High hopes we have for the future
-[Dm7]            [C7]
+[Em7]            [D7]
 And our goal's in sight
-[G7]                   [Dm7]    [C7]
+[A7]                   [Em7]    [D7]
 No, we don't get depressed
-[G7]    [Dm7]        [C7]
+[A7]    [Em7]        [D7]
 Here's what we call our golden rule
-[G7]                          [Dm7]          [C7]
+[A7]                          [Em7]          [D7]
 Have faith in you and the things you do
-[G7]
+[A7]
 You won't go wrong, oh no
-[Dm7]         [C7] [G7]
+[Em7]         [D7] [A7]
 This is our family jewel
 {eop}
 
 {soc}
-[G7]         [F7]
+[A7]         [G7]
 We are family
-[C7]
+[D7]
 Yeah, yeah, sing it to me
-[Cm7/F]
+[Dm7/G]
 I got all my sisters with me
-[G7]
+[A7]
 Sing it to me
-[F7]
+[G7]
 We are family
-[C7]
+[D7]
 I can hear you now
-[Cm7/F]
+[Dm7/G]
 Get up everybody and sing
-[G7]                          [F7]           [C7]
+[A7]                          [G7]           [D7]
 Have faith in you and the things you do
-[Cm7/F]
+[Dm7/G]
 I got all my sisters with me
-[G7]           [F7]
+[A7]           [G7]
 We are family
-[C7]
+[D7]
 Get up get up now
-[Cm7/F]
+[Dm7/G]
 Get up everybody and sing
-[C#7] [D7] [D#7] [F7] [F#7] [G7]
+[D#7] [E7] [F7] [G7] [G#7] [A7]
 {eoc}
 
 {sop: Outro}
-[G7]         [F7]
+[A7]         [G7]
 We are family
-[C7]
+[D7]
 I got my sisters with me
-[Cm7/F]         [G7]
+[Dm7/G]         [A7]
 I got all my sisters with me, everybody
-[F7]
-We are family
-[C7]                     [Cm7/F]
-Get up everybody and sing
 [G7]
+We are family
+[D7]                     [Dm7/G]
+Get up everybody and sing
+[A7]
 Get up now
-[F7]
+[G7]
 We are family
 {eop}
+
+{tag: Whiskey Lizard}

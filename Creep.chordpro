@@ -1,30 +1,19 @@
 {t: Creep}
 {st: Radiohead}
 {key: G}
-{metronome: 92}
+{tempo: 92 BPM}
 {duration: 3:58}
-
-
-{c:Tempo 92}
-{c:Intro}
-{c:Verse 1} When you were here before
-{c:Chorus} But I'm a creep
-{c:Verse 2} I don't care if it hurts
-{c:Chorus} But I'm a creep
-{c:Bridge 1} She's running out the door
-{c:Verse 3} Whatever makes you happy
-{c:Chorus} But I'm a creep
 
 {sop: Intro}
 [G] [B] [C]
+[Cm]                         [G]
+When you were here before
 - - -
 {eop}
 
 {sop: Verse 1}
-[Cm]                         [G]
-When you were here before
+[G]                            [B]
 Couldn't look you in the eye
-[B]
 [C]
 You're just like an angel
 [Cm]
@@ -37,23 +26,23 @@ In a beautiful world
 And I wish I was special
 [Cm]
 You're so fuckin' special
+[Cm]
+But I'm a creep
 {eop}
 
 {soc}
-[Cm]
-But I'm a creep
 [G]          [B]
 I'm a weirdo
 [C]
 What the hell am I doing here?
 [Cm]
 I don't belong here
+[G]
+I don't care if it hurts
 {eoc}
 
 {sop: Verse 2}
-[G]
-I don't care if it hurts
-[B]
+[G]                      [B]
 I want to have control
 [C]
 I want a perfect body
@@ -67,11 +56,11 @@ When I'm not around
 You're so fuckin' special
 [Cm]
 I wish I was special
+[Cm]
+But I'm a creep
 {eop}
 
 {soc}
-[Cm]
-But I'm a creep
 [G]          [B]
 I'm a weirdo
 [C]
@@ -87,22 +76,22 @@ She's running out the door
 She's running out
 [Cm]             [G] [B] [C]  [Cm]
 She's run run run run, run
+[G]
+Whatever makes you happy
 {eop}
 
 {sop: Verse 3}
-[G]
-Whatever makes you happy
-[B]
+[G]                 [B]
 Whatever you want
 [C]
 You're so fuckin' special
 [Cm]
 I wish I was special
+[Cm]
+But I'm a creep
 {eop}
 
 {soc}
-[Cm]
-But I'm a creep
 [G]          [B]
 I'm a weirdo
 [C]
@@ -112,3 +101,5 @@ I don't belong here
 [G]
 I don't belong here
 {eoc}
+
+{tag: Whiskey Lizard}

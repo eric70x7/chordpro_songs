@@ -2,42 +2,17 @@
 {st: Brooks & Dunn}
 {ipodid: 1814883450694426522}
 {key:D}
-{metronome: 102}
-{duration: 4:21}
-
-
-{c: Patch 99-4}
-
-{c:Tempo 102}
-{c:Intro}
-{c:Verse 1} When the sun goes down on my side of town
-{c:Verse 2} And there's a rundown bar across the railroad tracks
-{c:Chorus} If you lose your one and only
-{c:Verse 3} I think of two young lovers running wild and free
-{c:Verse 4} No telling how many tears I've sat here and cried
-{c:Chorus} Oh, if you lose your one and only
-{c:Solo}
-{c:Verse 5} The jukebox plays on drink by drink
-{c:Chorus} Oh, if you lose your one and only
-{c:Fade Out}
-
-{sop: Intro}
-[Dsus2]
-- - -
-{eop}
 
 {sop: Verse 1}
 [Dsus2]
-When the sun goes down on my side of town
-That lonesome feeling comes to my door
+When the sun goes down on my side of town, that lonesome feeling comes to my door
 [G]                 [Dsus2]
 And the whole world turns blue
 {eop}
 
 {sop: Verse 2}
 [Dsus2]
-And there's a rundown bar across the railroad tracks
-I got a table for two, way in the back
+And there's a rundown bar across the railroad tracks, I got a table for two, way in the back
 [G]                          [Dsus2]
 Where I sit alone and I think of losing you
 [A]
@@ -59,16 +34,14 @@ Of a neon moon
 
 {sop: Verse 3}
 [Dsus2]
-I think of two young lovers running wild and free
-I close my eyes and sometimes see
+I think of two young lovers running wild and free, I close my eyes and sometimes see
 [G]                           [Dsus2]
 You in the shadows of that smokefilled room
 {eop}
 
 {sop: Verse 4}
 [Dsus2]
-No telling how many tears I've sat here and cried
-Or how many lies that I've lied
+No telling how many tears I've sat here and cried, or how many lies that I've lied
 [G]
 Telling my poor heart
 [Dsus2]
@@ -89,45 +62,15 @@ Of a neon moon
 {eoc}
 
 {sop: Solo}
+{c: Solo}
 [Dsus2] [G] [Dsus2]
 - - -
 {eop}
 
 {sop: Verse 5}
 [Dsus2]
-The jukebox plays on drink by drink
-And the words of every sad song seem to say what I think
-[G]
-And this hurt inside of me
-[Dsus2]
-It ain't never gonna end
-[A]
-Oh, but I'll be alright
-As long as there's light
-[Dsus2]
-From a neon moon
+The jukebox plays on drink by drink,
+
 {eop}
 
-{soc}
-[G]                   [A]
-Oh, if you lose your one and only
-[G]                   [A]
-There's always room here for the lonely
-[G]
-To watch your broken dreams
-[A]                     [Dsus2]
-Dance in and out of the beams of a neon moon
-[A]
-To watch your broken dreams
-[Dsus2]
-Dance in and out of the beams of a neon moon
-[A]
-Oh, watch your broken dreams
-[Dsus2]
-Dance in and out of the beams of a neon moon
-{eoc}
-
-{sop: Fade Out}
-[Dsus2]
-- - -
-{eop}
+{tag: Whiskey Lizard}

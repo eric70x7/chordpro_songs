@@ -1,7 +1,7 @@
 {t: Dancing in the Street}
 {st: Martha and the Vandellas}
 {key: E}
-{metronome: 126}
+{tempo: 126 BPM}
 {duration: 2:38}
 
 {sop: Intro}
@@ -105,3 +105,4 @@ Let's get our big strong long, get on time, they're dancing in the street
 Across the ocean blue, me and you, we're dancing in the street
 {eop}
 
+{tag: Whiskey Lizard}

@@ -1,17 +1,8 @@
 {t: Listen to the Music}
 {st: The Doobie Brothers}
 {key: E}
-{metronome: 106}
+{tempo: 106 BPM}
 {duration: 3:47}
-
-{c:Key:}
-[E]
-
-{c:Verse Chorus}
-{c:Verse Chorus}
-{c:Bridge} 
-[E] [D] [A]
-{c:Chorus Chorus}
 
 {sop: Intro}
 [E] [A] [E] [A]
@@ -91,11 +82,6 @@ All the time
 {eoc}
 
 {sop: Bridge 2}
-
-[E]
-
-{c: Bends on top 3 strings maj pentatonic} 
-
 [E]                    [D]
 Like a lazy flowing river
 [A]                           [E]
@@ -138,3 +124,4 @@ Oh, oh, oh listen to the music
 All the time
 {eop}
 
+{tag: Whiskey Lizard}

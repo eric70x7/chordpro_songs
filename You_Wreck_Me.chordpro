@@ -1,63 +1,37 @@
 {t: You Wreck Me}
-{st: Tom Petty}
 {ipodid: 6175295615369468615}
+{artist: Tom Petty}
 {key: D}
-{metronome: 165}
-{duration: 3:27}
-{tag: Eric Sings}
-
-
-{c:Intro}
-{c:Verse 1} Tonight we ride, right or wrong
-{c:Chorus} Oh, yeah
-{c:Verse 2} Now and again I get the feeling
-{c:Chorus} Oh, yeah
-{c:Bridge 1}
-{c:Solo}
-{c:Verse 3} I'll be the boy in the corduroy pants
-{c:Chorus} Oh, yeah
-{c:Outro}
 
 {sop: Intro}
 [D] [A] [E]
-- - -
 {eop}
 
 {sop: Verse 1}
-[D]           [A]           [E]
-Tonight we ride, right or wrong
+Tonight we [D]ride, [A]right or [E]wrong
 Tonight we sail, on a radio song
-[G]           [D]           [A]
-Rescue me, should I go down
-[D]           [A]           [E]
-If I stay too long in trouble town
+[G]Rescue [D]me, [A]should I go [G]down
+[D]If I stay too [A]long in trouble [E]town
 {eop}
 
 {soc}
-[G]     [A]
-Oh, yeah
-[D]           [A]           [E]
-You wreck me, baby
+[G]Oh, [A]yeah
+You [D]wreck [A]me, [E]baby
 Yeah, you break me in two
-But you move me, honey
-Yes, you do
+[D]But you [A]move me, [E]honey
+[D]Yes, [A]you [E]do
 {eoc}
 
 {sop: Verse 2}
-[D]           [A]           [E]
-Now and again I get the feeling
+[D]Now and a[A]gain I get the [E]feeling
 Well if I don't win, I'm a going to break even
-[G]           [D]           [A]
-Rescue me, should I go wrong
-[D]           [A]           [E]
-If I dig too deep, if I stay too long
+[G]Rescue [D]me, [A]should I go [G]wrong
+[D]If I dig too [A]deep, if I stay too [E]long
 {eop}
 
 {soc}
-[G]     [A]
-Oh, yeah
-[D]           [A]           [E]
-You wreck me, baby
+[G]Oh, [A]yeah
+You [D]wreck [A]me, [E]baby
 Yeah, you break me in two
 But you move me, honey
 Yes, you do
@@ -66,36 +40,31 @@ Yes, you do
 {sop: Bridge 1}
 [C] [G] [C] [G] [C] [G] [C] [G]
 [E] [B] [E] [B] [E] [B] [E] [B]
-- - -
 {eop}
 
 {sop: Solo}
-[D] - [A] - [E]
-- - -
+[D] - [A] - [E] 
 {eop}
 
 {sop: Verse 3}
-[D]           [A]           [E]
-I'll be the boy in the corduroy pants
-You be the girl at the high school dance
-[G]           [D]           [A]           [G]
-Run with me, wherever I go
-[D]           [A]           [E]
-And just play dumb, whatever you know
+[D]I'll be the [A]boy in the corduroy [E]pants
+[D]You be the [A]girl at the high school [E]dance
+[G]Run with [D]me, [A]wherever I [G]go
+[D]And just play [A]dumb, whatever you [E]know
 {eop}
 
 {soc}
-[G]     [A]
-Oh, yeah
-[D]           [A]           [E]
-You wreck me, baby
+[G]Oh, [A]yeah
+You [D]wreck [A]me, [E]baby
 Yeah, you break me in two
 But you move me, honey
 Yes, you do
-{eoc}
+{eop}
 
 {sop: Outro}
-[D] [A] [D] [A] [E]
-[D] [A] [D] [A] [E]
-- - -
+[D] [A] [D] [A] [E] [D] [A] [D] [A] [E]
+[D] [A] [D] [A] [E] [D] [A] [D] [A] [E]
 {eop}
+
+{tag: Eric Sings}
+{tag: Whiskey Lizard}
