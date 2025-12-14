@@ -1,102 +1,163 @@
-{t: Hold on Loosely}
-{st: .38 Special}
-{key: E}
+{t: Hold On Loosely}
+{st: 38 Special}
+{key: A}
+{metronome: 128}
+{duration: 4:39}
+
+{c:Tempo 128}
+{c:Intro}
+{c:Verse 1} You see it all around you
+{c:Pre-Chorus}
+{c:Chorus}
+{c:Verse 2} So damn easy
+{c:Pre-Chorus}
+{c:Chorus}
+{c:Bridge}
+{c:Verse 3} You see it all around you
+{c:Chorus}
+{c:Guitar Solo}
+{c:Chorus}
+{c:Outro Solo}
+{c:Fade Out}
 
 {sop: Intro}
-[E5] [B/D#] [D5] [A/C#] [B5] [A5] [E5]
-[E5] [B/D#] [D5] [A/C#]
-[B5] [A5] [E5]
+[E5]      [B/D#]    [D5]     [A/C#]   [B5] [A5] [E5]
+[E5]      [B/D#]    [D5]     [A/C#]   [B5] [A5] [E5]
 {eop}
 
 {sop: Verse 1}
-[E5]You see it all a[B/D#]round [D5]you
-[A/C#]Good loving gone [E5]bad
-[B/D#]And usually it's too late when [D5]you
-[A/C#]Realize what you had
+[E5]          [B/D#]     [D5]
+You see it all around you
+     [A/C#]         [E5]
+Good loving gone bad
+[E5]     [B/D#]     [D5]
+And usually it's too late when you
+[A/C#]
+Realize what you had
 {eop}
 
-{sop: Bridge 1}
-[C5]And my mind goes back
-[D5]To a girl I left some years ago
+{sop: Pre-Chorus}
+[C5]
+And my mind goes back
+[D5]
+To a girl I left some years ago
 Who told me
 {eop}
 
 {soc}
-[E5]Just hold on [B/D#]loosely, [D5]but don't let [A/C#]go[D5]
-[E5]If you cling too [B/D#]tightly
-[D5]You're gonna lose con[A/C#]trol
-[F#5]Your baby needs someone to be[B5]lieve in
-[F#5]And a whole lot of space to [A5]breathe in
+[E5]     [B/D#] [D5]     [A/C#]     [D5]
+Just hold on loosely, but don't let go
+[E5]        [B/D#]
+If you cling too tightly
+[D5]        [A/C#]
+You're gonna lose control
+[F#5]                      [B5]
+Your baby needs someone to believe in
+[F#5]                          [A5]
+And a whole lot of space to breathe in
 {eoc}
 
 {sop: Verse 2}
-[E5]So damn [B/D#]easy[D5]
-[A/C#]When your feelings are [E5]such
-[B/D#]To overpro[D5]tect her
-[A/C#]To love her too much
+[E5]     [B/D#] [D5]
+It's so damn easy
+[A/C#]      [E5]
+When your feelings are such
+[B/D#]     [D5]
+To overprotect her
+[A/C#]
+To love her too much
 {eop}
 
-{sop: Bridge 2}
-[C5]And my mind goes back
-[D5]To a girl I left some years ago
+{sop: Pre-Chorus}
+[C5]
+And my mind goes back
+[D5]
+To a girl I left some years ago
 Who told me
 {eop}
 
 {soc}
-[E5]Just hold on [B/D#]loosely, [D5]but don't let [A/C#]go[D5]
-[E5]If you cling too [B/D#]tightly
-[D5]You're gonna lose con[A/C#]trol
-[F#5]Your baby needs someone to be[B5]lieve in
-[F#5]And a whole lot of space to [A5]breathe in
+[E5]     [B/D#] [D5]     [A/C#]     [D5]
+Just hold on loosely, but don't let go
+[E5]        [B/D#]
+If you cling too tightly
+[D5]        [A/C#]
+You're gonna lose control
+[F#5]                      [B5]
+Your baby needs someone to believe in
+[F#5]                          [A5]
+And a whole lot of space to breathe in
 {eoc}
 
-{sop: Bridge 3}
-[G/D]Don't let her slip a[D]way
-[G/D]Sentimental fool
-[D]Don't let your heart get in the [A5]way[A#5]
-[B5]Yeah, yeah, yeah
+{sop: Bridge}
+[G/D]           [D]
+Don't let her slip away
+[G/D]
+Sentimental fool
+[D]                     [A5] [A#5]
+Don't let your heart get in the way
+[B5]
+Yeah, yeah, yeah
 {eop}
 
 {sop: Verse 3}
-[E5]You see it all a[B/D#]round [D5]you
-[A/C#]Good loving gone [E5]bad
-[B/D#]And usually it's too late when [D5]you
-[A/C#]Realize what you [D5]had
+[E5]          [B/D#]     [D5]
+You see it all around you
+     [A/C#]         [E5]
+Good loving gone bad
+[E5]     [B/D#]     [D5]
+And usually it's too late when you
+[A/C#]
+Realize what you had
 {eop}
 
 {soc}
-[E5]So hold on [B/D#]loosely, [D5]but don't let [A/C#]go[D5]
-[E5]If you cling too [B/D#]tightly
-[D5]You're gonna lose con[A/C#]trol
-[F#5]Your baby needs someone to be[B5]lieve in
-[F#5]And a whole lot of space to [A5]breathe in
-[E5]So hold on [B/D#]loosely, [D5]but don't let [A/C#]go[D5]
-[E5]If you cling too [B/D#]tightly
-[D5]You're gonna [A/C#]lose it
-You're gonna lose con[E5]trol
+[E5]     [B/D#] [D5]     [A/C#]     [D5]
+So hold on loosely, but don't let go
+[E5]        [B/D#]
+If you cling too tightly
+[D5]        [A/C#]
+You're gonna lose control
+[F#5]                      [B5]
+Your baby needs someone to believe in
+[F#5]                          [A5]
+And a whole lot of space to breathe in
+
+{c: SOLO under}
+[E5]     [B/D#] [D5]     [A/C#]     [D5]
+So hold on loosely, but don't let go
+[E5]        [B/D#]
+If you cling too tightly
+{c:STOP}
+[D5]        [A/C#]
+You're gonna lose it
+[E5]
+You're gonna lose control
 {eoc}
 
-{sop: Solo}
-[E5] - [B/D#] - [D5] - [A/C#] - [D5] -
-[E5] - [B/D#] - [D5] - [A/C#] - [D5] -
+{sop: Guitar Solo}
+{c:SOLO}
+[E5] [B/D#] [D5] [A/C#] [D5]
 {eop}
 
 {soc}
-[E5]So hold on [B/D#]loosely, [D5]but don't let [A/C#]go[A5] [B5]
-[E5]If you cling too [B/D#]tightly[D5]
-You're gonna lose con[E5]trol
-[B/D#]Hold on [D5]loosely, but don't let [A/C#]go[D5]
-[E5]If you cling too [B/D#]tightly to [D5]her
-You're gonna lose con[E5]trol
+{c:SOLO under}
+[E5]     [B/D#] [D5]     [A/C#] [A5]  [B5]
+So hold on loosely, but don't let go
+[E5]        [B/D#]   [D5]
+If you cling too tightly
+[E5]
+You're gonna lose control
+[B/D#] [D5] [A/C#] [D5]
+Hold on loosely, but don't let go
+[E5]        [B/D#]   [D5]
+If you cling too tightly to her
+You're gonna lose control
+[E5]
 Yeah, yeah, yeah
 {eoc}
 
-{sop: Outro}
+{sop: Outro Solo}
 [E5] [B/D#] [D5] [A/C#] [A5] [B5]
-[E5] [B/D#] [D5] [E5] [B/D#]
-[D5] [A/C#] [A5] [B5] [E5] [B/D#]
-[D5] [E5] [B/D#] [D5]
-[A/C#] [A5] [B5]
-[E5] [B/D#] [D5] [E5] [B/D#]
-[D5] [A/C#] [A5] [B5]
+[E5] [B/D#] [D5]
 {eop}

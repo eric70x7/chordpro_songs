@@ -3,6 +3,8 @@
 {key: Em}
 
 {sop: Intro}
+{c:Intro}
+[Em] [Em] x7
 {eop}
 
 {sop: Verse 1}
@@ -19,10 +21,13 @@ Well if you [B]don't know how to do it
 I'll [A]show you how to walk the [E]dog
 {eoc}
 
+{c:2 measures mute}
+
 {sop: Verse 2}
 [Em]Ask my mama for fifteen cents
 To see the elephant jump the fence
 It jumped so high it touched the sky
+{c:BVOX}
 Didn't come back 'til the 4th of July
 {eop}
 
@@ -33,10 +38,14 @@ Well if you [B]don't know how to do it
 I'll [A]show you how to walk the [E]dog
 {eoc}
 
+{c:4 measures mute}
+
 {sop: Bridge}
+{c:SOLO}
 {eop}
 
 {sop: Verse 3}
+{c:BVOX}
 [Em]Mary, Mary, quite contrary
 How does your garden grow?
 Well well, silver bells and little bitty bitty white shells

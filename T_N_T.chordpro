@@ -1,67 +1,85 @@
 {t: T.N.T.}
 {st: AC/DC}
-{key:E}
+{key: A}
+{metronome: 126}
+{duration: 3:3}
+
+{c:Tempo 126}
+{c:Intro}
+{c:Verse 1} See me ride out of the sunset
+{c:Chorus} T.N.T
+{c:Verse 2} I'm dirty, mean and mighty unclean
+{c:Chorus} T.N.T
+{c:Solo}
+{c:Chorus} T.N.T - OY, OY, OY
+{c:Outro}
 
 {sop: Intro}
-[E5]
+[E]
 {eop}
 
 {sop: Verse 1}
-[E5]See me ride out of the [G5]sunset
-[A5]On your [G5]color [E5]T V [G5]screen
-[A5][G5]Out [E5]for all that I can [G5]get [A5]If [G5]you know what I [E5]mean[G5][A5][G5]
-[E5]Women to the [G5]left [A5]of me[G5]
-[E5]And women to the [G5]right
-[A5][G5]Ain't got [E5]no gun
-[G5]Ain't got [A5]no knife[G5]
-[E5]But don't you start no [G5]fight
+[E]        [G]         [A]         [G]     [E]  
+See me ride out of the sunset
+On your color TV screen
+Out for all that I can get
+If you know what I mean
+Women to the left of me
+And women to the right
+Ain't got no gun
+Ain't got no knife
+But don't you start no fight
 {eop}
 
 {soc}
-[A5]Cause I'm [A5]T. [G5]N. [E5]T. I'm dynamite
-[A5][G5]T [E5].N. T. and I'll win the fight
-[A5][G5]T. [E5]N. T. I'm a power load
-[A5][G5]T [E5].N. T. [G5]watch me [A5]explode
+[A]     [G]     [E]
+'Cause I'm T.N.T., I'm dynamite
+T.N.T., and I'll win the fight
+T.N.T., I'm a power load
+[A]     [G]      [E]     [G]     [A]
+T.N.T., watch me explode
 {eoc}
 
 {sop: Verse 2}
-[E5]I'm dirty, [E5]mean and [G5]mighty [A5]unclean[G5] I'm
-[E5]a wanted man
-[G5][A5][G5]Public [E5]enemy number [G5]one [A5]Under[G5]stand
-[E5]So lock up your [G5]daugh ter
-[A5]Lock up [G5]your wife
-[E5]Lock up your back door
-[G5]And run for [A5]your life[G5]
-[E5]The man is back in town
-[G5]Don't [A5]you mess me [E5]'round[G5]
-[A5]T. [G5]
+[E]        [G]         [A]         [G]     [E]  
+I'm dirty, mean and mighty unclean
+I'm a wanted man
+Public enemy number one
+Understand
+So lock up your daughter
+Lock up your wife
+Lock up your back door
+And run for your life
+The man is back in town
+Don't you mess me 'round
 {eop}
 
 {soc}
-[A5][G5]N T.
-[E5]I'm dynamite [A5][G5]T .N. [E5]T.
-And I'll win the fight,
-[A5][G5]T .N [E5].T.
-I'm a power load
-[A5][G5]T .N [E5].T.
-[E5]Watch me [G5]explode![A5]
+[A]     [G]     [E]
+I'm dynamite
+T.N.T., and I'll win the fight
+T.N.T., I'm a power load
+[A]     [G]      [E]     [G]     [A]
+T.N.T., watch me explode!
 {eoc}
 
 {sop: Solo}
 {c:SOLO}
-[A5][E5]T.N.T. - - - -
+[E]        [G]         [A]         [G]     [E]  
 {eop}
 
 {soc}
-[A5][G5]T [E5].N. T [A5][G5]T [E5].N .T.
-[A5][G5]T. [E5]N. T.
-[A5][G5]T. [E5]N. T. [A5][G5]T. [E5]N. T. I'm dynamite
-[A5][G5]T. [E5]N .T. And I'll [A5]win the fight,
-[G5]T. [E5]N. T. I'm a power load
-[A5][G5]T [E5].N. T. [G5]Watch me [A5]explode!
+[A]     [G]     [E]
+T.N.T.  - OY,  OY, OY
+T.N.T.  - OY,  OY, OY
+T.N.T.  - OY,  OY, OY
+T.N.T.   - OY,  OY, OY
+T.N.T.  I'm dynamite  - OY,  OY, OY
+T.N.T., and I'll win the fight  - OY,  OY, OY
+T.N.T., I'm a power load  - OY,  OY, OY
+T.N.T., watch me explode!  - OY,  OY, OY
 {eoc}
 
 {sop: Outro}
-{c:Outro half step swells starting at E}
-[E5]
+[E]
 {eop}
