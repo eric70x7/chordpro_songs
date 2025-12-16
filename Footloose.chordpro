@@ -1,99 +1,128 @@
 {t: Footloose}
 {st: Kenny Loggins}
-{ipodid: 4092329790592629971}
 {key: A}
 {metronome: 174}
 {duration: 3:47}
 
-{c:Patch 10.3 w/ Chorus no comp}
-
-{c:Key}
-[A]
-{c:Drums -> Bass -> Intro lick x4}
-{c:Verse Pre-Chorus Chorus}
-{c:Intro Lick}
-{c:Verse Pre-Chorus Chorus}
-{c:Percussion}
-{c:PAUSE}
-{c:Pre-Chorus Chorus}
-{c:Chorus Outro w guitar}
+{c:Tempo 174}
+{c:Intro}
+{c:Verse 1} I've been working so hard
+{c:Chorus}
+{c:Verse 2} You're playing so cool
+{c:Chorus}
+{c:Break}
+{c:Bridge}
+{c:Chorus}
+{c:Outro}
 
 {sop: Intro}
-[A] 
-[D/A] Ooh
-{sot}
-e|-------------------|
-B|-------------------|
-G|------------4-2-2--|
-D|------------5-4-2--|
-A|----0-3^4-0--------|
-E|-4^----------------|
-{eot}
-
+[A]     [D/A]
+Ooh
 {eop}
 
 {sop: Verse 1}
-[A]I’ve been working [D/A] so hard [A] I’m punching [D/A] my card
-[A]Eight hours for what Oh, tell me what I got
-[D]I’ve got this feeling That times are holding me [A] down
-[D]I’ll hit the ceiling [D#] Or else I’ll tear [E] up this town
-[F#] [G] [E/G#]
+[A]          [D/A]
+I've been working so hard
+[A]                 [D/A]
+I'm punching my card
+[A]
+Eight hours for what
+Oh, tell me what I got
+[D]
+I've got this feeling
+[A]
+That times are holding me down
+[D]
+I'll hit the ceiling
+[D#m7b5] [E]
+Or else I'll tear up this town
 {eop}
 
 {soc}
-Tonight I gotta cut 
-[A]loose, [D]foot[A]loose
-[A]Kick off your Sunday [A] shoes
-[A]Please, Louise, [D] pull me off of my [A] knees
-[A]Jack, get back, [D] come on before we [A] crack
-Lose your [G] blues, everybody [D] cut foot[A]loose
+[F#7sus4] [G] [E/G#] [A]     [D] [A]
+Tonight I gotta cut loose, footloose
+[D] [A]
+Kick off your Sunday shoes
+[D] [A]     [D] [A]
+Please, Louise, pull me off of my knees
+[D] [A]     [D] [A]
+Jack, get back, come on before we crack
+[D] [A]     [G]     [D] [A]
+Lose your blues, everybody cut footloose
 {eoc}
 
 {sop: Verse 2}
-[A]You’re playing [D/A] so cool [A] Obeying [D/A] every rule
-[A]Deep’a way down in your heart You’re burning yearning for some
-[A]Somebody to tell you That life ain’t passing you [A]by
-[A]I’m trying to tell you [D#] It will if you [E] don’t even [F#] try
-You can fly if you’d only cut
+[A]          [D/A]
+You're playing so cool
+[A]          [D/A]
+Obeying every rule
+[A]
+Deep'a way down in your heart
+You're burning yearning for some
+[D]
+Somebody to tell you
+That life ain't passing you by
+[A]     [D]
+I'm trying to tell you
+[D#m7b5] [E] [F#7sus4]
+It will if you don't even try
 {eop}
 
 {soc}
-[A]loose, [D]foot[A]loose
-[D] Kick off your Sunday [A] shoes
-[A]Please, Louise, [D] pull me off of my [A] knees
-[A]Jack, get back, [D] come on before we [A] crack
-[A]Lose your [G] blues, everybody [D] cut foot[A]loose
+[G] [E/G#] [A]
+You can fly if you'd only cut loose, footloose
+[D] [A]
+Kick off your Sunday shoes
+[D]
+Oowee, Marie, shake it, shake it for me
+[A] [D]
+Whoa, Milo, come on, come on let's go
+[A]     [G]     [D] [A]
+Lose your blues, everybody cut footloose
 {eoc}
 
-{sop: Bridge 1}
-{c:Percussion}
-[A] 
-You’ve got to turn me around
+{sop: Break}
+Cut footloose, ah
+Cut footloose, ah
+Cut footloose, ah
+{eop}
+
+{sop: Bridge}
+[A]
+You've got to turn me around
 And put your feet on the ground
-Now take the hold of all, aah
 [E]
+Now take the hold of all, aah
 {eop}
 
 {soc}
-[A] I’m turning it [D] loose foot[A]loose
-[A]loose, [D]foot[A]loose
-[D] Kick off your Sunday [A] shoes
-[A]Please, Louise, [D] pull me off of my [A] knees
-[A]Jack, get back, [D] come on before we [A] crack
-[A]Lose your [G] blues, everybody [D] cut foot[A]loose
-[D] Foot[A]loose
-Kick off your Sunday [A] shoes
-[A]Please, Louise, [D] pull me off of my [A] knees
-[A]Jack, get back, [D] come on before we [A] crack
+[A]     [D] [A]
+I'm turning it loose footloose,
+[D] [A]
+Kick off your Sunday shoes
+[D] [A]     [D] [A]
+Please, Louise, pull me off of my knees
+[D] [A]
+Jack, get back, come on before we crack
+[D] [A]
+Lose your blues, everybody cut footloose
+[D] [A]
+Footloose
+[D] [A]
+Kick off your Sunday shoes
+[D] [A]     [D] [A]
+Please, Louise, pull me off of my knees
+[D] [A]     [D] [A]
+Jack, get back, come on before we crack
 {eoc}
 
 {sop: Outro}
-[A]Lose your blues, everybody cut, everybody cut[G] [D/F#]
-Everybody cut, everybody cut[G] [D/F#] 
+[D] [A]     [G] [D/F#] [G]
+Lose your blues, 
 Everybody cut, everybody cut
-[D] Everybody, everybody cut footloose[A]
-
-{c:Intro Lick}
-
+Everybody cut, everybody cut
+[D/F#] [D]
+Everybody cut, everybody cut
+[A]
+Everybody, everybody cut footloose
 {eop}
-

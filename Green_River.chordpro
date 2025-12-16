@@ -1,32 +1,58 @@
 {t: Green River}
 {st: Creedence Clearwater Revival}
 {key: E}
+{metronome: 141}
+{duration: 2:34}
+
+{c:Tempo 141}
+{c:Intro}
+{c:Verse 1} Well take me back down where cool water flows y'all
+{c:Solo 1}
+{c:Verse 2} I can hear the bull-frog callin' me how
+{c:Verse 3} Up at Cody's camp I spent my days y'all,
+{c:Solo 2}
 
 {sop: Intro}
-[E7] 
+[E]
 {eop}
 
 {sop: Verse 1}
-[E] Well take me back down where cool water flows yeah
-Let me remember things I love
-Stoppin at the log where catfish bite
-[C] Walkin along the river road at night
-[A] Barefoot girls dancin in the [E7] moonlight
+[E]
+Well take me back down where cool water flows y'all
+Ah let me remember things I love now
+Stoppin' at the log where catfish bit
+[C]
+Walkin' along the river road at night
+[A]                 [E7]
+Barefoot girls dancin' in the moonlight
+{eop}
+
+{sop: Solo 1}
+[E] [C] [A] [E7]
 {eop}
 
 {sop: Verse 2}
-[E] I can hear the bullfrog callin me
-Wonder if my ropes still hangin to the tree
-Love to kick my feet way down the shallow water
-[C] Shoofly, dragonfly, get back to mother
-[A] Pick up a flat rock, skip it across green [E7] river [C] [A] [E]
+[E]
+I can hear the bull-frog callin' me how
+Wonderin' if my rope's still hangin' to the tree
+Love to kick my feet way down the shallow water,
+[C]
+Ah shoe-fly dragon fly get back t'your mother
+[A]                             [E7]
+Pick up a flat rock skip it across Green River
 {eop}
 
 {sop: Verse 3}
-[E] Up at codys camp I spent my days, oh
-With flat car riders and cross-tie walkers
-Old cody junior took me over
-[C] Said, youre gonna find the world is smouldrin
-[A] And if you get lost come on home to green [E7] river
+[E]
+Up at Cody's camp I spent my days y'all,
+With flat car riders and cross tie walkers
+Old Cody Junior took me over
+[C]
+Said you're gonna find the world is smouldrin'
+[A]                             [E7]
+And if you get a lost come on home to Green River
 {eop}
 
+{sop: Solo 2}
+[E]
+{eop}
