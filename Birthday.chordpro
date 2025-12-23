@@ -1,0 +1,85 @@
+{t: Birthday}
+{st: The Beatles}
+{key: A}
+{metronome: 140}
+{duration: 2:43}
+
+{c:Tempo 140}
+{c:Intro}
+{c:Verse 1} They say it's your birthday
+{c:Bridge} Yes we're going to a party party
+{c:Chorus} I would like you to dance (Birthday)
+{c:Interlude}
+{c:Break}
+{c:Chorus} I would like you to dance (Birthday)
+{c:Verse 2} They say it's your birthday
+
+{c:Intro}
+{sop: Intro}
+[A]   [D]   [A]   [E]   [A]
+{eop}
+
+{sop: Verse 1}
+[A]
+They say it's your birthday
+It's my birthday too, yeah
+[D]
+They say it's your birthday
+[A]
+We're gonna have a good time
+[E]
+I'm glad it's your birthday
+[A]                        [A]
+Happy birthday to you
+{eop}
+
+{sop: Bridge}
+[E]
+Yes we're going to a party party
+Yes we're going to a party party
+Yes we're going to a party party
+{eop}
+
+{soc}
+[C]               [G]         [C]
+I would like you to dance (Birthday)
+[G]                             [C]
+Take a chachachachance (Birthday)
+[G]               [C]
+I would like you to dance (Birthday)
+[G]         [B]   [E]
+Dance yeah
+{eoc}
+
+{sop: Interlude}
+[A]   [D]   [A]   [E]   [A]
+{eop}
+
+{sop: Break}
+[A]   [G]   [A]   [G]
+{eop}
+
+{soc}
+[C]               [G]         [C]
+I would like you to dance (Birthday)
+[G]                             [C]
+Take a chachachachance (Birthday)
+[G]               [C]
+I would like you to dance (Birthday)
+[G]         [B]   [E]
+Dance! Dance
+{eoc}
+
+{sop: Verse 2}
+[A]
+They say it's your birthday
+It's my birthday too, yeah
+[D]
+They say it's your birthday
+[A]
+We're gonna have a good time
+[E]
+I'm glad it's your birthday
+[A]                        [A]
+Happy birthday to you
+{eop}
