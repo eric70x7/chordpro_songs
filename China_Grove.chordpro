@@ -1,6 +1,6 @@
 {t: China Grove}
 {st: The Doobie Brothers}
-{ipodid: 330315343343630447}
+{ipodid:}
 {key: E}
 {metronome: 146}
 {duration: 3:15}
@@ -110,4 +110,4 @@ Talkin' 'bout China Grove, oh
 China Grove
 [D] [A/C#] [E]
 {eoc}
-{midi: CC0.0@2, PC120@2}
+{midi: CC0.6@2, PC24@2}
