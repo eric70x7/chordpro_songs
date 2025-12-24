@@ -56,4 +56,5 @@ I've got a [E]bad case of [B]lovin' [E]you
 {sop:Outro}
 [E] [A] [B] [E]
 {eop}
-{midi: PC11}
+
+{midi: PC11@2}

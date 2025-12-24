@@ -160,4 +160,5 @@ Yeah, yeah, yeah
 {sop: Outro Solo}
 [E5] [B/D#] [D5] [A/C#] [A5] [B5]
 [E5] [B/D#] [D5]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

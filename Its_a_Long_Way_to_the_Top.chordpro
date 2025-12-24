@@ -74,4 +74,5 @@ It's a long way
 {sop: Outro}
 [A]
 {eop}
-{midi: PC11}
+
+{midi: PC11@2}

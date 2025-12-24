@@ -139,4 +139,5 @@ Hang on, Sloopy
 [C]              [G] [C]
 Sloopy, hang on
 [D] [C] [G]
-{eoc}{midi: PC11}
+{eoc}
+{midi: PC11@2}

@@ -82,4 +82,5 @@ T.N.T., watch me explode!  - OY,  OY, OY
 
 {sop: Outro}
 [E]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

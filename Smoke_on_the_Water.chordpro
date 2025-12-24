@@ -106,4 +106,5 @@ Smoke on the water
 
 {sop: Outro}
 [G5]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

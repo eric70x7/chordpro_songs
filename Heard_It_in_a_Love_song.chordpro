@@ -136,4 +136,5 @@ Can't be wrong
 {sop: Outro}
 [A] - [G] - [D] -
 {eop}
-{tag: On Deck}{midi: PC11}
+{tag: On Deck}
+{midi: PC11@2}

@@ -101,4 +101,5 @@ ALike this
 [E5][A5][E5][A5]
 [E5][A5][E5][A5]
 [E5]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

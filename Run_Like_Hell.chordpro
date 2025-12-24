@@ -78,4 +78,5 @@ Yah!
 
 {sop: Outro}
 [D] [A] [G] [D] [A/D] [G] [D]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

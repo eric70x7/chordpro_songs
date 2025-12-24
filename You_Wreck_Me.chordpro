@@ -98,4 +98,5 @@ Yes, you do
 [D] [A] [D] [A] [E]
 [D] [A] [D] [A] [E]
 - - -
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

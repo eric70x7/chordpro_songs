@@ -97,4 +97,5 @@ They're all wasted!
 {sop: Solo (Violin)}
 [F] [Eb] [C] [F]
 - - -
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

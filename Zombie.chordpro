@@ -118,4 +118,5 @@ Zombie, zombie, zombie
 [Em] [C] [Em] [C]
 [Em] [C] [Em]
 {eop}
-{midi: PC11}
+
+{midi: PC11@2}

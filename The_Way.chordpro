@@ -120,4 +120,5 @@ Today - - -
 [F#m] [Bm] [F#m] [C#7] [F#m]
 {c:Solo 2}
 - - -
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

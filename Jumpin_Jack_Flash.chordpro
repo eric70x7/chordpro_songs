@@ -109,4 +109,5 @@ Jumping Jack Flash, its a gas
 Jumping Jack Flash, its a gas
 [B] [E] [A] [B] [E] [A]
 [B] [E] [A]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

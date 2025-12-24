@@ -120,4 +120,5 @@ Stop dragging my heart around
 [E5] [G] [A] [E5]                 [G]      [A]
 Stop dragging my heart around
 [E5] [G] [A]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

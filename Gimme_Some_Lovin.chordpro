@@ -102,4 +102,5 @@ Yeah, yeah, yeah, yeah, yeah, yeah, yeah
 {eoc}
 
 {sop: Outro}
-[B] [G] [E]{midi: PC11}
+[B] [G] [E]
+{midi: PC11@2}

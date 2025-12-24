@@ -140,4 +140,5 @@ Yeah Yeah Yeah Yeah Yeah Yeah
 [E5] [A5] [E5] [A5] [E5] [A5] [E5] [A5]
 Yeah Yeah Yeah Space Truckin'
 [A5] [D5] [A5] [D5] [A5] [D5] [A5] [D5]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

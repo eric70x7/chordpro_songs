@@ -125,4 +125,5 @@ Now you've sewn them shut
 {sop: Outro}
 [Em]
 - - -
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

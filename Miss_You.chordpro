@@ -178,4 +178,5 @@ Aah aah aah aah
 [Am7] [Dm7] [Am7] [Dm7]
 [Am7] [Dm7] [Am7] [Dm7]
 - - -
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

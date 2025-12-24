@@ -183,4 +183,5 @@ I tell you we're rolling, rolling, rolling on the river
 {sop: Outro}
 [C] [A] [C] [A] [C] [A] [G] [D]
 - - -
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

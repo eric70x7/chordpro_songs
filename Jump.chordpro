@@ -152,4 +152,5 @@ Jump!
 [F] [G] [C]
 {eop}
 
-{midi: PC11}
+
+{midi: PC11@2}

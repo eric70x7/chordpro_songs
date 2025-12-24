@@ -48,4 +48,5 @@ And the music's calling
 [A]
 [Fade Out]
 [A]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

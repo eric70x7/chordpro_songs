@@ -115,4 +115,5 @@ Sugar me!
 
 {sop: Outro}
 [F][Bb][C]
-{eop}{midi: PC11}
+{eop}
+{midi: PC11@2}

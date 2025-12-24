@@ -130,4 +130,5 @@ Sixty nine
 [A] [D] [A]
 - - -
 {eop}
-{midi: PC11}
+
+{midi: PC11@2}

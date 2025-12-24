@@ -72,4 +72,5 @@ I'm gonna catch up some[E]time
 {sop: Outro}
 [E] [A] [E] [A]
 {eop}
-{midi: PC11}
+
+{midi: PC11@2}
