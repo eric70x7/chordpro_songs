@@ -110,4 +110,4 @@ die
 [G] [Em] [G]                   [Em] [G]
 Watch the world die
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

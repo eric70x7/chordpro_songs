@@ -161,4 +161,4 @@ Yeah, yeah, yeah
 [E5] [B/D#] [D5] [A/C#] [A5] [B5]
 [E5] [B/D#] [D5]
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

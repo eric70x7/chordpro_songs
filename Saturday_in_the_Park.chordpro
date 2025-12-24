@@ -141,4 +141,4 @@ For the day
 [G]    [C]
 Yeah, yeah, yeah
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

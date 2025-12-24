@@ -157,4 +157,4 @@ Well, I will run away, run away, run away, run away
 [Csus2] [Em7] [Em7] [D5] [Csus2] [Gsus2]
 {eop}
 
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

@@ -83,4 +83,4 @@ I'm glad it's your birthday
 [A]                        [A]
 Happy birthday to you
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

@@ -106,4 +106,4 @@ And I'm goin' down, all the way
 On the highway to hell
 {eop}
 
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

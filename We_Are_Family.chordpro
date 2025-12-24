@@ -152,4 +152,4 @@ Get up now
 [F7]
 We are family
 {eop}
-{midi: PC9@2}
+{midi: CC0.0@2, PC9@2}

@@ -110,4 +110,4 @@ You can check out any time you like, but you can never leave
 {c: SOLO}
 
 [B] [B] [C#] [B]
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

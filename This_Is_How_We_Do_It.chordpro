@@ -172,4 +172,4 @@ Let's flip up the track, bring the old school back
 (This is how we do it)
 {eop}
 
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

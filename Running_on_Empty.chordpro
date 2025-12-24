@@ -140,4 +140,4 @@ Running on running into the sun but I'm running behind
 [D] [E] [D] [A/C#] [Bm] [A]
 {eop}
 
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

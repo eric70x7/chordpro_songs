@@ -133,4 +133,4 @@ With her eyes on
 {sop: Outro}
 [Em7]
 {eop}
-{midi: PC9@2}
+{midi: CC0.0@2, PC9@2}

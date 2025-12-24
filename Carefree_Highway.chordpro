@@ -110,4 +110,4 @@ The morning after blues from my head down to my shoes
 {sop: Fade Out}
 [D] - [C] - [G] - [A] -
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

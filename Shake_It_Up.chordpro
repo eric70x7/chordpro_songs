@@ -161,4 +161,4 @@ Ooh ooh, shake it up, shake it up
 [A#]
 Ooh ooh, shake it...
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

@@ -88,4 +88,4 @@ In the [B]name of [E]love
 {sop: Outro}
 [B] [E] [A] [F#m]
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

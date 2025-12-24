@@ -144,4 +144,4 @@ Boogie
 [D7sus4] [Dm7] [Gm7]      [D7sus4] [Dm7] [Gm7]
 Boogie
 {eop}
-{midi: PC24@2}
+{midi: CC0.0@2, PC24@2}

@@ -181,4 +181,4 @@ Surrender, surrender
 But don't give yourself away
 [C] [C/A] [C/G] [F]
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

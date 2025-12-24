@@ -100,4 +100,4 @@ Let it rooll
 [C] [C#] [D] [D#] [E] [E7]
 All night long
 {eoc}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

@@ -90,4 +90,4 @@ I am [E]found[A]
 
 {c: Intro Riff x3 end at start of 4th}
 
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

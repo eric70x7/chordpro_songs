@@ -111,4 +111,4 @@ And I want
 Oh, oh, oh, animal
 He, he
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

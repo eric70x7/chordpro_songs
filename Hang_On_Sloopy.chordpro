@@ -140,4 +140,4 @@ Hang on, Sloopy
 Sloopy, hang on
 [D] [C] [G]
 {eoc}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

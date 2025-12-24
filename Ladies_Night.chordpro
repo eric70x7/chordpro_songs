@@ -187,4 +187,4 @@ Everything is gonna be alright
 {c: Repeat x32}
 Come on, let's all celebrate
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

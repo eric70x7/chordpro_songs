@@ -82,4 +82,4 @@ And if [D]I had the [Cadd9]sun and [G]moon, and they were [Cadd9]shi[D][Cadd9]ni
 [D][Cadd9][G]
 {eop}
 
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

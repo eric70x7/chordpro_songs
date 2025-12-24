@@ -116,4 +116,4 @@ I'm just as bad as I used to be
 [C] [D] [Am7] [C] [D] [Am7]
 [C] [D] [Am7]
 {eop}
-{midi: PC8@2}
+{midi: CC0.0@2, PC8@2}

@@ -59,4 +59,4 @@ All the same in the end
 [E5]
 {eop}
 
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

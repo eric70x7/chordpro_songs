@@ -73,4 +73,4 @@ I'm gonna catch up some[E]time
 [E] [A] [E] [A]
 {eop}
 
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

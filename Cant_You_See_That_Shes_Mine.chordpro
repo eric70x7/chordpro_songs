@@ -123,4 +123,4 @@ Because I know she'll love me too
 {sop: Outro}
 [G7] [D7] [D9]
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

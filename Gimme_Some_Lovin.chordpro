@@ -103,4 +103,4 @@ Yeah, yeah, yeah, yeah, yeah, yeah, yeah
 
 {sop: Outro}
 [B] [G] [E]
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

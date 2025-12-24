@@ -130,4 +130,4 @@ And I let it play again and again
 {eop}
 
 
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

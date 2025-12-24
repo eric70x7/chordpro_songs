@@ -49,4 +49,4 @@ And the music's calling
 [Fade Out]
 [A]
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}

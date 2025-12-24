@@ -136,4 +136,4 @@ Because it feels like
 [F]            [G]
 The very first time
 {eop}
-{midi: PC10@2}
+{midi: CC0.0@2, PC10@2}
