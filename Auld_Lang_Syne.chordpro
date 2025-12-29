@@ -1,6 +1,6 @@
 {t: Auld Lang Syne}
 {st: Traditional}
-{key:C}
+{key:G}
 {metronome: 90}
 {duration: 2:30}
 
@@ -18,112 +18,112 @@
 {c:Chorus} For auld lang syne, my jo
 
 {sop: Verse 1}
-[C]                 [G]
+[G]                 [D]
 Should auld acquaintance be forgot
-[C]                [F]
+[G]                [C]
 And never brought to mind?
-[C]                 [G]
+[G]                 [D]
 Should auld acquaintance be forgot
-[E]   [Am]   [F]  [G] [C]
+[B]   [Em]   [C]  [D] [G]
 And auld lang syne?
 {eop}
 
 {soc}
-[C]         [G]
+[G]         [D]
 For auld lang syne, my jo
-[C]         [F]
+[G]         [C]
 For auld lang syne
-[C]             [G]
+[G]             [D]
 We'll tak' a cup o' kindness yet
-[E]   [Am]   [F]  [G] [C]
+[B]   [Em]   [C]  [D] [G]
 For auld lang syne
 {eoc}
 
 {sop: Verse 2}
-[C]               [G]
+[G]               [D]
 And surely ye'll be your pint-stoup!
-[C]              [F]
+[G]              [C]
 And surely I'll be mine!
-[C]             [G]
+[G]             [D]
 And we'll tak' a cup o' kindness yet
-[E]   [Am]   [F]  [G] [C]
+[B]   [Em]   [C]  [D] [G]
 For auld lang syne
 {eop}
 
 {soc}
-[C]         [G]
+[G]         [D]
 For auld lang syne, my jo
-[C]         [F]
+[G]         [C]
 For auld lang syne
-[C]             [G]
+[G]             [D]
 We'll tak' a cup o' kindness yet
-[E]   [Am]   [F]  [G] [C]
+[B]   [Em]   [C]  [D] [G]
 For auld lang syne
 {eoc}
 
 {sop: Verse 3}
-[C]            [G]
+[G]            [D]
 We twa hae run about the braes
-[C]                [F]
+[G]                [C]
 And pou'd the gowans fine
-[C]               [G]
+[G]               [D]
 But we've wander'd mony a weary fit
-[E]    [Am]   [F]  [G] [C]
+[B]    [Em]   [C]  [D] [G]
 Sin' auld lang syne
 {eop}
 
 {soc}
-[C]         [G]
+[G]         [D]
 For auld lang syne, my jo
-[C]         [F]
+[G]         [C]
 For auld lang syne
-[C]             [G]
+[G]             [D]
 We'll tak' a cup o' kindness yet
-[E]   [Am]   [F]  [G] [C]
+[B]   [Em]   [C]  [D] [G]
 For auld lang syne
 {eoc}
 
 {sop: Verse 4}
-[C]               [G]
+[G]               [D]
 We twa hae paidl'd in the burn
-[C]                [F]
+[G]                [C]
 Frae morning sun till dine
-[C]               [G]
+[G]               [D]
 But seas between us braid hae roar'd
-[E]    [Am]   [F]  [G] [C]
+[B]    [Em]   [C]  [D] [G]
 Sin' auld lang syne
 {eop}
 
 {soc}
-[C]         [G]
+[G]         [D]
 For auld lang syne, my jo
-[C]         [F]
+[G]         [C]
 For auld lang syne
-[C]             [G]
+[G]             [D]
 We'll tak' a cup o' kindness yet
-[E]   [Am]   [F]  [G] [C]
+[B]   [Em]   [C]  [D] [G]
 For auld lang syne
 {eoc}
 
 {sop: Verse 5}
-[C]                  [G]
+[G]                  [D]
 And there's a hand, my trusty fiere!
-[C]               [F]
+[G]               [C]
 And gie's a hand o' thine!
-[C]                 [G]
+[G]                 [D]
 And we'll tak' a right gude-willie waught
-[E]   [Am]   [F]  [G] [C]
+[B]   [Em]   [C]  [D] [G]
 For auld lang syne
 {eop}
 
 {soc}
-[C]         [G]
+[G]         [D]
 For auld lang syne, my jo
-[C]         [F]
+[G]         [C]
 For auld lang syne
-[C]             [G]
+[G]             [D]
 We'll tak' a cup o' kindness yet
-[E]   [Am]   [F]  [G] [C]
+[B]   [Em]   [C]  [D] [G]
 For auld lang syne
 {eoc}
 {midi: CC0.0@2, PC10@2}

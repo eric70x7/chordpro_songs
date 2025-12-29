@@ -1,6 +1,6 @@
 {t: When a Man Loves a Woman}
 {st: Percy Sledge}
-{key: Db}
+{key:A}
 {metronome: 66}
 {duration: 2:51}
 
@@ -15,87 +15,87 @@
 {c:Fade Out}
 
 {sop: Intro}
-[Db] [Ab/C] [Bbm] [Bbm/Ab] [Gb] [Ab] [Db]
+[A] [E/G#] [F#m] [F#m/E] [D] [E] [A]
 - - -
 {eop}
 
 {sop: Verse 1}
-[Ab] [Db] [Ab/C]
+[A] [E/G#]
 When a man loves a woman,
-[Bbm] [Bbm/Ab]
+[F#m] [F#m/E]
 Can't keep his mind on nothin' else,
-[Gb] [Ab] [Db]
+[D] [E] [A]
 He'd change the world for the good thing he's found
-[Ab] [Db] [Ab/C]
+[A] [E/G#]
 If she is bad, he can't see it,
-[Bbm] [Bbm/Ab]
+[F#m] [F#m/E]
 She can do no wrong,
-[Gb] [Ab] [Db]
+[D] [E] [A]
 Turn his back on his best friend if he put her down
 {eop}
 
 {sop: Verse 2}
-[Ab] [Db] [Ab/C]
+[A] [E/G#]
 When a man loves a woman,
-[Bbm] [Bbm/Ab]
+[F#m] [F#m/E]
 He'll spend his very last dime
-[Gb] [Ab] [Db]
+[D] [E] [A]
 Tryin' to hold on to what he needs
-[Ab] [Db] [Ab/C]
+[A] [E/G#]
 He'd give up all his comforts
-[Bbm] [Bbm/Ab]
+[F#m] [F#m/E]
 And sleep out in the rain,
-[Gb] [Ab]
+[D] [E]
 If she said that's the way
-[Db] [Ab]
+[A] [E]
 It ought to be
 {eop}
 
 {sop: Bridge}
-[Gb] [Db]
+[D] [A]
 Well, this man loves you, woman
-[Gb] [Db]
+[D] [A]
 I gave you everything I have,
-[Gb] [Db] [Bbm]
+[D] [A] [F#m]
 Tryin' to hold on to your heartless love
-[Eb] [Ab]
+[B] [E]
 Baby, please don't treat me bad
 {eop}
 
 {sop: Verse 3}
-[Db] [Ab/C]
+[A] [E/G#]
 When a man loves a woman,
-[Bbm] [Bbm/Ab]
+[F#m] [F#m/E]
 Down deep in his soul,
-[Gb] [Ab] [Db]
+[D] [E] [A]
 She can bring him such misery
-[Ab] [Db] [Ab/C]
+[A] [E/G#]
 If she is playin' him for a fool,
-[Bbm] [Bbm/Ab]
+[F#m] [F#m/E]
 He's the last one to know
-[Gb] [Ab] [Db]
+[D] [E] [A]
 Lovin' eyes can never see
 {eop}
 
 {sop: Verse 4}
-[Ab] [Db] [Ab/C]
+[A] [E/G#]
 When a man loves a woman
-[Bbm] [Bbm/Ab]
+[F#m] [F#m/E]
 He can do her no wrong,
-[Gb] [Ab]
+[D] [E]
 He can never hug
-[Db]
+[A]
 Some other girl
-[Ab] [Db] [Ab/C]
+[A] [E/G#]
 Yes, When a man loves a woman
-[Bbm] [Bbm/Ab]
+[F#m] [F#m/E]
 I know exactly how he feels,
 {eop}
 
 {sop: Fade Out}
-[Gb] [Ab] [Db]
+[D] [E] [A]
 Baby, baby, baby, you're my world
-[Ab] [Db] [Ab/C]
+[E] [A] [E/G#]
 When a man loves a woman...
 {eop}
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC8@2}

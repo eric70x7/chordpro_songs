@@ -1,6 +1,6 @@
 {t: Sweet Home Alabama}
 {st: Lynyrd Skynyrd}
-{ipodid: 836242602347649736}
+{ipodid:}
 {key: G}
 {metronome: 98}
 {duration: 4:43}
@@ -116,4 +116,4 @@ Lord, I'm coming home to you
 [D] [C] [G]
 - - -
 {eop}
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC9@2}

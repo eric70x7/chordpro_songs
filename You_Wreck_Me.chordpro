@@ -1,6 +1,6 @@
 {t: You Wreck Me}
 {st: Tom Petty}
-{ipodid: 6175295615369468615}
+{ipodid:}
 {key: D}
 {metronome: 165}
 {duration: 3:27}
@@ -99,4 +99,5 @@ Yes, you do
 [D] [A] [D] [A] [E]
 - - -
 {eop}
-{midi: CC0.0@2, PC10@2}
+
+{midi: CC0.0@2, PC9@2, CC80.127@2}

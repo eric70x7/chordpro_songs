@@ -3,7 +3,7 @@
 {key: E}
 {metronome: 170}
 {duration: 4:22}
-{ipodid: 54321}
+{ipodid:}
 
 
 {c:Tempo 170}
@@ -122,4 +122,5 @@ Oooo
 [E] - [Cmaj7] - [Dsus2] - [E] -
  Oooo     Oooo     Oooo
 {eop}
-{midi: CC0.0@2, PC9@2}
+
+{midi: CC0.0@2, PC9@2, CC80.127@2}
