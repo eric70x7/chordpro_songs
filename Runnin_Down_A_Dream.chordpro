@@ -69,9 +69,9 @@ Oooo
 {c:Intro lick x 2 then under bridge chords}
 
 {sop: Bridge}
-[Cmaj7] - [Dsus2] - [E] -
-     Oooo     Oooo
-    [Cmaj7] - [Dsus2] -
+[Cmaj7]   [Dsus2]    [E]
+Oooo     Oooo
+[Cmaj7]   [Dsus2]
 Oooo     Oooo     Oooo
 {eop}
 
@@ -123,4 +123,4 @@ Oooo
  Oooo     Oooo     Oooo
 {eop}
 
-{midi: CC0.0@2, PC9@2, CC80.127@2}
+{midi: CC0.0@2, PC9@2}
