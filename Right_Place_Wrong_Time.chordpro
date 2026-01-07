@@ -1,0 +1,81 @@
+{t: Right Place Wrong Time}
+{st: Dr. John}
+{key: Ebm}
+{metronome: 105}
+{duration: 2:55}
+
+{c:Tempo 105}
+{c:Intro}
+{c:Verse 1} I been in the right place, but it must have been the wrong time
+{c:Bridge}
+{c:Verse 2}But I been in the wrong place, but it must have been the right time
+{c:Solo}
+{c:Bridge}
+{c:Verse 3}But I been in the right place, but it must have been the wrong time
+{c:Outro (Fade Out)}
+
+{sop: Intro}
+[Ebm7] [Ab7]
+{eop}
+
+{sop: Verse 1}
+[Ebm7]               [Ab7]
+I been in the right place, but it must have been the wrong time
+I'd have said the right thing, but I must have used the wrong line
+I been in the right trip, but I must have used the wrong car
+My head was in a bad place and I'm wondering what it's good for
+I been in the right place, but it must have been the wrong time
+My head was in a bad place, but I'm having such a good time
+{eop}
+
+{sop: Bridge}
+[Ebm7]              [Gb]         [Ebm7]
+I been running trying to get hung up in my mind
+Got to give myself a good talkingto this time
+[Gb]                 [Ebm7]
+Just need a little brain salad surgery
+Got to cure my insecurity
+{eop}
+
+{sop: Verse 2}
+[Ebm7]               [Ab7]
+But I been in the wrong place, but it must have been the right time
+I been in the right place, but it must have been the wrong song
+I been in the right vein, but it seems like the wrong arm
+I been in the right world, but it seems like a wrong wrong wrong wrong wrong
+{eop}
+
+{sop: Solo}
+[F] [Bb] 
+[Ebm7] [Ab7]
+[Ebm7] [Ab7]
+[Ebm7] [Ab7]
+[Ebm7] [Ab7]
+{eop}
+
+{sop: Bridge}
+[Ebm7]               [Gb]
+Slipping, dodging, sneaking, creeping, hiding out down the street
+[Ebm7]
+See me life shaking with every ho' I meet
+[Gb]
+Refried confusion is making itself clear
+[Ebm7]
+Wonder which way do I go to get on out of here
+{eop}
+
+{sop: Verse 3}
+[Ebm7]               [Ab7]
+But I been in the right place, but it must have been the wrong time
+And I'd have said the right thing, but I must have used the wrong line
+I'd have took the right road, but I must have took a wrong turn
+I'd have took the right move, but I made it at the wrong time
+{eop}
+
+{sop: Outro (Fade Out)}
+[Ebm7]               [Ab7]
+I been on the right trip but, I must have used the wrong car
+My head was in a good place and I wonder what it's bad for
+{eop}
+
+{midi: CC0.0@2, PC10@2}

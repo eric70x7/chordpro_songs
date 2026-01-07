@@ -1,165 +1,172 @@
 {t: My Old School}
 {st: Steely Dan}
-{ipodid: 6175295615369464378}
 {key: G}
+{metronome: 125}
+{duration: 5:45}
+
+{c:Tempo 125}
+{c:Intro}
+{c:Verse 1} I remember the thirtyfive sweet goodbyes
+{c:Pre-Chorus}
+{c:Chorus}
+{c:Guitar Solo 1}
+{c:Verse 2} Oleanders growing outside her door
+{c:Chorus}
+{c:Guitar Solo 2}
+{c:Bridge}
+{c:Verse 3}California tumbles into the sea
+{c:Chorus}
+{c:Guitar Solo 3}
+{c:Outro (Fade Out)}
 
 {sop: Intro}
 [Em7] [C]
-- -
 {eop}
 
 {sop: Verse 1}
-[G]                                        [Em7]
-I remember the thirty-five sweet goodbyes
-[C]                       [D]
+[G]                [Em7]
+I remember the thirtyfive sweet goodbyes
+[C]                      [D]
 When you put me on the Wolverine
-[G]
 Up to Annandale
-[G]
 It was still September
 [Em7]
 When your daddy was quite surprised
-[C]                     [D]
+[C]                      [D]
 To find you with the working girls
 [G]
 In the county jail
 {eop}
 
 {sop: Pre-Chorus}
-[G]     [C]
+[G]                     [C]
 I was smoking with the boys upstairs
 [D]
 When I heard about the whole affair
-[Gmaj7] [Em]
-I said oh no
 {eop}
 
 {soc}
-[Gmaj7]       [Em]         [C]
+[Gmaj7]         [Em]
+I said oh no
+[Gmaj7]     [Em]     [C]
 William and Mary won't do, now
-[D]                 [Am7]
+[D]                [Am7]
 Well I did not think the girl
-[Bm7] [Em]
+[Bm7]           [Em]
 Could be so cruel
-[D]           [Am7]
+[D]                [Am7]
 And I'm never going back
-[Bm7] [G]
+[Bm7]           [G]
 To my old school
 {eoc}
 
-{sop: Solo}
-{c: Solo}
-[D] [Em7] [Am7] [Bm7] [Em7] [D] [Em7] [Am7]
-[Bm7] [Em7]
-- - -
+{sop: Guitar Solo 1}
+{c:Guitar Solo 1}
+[D] [Em7] [Am7] [Bm7] [Em7]
+[D] [Em7] [Am7] [Bm7] [Em7]
 {eop}
 
 {sop: Verse 2}
-[G]                                  [Em7]
+[G]                [Em7]
 Oleanders growing outside her door
-[C]                   [D]
+[C]                      [D]
 Soon they're gonna be in bloom
 [G]
 Up in Annandale
-[G]
 I can't stand her
 [Em7]
 Doing what she did before
-[C]              [D]
+[C]                      [D]
 Living like a gypsy queen
 [G]
 In a fairy tale
 {eop}
 
 {sop: Pre-Chorus}
-[G]      [C]
+[G]                     [C]
 Well I hear the whistle but I can't go
 [D]
 I'm gonna take her down to Mexico
-[Gmaj7] [Em]
-She said whoa no
-{eop}
+{eoc}
 
 {soc}
-[Gmaj7]  [Em]         [C]
+[Gmaj7]         [Em]
+She said whoa no
+[Gmaj7]     [Em]     [C]
 Guadalajara won't do, now
-[D]                 [Am7]
+[D]                [Am7]
 Well I did not think the girl
-[Bm7] [Em]
+[Bm7]           [Em]
 Could be so cruel
-[D]           [Am7]
+[D]                [Am7]
 And I'm never going back
-[Bm7] [G]
+[Bm7]           [G]
 To my old school
 {eoc}
 
-{sop: Solo}
-{c: Solo}
-[D] [Em7] [Am7] [Bm7] [Em7] [D] [Em7] [Am7]
-[Bm7] [Em7] [D] [Em7] [Am7] [Bm7]
-[Em7] [C] [C#dim] [D]
-- - -
+{sop: Guitar Solo 2}
+{c:Guitar Solo 2}
+[D] [Em7] [Am7] [Bm7] [Em7]
+[D] [Em7] [Am7] [Bm7] [Em7]
+[D] [Em7] [Am7] [Bm7] [Em7]
+[C] [C#dim] [D]
 {eop}
 
-{sop: Bridge 1}
+{sop: Bridge}
 [G] [Am7] [Bm7] [Em]
-[D] [Am7] [Bm7] [Em]
-[D] [G]
+[D] [Am7] [Bm7] [Em] [D] [G]
 {eop}
 
 {sop: Verse 3}
-[G]                               [Em7]
+[G]                [Em7]
 California tumbles into the sea
-[C]               [D]
+[C]                      [D]
 That'll be the day I go
 [G]
 Back to Annandale
-[G]
 Tried to warn you
 [Em7]
 About Chino and Daddy Gee
-[C]                    [D]
+[C]                      [D]
 But I can't seem to get to you
 [G]
 Through the U.S. Mail
 {eop}
 
 {sop: Pre-Chorus}
-[G]      [C]
+[G]                     [C]
 Well I hear the whistle but I can't go
 [D]
 I'm gonna take her down to Mexico
-[Gmaj7] [Em]
-She said oh no
-{eop}
+{eoc}
 
 {soc}
-[Gmaj7]  [Em]         [C]
+[Gmaj7]         [Em]
+She said oh no
+[Gmaj7]     [Em]     [C]
 Guadalajara won't do, now
-[D]                 [Am7]
+[D]                [Am7]
 Well I did not think the girl
-[Bm7] [Em]
+[Bm7]           [Em]
 Could be so cruel
-[D]           [Am7]
+[D]                [Am7]
 And I'm never going back
-[Bm7] [G]
+[Bm7]           [G]
 To my old school
 {eoc}
 
-{sop: Solo}
-{c: Solo}
-[D] [Em7] [Am7] [Bm7] [Em7] [D] [Em7] [Am7]
-[Bm7] [Em7] [D] [Em7] [Am7] [Bm7]
-[Em7] [D] [Em7] [Am7] [Bm7] [Em7]
+{sop: Guitar Solo 3}
 [D] [Em7] [Am7] [Bm7] [Em7]
-- - -
+[D] [Em7] [Am7] [Bm7] [Em7]
+[D] [Em7] [Am7] [Bm7] [Em7]
+[D] [Em7] [Am7] [Bm7] [Em7]
+[D] [Em7] [Am7] [Bm7] [Em7]
 {eop}
 
-{sop: Outro}
-[D] [Em7] [Am7] [Bm7] [Em7] [D] [Em7] [Am7]
-[Bm7] [Em7] [D] [Em7] [Am7] [Bm7]
-[Em7]
+{sop: Outro (Fade Out)}
+[D] [Em7] [Am7] [Bm7] [Em7]
+[D] [Em7] [Am7] [Bm7] [Em7]
+[D] [Em7] [Am7] [Bm7] [Em7]
 {eop}
-
 
 {midi: CC0.0@2, PC10@2}
