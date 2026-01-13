@@ -17,113 +17,101 @@
 {c:Outro}
 
 {sop: Intro}
-[Gm7] [F6/C] [Gm7] [F6/C]
+[Gm7]
 - - -
 {eop}
 
 {sop: Verse 1}
-[Gm7] [F6/C]
+[Gm7] 
 Down around the corner
 Half a mile from here
 You see them long trains runnin'
 And you watch 'em disappear
-[F6/C]
 [Cm7]
 Without love
-[Cm6/G] [Gm7] [F6/C]
 Where would you be now?
-[Gm7] [F6/C] [Eb7] [Gm/D] [D7] [Gm7] [F6/C]
+[Gm7]                 [D#]  [Dsus]   [D] 
 Without love
 {eop}
 
 {sop: Verse 2}
-[Gm7] [F6/C] [Gm7] [F6/C]
+[Gm7] 
 You know I saw Miss Lucy
 Down along the tracks
 She lost her home and her family
 And she won't be coming back
-[F6/C]
 [Cm7]
 Without love
-[Cm6/G] [Gm7] [F6/C]
 Where would you be right now?
-[Gm7] [F6/C] [Eb7] [Gm/D] [D7] [Gm7] [F6/C]
+[Gm7]                 [D#]  [Dsus]   [D] 
 Without love
 {eop}
 
 {sop: Verse 3}
-[Gm7] [F6/C] [Gm7]
+{c:Drums guitar/bass on 1}
+[Gm7]
 Well, the Illinois Central
 And the Southern Central Freight
 Got to keep on pushin', mama
 'Cause you know they're runnin' late
-[F6/C]
 [Cm7]
 Without love
-[Cm6/G] [Gm7] [F6/C]
 Where would you be now-na-na-now?
-[Gm7] [F6/C] [Eb7] [Gm/D] [D7] [Gm7] [F6/C] [Gm7] [F6/C]
+[Gm7]                 [D#]  [Dsus]   [D] 
 Without love
 {eop}
 
 {sop: Harmonica Solo}
-[Gm7] [F6/C] [Gm7] [F6/C]
-[Gm7] [F6/C] [Gm7] [F6/C]
-[Cm7] [Cm6/G] [Gm7] [F6/C]
-[Gm7] [F6/C] [Eb7] [Gm/D] [D7] [Gm7] [F6/C]
+{c:Harmonica}
+[Gm7]
+[Cm7]
+[Gm7]                 [D#]  [Dsus]   [D] 
 - - -
 {eop}
 
 {sop: Verse 4}
-[Gm7] [F6/C] [Gm7] [F6/C]
+{c:Drums - Guitar/Bass on 1}
+[Gm7]
 Well, the Illinois Central
 And the Southern Central Freight
 Got to keep on pushin', mama
 'Cause you know they're runnin' late
-[F6/C]
 [Cm7]
 Without love
-[Cm6/G] [Gm7] [F6/C]
 Where would you be now?
-[Gm7] [F6/C] [Eb7] [Gm/D] [D7] [Gm7] [F6/C]
+[Gm7]                 [D#]  [Dsus]   [D] 
 Without love
 {eop}
 
 {sop: Verse 5}
-[Gm7] [F6/C] [Gm7] [F6/C]
+{c:Drums - Guitar/Bass on quarter notes}
+[Gm7]
 Well, pistons keep on churnin'
 And the wheels go 'round and 'round
 And the steel rails lie cold and hard
-On the mountains they go down
-[F6/C]
 [Cm7]
 Without love
-[Cm6/G] [Gm7] [F6/C]
 Where would you be right now?
-[Gm7] [F6/C] [Eb7] [Gm]
+[Gm7]                 [D#]  [Dsus]   [D] 
 Without love
 {eop}
 
 {sop: Break}
 [D7] [Cm7]
 Ooh, where would you be now?
+{c:Pause then intro}
 {eop}
 
 {sop: Outro}
-[Gm7] [F6/C] [Gm7] [F6/C]
+[Gm7]
 Mmm, got to get you, baby baby, won't you move it down?
-[Gm7] [F6/C] [Gm7] [F6/C]
 Won't you move it down?
-[Gm7] [F6/C] [Gm7] [F6/C]
 Baby, baby, baby, baby, won't you move it down?
-[Gm7] [F6/C] [Gm7] [F6/C]
 When the big train run
 When the train is movin' on
 I got to keep on movin'
-[Gm7]
 Keep on movin'
-[F6/C] [Gm7]
 Won't you keep on movin'?
-[F6/C] [Gm7] [F6/C]
 Gonna keep on movin'
 {eop}
+{midi: CC0.0@2, PC1@2}
