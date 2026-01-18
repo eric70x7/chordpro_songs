@@ -82,6 +82,7 @@ Maybe tomorrow the good Lord will take you away
 {eoc}
 
 {sop: Solo}
+{c:Pick Intro}
 [Fm] [Fmaj9] [Cm/F] [Bb] [Eb] [Edim7] [Fm]
 [Fm] [Fmaj9] [Cm/F] [Bb]
 - - -
@@ -98,6 +99,8 @@ Sing with me if it's just for today
 Maybe tomorrow the good Lord will take you away
 {eoc}
 
+{c:C Pent Solo}
+
 {sop: Bridge 1}
 [Bb5]         [C5]         [Db5]
 Dream on, dream on, dream on
@@ -109,6 +112,8 @@ Dream on, dream on, dream on
 Dream until your dream comes through
 {eop}
 
+{c:F Pent Solo}
+
 {sop: Bridge 2}
 [Bb5]         [C5]         [Db5]        [Eb5]
 Dream on, dream on, dream on
@@ -117,6 +122,8 @@ Dream on, dream on
 [Ab5]         [Bb5]  [C]
 Dream on, dream on, ah
 {eop}
+
+{c:F Pent Solo}
 
 {soc}
 [Fm]              [Eb]
@@ -136,4 +143,4 @@ Sing with me if it's just for today
 [Dm7b5]               [Dbmaj7]                       [C]
 Maybe tomorrow, the good Lord will take you away
 {eoc}
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC9@2}

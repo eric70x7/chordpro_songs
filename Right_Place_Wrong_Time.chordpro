@@ -46,8 +46,9 @@ I been in the right world, but it seems like a wrong wrong wrong wrong wrong
 {eop}
 
 {sop: Solo}
-{c:SOLO}
-[F] [Bb] 
+{c:SOLO - Eb pent}
+[E]
+[F] [Bb] {c:<- Diads}
 [Ebm7] [Ab7]
 [Ebm7] [Ab7]
 [Ebm7] [Ab7]
@@ -79,4 +80,4 @@ I been on the right trip but, I must have used the wrong car
 My head was in a good place and I wonder what it's bad for
 {eop}
 
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC9@2}
