@@ -2,6 +2,8 @@
 {artist: John Cougar Mellencamp}
 {key: D}
 
+{c:DROP D}
+
 {sop: Verse 1} 
 [D]They like to get you in a compromising position
 They like to get you there and smile in your face
@@ -44,5 +46,7 @@ I fight authority, authority always wins
 Well I've been doing it since I was a young kid, and I come out grinnin'
 Well I fight authority, authority always wins
 {eoc}
+
+{c:RETUNE YOUR E STRING}
 
 {midi: CC0.0@2, PC10@2}

@@ -15,6 +15,8 @@
 {c:Chorus} Anyone can see the road that they walk on is paved with gold
 {c:Outro}
 
+{c: Patch 1: Verse, 2: Chorsu, 3: Leads}
+
 {sop: Intro}
 [F#m]
 - - -
@@ -27,7 +29,7 @@ They made up their minds
 And they started packing
 [C#7]
 They left before the sun came up that day
-[F#7]                   [Bm]
+[F#m]  [F#7]                   [Bm]
 An exit to eternal summer slacking
 [F#m]                   [C#7]
 But where were they going without ever knowing the way
@@ -40,7 +42,7 @@ They drank up the wine
 And they got to talking
 [C#7]
 They now had more important things to say
-[F#7]                        [Bm]
+[F#m] [F#7]                        [Bm]
 And when the car broke down they started walking
 [F#m]                   [C#7]
 Where were they going without ever knowing the way
@@ -70,7 +72,7 @@ Their children woke up
 And they couldn’t find them
 [C#7]
 They’d left before the sun came up that day
-[F#7]                        [Bm]
+[F#m] [F#7]                        [Bm]
 They just drove off and left it all behind them
 [F#m]                   [C#7]
 But where were they going without ever knowing the way
@@ -121,4 +123,4 @@ Today - - -
 {c:Solo 2}
 - - -
 {eop}
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.6@2, PC8@2}

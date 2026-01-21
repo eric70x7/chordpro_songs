@@ -1,76 +1,115 @@
 {t: Sunspot Baby}
 {st: Bob Seger & The Silver Bullet Band}
 {key: E}
+{metronome: 119}
+{duration: 4:36}
+
+{c:Tempo 119}
+{c:Intro}
+{c:Verse 1} She packed up her bags and she took off down the road
+{c:Verse 2} She left me here stranded like a dog out in the yard
+{c:Bridge} I looked in Miami
+{c:Verse 3} But she packed up her bags and she took off down the road
+{c:Lead}
+{c:Bridge} I looked in Miami
+{c:Verse 4} She packed up her bags and she took off down the road
+{c:Chorus} Sunspot Baby
+{c:Lead}
+{c:Outro}
 
 {sop: Intro}
-[E] [A] [E] [A]
+[E]     [A]     [E]     [A]
 {eop}
 
 {sop: Verse 1}
-[E]She packed up her bags and she [A]took off down the road[E]
+[E]                           [A]                   [E]
+She packed up her bags and she took off down the road
 Left me here stranded with the bills she owed
 She gave me a false address
 Took off with my American Express
-[B]Sunspot [A]Baby
-She sure had me way out[E]guessed
+[B]          [A]
+Sunspot Baby
+                       [E]
+She sure had me way outguessed
 {eop}
 
 {sop: Verse 2}
-[E]She left me here stranded like a [A]dog out in the yard[E]
+[E]                             [A]                  [E]
+She left me here stranded like a dog out in the yard
 Charged up a fortune on my credit card
 She used my address and my name
 Man that was sure unkind
-[B]Sunspot [A]Baby
-She sure had a real good [E]time
+[B]          [A]
+Sunspot Baby
+                       [E]
+She sure had a real good time
 {eop}
 
-{sop: Bridge 1}
-[A]I looked in [E]Miami
+{sop: Bridge}
+[A]              [E]
+I looked in Miami
 I looked in Negril
 The closest I came was a month old bill
 I checked the Bahamas and they said she was gone
-[B]I can't under[A]stand why she did me so [E]wrong
+[B]                 [A]                       [E]
+I can't understand why she did me so wrong
 {eop}
 
 {sop: Verse 3}
-[E]But she packed up her bags and she [A]took off down the road[E]
+[E]                           [A]                   [E]
+But she packed up her bags and she took off down the road
 Said she was going to visit sister Flo
 She used my address and my name
 And man that was sure unkind
-[B]Sunspot [A]Baby
-I'm gonna catch up some[E]time
+[B]          [A]
+Sunspot Baby
+                       [E]
+I'm gonna catch up sometime
 {eop}
 
-[Lead 1]
+{sop: Lead}
+{c:Lead 1}
+{eop}
 
-{sop: Bridge 2}
-[A]I looked in [E]Miami
+{sop: Bridge}
+[A]              [E]
+I looked in Miami
 I looked in Negril
 The closest I came was a month old bill
 I checked the Bahamas and they said she was gone
-[B]I can't under[A]stand why she did me so [E]wrong
+[B]                 [A]                       [E]
+I can't understand why she did me so wrong
 {eop}
 
 {sop: Verse 4}
-[E]She packed up her bags and she [A]took off down the road[E]
+[E]                           [A]                   [E]
+She packed up her bags and she took off down the road
 Left me here stranded with the bills she owed
 She used my address and my name
 Put my credit to shame
 {eop}
 
-{sop: Chorus 2}
-[B]Sunspot [A]Baby
-She sure had a real [E]good time
-[B]Sunspot [A]Baby
-Sure had a real [E]good time
-[B]Sunspot [A]Baby
-I'm gonna catch up some[E]time
+{soc}
+[B]          [A]
+Sunspot Baby
+                       [E]
+She sure had a real good time
+[B]          [A]
+Sunspot Baby
+                       [E]
+Sure had a real good time
+[B]          [A]
+Sunspot Baby
+                       [E]
+I'm gonna catch up sometime
+{eoc}
+
+{sop: Lead}
+{c:Lead 2}
 {eop}
 
-[Lead 2]
-
 {sop: Outro}
-[E] [A] [E] [A]
+[E]     [A]     [E]     [A]
 {eop}
 
 {midi: CC0.0@2, PC10@2}
