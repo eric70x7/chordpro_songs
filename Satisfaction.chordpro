@@ -1,96 +1,157 @@
-{t: Satisfaction}
+{t: (I Can't Get No) Satisfaction}
 {st: The Rolling Stones}
 {key: E}
+{metronome: 136}
+{duration: 3:45}
+
+{c:Tempo 136}
+{c:Intro}
+{c:Verse 1} I can't get no satisfaction
+{c:Pre-Chorus} 'Cause I try and I try and
+{c:Chorus} I can't get no
+{c:Bridge} Hey hey hey, that's what I say
+{c:Verse 2} I can't get no satisfaction
+{c:Pre-Chorus} I try and I try and I try
+{c:Chorus} I can't get no, I can't get no
+{c:Bridge} Hey hey hey, that's what I say
+{c:Verse 3} I can't get no satisfaction
+{c:Pre-Chorus} Cause I try and I try and
+{c:Chorus} I can't get no
+{c:Bridge 3} Hey hey hey, that's what I say
+{c:Chorus} I can't get no, I can't get no
+{c:Fade Out}
 
 {sop: Intro}
 Lick @ start [B] [C#] [D]
-
-[E] [A] [D] [A] [E] [A] [D] [A]
-[E] [A] [D] [A] [E] [A]
-[D] [A]
 {eop}
 
+{c:Clean verse}
 {sop: Verse 1}
-[E]I can't get no [A]satisfaction
+[E]               [A]
 I can't get no satisfaction
-'Cause I [E]try and I [B7]try and
-I [E]try and I [A]try I can't get [E]no[A]
+[E]               [A]
+I can't get no satisfaction
 {eop}
 
-{sop: Chorus 1}
-[D]I can't [A]get [E]no[A]
-When I'm drivin' in my car 
-And that man comes on the radio 
-And he's tellin' me more and more 
-About some useless information 
-Supposed to fire my imagination 
+{sop: Pre-Chorus}
+[E]     [B7]
+'Cause I try and I try and
+[E] [A] [E] [A]
+I try and I try
+I can't get no,
+{eop}
+
+{soc}
+{c:Intro lick}
+[D]   [A]   [E]   [A]
+I can't get no
+[D]   [A]   [E]   [A] [D]
+When I'm drivin' in my car
+[A]   [E]   [A] [D]   [A]
+And that man comes on the radio
+[E]   [A] [D]
+And he's tellin' me more and more
+[A]   [E]   [A] [D]
+About some useless information
+[A]   [E]   [A] [D]
+Supposed to fire my imagination
+[A]   [E]   [A] [D] [A] [E]
 I can't get no, oh no no no
-{eop}
+{eoc}
 
-{sop: Bridge 2}
-Hey hey [E]hey[A] [D]that's what I [A]say[E] [A] [D] [A]
+{sop: Bridge}
+[E] [A] [D] [A] [E] [A] [D] [A]
+Hey hey hey, that's what I say
 {eop}
 
 {sop: Verse 2}
-[E]I can't get no [A]satisfaction
+{c:Clean verse}
+[E]               [A] [E]
 I can't get no satisfaction
+[A]
+I can't get no satisfaction
+[E]
+'Cause I try and
 {eop}
 
-{sop: Bridge 3}
-'Cause I [E]try and
-I [B7]try and I [E]try and I [A]try
+{sop: Pre-Chorus}
+[B7] [E] [A]
+I try and I try and I try
 {eop}
 
-{sop: Chorus 2}
-{c:}
-[E]I can't get [D]no[A]
-When I'm watchin' my TV 
-And that man comes on to tell me 
-How white my shirts can be 
-But he can't be a man 'cause he doesn't smoke 
-The same cigarrettes as me 
+{soc}
+{c:Intro lick}
+[E]   [A] [D] [A] [E] [A]
+I can't get no, I can't get no
+[D]   [A] [E] [A] [D] [A]
+When I'm watchin' my TV
+[A]   [E]   [A] [D]
+And that man comes on to tell me
+[A]   [E]   [A] [D]
+How white my shirts can be
+[A]   [E]   [A] [D] [A]
+But he can't be a man 'cause he doesn't smoke
+[E]   [A] [D]
+The same cigarrettes as me
+[A]   [E]   [A] [D] [A] [E]
 I can't get no, oh no no no
-{eop}
+{eoc}
 
-{sop: Bridge 4}
-Hey hey [E]hey[A] [D]that's what I [A]say[E] [A] [D] [A]
+{sop: Bridge}
+[E] [A] [D] [A] [E] [A] [D] [A]
+Hey hey hey, that's what I say
 {eop}
 
 {sop: Verse 3}
-[E]I can't get no [A]satisfaction
+{c:Clean verse}
+[E]               [A]
+I can't get no satisfaction
+[E]               [A]
 I can't get no girl reaction
 {eop}
 
-{sop: Bridge 5}
-Cause I [E]try and I [B7]try and
-I [E]try and I [A]try I can't get [E]no[A]
+{sop: Pre-Chorus}
+[E]     [B7]
+Cause I try and I try and
+[E] [A] [E] [A]
+I try and I try
+I can't get no,
 {eop}
 
-{sop: Chorus 3}
-[D]I can't [A]get [E]no[A]
-When I'm ridin' round the world 
-And I'm doin' this and I'm signing that 
-And I'm tryin' to make some girl 
-Who tells me baby better come back later next week
-Cause you see I'm on losing streak
-I can't get no, oh no no no
-{eop}
-
-{sop: Bridge 6}
-Hey hey [E]hey[A] [D]that's what I [A]say[E] [A]
-{eop}
-
-{sop: Chorus 4}
-[D]I can't [A]get [E]no[A]
+{soc}
+{c:Intro lick to end}
+[D]   [A]   [E]   [A]
 I can't get no
-No satisfaction
-No satisfaction
-No satisfaction
+[D]   [A]   [E]   [A] [D] [A]
+When I'm ridin' round the world
+[E]   [A] [D]
+And I'm doin' this and I'm signing that
+[A]   [E]   [A]
+And I'm tryin' to make some girl
+[D]   [A]   [E]   [A] [D] [A]
+Who tells me baby better come back later next week
+[E]   [A] [D]
+Cause you see I'm on losing streak
+[A]   [E]   [A] [D] [A] [E]
+I can't get no, oh no no no
+{eoc}
+
+{sop: Bridge 3}
+[E] [A] [D] [A] [E] [A]
+Hey hey hey, that's what I say
 {eop}
 
-{sop: Outro}
+{soc}
+[D]   [A]   [E]   [A] [D] [A] [E] [A]
+I can't get no, I can't get no
+[D]   [A]   [E]   [A] [D] [A] [E] [A]
+I can't get no satis_faction
+[D]   [A]   [E]   [A] [D] [A] [E] [A] [D] [A] [E] [A]
+No satis_faction, no satis_faction, no satis_faction
+{eoc}
+
+{sop: Fade Out}
 [D] [A] [E] [A] [D] [A]
 {eop}
 
-
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC2@2}

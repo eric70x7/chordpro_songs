@@ -2,7 +2,6 @@
 {st: Bad Company}
 {key: A}
 
-{c:Patch 1.3 - Chorus}
 {sop: Intro}
 [A] [D/A] [A] [D/A] [G/A] [D/A] [G/A] [D/A] [G5]
 [D5] [A] [D/A] [A] [D/A] [G/A] [D/A] [G/A] [D/A] [G5]
@@ -72,7 +71,8 @@ Indeed I am
 {eop}
 
 {sop: Solo}
-{c: Solo A fret 17 then fret 5}
+{c:Solo A fret 17 then fret 5}
+       {c:to fret 12}
 {eop}
 
 {sop: Bridge 3}
