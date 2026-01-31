@@ -131,4 +131,5 @@ Walk away
 [A] [Bm/F#] [C/G] [Bm/F#] 
 [A] [Bm/F#] [C/G] [Bm/F#]
 {eop}
-{midi: CC0.0@2, PC10@2}
+
+{midi: CC0.6@2, PC11@2}
