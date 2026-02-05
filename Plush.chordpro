@@ -1,0 +1,89 @@
+{t: Plush}
+{st: Stone Temple Pilots}
+{key: G}
+{metronome: 146}
+{duration: 5:10}
+
+{c:Tempo 146}
+{c:Intro}
+{c:Verse 1} And I feel that time's a wasted go
+{c:Pre-Chorus} And I feel it And I feels it Where ya going to tomorrow?
+{c:Chorus} Where ya going with that mask I found?
+{c:Interlude}
+{c:Verse 2} And I feel, so much depends on the weather
+{c:Pre-Chorus} even ca_______re? And I feel it And she feels it
+{c:Chorus} Where ya going to tomorrow?
+{c:Interlude}
+{c:Chorus} it Where ya going to tomorrow?
+{c:Outro}
+
+{sop: Intro}
+{eop}
+
+{sop: Verse 1}
+And I feel that time's a wasted go
+So where ya going to tomorrow?
+And I see
+that these are lies to come
+Would you even care?
+{eop}
+
+{sop: Pre-Chorus}
+And I feel it And I feels it Where ya going to tomorrow?
+{eop}
+
+{soc}
+Where ya going with that mask I found?
+And I feel, and I feel
+When the dogs begin to smell her
+Will she smell alone?
+{eoc}
+
+{sop: Interlude}
+{eop}
+
+{sop: Verse 2}
+And I feel, so much depends on the weather
+So is it raining in your bedroom?
+And I
+see, that these are the eyes of disarray Would you
+{eop}
+
+{sop: Pre-Chorus}
+even ca_______re? And I feel it And she feels it
+{eop}
+
+{soc}
+Where ya going to tomorrow?
+Where ya going with that mask I found?
+And I feel, and I feel
+When the dogs begin to smell her
+Will she smell alone?
+When the
+dogs do find her Got time, time, to wait for tomorrow
+To find it, to find it, to find it When the
+dogs do find her Got time, time, to wait for tomorrow
+To find it, to find it, to find
+{eoc}
+
+{sop: Interlude}
+{eop}
+
+{soc}
+it
+Where ya going to tomorrow?
+Where ya going with that mask I found?
+And I feel, and I feel
+When the dogs begin to smell her
+Will she smell alone?
+When the
+dogs do find her Got time, time, to wait for tomorrow
+To find it, to find it, to find it When the
+dogs do find her Got time, time, to wait for tomorrow
+To find it, to find it, to find it
+{eoc}
+
+{sop: Outro}
+{eop}
+
+{midi: CC0.0@2, PC10@2}

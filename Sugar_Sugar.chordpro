@@ -1,0 +1,101 @@
+{t: Sugar, Sugar}
+{st: The Archies}
+{key: D}
+{metronome: 110}
+{duration: 2:47}
+
+{c:Tempo 110}
+{c:Chorus} Sugar, ah honey honey
+{c:Verse 1} I just can't believe the loveliness of loving you
+{c:Chorus} Ah Sugar, ah honey honey
+{c:Verse 2} When I kissed you, girl, I knew how sweet a kiss could be
+{c:Bridge} Sugar, pour a little sugar on it honey
+{c:Chorus} Sugar, ah honey honey
+
+{soc}
+[D]     [G]     [D]
+Sugar, ah honey honey
+[G]     [D]     [G]
+You are my candy girl
+[A]     [D]
+And you've got me wanting you
+[G] [A] [D] [G] [D]
+Honey, ah sugar sugar
+[G]     [D]     [G]
+You are my candy girl
+[A]     [D]     [D]
+And you've got me wanting you
+{eoc}
+
+{sop: Verse 1}
+[D] [C] [D]
+I just can't believe the loveliness of loving you
+[G] [D]
+(I just can't believe it's true)
+[D] [C] [D]
+I just can't believe the one to love this feeling to
+[G] [A]
+(I just can't believe it's true)
+{eop}
+
+{soc}
+[D]     [G]     [D]
+Ah Sugar, ah honey honey
+[G]     [D]     [G]
+You are my candy girl
+[A]     [D]
+And you've got me wanting you
+[G] [A] [D] [G] [D]
+Honey, ah sugar sugar
+[G]     [D]     [G]
+You are my candy girl
+[A]     [D]     [D]
+And you've got me wanting you
+{eoc}
+
+{sop: Verse 2}
+[D] [C] [D]
+When I kissed you, girl, I knew how sweet a kiss could be
+[G] [D]
+(I know how sweet a kiss can be)
+[D] [C] [D]
+Like the summer sunshine pour your sweetness over me
+[G] [A]
+(Pour your sweetness over me)
+{eop}
+
+{sop: Bridge}
+[D]     [G]
+Sugar, pour a little sugar on it honey
+[D]     [G]
+Pour a little sugar on it baby
+[D]     [G]     [A]
+I'm gonna make your life so sweet, yeah yeah yeah
+[D]
+Pour a little sugar
+[G] [A] [D] [G]
+pour a little sugar on it honey
+[D]     [G]
+Pour a little sugar on it baby
+[D]     [G]     [A]
+I'm gonna make your life so sweet, yeah yeah yeah
+[D]     [D]
+Pour a little sugar
+{eop}
+
+{soc}
+[D]     [G]     [D]
+Sugar, ah honey honey
+[G]     [D]     [G]
+You are my candy girl
+[A]     [D]
+And you've got me wanting you
+[G] [A] [D] [G] [D]
+Honey, ah sugar sugar
+[G]     [D]     [G]
+You are my candy girl
+[A]     [D]     [D]
+And you've got me wanting you
+{eoc}
+
+{midi: CC0.0@2, PC10@2}

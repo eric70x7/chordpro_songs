@@ -1,0 +1,142 @@
+{t: Venus}
+{st: Shocking Blue}
+{key: Em}
+{metronome: 128}
+{duration: 3:08}
+
+{c:Tempo 128}
+{c:Intro}
+{c:Verse 1} Em A Em A A goddess on a mountain top
+{c:Chorus} Em Am D She's got it,
+{c:Solo}
+{c:Verse 2} Em Em A Her weapon were her crystal eyes
+{c:Chorus} Am D She's got it,
+{c:Bridge}
+{c:Solo}
+{c:Chorus} Am D She's got it,
+{c:Bridge}
+{c:Interlude}
+{c:Outro}
+
+{sop: Intro}
+[B7sus4]     [Em]     [A]     [Em]     [A]     [B7sus4]     [Em]     [A]     [Em]     [A]     [Em]     [A]
+{eop}
+
+{sop: Verse 1}
+[Em]     [A]     [Em]     [A]
+A goddess on a mountain top
+[Em]     [A]     [Em]     [A]     [Em]     [A]
+Was burning like a silver flame,
+[Em]     [A]     [Em]     [A]
+The summit of beauty and love,
+[Em]     [A]
+And Venus was her name
+{eop}
+
+{soc}
+[Em] [Am] [D]
+She's got it,
+[Am] [D] [Em] [A]
+Yeah, baby, she's got it.
+[Em] [A]
+Well,
+[C] 
+I'm your Venus,
+[B] 
+I'm your fire
+[Em] [A]
+at your desire.
+[Em] [A]
+Well,
+[C] 
+I'm your Venus,
+[B] 
+I'm your fire
+[Em] [A]     [Em]     [A]
+at your desire.
+{eoc}
+
+{sop: Solo}
+[Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A]
+{eop}
+
+{sop: Verse 2}
+[Em] [Em] [A]
+Her weapon were her crystal eyes
+[Em] [A] [Em] [A] [Em] [A]
+Making ev'ry man mad;
+[Em] [A] [Em] [A]
+Black as a dark night she was,
+[Em] [A]
+Got what noone else had.
+[Em]
+Wow!
+{eop}
+
+{soc}
+[Am] [D]
+She's got it,
+[Am] [D] [Em] [A]
+Yeah, baby, she's got it.
+[Em] [A]
+Well,
+[C] 
+I'm your Venus,
+[B] 
+I'm your fire
+[Em] [A]
+at your desire.
+[Em] [A]
+Well,
+[C] 
+I'm your Venus,
+[B] 
+I'm your fire
+[Em] [A]     [Em]     [A]
+at your desire.
+{eoc}
+
+{sop: Bridge}
+[A] [B] [A] [B] [A] [B] [A] [B]
+{eop}
+
+{sop: Solo}
+[Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em]
+{eop}
+
+{soc}
+[Am] [D]
+She's got it,
+[Am] [D] [Em] [A]
+Yeah, baby, she's got it.
+[Em] [A]
+Well,
+[C] 
+I'm your Venus,
+[B] 
+I'm your fire
+[Em] [A]
+at your desire.
+[Em] [A]
+Well,
+[C] 
+I'm your Venus,
+[B] 
+I'm your fire
+[Em] [A]     [Em]     [A]
+at your desire.
+{eoc}
+
+{sop: Bridge}
+[A] [B] [A] [B] [A] [B] [A] [B]
+{eop}
+
+{sop: Interlude}
+[B7sus4] [Em] [A] [Em] [A] [B7sus4]
+{eop}
+
+{sop: Outro}
+[Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A]
+{eop}
+
+{midi: CC0.0@2, PC10@2}
