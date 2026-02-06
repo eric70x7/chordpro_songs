@@ -1,0 +1,158 @@
+{t: Mama Kin}
+{st: Aerosmith}
+{key: E}
+{metronome: 144}
+{duration: 4:27}
+
+{c:Tempo 144}
+{c:Intro} [E] [B] [A] [E] [B] [A] [E] [B] [A] [E]
+{c:Solo 1}
+{c:Interlude}
+{c:Verse 1} It ain't easy, livin' like a gypsy
+{c:Pre-Chorus} Well, you've always got your tail on the wag
+{c:Verse 2} It ain't easy, livin' like you wanna
+{c:Pre-Chorus} Said you're bald as an egg at eighteen
+{c:Chorus} Keep in touch with Mama Kin
+{c:Solo 2}
+{c:Verse 3} It ain't easy, livin' like ya wanna
+{c:Pre-Chorus} Said you're bald as an egg at eighteen
+{c:Chorus} Keep in touch with Mama Kin
+
+{sop:Intro}
+[E] [B] [A] [E] [B] [A] [E] [B] [A] [E]
+{eop}
+
+{sop:Solo 1}
+[A] [E] [A] [E] [A] [E] [F#] [B]
+{eop}
+
+{sop:Interlude}
+[E] [B] [A] [E] [B] [A] [E]
+{eop}
+
+{sop:Verse 1}
+[E]           [B]
+It ain't easy, livin' like a gypsy
+[A]
+Tell ya, honey, how I feel
+[E]
+I've been dreaming
+[B]
+Floatin' downstream and
+[A]
+Losin' touch with all that's real
+[E]           [B]
+Whole earth lover, keepin' undercover
+[A]
+Never knowin' where ya been
+[E]           [B]
+You been fadin', always out paradin'
+[A]
+Keep in touch with Mama Kin
+{eop}
+
+{sop:Pre-Chorus}
+[E]           [A]
+Well, you've always got your tail on the wag
+[E]           [A]     [E]
+Shootin' fire from your mouth just like a dragon
+[A]
+You act like a perpetual drag
+[E]     [F#]
+You better check it out
+[B]
+'Cause someday soon you'll have to climb back on the wagon
+{eop}
+
+{sop:Verse 2}
+[E]           [B]
+It ain't easy, livin' like you wanna
+[A]     [E]
+And it's so hard to find piece of mind, yes it is
+[B]
+The way I see it, you've got to say shit
+[A]
+But don't forget to drop me a line
+{eop}
+
+{sop:Pre-Chorus}
+[E]           [A]
+Said you're bald as an egg at eighteen
+[E]           [A]     [E]
+And workin' for you dad is just a drag, man
+[A]
+He still stuffs your mouth with your dreams
+[E]     [F#]
+You better check it out
+[B]
+'Cause someday soon you'll have to climb back on the wagon
+{eop}
+
+{soc}
+[E]           [B]
+Keep in touch with Mama Kin
+[E]           [B]
+Tell her where you've gone and been
+[E]           [B]
+Livin' out your fantasy
+[E]           [B]
+Sleepin' late and smokin' tea
+[E]     [A]     [D]     [B]
+Keep in touch with Mama Kin
+[E]     [A]     [D]     [B]
+Tell her where you've gone and been
+[E]     [A]     [D]     [B]
+Livin' out your fantasy
+[E]     [A]     [D]     [C]     [B]
+Sleepin' late and smokin' tea
+{eoc}
+
+{sop:Solo 2}
+[A] [G] [E] [G] [A]
+{eop}
+
+{sop:Verse 3}
+[E]           [B]
+It ain't easy, livin' like ya wanna
+[A]     [E]
+And it's so hard to find piece of mind, yes it is
+[B]
+The way I see it, you've got to say shit
+[A]
+But don't forget to drop me a line
+{eop}
+
+{sop:Pre-Chorus}
+[E]           [A]
+Said you're bald as an egg at eighteen
+[E]           [A]     [E]
+And workin' for you dad is just a drag, man
+[A]
+He still stuffs your mouth with your dreams
+[E]     [F#]
+You better check it out
+[B]
+'Cause someday soon you'll have to climb back on the wagon
+{eop}
+
+{soc}
+[E]           [B]
+Keep in touch with Mama Kin
+[E]           [B]
+Tell her where you've gone and been
+[E]           [B]
+Livin' out your fantasy
+[E]           [B]
+Sleepin' late and smokin' tea
+[E]     [A]     [D]     [B]     [E]
+Keep in touch with Mama Kin
+[A]     [D]     [B]
+Tell her where you've gone and been
+[E]     [A]     [D]     [B]
+Livin' out your fantasy
+[E]     [A]     [D]
+Sleepin' late and smokin' tea
+[C]     [D]     [E7sus4]     [E]
+{eoc}
+
+{midi: CC0.0@2, PC10@2}

@@ -1,0 +1,56 @@
+{t: Hippy Hippy Shake}
+{st: The Swinging Blue Jeans}
+{key: E}
+{metronome: 150}
+{duration: 1:45}
+
+{c:Tempo 150}
+{c:Verse} For goodness sake I got the hippy hippy shakes
+{c:Chorus} Well now you shake it to the left you shake it to the right
+{c:Guitar Break}
+{c:Chorus}
+{c:Outro} Oh the hippy hippy shake ooh the hippy hippy shake
+
+{sop:Verse}
+N.C.          [E]
+For goodness sake I got the hippy hippy shakes
+[A]           [B]
+Yeah I got the shakes I got the hippy hippy shakes
+N.C.          [E]
+Ooh I can't sit still with the hippy hippy shakes
+[A]     [E]
+Yeah I get my thrill now with the hippy hippy shakes
+[B]     [A]     [E]     [B]
+Yeah it’s in the back ooh the hippy hippy shake
+{eop}
+
+{soc}
+N.C.          [E]
+Well now you shake it to the left you shake it to the right
+You do the hippy shake shake with all of your might
+[A]     [E]
+Oh baby yeah come on and shake
+[B]     [A]     [E]     [B]
+Oh it’s in the back ooh the hippy hippy shake ow
+{eoc}
+
+{sop:Guitar Break}
+[E] [A] [E] [B] [E] [B]
+{eop}
+
+{soc}
+N.C.          [E]
+Well now you shake it to the left you shake it to the right
+You do the hippy shake shake with all your might
+[A]     [E]
+Oh baby yeah come on and shake
+[B]     [A]     [E]
+Yeah it's in the back ooh the hippy hippy shake
+{eoc}
+
+{sop:Outro}
+[B] [E] [B] [E] [D] [E]
+Oh the hippy hippy shake ooh the hippy hippy shake
+{eop}
+
+{midi: CC0.0@2, PC10@2}

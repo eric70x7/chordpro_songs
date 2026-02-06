@@ -1,0 +1,123 @@
+{t: I Wanna Be Sedated}
+{st: Ramones}
+{key: E}
+{metronome: 162}
+{duration: 2:29}
+
+{c:Tempo 162}
+{c:Intro} [E]
+{c:Verse 1} Twenty twenty twenty four hours to go
+{c:Chorus} Just get me to the airport, put me on a plane
+{c:Verse 2} Twenty twenty twenty four hours to go
+{c:Chorus} Just put me in a wheelchair, get me on a plane
+{c:Solo}
+{c:Verse 3} Twenty twenty twenty four hours to go
+{c:Chorus} Just put me in a wheelchair, get me to the show
+{c:Verse 4} Twenty twenty twenty four hours to go
+{c:Chorus} Just put me in a wheelchair, get me to the show
+{c:Outro} Babababa, bababababa, I want to be sedated
+
+{sop:Intro}
+[E]
+{eop}
+
+{sop:Verse 1}
+[E]
+Twenty twenty twenty four hours to go
+[A]           [E]
+I want to be sedated
+Nothing to do, nowhere to go, oh
+[A]           [E]
+I want to be sedated
+{eop}
+
+{soc}
+[B]           [E]
+Just get me to the airport, put me on a plane
+[B]           [E]
+Hurry hurry hurry, before I go insane
+[B]           [E]
+I can't control my fingers, I can't control my brain
+[A]     [B]
+Oh no oh oh oh oh
+{eoc}
+
+{sop:Verse 2}
+[E]           [E]
+Twenty twenty twenty four hours to go
+[A]           [E]
+I want to be sedated
+Nothing to do, nowhere to go, oh
+[A]           [E]
+I want to be sedated
+{eop}
+
+{soc}
+[B]           [E]
+Just put me in a wheelchair, get me on a plane
+[B]           [E]
+Hurry hurry hurry, before I go insane
+[B]           [E]
+I can't control my fingers, I can't control my brain
+[A]     [B]
+Oh no oh oh oh oh
+{eoc}
+
+{sop:Solo}
+[E] [A] [B] [E] [A] [B] [E]
+{eop}
+
+{sop:Verse 3}
+[F#]
+Twenty twenty twenty four hours to go
+[B]           [F#]
+I want to be sedated
+Nothing to do, nowhere to go, oh
+[B]           [F#]
+I want to be sedated
+{eop}
+
+{soc}
+[C#]          [F#]
+Just put me in a wheelchair, get me to the show
+[C#]          [F#]
+Hurry hurry hurry, before I go loco
+[C#]          [F#]
+I can't control my fingers, I can't control my toes
+[B]     [C#]
+Oh no oh oh oh oh
+{eoc}
+
+{sop:Verse 4}
+[F#]          [F#]
+Twenty twenty twenty four hours to go
+[B]           [F#]
+I want to be sedated
+Nothing to do, nowhere to go, oh
+[B]           [F#]
+I want to be sedated
+{eop}
+
+{soc}
+[C#]          [F#]
+Just put me in a wheelchair, get me to the show
+[C#]          [F#]
+Hurry hurry hurry, before I go loco
+[C#]          [F#]
+I can't control my fingers, I can't control my toes
+[B]     [C#]
+Oh no oh oh oh oh
+{eoc}
+
+{sop:Outro}
+[F#]          [B]     [C#]    [F#]
+Babababa, bababababa, I want to be sedated
+[B]     [C#]    [F#]
+Babababa, bababababa, I want to be sedated
+[B]     [C#]    [F#]
+Babababa, bababababa, I want to be sedated
+[B]     [C#]    [F#]
+Babababa, bababababa, I want to be sedated
+{eop}
+
+{midi: CC0.0@2, PC10@2}

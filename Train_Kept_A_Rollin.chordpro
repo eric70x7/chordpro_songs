@@ -1,0 +1,164 @@
+{title:}
+{t: Train Kept A-Rollin'}
+{st: Aerosmith}
+{key: G}
+{metronome: 110}
+{duration: 5:33}
+
+{c:Tempo 110}
+{c:Intro} [E5]
+{c:Guitar Solo 1}
+{c:Verse 1} Well, on a train, I met a dame
+{c:Chorus} I said, train kept arolling all night long
+{c:Guitar Solo 2}
+{c:Verse 2} Well, get along, sweet little woman get along
+{c:Guitar Solo 3}
+{c:Bridge}
+{c:Pre-Verse}
+{c:Verse 3} Well, on a train, I met a dame
+{c:Guitar Solo 4}
+{c:Verse 4} Well, get along, sweet little woman get along
+{c:Interlude}
+{c:Verse 5} Well, we made a stop in Albuquerque
+{c:Chorus}
+{c:Outro}
+
+{sop:Intro}
+[E5]
+{eop}
+
+{sop:Guitar Solo 1}
+[G5] [A5] [G5] [A5] [B5] [A5] [G5] [F#5]
+{eop}
+
+{sop:Verse 1}
+[G5]
+Well, on a train, I met a dame
+She rather handsome, we kind looked the same
+[A5]
+She was pretty, from New York City
+[G5]
+I'm walking down that old fair lane
+[A5]     [B5]     [A5]     [G5]
+I'm in heat, I'm in love
+[F#5]    [G5]
+But I just couldn't tell her so
+{eop}
+
+{soc}
+[G5]
+I said, train kept arolling all night long
+Train kept arolling all night long
+[A5]
+Train kept arolling all night long
+[G5]
+Train kept arolling all night long
+[A5]     [B5]     [A5]     [G5]
+With a heave, and a ho
+[F#5]    [G5]     [G5]
+But I just couldn't tell her so, no, no, no
+{eoc}
+
+{sop:Guitar Solo 2}
+[A5] [G5] [A5] [B5] [A5] [G5] [F#5]
+{eop}
+
+{sop:Verse 2}
+[G5]
+Well, get along, sweet little woman get along
+[A5]     [G5]
+On your way, get along, sweet little woman get along
+[A5]     [B5]     [A5]     [G5]
+On your way, I'm in heat, I'm in love
+[F#5]    [G5]     [E5]
+But I just couldn't tell her so, no, no, no
+{eop}
+
+{sop:Guitar Solo 3}
+[A5] [E5] [G5] [A5] [G5] [A5] [B5] [A5] [G5] [F#5] [G5] [E5]
+{eop}
+
+{sop:Bridge}
+[E5]
+{eop}
+
+{sop:Pre-Verse}
+[G5] [A5] [G5] [A5] [B5] [A5] [G5] [F#5] [G5]
+{eop}
+
+{sop:Verse 3}
+[G5]
+Well, on a train, I met a dame
+She rather handsome, we kind looked the same
+[A5]
+She was pretty, from New York City
+[G5]
+I'm walking down that old fair lane
+[A5]     [B5]     [A5]     [G5]
+I'm in heat, I'm in love
+[F#5]    [G5]
+But I just couldn't tell her so
+[G5]
+I said, train kept arolling all night long
+Train kept arolling all night long
+[A5]
+Train kept arolling all night long
+[G5]
+Train kept arolling all night long
+[A5]     [B5]     [A5]     [G5]
+With a heave, and a ho
+[F#5]    [G5]
+But I just couldn't tell her so, no, no, no, no, no, no
+{eop}
+
+{sop:Guitar Solo 4}
+[G5] [A5] [G5] [A5] [B5] [A5] [G5] [F#5] [G5]
+{eop}
+
+{sop:Verse 4}
+[G5]
+Well, get along, sweet little woman get along
+[A5]     [G5]
+On your way, get along, sweet little woman get along
+[A5]     [B5]     [A5]     [G5]
+On your way, I'm in heat, I'm in love
+[F#5]    [G5]
+But I just couldn't tell her so, no
+{eop}
+
+{sop:Interlude}
+[E5] [G5] [A5] [G5] [A5] [B5] [A5] [G5] [F#5] [G5]
+[G5] [A5] [G5] [A5] [B5] [A5] [G5] [F#5] [G5]
+{eop}
+
+{sop:Verse 5}
+[G5]
+Well, we made a stop in Albuquerque
+She must have thought I was a real cool jerk
+[A5]
+Got off the train, and put her hands up
+[G5]
+Looking so good I couldn't let her go
+[A5]     [B5]     [A5]     [G5] [F#5] [G5]
+But I just couldn't tell her so
+{eop}
+
+{soc}
+[G5]
+I said, train kept arolling all night long
+Train kept arolling all night long
+[A5]
+Train kept arolling all night long
+[G5]
+Train kept arolling all night long
+[A5]     [B5]     [A5]     [G5]
+With a heave, and a ho
+[F#5]    [G5]     [E5]
+But I just couldn't tell her so
+{eoc}
+
+{sop:Outro}
+[E]
+{eop}
+
+{midi: CC0.0@2, PC10@2}
