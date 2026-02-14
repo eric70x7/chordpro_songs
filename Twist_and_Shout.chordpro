@@ -1,0 +1,70 @@
+{t: Twist and Shout}
+{st: The Beatles}
+{key: D}
+{metronome: 125}
+{duration: 2:35}
+
+{c:Tempo 125}
+{c:Intro}
+{c:Verse 1} Well, shake it up, baby, now
+{c:Verse 2} Twist and shout
+{c:Interlude}
+{c:Verse 3} Well, shake it up, baby, now
+{c:Outro} Well, shake it, shake it, shake it, baby, now
+
+{sop: Intro}
+[D]     [G]     [A]     [D]     [G]     [A]     [D]     [G]
+{eop}
+
+{sop: Verse 1}
+[A]     [D]     [G]
+Well, shake it up, baby, now
+Twist and shout
+Come on, come on, come on, come on, baby, now
+Come on and work it on out
+Well, work it on out, honey
+You know you look so good
+You know you got me going, now
+Just like I knew you would
+{eop}
+
+{sop: Verse 2}
+[A]     [D]     [G]
+Well, shake it up, baby, now
+Twist and shout
+Come on, come on, come on, come on, baby, now
+Come on and work it on out
+You know you twist little girl
+You know you twist so fine
+Come on and twist a little closer, now
+[A]     [D]     [G]     [A]
+And let me know that you're mine, oh
+{eop}
+
+{sop: Interlude}
+[D]     [G]     [A]     [D]     [G]     [A]     [D]     [G]     [A]     [D]     [G]     [A]
+[A]     [D]     [G]
+{eop}
+
+{sop: Verse 3}
+[A]     [D]     [G]
+Well, shake it up, baby, now
+Twist and shout
+Come on, come on, come on, come on, baby, now
+Come on and work it on out
+You know you twist little girl
+You know you twist so fine
+Come on and twist a little closer, now
+And let me know that you're mine
+{eop}
+
+{sop: Outro}
+[A]     [D]     [G]
+Well, shake it, shake it, shake it, baby, now
+Well, shake it, shake it, shake it, baby, now
+Well, shake it, shake it, shake it, baby, now
+[A]     [A]     [D]
+Ah, ah
+{eop}
+
+{midi: CC0.0@2, PC10@2}
