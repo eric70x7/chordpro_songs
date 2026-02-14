@@ -57,6 +57,7 @@ at your desire.
 {eoc}
 
 {sop: Solo}
+{c:Guitar solo}
 [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A]
 {eop}
 
@@ -101,6 +102,7 @@ at your desire.
 {eop}
 
 {sop: Solo}
+{c:Solo}
 [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em]
 {eop}
 
@@ -132,6 +134,7 @@ at your desire.
 {eop}
 
 {sop: Interlude}
+{c:Intro chords}
 [B7sus4] [Em] [A] [Em] [A] [B7sus4]
 {eop}
 
@@ -139,4 +142,4 @@ at your desire.
 [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A]
 {eop}
 
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC1@2}
