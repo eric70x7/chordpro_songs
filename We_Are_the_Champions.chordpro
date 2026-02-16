@@ -33,6 +33,7 @@ Kicked in my face
 [F]         [Bb]     [C]
 But I've come through
 {eop}
+{c:Single notes}
 
 {soc}
 [F]          [Am]           [Dm]
@@ -88,6 +89,8 @@ No time for losers
 'Cause we are the champions of the world We
 {eoc}
 
+{c:Leads under F pent then F (D shape)}
+
 {sop: Outro}
 [F]        [Am]           [Dm]
 Are the champions my friend
@@ -102,5 +105,5 @@ No time for losers
 [Ab]            [Bb]       [Csus4]
 'Cause we are the champ
 {eop}
-{midi: CC0.6@2, PC18@2}
+{midi: CC0.0@2, PC11@2}
 [Dm]

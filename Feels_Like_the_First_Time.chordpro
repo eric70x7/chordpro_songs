@@ -71,6 +71,7 @@ I know I can't help myself
 [Bsus4]                  [B]                 [C]
 You're all in the world to me
 {eop}
+{c:Leads G pent - Kick in delay }
 
 {sop: Interlude}
 [A] [B] [D]
@@ -136,4 +137,5 @@ Because it feels like
 [F]            [G]
 The very first time
 {eop}
-{midi: CC0.0@2, PC10@2}
+
+{midi: CC0.0@2, PC18@2}
