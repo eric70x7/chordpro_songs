@@ -49,6 +49,7 @@ Without love
 
 {sop: Verse 3}
 {c:Drums guitar/bass on 1}
+
 [Gm7]
 Well, the Illinois Central
 And the Southern Central Freight
@@ -71,6 +72,7 @@ Without love
 
 {sop: Verse 4}
 {c:Drums - Guitar/Bass on 1}
+
 [Gm7]
 Well, the Illinois Central
 And the Southern Central Freight
@@ -85,6 +87,7 @@ Without love
 
 {sop: Verse 5}
 {c:Drums - Guitar/Bass on quarter notes}
+
 [Gm7]
 Well, pistons keep on churnin'
 And the wheels go 'round and 'round
@@ -114,9 +117,11 @@ Keep on movin'
 Won't you keep on movin'?
 Gonna keep on movin'
 {eop}
-{c:Solo over chorus chords}
-{c:Drum solo}
-{c:Ooutro immediately after drums}
 
+{c:Solo over chorus chords}
+
+{c:Drum solo}
+
+{c:Outro immediately after drums}
 
 {midi: CC0.0@2, PC1@2}
