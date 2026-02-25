@@ -42,7 +42,16 @@ And let me know that you're mine, oh
 {eop}
 
 {sop: Interlude}
-{c: SOLO D shape G}
+{c: SOLO}
+{sot}
+E|---------------------
+B|-------3-2--2--------
+G|-----4-4-2--2-4-2----
+D|-4-4-5--------5-4-4--
+A|-5-5--------------5--
+E|---------------------
+
+{eot}
 [D]     [G]     [A]     [D]     [G]     [A]     [D]     [G]     [A]     [D]     [G]     [A]
 [A]     [D]     [G]
 {eop}
@@ -67,6 +76,15 @@ Well, shake it, shake it, shake it, baby, now
 {c:Walk from A to D}
 [A7]    [D]
 Ah, ah
+{sot}
+E|--5--
+B|--5--
+G|--5--
+D|--4--
+A|-----
+E|-----
+
+{eot}
 {eop}
 
 {midi: CC0.0@2, PC8@2}
