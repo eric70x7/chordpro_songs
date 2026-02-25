@@ -1,61 +1,93 @@
 {t: I Saw Her Standing There}
 {st: The Beatles}
 {key: E}
+{metronome: 160}
+{duration: 2:55}
+
+{c:Tempo 160}
+{c:Intro}
+{c:Verse 1} Well she was just seventeen and you know what I mean
+{c:Verse 2} Well she looked at me and I, I could see
+{c:Bridge 1} Well my heart went boom
+{c:Verse 3} Well we danced through the night and we held each other tight
+{c:Solo}
+{c:Bridge 2} Well my heart went boom
+{c:Verse 4} Oh, we danced through the night and we held each other tight
+{c:Outro} Oh, since I saw her standing there
 
 {sop: Intro}
-[E7]- - - -
+[E7]
 {eop}
 
 {sop: Verse 1}
-[E7]Well she was just seven[A7]teen and you know what I [E7]mean
-And the way she looked was way beyond com[B7]pare
-[E]So how could I [E7/G#]dance with an[A]other [Am/C]oh
-When I [E]saw her [B7]standing [E7]there
+         [E7]                    [A7]                    [E7]
+Well she was just seventeen          and you know what I mean
+                                 [B7]
+And the way she looked was way beyond compare
+   [E]             [E7/G#]               [A]       [Am/C]
+So how could I dance with another          oh
+         [E]          [B7]            [E7]
+When I saw her standing there
 {eop}
 
 {sop: Verse 2}
-[E7]Well she looked at [A7]me and I, I could [E7]see
-That before too long I’d fall in love with [B7]her
-[E]She wouldn’t [E7/G#]dance with an[A]other, [Am/C]ooh
-When I [E]saw her [B7]standing [E7]there
+         [E7]                    [A7]                    [E7]
+Well she looked at me               and I, I could see
+                                 [B7]
+That before too long I’d fall in love with her
+   [E]             [E7/G#]               [A]       [Am/C]
+She wouldn’t dance with another,          ooh
+         [E]          [B7]            [E7]
+When I saw her standing there
 {eop}
 
 {sop: Bridge 1}
-[A]Well my heart went boom
+[A]
+Well my heart went boom
 When I crossed that room
-And I held her [B7]hand in [A7]mine
+                                 [B7]       [A7]
+And I held her hand in mine
 {eop}
 
 {sop: Verse 3}
-[E7]Well we danced through the [A7]night and we held each other [E7]tight
-And before too long I fell in love with [B7]her
-[E]Now I’ll [E7]never dance with an[A7]other, [Am/C]oh
-Oh, since I [E7]saw her [B7]standing [E7]there [B7]
+         [E7]                    [A7]                    [E7]
+Well we danced through the night     and we held each other tight
+                                 [B7]
+And before too long I fell in love with her
+   [E]             [E7]               [A7]       [Am/C]
+Now I’ll never dance with another,          oh
+Oh, since I [E7] saw her [B7] standing [E7] there [B7]
 {eop}
 
 {sop: Solo}
-[E7]- - - -
-[E7]- - [B7]-
-[E7]- - [A][Am]
-[E7]- [B7][E7]-
+[E7]
+[E7]                  [B7]
+[E7]                  [A]   [Am]
+[E7]         [B7]     [E7]
 {eop}
 
 {sop: Bridge 2}
-[A]Well my heart went boom
+[A]
+Well my heart went boom
 When I crossed that room
-And I held her [B7]hand in [A7]mine
+                                 [B7]       [A7]
+And I held her hand in mine
 {eop}
 
 {sop: Verse 4}
-[E7]Oh, we danced through the [A7]night and we held each other [E7]tight
-And before too long I fell in love with [B7]her
-[E]Now I’ll [E7/G#]never dance with an[A7]other, [Am/C]ooh
-Since I [E7]saw her [B7]standing [E7]there
+         [E7]                    [A7]                    [E7]
+Oh, we danced through the night      and we held each other tight
+                                 [B7]
+And before too long I fell in love with her
+   [E]             [E7/G#]               [A7]       [Am/C]
+Now I’ll never dance with another,          ooh
+         [E7]         [B7]            [E7]
+Since I saw her standing there
 {eop}
 
 {sop: Outro}
-Oh, since I [E7]saw her [B7]standing [E7]there
-Yeah, well, since I [E7]saw her [B7]standing [A7]there [E7][E7][E9]
+Oh, since I [E7] saw her [B7] standing [E7] there
+Yeah, well, since I [E7] saw her [B7] standing [A7] there [E7] [E7] [E9]
 {eop}
 
-{midi: CC0.0@2, PC8@2}
+{midi: CC0.0@2, PC10@2}

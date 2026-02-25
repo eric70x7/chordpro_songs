@@ -1,75 +1,118 @@
 {t: Take It Easy}
-{artist: The Eagles}
+{st: The Eagles}
 {key: G}
+{metronome: 139}
+{duration: 3:32}
+
+{c:Tempo 139}
+{c:Intro}
+{c:Verse 1} Well I'm a runnin' down the road try'n to loosen my load
+{c:Chorus} Take it easy, take it ea_sy
+{c:Verse 2} Well, I'm a standin' on a corner in Winslow, Arizona
+{c:Chorus} Come on, baby, don't say maybe
+{c:Solo}
+{c:Verse 3} Well, I'm a runnin' down the road tryin' to loosen my load
+{c:Chorus} Take it easy, take it ea_sy
+{c:Outro} Ooh, ooh, ooh
 
 {sop: Intro}
-[G] [C] [D7sus4] [G]
-[C] [D7sus4] [G]
+[G]     [C]      [D7sus4] [G]
+[C]     [D7sus4] [G]
 {eop}
 
 {sop: Verse 1}
-Well I'm a [G]runnin' down the road try'n to loosen my load
-I've got seven [D]women on my [C]mind
-Four that [G]want to own me, two that [D]want to stone me
-One [C]says she's a friend of [G]mine
+[G]                                 
+Well I'm a runnin' down the road try'n to loosen my load
+             [D]               [C]   
+I've got seven women on my mind
+     [G]                                 [D]   
+Four that want to own me, two that want to stone me
+     [C]                        [G]   
+One says she's a friend of mine
 {eop}
 
 {soc}
-Take it ea[Em]sy, [Em7]take it [C]ea_sy[G]
-Don't let the [Am]sound of your own [C]wheels drive you [Em]crazy
-[Em7]Lighten [C]up while you still [G]can
-Don't even [C]try to under[G]stand
-Just [Am]find a place to [C]make your stand, and [G]take it easy
+     [Em]         [Em7]      [C]      [G]   
+Take it easy,           take it ea_sy
+                 [Am]                  [C]               [Em]   
+Don't let the sound of your own wheels drive you crazy
+     [Em7]      [C]             [G]   
+{soh}Lighten up while you still can{eoh}
+          [C]               [G]   
+Don't even try to understand
+     [Am]               [C]                        [G]   
+Just find a place to make your stand, and take it easy
 {eoc}
 
 {sop: Verse 2}
-Well, I'm a [G]standin' on a corner in Winslow, Arizona
-It's such a [D]fine sight to [C]see
-It's a [G]girl, my Lord, in a [D]flatbed Ford
-Slowin' [C]down to take a look at [G]me
+[G]                                 
+Well, I'm a standin' on a corner in Winslow, Arizona
+          [D]            [C]   
+It's such a fine sight to see
+   [G]                           [D]   
+It's a girl, my Lord, in a flatbed Ford
+          [C]                             [G]   
+Slowin' down to take a look at me
 {eop}
 
 {soc}
-Come on, [Em]baby, [Em7]don't say [C]maybe[G]
-I gotta [Am]know if your sweet [C]love is gonna [Em]save me
-[Em7]We may [C]lose and we may [G]win, though we will [C]never be here a[G]gain
-So [Am]open up I'm [C]climbin' in, so [G]take it easy
+     [Em]      [Em7]     [C]     [G]   
+Come on, baby,     don't say maybe
+               [Am]                 [C]              [Em]   
+I gotta know if your sweet love is gonna save me
+     [Em7]     [C]            [G]   
+{soh}We may lose and we may win{eoh}, though we will never be here again
+     [Am]            [C]                   [G]   
+So open up I'm climbin' in, so take it easy
 {eoc}
 
 {sop: Solo}
-{c:Solo}
-[G][G][D][C] 
-[G][D][C][G] 
-[Em][D][C][G] 
-[Am][C][Em][D]
+[G] [G] [D] [C]
+[G] [D] [C] [G]
+[Em] [D] [C] [G]
+[Am] [C] [Em] [D]
 {eop}
 
 {sop: Verse 3}
-Well, I'm a [G]runnin' down the road tryin' to loosen my load
-Got a world of trouble [D]on my [C]mind
-[G]Lookin' for a lover who [D]won't blow my cover, she's [C]so hard to [G]find
+[G]                                 
+Well, I'm a runnin' down the road tryin' to loosen my load
+               [D]           [C]   
+Got a world of trouble on my mind
+[G]                                 [D]   
+Lookin' for a lover who won't blow my cover, she's so hard to find
 {eop}
 
 {soc}
-Take it ea[Em]sy, [Em7]take it [C]ea_sy[G]
-Don't let the [Am]sound of your own [C]wheels make you [Em]crazy
-[Em7]Come on [C]baby, [G]don't say [C]maybe[G]
-I gotta [Am]know if you [C]sweet love is gonna [G]save me
+     [Em]         [Em7]      [C]      [G]   
+Take it easy,           take it ea_sy
+                 [Am]                  [C]               [Em]   
+Don't let the sound of your own wheels make you crazy
+     [Em7]     [C]      [G]      [C]     [G]   
+Come on baby,     don't say maybe
+               [Am]            [C]              [G]   
+I gotta know if you sweet love is gonna save me
 {eoc}
 
 {sop: Outro}
-[C]Ooh, ooh, ooh
+[C]   
 Ooh, ooh, ooh
-[G]Ooh, ooh, ooh
 Ooh, ooh, ooh
-[C]Ooh, ooh, ooh
+[G]   
 Ooh, ooh, ooh
-[G]Ooh, ooh, ooh
-[G7]Ooh, ooh, ooh
-[C]Ooh, ooh, ooh
-Oh we got it [G]ea[G7]sy[C]
-We oughta take it [G]ea[G7]sy[C] [Em]
+Ooh, ooh, ooh
+[C]   
+Ooh, ooh, ooh
+Ooh, ooh, ooh
+[G]   
+Ooh, ooh, ooh
+[G7]   
+Ooh, ooh, ooh
+[C]   
+Ooh, ooh, ooh
+              [G]   [G7] [C]   
+Oh we got it easy
+               [G]   [G7] [C]  [Em]   
+We oughta take it easy
 {eop}
 
-{tag: Acoustic}
 {midi: CC0.0@2, PC8@2}

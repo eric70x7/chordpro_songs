@@ -30,11 +30,11 @@ You'll drink the night away
 [D]
 And forget about everything
 [A]
-This city desert makes you feel so cold
+{soh}This city desert makes you feel so cold{eoh}
 [A]
 It's got so many people, but it's got no soul
 [Em]
-And it's taken you so long
+{soh}And it's taken you so long{eoh}
 [G]
 To find out you were wrong
 [D]
@@ -43,13 +43,13 @@ When you thought it held everything
 
 {soc}
 [Dm7]                              [Am]
-You used to think that it was so easy
+{soh}You used to think that it was so easy{eoh}
 [Dm7]                            [Am]
 You used to say that it was so easy
 [C]              [G]                [D]
 But you're trying, you're trying now
 [Dm7]                            [Am]
-Another year and then you'd be happy
+{soh}Another year and then you'd be happy{eoh}
 [Dm7]
 Just one more year and then
 [Am]
@@ -81,7 +81,7 @@ You tell him who you've seen
 [D]
 And you talk about anything
 [A]
-He's got this dream about buying
+{soh}He's got this dream about buying{eoh}
 [A]
 Some land
 [A]
@@ -98,19 +98,19 @@ And forget about everything
 
 {soc}
 [Dm7]
-But you know he'll always
+{soh}But you know he'll always{eoh}
 [Am]
-Keep moving
+{soh}Keep moving{eoh}
 [Dm7]
 You know he's never gonna
 [Am]
 Stop moving
 [C]
-'Cause he's rolling
+{soh}'Cause he's rolling{eoh}
 [G]                     [D]
 He's the rolling stone
 [Dm7]
-And when you wake up
+{soh}And when you wake up{eoh}
 [Am]
 It's a new morning
 [Dm7]                           [Am]
@@ -156,3 +156,5 @@ And you're going, you're going home
 
 
 {midi: CC0.0@2, PC10@2}
+
+{tag: Eric Sings}
