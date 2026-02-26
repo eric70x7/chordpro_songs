@@ -21,7 +21,7 @@
 {eop}
 
 {sop: Verse 1}
-[Cm]                         [G]
+[G]
 When you were here before
 Couldn't look you in the eye
 [B]
@@ -40,7 +40,7 @@ You're so fuckin' special
 {eop}
 
 {soc}
-[Cm]
+[G]
 But I'm a creep
 [G]          [B]
 I'm a weirdo
@@ -70,7 +70,7 @@ I wish I was special
 {eop}
 
 {soc}
-[Cm]
+[G]
 But I'm a creep
 [G]          [B]
 I'm a weirdo
@@ -101,7 +101,7 @@ I wish I was special
 {eop}
 
 {soc}
-[Cm]
+[G]
 But I'm a creep
 [G]          [B]
 I'm a weirdo
@@ -112,4 +112,4 @@ I don't belong here
 [G]
 I don't belong here
 {eoc}
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC0@2}
