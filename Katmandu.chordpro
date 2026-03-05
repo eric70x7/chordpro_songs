@@ -1,2 +1,147 @@
-{title:Katmandu}
-{subtitle:Bob Seger}
+{t: Katmandu}
+{st: Bob Seger}
+{key: A}
+{metronome: 140}
+{duration: 6:09}
+
+{c:Tempo 140}
+{c:Verse} I think I'm goin' to Katmandu
+{c:Chorus} K-k-k-k-k-k-katmandu
+{c:Verse} I got no kick against the west coast
+{c:Chorus} That's why I'm goin' to Katmandu
+{c:Verse} I got no quarrel with the midwest
+{c:Chorus} That's why I'm goin' to Katmandu
+{c:Verse} I ain't got nothin' 'gainst the east coast
+{c:Chorus} The one that's goin' to Katmandu
+
+{sop: Verse}
+[A]                                 [E]
+I think I'm goin' to Katmandu
+[A]                                 [E]
+I think it's really where I'm goin' to
+[B7]                                [E]
+Hey, if I ever get out of here
+[A]                                 [E]
+That's what I'm gonna do
+{eop}
+
+{soc}
+[A]                                 [E]
+K-k-k-k-k-k-katmandu
+[A]                                 [E]
+I think it's really where I'm goin' to
+[B7]                                [E]
+Hey, if I ever get out of here
+[A]                                 [E]
+I'm goin' to Katmandu
+{eoc}
+
+{c:Short guitar solo then harmonica then sax}
+
+{sop: Verse}
+[A]                                 [E]
+I got no kick against the west coast
+[A]                                 [E]
+Warner Brothers are such good hosts
+[B7]                                [E]
+I raise my whiskey glass, give 'em a toast
+[A]                                 [E]
+I'm sure they know it's true
+[A]                                 [E]
+I got no rap against southern states
+[A]                                 [E]
+Every time I been there it's been great
+[B7]                                [E]
+But now I'm leaving and I can't be late
+[A]                                 [E]
+And to myself be true
+{eop}
+
+{soc}
+[A]                                 [E]
+That's why I'm goin' to Katmandu
+[A]                                 [E]
+Really, really, really goin', too
+[B7]                                [E]
+Hey if I ever get out of here
+[A]                                 [E]
+That's what I'm gonna do
+{eoc}
+
+{sop: Verse}
+[A]                                 [E]
+I got no quarrel with the midwest
+[A]                                 [E]
+The folks out there have given me their best
+[B7]                                [E]
+I've lived there all my life, I've been their guest
+[A]                                 [E]
+I sure have loved it, too
+[A]                                 [E]
+I'm tired of looking at the TV news
+[A]                                 [E]
+I'm tired of drivin' hard and payin' dues
+[B7]                                [E]
+I figure, baby, I got nothin' to lose
+[A]                                 [E]
+I'm tired of bein' blue
+{eop}
+
+{soc}
+[A]                                 [E]
+That's why I'm goin' to Katmandu
+[A]                                 [E]
+Up to the mountains where I'm going to
+[B7]                                [E]
+If I ever get out of here
+[A]                                 [E]
+That's what I'm gonna do
+[A]                                 [E]
+K-k-k-k-k-k-Katmandu
+[A]                                 [E]
+Really, really, really goin', too
+[B7]                                [E]
+If I ever get out of here
+[A]                                 [E]
+I'm goin' to Katmandu
+{eoc}
+
+{sop: Verse}
+[A]                                 [E]
+I ain't got nothin' 'gainst the east coast
+[A]                                 [E]
+You want some people, well they got the most
+[B7]                                [E]
+New York City's like a friendly old ghost
+[A]                                 [E]
+You seem to cruise right through
+[A]                                 [E]
+I know I'm gonna miss the USA
+[A]                                 [E]
+I guess I'll miss it every single day
+[B7]                                [E]
+But no one loves me here any way
+[A]                                 [E]
+I know my plane is due
+{eop}
+
+{soc}
+[A]                                 [E]
+The one that's goin' to Katmandu
+[A]                                 [E]
+Really, really goin', too
+[B7]                                [E]
+Hey, if I ever get out of here
+[A]                                 [E]
+That's what I'm gonna do, gonna do
+[A]                                 [E]
+Katmandu
+[A]                                 [E]
+Take me with you, 'cause I'm goin' with you
+[B7]                                [E]
+Now, if I ever get out of here
+[B7]     [C] [B7]                    [E]
+If I ever get out of here   I'm goin' to Katmandu
+{eoc}
+
+{midi: CC0.0@2, PC10@2}
