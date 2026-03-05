@@ -1,6 +1,6 @@
 {t: Glad All Over}
 {st: The Dave Clark Five}
-{key: G}
+{key:G}
 {metronome: 140}
 {duration: 2:44}
 
@@ -14,7 +14,9 @@
 {c:Chorus} I'm feelin' glad all over
 {c:Outro} I'm so glad you're mine now
 
-[G]     [D]     [G]     [D]
+{c:Tap in dotted 1/8 delay}
+
+[D]     [G]     [D]      [G]
 You say that you love me (say you love me)
 All of the time (all of the time)
 You say that you need me (say you need me)
@@ -32,7 +34,7 @@ So glad you're mine
 {eoc}
 
 {sop:Verse 2}
-[G]     [D]     [G]     [D]
+[D]     [G]     [D]      [G]
 I'll make you happy (make you happy)
 You'll never be blue (never be blue)
 You'll have no sorrow (have no sorrow)
@@ -53,17 +55,16 @@ So glad you're mine
 {sop:Bridge}
 [Bb]    [D]     [G]     [D]
 Other girls may try to take me away (take me away)
-[G]     [A7]
+[G]     [A7]    [Bb]
 But you know, it's by your side I will stay
 [G7]
 I'll stay
 {eop}
 
 {sop:Verse 3}
-[G]     [D]     [G]     [D]
+[D]     [G]     [D]      [G]
 Our love will last now (our love will last)
 Till the end of time (end of time)
-[G]     [D]     [G]     [D]
 Because this love now (because this love)
 Is gonna be yours and mine (yours and mine)
 {eop}
@@ -82,7 +83,7 @@ So glad you're mine
 {sop:Bridge}
 [Bb]    [D]     [G]     [D]
 Other girls may try to take me away (take me away)
-[G]     [A7]
+[G]     [A7]    [Bb]
 But you know, it's by your side I will stay
 [G7]
 I'll stay
@@ -91,27 +92,29 @@ I'll stay
 {c:Modulate up}
 
 {sop:Verse 3}
-[G]     [D]     [G]     [D]
+[Eb]     [Ab]     [Eb]      [Ab]
 Our love will last now (our love will last)
 Till the end of time (end of time)
-[G]     [D]     [G]     [D]
+[Ab]     [Eb]     [Ab]     [Eb]
 Because this love now (because this love)
 Is gonna be yours and mine (yours and mine)
 {eop}
 
 {soc}
-[A]
+[Bb]
 I'm feelin' glad all over
-[D]
+[Eb]
 Yes I'm-a glad all over
-[A]
+[Bb]
 Baby I'm glad all over
-[D]     [G]     [D]     [G]
+[Eb]     [Ab]     [Eb]     [Ab]
 So glad you're mine
 {eoc}
 
-[G]     [D]     [G]     [D]
+[Ab]     [Eb]     [Ab]     [Eb]
 I'm so glad you're mine now
 I'm so glad you're mine now
 I'm so glad you're mine now
 Whoa-whoa-whoa-whoa-whoa-whoa . . . .
+
+{midi: CC0.0@2, PC25@2}

@@ -64,8 +64,11 @@ Oh no oh oh oh oh
 {eoc}
 
 {sop:Solo}
-[E] [A] [B] [E] [A] [B] [E]
+{c:Drone on hi E}
+[E] [A] [B] [E] [A] [B] 
 {eop}
+
+[E]
 
 {sop:Verse 3}
 [F#]
@@ -117,7 +120,7 @@ Babababa, bababababa, I want to be sedated
 [B]     [C#]    [F#]
 Babababa, bababababa, I want to be sedated
 [B]     [C#]    [F#]
-Babababa, bababababa, I want to be sedated
+Babababa, bababababa, I want to be sedated {c:Hold F# ending}
 {eop}
 
 {midi: CC0.0@2, PC10@2}

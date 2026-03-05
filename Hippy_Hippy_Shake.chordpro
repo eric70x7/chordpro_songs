@@ -35,6 +35,7 @@ Oh it’s in the back ooh the hippy hippy shake ow
 {eoc}
 
 {sop:Guitar Break}
+{c:Solo E pent}
 [E] [A] [E] [B] [E] [B]
 {eop}
 
@@ -51,6 +52,7 @@ Yeah it's in the back ooh the hippy hippy shake
 {sop:Outro}
 [B] [E] [B] [E] [D] [E]
 Oh the hippy hippy shake ooh the hippy hippy shake
+[Fm] [E]
 {eop}
 
 {midi: CC0.0@2, PC10@2}
