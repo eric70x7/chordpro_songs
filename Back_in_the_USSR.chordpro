@@ -5,7 +5,7 @@
 {duration: 2:43}
 
 {c:Tempo 142}
-{c:Intro} [E]
+{c:Intro}
 {c:Verse 1} Flew in from Miami Beach B.O.A.C.
 {c:Chorus} You don't know how lucky you are boy
 {c:Verse 2} Been away so long I hardly knew the place
@@ -29,11 +29,11 @@ Didn't get to bed last night
 On the way the paper bag was on my knee
 [C]                     [D]          [A7]
 Man I had a dreadful flight
-[A7]
-I'm back in the U. S. S. R.
 {eop}
 
 {soc}
+[A7]
+I'm back in the U. S. S. R.
 [C7]      [D7]
 You don't know how lucky you are boy
 [A]       [E7]
@@ -49,11 +49,11 @@ Gee it's good to be back home
 Leave it till tomorrow to unpack my case
 [C]                            [D]
 Honey disconnect the phone
-[A7]
-I'm back in the U. S. S. R.
 {eop}
 
 {soc}
+[A7]
+I'm back in the U. S. S. R.
 [A7]     [C7]     [D7]
 You don't know how lucky you are boy
 Back in the U. S.   Back in the U. S.   Back in the U. S. S. R.
@@ -73,13 +73,16 @@ That Georgia's always on my my my my my my my my my mind
 {sop:Solo}
 [A] [D] [C] [D]
 [A] [D] [C] [D]
+{eop}
+
+{soc}
 [A7]
 I'm back in the U. S. S. R.
 [C7]      [D7]
 You don't know how lucky you are boy
 [A]       [E7]
 Back in the U. S. S. R.
-{eop}
+{eoc}
 
 {sop:Bridge}
 [D]
@@ -101,13 +104,14 @@ Take me to your daddy's farm
 Let me hear your balalaika's ringing out
 [C]                         [D]      [A7]
 Come and keep your comrade warm
-[A7]
-I'm back in the U. S. S. R.
 {eop}
 
 {soc}
+[A7]
+I'm back in the U. S. S. R.
 [C7]      [D7]
 You don't know how lucky you are boy
+
 Back in the U. S. S. R.
 [A]             [E7]
 Oh let me tell you, honey

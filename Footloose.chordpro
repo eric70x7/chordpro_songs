@@ -5,15 +5,6 @@
 {duration: 3:47}
 
 {c:Tempo 174}
-{c:Intro}
-{c:Verse 1} I've been working so hard
-{c:Chorus}
-{c:Verse 2} You're playing so cool
-{c:Chorus}
-{c:Break}
-{c:Bridge}
-{c:Chorus}
-{c:Outro}
 
 {sop: Intro}
 {c: 2 meas drums, 2 meas bass, guitar on low E}

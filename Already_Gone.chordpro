@@ -5,16 +5,10 @@
 {duration: 4:16}
 
 {c:Tempo 146}
-{c:Intro}
+
 {c:Verse 1} Well, I heard some people talkin' just the other day
-{c:Chorus}
 {c:Verse 2} The letter that you wrote me made me stop and wonder why
-{c:Chorus}
-{c:Solo}
 {c:Verse 3} Well, I know it wasn't you who held me down
-{c:Chorus}
-{c:Outro}
-{c:Fade Out}
 
 {sop: Intro}
 [G]         [D]         [C]         [G]

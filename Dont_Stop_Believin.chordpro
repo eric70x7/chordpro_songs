@@ -7,23 +7,13 @@
 
 
 {c:Tempo 119}
-{c:Intro}
-{c:Verse 1} Just a small town girl
-{c:Break}
-{c:Verse 2} A singer in a smoky room
-{c:Chorus} Strangers waiting
-{c:Break}
-{c:Verse 3} Working hard to get my fill
-{c:Chorus} Strangers waiting
-{c:Solo}
-{c:Outro} Don't stop believin'
+{c:Tap in delay time}
 
 {sop: Intro}
 [E][B][C#m7][A]
 [E][B][G#m]
 [A] - - -
 {eop}
-{c:Tap in delay time}
 
 {sop: Verse 1}
 [E]Just a small town [B]girl

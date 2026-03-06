@@ -6,22 +6,6 @@
 {duration: 5:33}
 
 {c:Tempo 110}
-{c:Intro} [E5]
-{c:Guitar Solo 1}
-{c:Verse 1} Well, on a train, I met a dame
-{c:Chorus} I said, train kept arolling all night long
-{c:Guitar Solo 2}
-{c:Verse 2} Well, get along, sweet little woman get along
-{c:Guitar Solo 3}
-{c:Bridge}
-{c:Pre-Verse}
-{c:Verse 3} Well, on a train, I met a dame
-{c:Guitar Solo 4}
-{c:Verse 4} Well, get along, sweet little woman get along
-{c:Interlude}
-{c:Verse 5} Well, we made a stop in Albuquerque
-{c:Chorus}
-{c:Outro}
 
 {sop:Intro}
 [E5]

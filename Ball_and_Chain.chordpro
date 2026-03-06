@@ -6,26 +6,15 @@
 
 
 {c:Tempo 142}
-{c:Pre-Verse}
-{c:Solo 1}
-{c:Verse 1} Well it's been ten years, and a thousand tears
-{c:Chorus} Take away, take away
-{c:Pre-Verse}
-{c:Verse 2} Well I've searched and I've searched
-{c:Chorus} Take away, take away
-{c:Pre-Verse}
-{c:Solo 2}
-{c:Verse 3} Well I'll pass the bar on the way
-{c:Chorus} Take away, take away
-{c:Pre-Verse}
-{c:Solo 3}
 
 {sop: Pre-Verse}
+{c:Pre-Verse}
 [D] [A] [G] [D]
 [A] [G] [D]
 {eop}
 
 {sop: Solo 1}
+{c:Solo 1}
 [D] [A] [G] [D]
 [A] [G] [D] [A]
 [G] [D] [A]

@@ -3,6 +3,6 @@
 
 [G]
 
-All weneed is the drummer....
+All we need is the drummer....
 
-Im gonna add a little guitar and make it easy to move your feet
+I'm gonna add a little guitar and make it easy to move your feet

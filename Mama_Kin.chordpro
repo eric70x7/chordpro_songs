@@ -5,21 +5,10 @@
 {duration: 4:27}
 
 {c:Tempo 144}
-{c:Intro} [E] [B] [A] [E] [B] [A] [E] [B] [A] [E]
-{c:Solo 1}
-{c:Interlude}
-{c:Verse 1} It ain't easy, livin' like a gypsy
-{c:Pre-Chorus} Well, you've always got your tail on the wag
-{c:Verse 2} It ain't easy, livin' like you wanna
-{c:Pre-Chorus} Said you're bald as an egg at eighteen
-{c:Chorus} Keep in touch with Mama Kin
-{c:Solo 2}
-{c:Verse 3} It ain't easy, livin' like ya wanna
-{c:Pre-Chorus} Said you're bald as an egg at eighteen
-{c:Chorus} Keep in touch with Mama Kin
 
 {sop:Intro}
-[E] [B] [A] [E] [B] [A] [E] [B] [A] [E]
+[E] [B] [A] [E]
+x4
 {eop}
 
 {sop:Solo 1}
@@ -28,7 +17,8 @@
 {eop}
 
 {sop:Interlude}
-[E] [B] [A] [E] [B] [A] [E]
+[E] [B] [A] [E]
+x4
 {eop}
 
 {sop:Verse 1}
@@ -53,13 +43,13 @@ Keep in touch with Mama Kin
 {eop}
 
 {sop:Pre-Chorus}
-[E]           [A]
+[A]           [E]
 {soh}Well, you've always got your tail on the wag{eoh}
-[E]           [A]     [E]
+[A]           [E]
 {soh}Shootin' fire from your mouth just like a dragon{eoh}
-[A]
+[A]           [E]
 {soh}You act like a perpetual drag{eoh}
-[E]     [F#]
+[F#]
 {soh}You better check it out{eoh}
 [B]
 {soh}Cause someday soon you'll have to climb back on the 
@@ -73,35 +63,34 @@ wagon{eoh}
 It ain't easy, livin' like you wanna
 [A]     [E]
 And it's so hard to find piece of mind, yes it is
-[B]
+[E]           [B]
 The way I see it, you've got to say shit
-[A]
+[A]     [E]
 But don't forget to drop me a line
 {eop}
 
 {sop:Pre-Chorus}
-[E]           [A]
+[A]           [E]
 {soh}Said you're bald as an egg at eighteen{eoh}
-[E]           [A]     [E]
+[A]           [E]
 {soh}And workin' for you dad is just a drag, man{eoh}
-[A]
+[A]           [E]
 {soh}He still stuffs your mouth with your dreams{eoh}
-[E]     [F#]
+[F#]
 {soh}You better check it out{eoh}
 [B]
 {soh}'Cause someday soon you'll have to climb back on the 
 wagon{eoh}
 {eop}
-{c:Fix these chords:}
 
 {soc}
-[E]           [B]
+[B]      [B]   [E]
 {soh}Keep in touch with Mama Kin{eoh}
-[E]           [B]
+[B]      [B]   [E]
 {soh}Tell her where you've gone and been{eoh}
-[E]           [B]
+[B]      [B]   [E]
 {soh}Livin' out your fantasy{eoh}
-[E]           [B]
+[B]      [B]   [E]
 {soh}Sleepin' late and smokin' tea{eoh}
 [E]     [A]     [G]     [D]
 Keep in touch with Mama Kin
@@ -130,13 +119,13 @@ But don't forget to drop me a line
 {eop}
 
 {sop:Pre-Chorus}
-[E]           [A]
+[A]           [E]
 {soh}Said you're bald as an egg at eighteen{eoh}
-[E]           [A]     [E]
+[A]           [E]
 {soh}And workin' for you dad is just a drag, man{eoh}
-[A]
+[A]           [E]
 {soh}He still stuffs your mouth with your dreams{eoh}
-[E]     [F#]
+[F#]
 {soh}You better check it out{eoh}
 [B]
 {soh}'Cause someday soon you'll have to climb back on the 
@@ -144,13 +133,13 @@ wagon{eoh}
 {eop}
 
 {soc}
-[E]           [B]
+[B]      [B]   [E]
 {soh}Keep in touch with Mama Kin{eoh}
-[E]           [B]
+[B]      [B]   [E]
 {soh}Tell her where you've gone and been{eoh}
-[E]           [B]
+[B]      [B]   [E]
 {soh}Livin' out your fantasy{eoh}
-[E]           [B]
+[B]      [B]   [E]
 {soh}Sleepin' late and smokin' tea{eoh}
 [E]     [A]     [G]     [D]
 Keep in touch with Mama Kin

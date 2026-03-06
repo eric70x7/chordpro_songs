@@ -5,14 +5,6 @@
 {duration: 2:45}
 
 {c:Tempo 124}
-{c:Intro}
-{c:Verse 1} I know a place where I can go
-{c:Verse 2} I know a place that's safe and warm
-{c:Chorus}
-{c:Verse 3} I know a place where I can go
-{c:Verse 4} I know a place that's safe and warm
-{c:Chorus}
-{c:Verse 5} I know a place where I can go
 
 {sop: Intro}
 [D]

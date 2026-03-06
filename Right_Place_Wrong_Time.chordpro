@@ -5,14 +5,6 @@
 {duration: 2:55}
 
 {c:Tempo 105}
-{c:Intro}
-{c:Verse 1} I been in the right place, but it must have been the wrong time
-{c:Bridge}
-{c:Verse 2}But I been in the wrong place, but it must have been the right time
-{c:Solo}
-{c:Bridge}
-{c:Verse 3}But I been in the right place, but it must have been the wrong time
-{c:Outro (Fade Out)}
 
 {sop: Intro}
 [Ebm7] [Ab7]
