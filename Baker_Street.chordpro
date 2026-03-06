@@ -155,6 +155,6 @@ And you're going, you're going home
 {c:RETUNE E STRING}
 
 
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC0@2}
 
 {tag: Eric Sings}
