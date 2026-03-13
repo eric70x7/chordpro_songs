@@ -1,0 +1,168 @@
+{t: Magic Power}
+{st: Triumph}
+{key: G}
+{metronome: 152}
+{duration: 4:52}
+
+{c:Duration 4:52}
+{c:Tempo 152}
+
+{sop: Intro}
+[D] [C] [G] [C]
+{eop}
+
+{sop: Verse 1}
+[D]
+Something's at the edge of your mind
+[C]
+You don't know what it is
+[G]
+Something you were hoping to find
+[C]
+But you're not sure what it is
+[D]
+Then you hear the music
+[C]
+And it all comes crystal clear
+[G]
+The music does the talking
+[C]
+Says the things you want to hear
+{eop}
+
+{soc}
+[D] [C] [G]
+I'm young, I'm wild and I'm free
+[D] [Em7] [D] [G]
+Got the magic power of the music in me
+[A7] [D] [C] [G]
+I'm young, I'm wild and I'm free
+[D] [Em7] [D] [Asus4] [A]
+Got the magic power of the music in me
+{eoc}
+
+{sop: Verse 2}
+[D] [D7] [Bm7] [D7] [D]
+She climbs into bed
+[D7]
+She pulls the covers overhead
+[Bm7]
+And she turns her little radio on
+[D7] [D]
+She's had a rotten day
+[D7]
+So she hopes the DJ's
+[Bm7] [Cadd9]
+Gonna play her favorite song
+{eop}
+
+{sop: Pre-Chorus}
+[Am] [Bm]
+Makes her feel much better
+[C] [G]
+Brings her closer to her dreams
+[Am] [Bm]
+A little magic power
+[A] [Asus4] [A]
+Makes it better that it seems
+{eop}
+
+{soc}
+[Asus4] [A] [D] [C] [G] [G] [D]
+She's young now, she's wild now, she wants to be free
+[Em] [D] [G]
+She gets the magic power of the music from me
+[Asus4] [A] [D] [C] [G] [G] [D]
+She's young now, she's wild now, she wants to be free
+[Em] [D] [Asus4] [A]
+She gets the magic power of the music from me
+{eoc}
+
+{sop: Post-Chorus}
+[D] [Dm7] [G] [Bb]
+[C/D]
+{eop}
+
+{sop: Verse 3}
+[D]
+You're thinking it over
+[Dm7]
+But you just can't sort it out
+[G]
+Do you want someone to tell you
+[Bb]
+What they think it's all about
+[C/D] [D]
+Are you the one and only
+Who's sad and lonely
+[Dm7]
+You're reaching for the top
+[G]
+Well, the music keeps you going
+[Dm7] [G]
+And it's never gonna stop
+[A/D]
+It's never gonna stop
+[Bb] [C/D] [D] [C]
+It's never gonna, never gonna, never gonna, never gonna stop
+{eop}
+
+{sop: Solo}
+[G] [D] [C] [G] [D] [C]
+[G] [D] [C]
+{eop}
+
+{sop: Verse 4}
+[G] [D]
+The world is full of compromise
+[Cadd9]
+And infinite red tape
+[G]
+But the music's got the magic
+[Cadd9]
+It's your one chance for escape
+[D]
+Turn me on, turn me up
+[Cadd9]
+It's your turn to dream
+[G]
+A little magic power
+[Asus4]
+Makes it better than it seems
+{eop}
+
+{soc}
+[A] [Asus4] [A] [D] [C] [G] [G] [D]
+I'm young now, I'm wild now, I want to be free
+[Em] [D] [G]
+Got the magic power of the music in me
+[Asus4] [A] [D] [C] [G]
+I'm young now, I'm wild and I'm free
+[G] [D] [Em] [D] [Asus4]
+Got the magic power of the music
+[A] [Asus4] [A]
+I got the music in me
+{eoc}
+
+{sop: Post-Chorus}
+[D] [C] [G] [D] [C]
+[G] [D] [C]
+I got the power
+[G] [D] [C]
+I got the magic
+[G] [D] [C]
+She's got the power
+[G] [D] [C]
+She's got the magic
+[G] [D] [C]
+You got the power
+{eop}
+
+{sop: Fade-Out}
+[G] [D] [C]
+You got the magic
+[G] [D] [C]
+You got the power
+{eop}
+
+{midi: CC0.0@2, PC10@2}
