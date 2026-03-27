@@ -1,6 +1,6 @@
 {t: Country Roads}
 {st: John Denver}
-{key: A}
+{key:G}
 {metronome: 82}
 {duration: 3:10}
 
@@ -13,96 +13,96 @@
 {c:Outro}
 
 {sop: Intro}
-[A]
+[G]
 - - -
 {eop}
 
 {sop: Verse 1}
-[A]              [F#m]
+[G]              [Em]
 Almost heaven, West Virginia
-[E]                      [D]          [A]
+[D]                      [C]          [G]
 Blue ridge mountains, Shenandoah river
-[A]                   [F#m]
+[G]                   [Em]
 Life is old there, older than the trees
-[E]                           [D]                    [A]
+[D]                           [C]                    [G]
 Younger than the mountains, blowing like a breeze
 {eop}
 
 {soc}
-[A]                           [E]
+[G]                           [D]
 Country roads, take me home
-[F#m]        [D]
+[Em]        [C]
 To the place I belong
-[A]
+[G]
 West Virginia
-[E]               [D]
+[D]               [C]
 Mountain mamma, take me home
-[A]
+[G]
 Country roads
 {eoc}
 
 {sop: Verse 2}
-[A]                [F#m]
+[G]                [Em]
 All my memories, gather round her
-[E]              [D]                [A]
+[D]              [C]                [G]
 Miner's lady, stranger to blue water
-[A]                [F#m]
+[G]                [Em]
 Dark and dusty, painted on the sky
-[E]                         [D]              [A]
+[D]                         [C]              [G]
 Misty taste of moonshine, teardrop in my eye
 {eop}
 
 {soc}
-[A]                           [E]
+[G]                           [D]
 Country roads, take me home
-[F#m]        [D]
+[Em]        [C]
 To the place I belong
-[A]
+[G]
 West Virginia
-[E]               [D]
+[D]               [C]
 Mountain mamma, take me home
-[A]
+[G]
 Country roads
 {eoc}
 
 {sop: Bridge}
-[F#m]                [E]          [A]
+[Em]                [D]          [G]
 I hear her voice in the morning hour she calls me
-[D]            [A]         [E]
+[C]            [G]         [D]
 Radio reminds me of my home far away
-[F#m]                  [G]        [D]
+[Em]                  [F]        [C]
 Driving down the road I get a feeling
-[A]                     [E]                   [E7]
+[G]                     [D]                   [D7]
 That I should have been home yesterday, yesterday
 {eop}
 
 {soc}
-[A]            [E]
+[G]            [D]
 Country roads, take me home
-[F#m]        [D]
+[Em]        [C]
 To the place I belong
-[A]
+[G]
 West Virginia
-[E]               [D]
+[D]               [C]
 Mountain mamma, take me home
-[A]
+[G]
 Country roads
-[A]            [E]
+[G]            [D]
 Country roads, take me home
-[F#m]        [D]
+[Em]        [C]
 To the place I belong
-[A]
+[G]
 West Virginia
-[E]               [D]
+[D]               [C]
 Mountain mamma, take me home
-[A]
+[G]
 Country roads
 {eoc}
 
 {sop: Outro}
-[E]                  [A]
+[D]                  [G]
 Take me home, down country roads
-[E]                  [A]
+[D]                  [G]
 Take me home, down country roads
 {eop}
 {midi: CC0.0@2, PC10@2}
