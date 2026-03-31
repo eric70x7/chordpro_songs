@@ -1,0 +1,143 @@
+{t: Black}
+{st: Pearl Jam}
+{key: E}
+{metronome: 75}
+{duration: 5:43}
+
+{c:Duration 5:43}
+{c:Tempo 75 BPM}
+
+{sop: Intro}
+[E] [A] [E]
+[A] [E]       [A] [E]
+   Hey, oh
+{eop}
+
+{sop: Verse 1-1}
+[E]                  [A]
+Sheets of empty canvas
+         [E]
+Untouched sheets of clay
+[A]     [E]                     [A]
+ Were laid spread out before me
+   [E]
+As her body once did
+{eop}
+
+{sop: Verse 1-2}
+[E]            [A]
+All five horizons
+          [E]
+Revolved around her soul
+[A]
+ As the earth to the sun
+[E]               [A]
+Now the air I tasted and breathed
+   [E]
+Has taken a turn
+{eop}
+
+{sop: Pre-Chorus}
+    [C]                                [Em]
+Ohohoh and all I taught her was everything
+    [C]                                [Em]
+Ohohoh I know she gave me all that she wore
+                 [D]
+And now my bitter hands
+{eop}
+
+{soc}
+              [C]
+Chafe beneath the clouds
+                    [Em]
+Of what was everything
+            [D]
+Oh the pictures have
+                [C]
+All been washed in black
+                   [Em]
+Tattooed everything
+{eoc}
+
+{sop: Verse 2}
+[E]         [A]
+ I take a walk outside
+       [E]
+I'm surrounded by
+                [A]
+Some kids at play
+[E]                     [A]
+I can feel their laughter
+   [E]
+So why do I sear
+{eop}
+
+{sop: Pre-Chorus}
+    [C]
+Oh, oh and twisted thoughts that spin
+         [Em]
+Round my head
+I'm spinning
+    [C]
+Oh, I'm spinning
+                              [Em]
+How quick the sun can, drop away
+           [D]
+And now my bitter hands
+{eop}
+
+{soc}
+              [C]
+Cradle broken glass
+                      [Em]
+Of what was everything
+                [D]
+All the pictures had
+                [C]
+All been washed in black
+                   [Em]
+Tattooed everything
+            [D]
+All the love gone bad
+               [C]
+Turned my world to black
+              [D]
+Tattooed all I see
+          [C]
+All that I am
+           [Em] [D]
+All I'll be
+Yeah
+{eoc}
+
+{sop: Solo}
+[C] [Em] [D]
+[C]  [Em]
+ I know someday you'll have a beautiful life
+  [D]
+I know you'll be a star
+       [C]
+In somebody else's sky
+       [Em]
+But why
+Why
+   [D]           [C]
+Why can't it be
+Why can't it be mine
+[Em] [D] [C] [Em]
+[D] [C] [Em] [D]
+[C] [Em] [D] [C]
+[Em] [D] [C] [Em]
+[D] [C] [D] [C]
+{eop}
+
+{sop: Outro}
+[Em] [D] [C] [Em]
+[D] [C]
+{eop}
+
+{sop: Outro (Fade Out)}
+[Em] [D] [C]
+{eop}
+
+{midi: CC0.0@2, PC32@2}
