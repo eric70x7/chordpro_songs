@@ -46,12 +46,14 @@ When the hound dog barking in the black of the night
 Stick my hand in my pocket, everything's all right
 {eop}
 {c:Add black sheep verse}
+{c:E pent solo}
 
 {sop: Solo}
 [A5] [E5] [A5] [E5] [A5] [E5] [A5] [E5]
 [D5] [A5] [D5] [A5]
 - - -
 {eop}
+{c:Em pent solo}
 
 {sop: Interlude}
 [E5] [B5]
@@ -82,4 +84,4 @@ But it's way ahead of what's second best
 [D5] [E5] [D5] [E5]
 - - -
 {eop}
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC34@2}
