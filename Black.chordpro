@@ -85,6 +85,7 @@ How quick the sun can, drop away
            [D]
 And now my bitter hands
 {eop}
+{c:Start outro melody}
 
 {soc}
               [C]
@@ -109,6 +110,7 @@ All that I am
 All I'll be
 Yeah
 {eoc}
+{c:Repeat outro melody with wah and shredding}
 
 {sop: Solo}
 [C] [Em] [D]
@@ -140,4 +142,4 @@ Why can't it be mine
 [Em] [D] [C]
 {eop}
 
-{midi: CC0.0@2, PC32@2}
+{midi: CC0.0@2, PC33@2}
