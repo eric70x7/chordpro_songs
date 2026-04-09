@@ -3,7 +3,7 @@
 {key: D}
 {metronome: 122}
 {duration: 3:23}
-{tag: Eric Sings}
+
 
 
 {c:Tempo 122}
@@ -130,3 +130,6 @@ Talkin' 'bout my baby
 She's some kind of wonderful
 {eop}
 {midi: CC0.0@2, PC10@2}
+
+{tag: Whiskey Lizard}
+{tag: BBB}
