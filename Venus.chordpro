@@ -87,12 +87,14 @@ I'm your fire
 at your desire.
 {eoc}
 
+{c:B break!}
+
 {sop: Bridge}
 [A] [B] [A] [B] [A] [B] [A] [B]
 {eop}
 
 {sop: Solo}
-{c:Solo}
+{c:Vocal Solo}
 [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em]
 {eop}
 
@@ -118,6 +120,8 @@ I'm your fire
 [Em] [A]     [Em]     [A]
 at your desire.
 {eoc}
+
+{c:B break!}
 
 {sop: Bridge}
 [A] [B] [A] [B] [A] [B] [A] [B]

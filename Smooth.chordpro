@@ -4,9 +4,9 @@
 {metronome: 116}
 {duration: 4:55}
 
-
-{c:Patch 98.3}
 {c:Tempo 116}
+
+{c:Intro solo}
 
 {sop: Intro}
 [Am] [F] [E7] [Am] [F] [E7] [Am] [F] [E7]
@@ -54,6 +54,8 @@ Gimme your heart, make it real
 [E7]
 Or else forget about it
 {eoc}
+
+{c:Solo 4 measures}
 
 {sop: Main Theme}
 [Am] [F] [E7] [Am] [F] [E7]
@@ -103,6 +105,8 @@ Gimme your heart, make it real
 Or else forget about it
 {eoc}
 
+{c:Solo 17 measures}
+
 {sop: Solo 1}
 [Am] [F] [E7] [Am] [F] [E7] [Am] [F] [E7] [Am] [F] [E7]
 - - -
@@ -126,6 +130,8 @@ Gimme your heart, make it real
 [E7]
 Or else forget about it
 {eoc}
+
+{c:Solo 8 measures then under vocals}
 
 {sop: Main Theme}
 [Am] [F] [E7]
@@ -151,6 +157,6 @@ Let's don't forget about it
 Let's don't forget about it
 [Am] [F] [E7] [Am] [F] [E7] [Am] [F] [E7]
 {eop}
-{midi: CC0.6@2, PC18@2}
+{midi: CC0.0@2, PC34@2}
 
 {tag: Whiskey Lizard}
