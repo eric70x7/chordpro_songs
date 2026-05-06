@@ -1,0 +1,58 @@
+{t:Low Rider}
+{st:War}
+{key:G}
+{metronome:140}
+{duration:3:11}
+{c:Duration 3:11}
+{c:Tempo 140}
+
+{sop:Intro}
+[G7]
+{eop}
+
+{sop:Verse 1}
+[G7]
+All my friends know the low rider
+                                [G7]
+The low rider is a little higher
+{eop}
+
+{sop:Verse 2}
+[G7]
+The low rider drives a little slower
+Low rider, is a real goer
+{eop}
+
+{soc}
+[G7]
+  Hey
+{eoc}
+
+{sop:Verse 3}
+[G7]
+Low rider knows every street, yeah
+                                   [G7]
+Low rider, is the one to meet, yeah
+{eop}
+
+{sop:Verse 4}
+[G7]
+Low rider don't use no gas now
+                                  [G7]
+The low rider don't drive too fast
+{eop}
+
+{sop:Verse 5}
+[G7]
+Take a little trip, take a little trip
+Take a little trip and see
+Take a little trip, take a little trip
+                          [G7]
+Take a little trip with me
+{eop}
+
+{sop:Outro}
+[G7]
+{eop}
+
+{midi: CC0.0@2, PC10@2}

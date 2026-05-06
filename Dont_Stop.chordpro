@@ -1,0 +1,110 @@
+{t:Don't Stop}
+{st:Fleetwood Mac}
+{key:E}
+{metronome:119}
+{duration:3:13}
+{c:Duration 3:13}
+{c:Tempo 119}
+
+{sop:Intro}
+[E] [Asus2] [E] [Asus2] [E] [Asus2] [E] [Asus2]
+[E] [Asus2] [E] [Asus2] [E] [Asus2]
+[E] [Asus2]
+{eop}
+
+{sop:Verse 1}
+[E]       [D]           [Asus2]              [E]
+ If you wake up and don't want to smile
+      [D]            [Asus2]
+If it takes just a little while
+[E]          [D]        [Asus2]
+ Open your eyes and look at the day
+[B7]
+You'll see things in a different way
+{eop}
+
+{soc}
+[E]              [Asus2]
+Don't stop thinking about tomorrow
+[E]                [Asus2]
+Don't stop, it'll     soon be here
+[E]                [Asus2]
+ It'll be here better than before
+[B7]
+Yesterday's gone, yesterday's gone
+[E] [D] [Asus2] [E] [D] [Asus2]
+{eoc}
+
+{sop:Verse 2}
+[E]        [D]           [Asus2]
+ Why not think about times to come?
+[E]             [D]    [Asus2]
+ And not about the things that you've done?
+[E]        [D]        [Asus2]
+ If your life was bad  to you
+[B7]
+  Just think what tomorrow will do
+{eop}
+
+{soc}
+[E]              [Asus2]
+Don't stop thinking about tomorrow
+[E]                [Asus2]
+Don't stop, it'll     soon be here
+[E]                [Asus2]
+ It'll be here better than before
+[B7]
+Yesterday's gone, yesterday's gone
+{eoc}
+
+{sop:Solo}
+[E] [D] [Asus2] [E] [D] [Asus2]
+[E] [D] [Asus2] [B7]
+{eop}
+
+{sop:Verse 3}
+[E]      [D]          [Asus2]
+ All I want is to see  you smile
+[E]      [D]            [Asus2]
+ If it takes just a little while
+[E]           [D]       [Asus2]
+ I know you don't believe that it's true
+[B7]
+  I never meant any harm to you
+{eop}
+
+{soc}
+[E]          [Asus2]
+Don't stop thinking about tomorrow
+[E]                [Asus2]
+Don't stop, it'll     soon be here
+[E]              [Asus2]
+ It'll be here better than before
+[B7]
+Yesterday's gone, yesterday's gone
+[E]          [Asus2]
+Don't stop thinking about tomorrow
+[E]           [Asus2]
+Don't stop, it'll soon be here
+[E]              [Asus2]
+ It'll be here better than before
+[B7]
+Yesterday's gone, yesterday's gone
+{eoc}
+
+{sop:Outro}
+[E] [Asus2]
+               [E]   [Asus2] [E] [Asus2]
+Don't you look back
+               [E]   [Asus2] [E] [Asus2]
+Don't you look back
+               [E]
+Don't you look back
+{eop}
+
+{sop:Fade-Out}
+[Asus2] [E] [Asus2]
+Don't you look
+{eop}
+
+{midi: CC0.0@2, PC10@2}
