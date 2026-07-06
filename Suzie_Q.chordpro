@@ -1,0 +1,112 @@
+{t: Suzie Q}
+{st: Creedence Clearwater Revival}
+{key: Em}
+{metronome: 130}
+{duration: 8:37}
+
+{c:Duration 8:37}
+{c:Tempo 130}
+
+{sop: Intro}
+[Em]
+{eop}
+
+{sop: Pre-Verse}
+[Em]
+Oh Susie Q,
+{eop}
+
+{sop: Verse 1}
+[Em]
+  oh Susie Q
+          [A]                [C] [B]      [Em]
+Oh Susie Q baby I love you,  Susie Q
+I like the way you walk
+I like the way you talk
+                       [A]
+I like the way you walk
+                       [C]
+I like the way you talk
+[B]      [Em]
+Susie Q
+{eop}
+
+{sop: Guitar Solo 1}
+[Em] [A] [C] [B] [Em]
+[A] [C] [B] [Em]
+{eop}
+
+{sop: Pre-Verse}
+[Em]
+                             [Em]
+Well, say that you'll be true
+{eop}
+
+{sop: Verse 2}
+Well, say that you'll be true
+                             [A]                        [C] [B]      [Em]
+Well, say that you'll be true and never leave me blue,  Susie Q
+Well, say that you'll be mine
+Well, say that you'll be mine,
+                              [A]                  [C] [B]      [Em]
+Well, say that you'll be mine, baby all the time,  Susie Q
+{eop}
+
+{sop: Guitar Solo 2}
+[Em]
+  Uh uh
+Uh uh
+Uh uh
+Uh
+{eop}
+
+{sop: Pre-Verse}
+[Em]
+  Oh Susie Q,
+{eop}
+
+{sop: Verse 3}
+[Em]
+  oh Susie Q
+          [A]                [C] [B]      [Em]
+Oh Susie Q baby I love you,  Susie Q
+I like the way you walk
+I like the way you talk
+                       [A]
+I like the way you walk
+                       [C]
+I like the way you talk
+[B]      [Em]
+Susie Q
+Oh Susie Q, oh Susie Q
+           [A]                [C] [B]      [Em]
+Oh Susie Q, baby I love you,  Susie Q
+{eop}
+
+{sop: Guitar Solo 3}
+[Em] [B] [D] [E] [Em] [B] [D] [E]
+[Em] [B] [D] [E] [Em] [B] [D] [E]
+[Em] [B] [D] [E] [Em] [B] [D] [E]
+[Em]
+{eop}
+
+{sop: Interlude}
+[D] [C] [Em]
+{eop}
+
+{sop: Guitar Solo 4}
+[Em] [E] [D] [E] [D] [E] [E] [D]
+[E] [D] [E] [E] [D] [E] [D] [E] [E] [D]
+[E] [D] [E] [E] [D] [E] [D] [E] [E] [D]
+[E] [D] [E]
+{eop}
+
+{sop: Interlude}
+[D] [Em]
+{eop}
+
+{sop: Outro}
+[Em]
+{eop}
+
+{midi: CC0.0@2, PC56@2}
