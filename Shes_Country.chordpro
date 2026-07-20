@@ -1,11 +1,11 @@
 {t: She's Country}
 {st: Jason Aldean}
 {key: D}
-{metronome: 172}
+{metronome: 86}
 {duration: 3:41}
 
 {c:Duration 3:41}
-{c:Tempo 172}
+{c:Tempo 86}
 
 {sop: Intro}
 [D5]
