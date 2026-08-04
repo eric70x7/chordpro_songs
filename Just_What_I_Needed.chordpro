@@ -1,0 +1,147 @@
+{t: Just What I Needed}
+{st: The Cars}
+{key: E}
+{metronome: 136}
+{duration: 3:44}
+
+{c:Duration 3:44}
+{c:Tempo 136}
+
+{sop: Intro}
+{c: 4x 1, 4x 2}
+[E]
+ 
+
+{eop}
+
+{sop: Verse 1}
+[E]                 [B]
+ I don't mind you coming here,
+[C#m]               [G#]
+   Wasting all my time.
+[E]                            [B]
+ 'Cause when you're standing oh, so near,
+[C#m]                [G#]
+   I kinda lose my mind.
+ 
+{eop}
+
+{sop: Verse 2}
+[E]                     [B]
+ It's not the perfume that you wear.
+[C#m]                     [G#]
+   It's not the ribbons in your hair.
+[E]                 [B]
+ I don't mind you coming here,
+[G#]                  [A]
+  And wasting all my time.
+ 
+{eop}
+
+{sop: Bridge}
+{c:Synth w/ guitar licks}
+[E] [B] [C#m] [G#]
+[E] [B] [C#m] [A]
+{eop}
+
+{sop: Verse 3}
+[E]                 [B]
+ I don't mind you hanging out,
+[C#m]                   [G#]
+   And talking in your  sleep.
+[E]                  [B]
+ It doesn't matter where you've been,
+[C#m]                  [G#]
+   As long as it was deep, yeah.
+ 
+{eop}
+
+{sop: Pre-Chorus}
+[E]                   [B]
+ You always knew to wear it well,
+   [C#m]                   [G#]
+And   you look so fancy, I can tell.
+[E]                 [B]
+ I don't mind you hanging out,
+[G#]                   [A]
+  And talking in your sleep.
+ 
+{eop}
+
+{soc: Chorus}
+[E] [B]               [A]           [C#m]    [B]
+   I guess you're just what I needed.
+[E] [B]         [A]               [C#m]
+   I needed someone to feed.
+[E] [B]               [A]           [C#m]    [B]
+   I guess you're just what I needed.
+[E] [B]         [A]                [C#m]
+   I needed someone to plead.
+{eoc}
+
+{sop: Solo}
+{c:Guitar solo}
+[E] [B] [C#m] [G#] [E] [B] [C#m] [A]
+[E] [B] [C#m] [G#] [E] [B] [C#m] [A]
+{eop}
+
+{sop: Verse 4}
+[E]                 [B]
+ I don't mind you coming here,
+[C#m]               [G#]
+   Wasting all my time, time.
+[E]                            [B]
+ 'Cause when you're standing oh, so near,
+[C#m]                [G#]
+   I kinda lose my mind, yeah.
+ 
+{eop}
+
+{sop: Pre-Chorus}
+[E]                     [B]
+ It's not the perfume that you wear.
+[C#m]                     [G#]
+   It's not the ribbons in your hair.
+[E]                 [B]
+ I don't mind you coming here,
+[G#]                  [A]
+  And wasting all my time.
+ 
+{eop}
+
+{soc: Chorus}
+[E] [B]               [A]           [C#m]    [B]
+   I guess you're just what I needed.
+[E] [B]         [A]               [C#m]
+   I needed someone to feed.
+[E] [B]               [A]           [C#m]    [B]
+   I guess you're just what I needed.
+[E] [B]         [A]
+   I needed someone to plead.
+[C#m] [E] [B]               [A]           [C#m]    [B]
+       I guess you're just what I needed.
+[E] [B]         [A]               [C#m]
+   I needed someone to feed.
+[E] [B]               [A]           [C#m]    [B]
+   I guess you're just what I needed.
+[E] [B]         [A]
+   I needed someone to plead.
+[C#m]
+   So plead me.
+{eoc}
+
+{sop: Outro}
+{c:Synth solo}
+[E] [B] [C#m] [G#] [E] [B]
+[C#m]       [A]               [E]  [B]
+   You're just what I needed.
+[C#m] [G#] [E] [B] [C#m]       [A]               [E]  [B]
+              You're just what I needed.
+[C#m] [G#] [E] [B] [C#m]       [A]               [E]
+              You're just what I needed. Yeah, yeah.
+[B]
+Yeah, yeah.
+[C#m] [G#] [A] [B] [C#m]
+{eop}
+
+{midi: CC0.0@2, PC10@2}
