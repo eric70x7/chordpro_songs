@@ -1,0 +1,93 @@
+{t: Land of 1000 Dances}
+{st: Wilson Pickett}
+{key: D}
+{metronome: 87}
+{duration: 2:27}
+
+{c:Duration 2:27}
+{c:Tempo 87}
+
+{sop: Intro}
+[D]
+One two three
+One two three
+{eop}
+
+{sop: Pre-Verse}
+[D]
+Ow! Uh! Alright! Uh!
+{eop}
+
+{sop: Verse 1}
+       [D]
+Got to know how to pony
+Like Bony Maronie
+Mash potato, do the alligator
+Put your hand on your hips, yeah
+Let your backbone slip
+Do the Watusi
+Like my little Lucy
+Hey!
+{eop}
+
+{soc: Chorus}
+[D]
+Uh!
+Na na na na na
+Na na na na na na na na na na
+Na na na na
+I need somebody to help me say it one time
+Na na na na na
+Na na na na na na na na na na
+Na na na na
+Wow!
+{eoc}
+
+{soc: Sax Solo}
+[D]    [D]
+Wow! Uh!
+{eoc}
+
+{soc: Chorus}
+You know I feel alright!
+Huh!
+Feel pretty good y'all
+Uh! Huh!
+Na na na na na
+Na na na na na na na na na na
+Na na na na
+Come on y'all, let's say it one more time
+Na na na na na
+Na na na na na na na na na na
+Na na na na
+Oow!
+{eoc}
+
+{sop: Verse 2}
+[D]
+Playing in the alley
+With long tall Sally
+Twistin' with Lucy
+Doin' the Watusi
+Roll over on your back
+I like it like that
+Do that Jerk, uh
+Watch me work y'all
+{eop}
+
+{sop: Outro}
+   [D]
+Ow! Do it!
+Wow! Do it!
+Watch me do it
+Aah, help me
+Aah, help me
+{eop}
+
+{sop: Fade Out}
+    [D]
+Aah, help me
+Aah, help me
+{eop}
+
+{midi: CC0.0@2, PC10@2}

@@ -1,0 +1,38 @@
+{t: The Chicken Dance}
+{st: Werner Thomas (Traditional)}
+{key: C}
+{metronome: 120}
+{duration: 2:57}
+
+{c:Duration 2:57}
+{c:Tempo 120}
+
+{soc: Chorus}
+[C] [C] [G] [G]
+[Dm] [Dm] [G] [C]
+[C] [C] [G] [G]
+[Dm] [Dm] [C] [C]
+{eoc}
+
+{soc: Bridge}
+[C] [C] [C] [C]
+[Dm] [Dm] [Dm] [Dm]
+[Dm] [Dm] [Dm] [Dm]
+[Dm] [Dm] [G] [C] [C]
+{eoc}
+
+{soc: Chorus}
+[C] [C] [G] [G]
+[Dm] [Dm] [G] [C]
+[C] [C] [G] [G]
+[Dm] [Dm] [C] [C]
+{eoc}
+
+{soc: Bridge}
+[C] [C] [C] [C]
+[Dm] [Dm] [Dm] [Dm]
+[Dm] [Dm] [Dm] [Dm]
+[Dm] [Dm] [G] [C] [C]
+{eoc}
+
+{midi: CC0.0@2, PC10@2}

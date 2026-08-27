@@ -1,0 +1,49 @@
+{t: Colour My World}
+{st: Chicago}
+{key: F}
+{metronome: 79}
+{duration: 3:02}
+
+{c:Duration 3:02}
+{c:Tempo 79}
+
+{sop: Intro}
+[Fmaj7] [Am] [Bb] [Eb7M]
+[Ab7M] [Gb7M] [D7sus2] [D7]
+[G7M] [Eb9] [C7]
+[Fmaj7]
+[Bb] [C7]   [Fmaj7]
+     As time goes on,
+{eop}
+
+{sop: Verse 1}
+     [Am]
+I realize
+             [Bb]
+Just what you  mean
+  [Eb7M]
+To    me
+    [Ab7M]
+And now,
+                [Gb7M]
+Now that you're near,
+             [D7sus2]
+Promise your love  
+[D7]                    [G7M]
+  That I've waited to share
+   [Eb9]
+And   dreams
+                 [C7]
+Of our moments together
+               [Fmaj7]         [Bb]   [C7]     [Fmaj7]
+Colour my world     with hope  of loving you  
+{eop}
+
+{sop: Flute Solo}
+[Am] [Bb] [Eb7M] [Ab7M]
+[Gb7M] [D7sus2] [D7] [G7M]
+[Eb9] [C7] [Fmaj7] [Bb] [C7]
+[Fmaj7]
+{eop}
+
+{midi: CC0.0@2, PC10@2}
