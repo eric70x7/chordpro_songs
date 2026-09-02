@@ -1,0 +1,122 @@
+{t: Comfortably Numb}
+{st: Pink Floyd}
+{key: Bm}
+{metronome: 127}
+{duration: 6:21}
+
+{c:Duration 6:21}
+{c:Tempo 127}
+
+{sop: Intro}
+[Bm]
+{eop}
+
+{sop: Verse 1}
+[Bm]                      [A]
+Hello? Is there anybody in there?
+                    [G]      [Em]
+Just nod if you can hear me
+         [Bm]
+Is there anyone at home?
+Come on now
+              [A]
+I hear you're feeling down
+     [G]                   [Em]
+Well I can ease your pain
+        [Bm]
+Get you on your feet again
+Relax
+                    [A]
+I'll need some information first
+[G]                   [Em]
+Just the basic facts
+        [Bm]
+Can you show me where it hurts?
+{eop}
+
+{soc: Chorus}
+[D]                             [A]
+There is no pain you are receding
+[D]                              [A]
+A distant ship smoke on the horizon
+[C]                                    [G]
+You are only coming through in waves
+     [C]                                         [G]
+Your lips move but I can't hear what you're saying
+      [D]                      [A]
+When I was a child I had a fever
+   [D]                                [A]
+My hands felt just like two balloons
+[C]                                   [G]
+Now I've got that feeling once again
+                                [C]
+I can't explain you would not understand
+                    [G]
+This is not how I am
+[A] [C]           [G]            [D]
+I have become comfortably numb
+{eoc}
+
+{sop: Solo 1}
+[D] [A] [D] [A]
+[C] [G] [C] [G]
+{eop}
+
+{sop: Pre-Verse}
+[A] [C]           [G]            [D]
+I have become comfortably numb
+{eop}
+
+{sop: Verse 2}
+[Bm]                  [A]
+Okay, Just a little pinprick
+There'll be no more,
+[G] [Em]            [Bm]
+But you may feel a little sick
+Can you stand up?
+                  [A]
+I do believe it's working, good
+                 [G]                     [Em]
+That'll keep you going through the show
+     [Bm]
+Come on it's time to go
+{eop}
+
+{soc: Chorus}
+[D]                              [A]
+There is no pain you are receding
+[D]                               [A]
+A distant ship, smoke on the horizon
+[C]                                    [G]
+You are only coming through in waves
+     [C]                                         [G]
+Your lips move but I can't hear what you're saying
+      [D]
+When I was a child
+           [A]
+I caught a fleeting glimpse
+[D]                           [A]
+Out of the corner of my eye
+[C]                                [G]
+I turned to look but it was gone
+                          [C]
+I cannot put my finger on it now
+                        [G]
+The child is grown, The dream is gone
+[A] [C]           [G]            [D]
+I have become comfortably numb
+{eoc}
+
+{sop: Solo 2}
+[Bm] [A] [G] [Em] [Bm]
+[A] [G] [Em] [Bm] [A]
+[G] [Em] [Bm] [A] [G] [Em]
+[Bm] [A] [G] [Em] [Bm]
+[A] [G] [Em]
+{eop}
+
+{sop: Fade Out}
+[Bm] [A] [G] [Em] [Bm]
+{eop}
+
+{midi: CC0.0@2, PC10@2}
