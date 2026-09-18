@@ -1,6 +1,6 @@
 {t: Black Velvet}
 {st: Alannah Myles}
-{ipodid: 6175295615369468493}
+{ipodid:}
 {key: Dm}
 {metronome: 91}
 {duration: 4:47}
@@ -104,6 +104,6 @@ Black velvet if you please
 [Dm]
 If you please, if you please, if you please
 {eop}
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC9@2}
 
 {tag: Whiskey Lizard}

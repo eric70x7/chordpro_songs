@@ -120,6 +120,7 @@ Dance in and out of the beams of a neon moon
 [Dsus2]
 - - -
 {eop}
-{midi: CC0.6@2, PC27@2}
+
+{midi: CC0.0@2, PC25@2}
 
 {tag: Whiskey Lizard}

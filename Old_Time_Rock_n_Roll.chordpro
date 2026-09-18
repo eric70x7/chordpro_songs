@@ -1,12 +1,12 @@
 {t: Old Time Rock & Roll}
 {st: Bob Seger}
-{key:E}
+{key:F#}
 {metronome: 124}
 {duration: 3:14}
 
 {sop: Verse 1}
 
-[E] [A] [B]
+[F#] [B] [C#]
 Just take those old records off the shelf
 I'll sit and listen to 'em by myself
 Today's music ain't got the same soul
@@ -18,7 +18,7 @@ I like that old time rock 'n' roll
 {eop}
 
 {soc}
-[E] [A] [B]
+[F#] [B] [C#]
 Still like that old time rock 'n' roll
 That kind of music just soothes my soul
 I reminisce about the days of old
@@ -27,12 +27,12 @@ With that old time rock 'n' roll
 
 {sop: Solo 1}
 {c: Guitar SOLO low F# Pentatonic}
-[E] [A] [B] [E]
+[F#] [B] [C#] [F#]
 - - -
 {eop}
 
 {sop: Verse 2}
-[E] [A] [B]
+[F#] [B] [C#]
 Won't go to hear 'em play a tango
 I'd rather hear some blues or funky old soul
 There's only one sure way to get me to go
@@ -44,7 +44,7 @@ I like that old time rock 'n' roll
 {eop}
 
 {soc}
-[E] [A] [B]
+[F#] [B] [C#]
 Still like that old time rock 'n' roll
 That kind of music just soothes the soul
 I reminisce about the days of old
@@ -53,12 +53,12 @@ With that old time rock 'n' roll
 
 {sop: Solo 2}
 {c: Sax SOLO}
-[E] [A] [B] [E]
+[F#] [B] [C#] [F#]
 - - -
 {eop}
 
 {soc}
-[E] [A] [B]
+[F#] [B] [C#]
 Still like that old time rock 'n' roll
 That kind of music just soothes my soul
 I reminisce about the days of old
@@ -67,7 +67,7 @@ With that old time rock 'n' roll
 
 {soc}
 {c:Drums only}
-[E] [A] [B]
+[F#] [B] [C#]
 Still like that old time rock 'n' roll
 That kind of music just soothes my soul
 I reminisce about the days of old
@@ -75,7 +75,7 @@ With that old time rock 'n' roll
 {eoc}
 
 {soc}
-[E] [A] [B]
+[F#] [B] [C#]
 Still like that old time rock 'n' roll
 That kind of music just soothes my soul
 I reminisce about the days of old
@@ -85,7 +85,7 @@ Still like that old time rock 'n' roll
 
 {sop: Outro}
 {c: Guitar Solo Outro}
-[A] [B] [E] [B]
+[B] [C#] [F#] [C#]
 {eop}
 
 
