@@ -4,14 +4,6 @@
 {metronome: 145}
 {duration: 2:17}
 
-
-{c:Intro}
-
-{sop: Intro}
-[G5]
-- - -
-{eop}
-
 {sop: Verse 1}
 [G5]
 I been up, I been down
@@ -24,6 +16,12 @@ I said, Lord, take me downtown
 [C5]                           [G5]
 I'm just looking for some tush
 {eop}
+
+
+
+
+
+
 
 {sop: Verse 2}
 [G5]
@@ -43,8 +41,12 @@ Yeah
 [G5] [C5] [G5] [D5]
 [C5] [G5] [G5] [C5]
 [G5] [D5] [C5] [G5]
-- - -
 {eop}
+
+
+
+
+
 
 {sop: Verse 3}
 [G5]

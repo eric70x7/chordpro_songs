@@ -3,14 +3,11 @@
 {key: A}
 {metronome: 110}
 {duration: 4:53}
-
-
 {c:Tempo 110}
 
 {sop: Intro}
 [A] [Bm]
 [A] [D/A] [A]
-- - -
 {eop}
 
 {sop: Verse 1}

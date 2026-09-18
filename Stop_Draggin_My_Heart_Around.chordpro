@@ -4,15 +4,7 @@
 {metronome: 107}
 {duration: 4:04}
 
-
 {c:Tempo 107}
-
-{sop: Intro}
-[A] [Cadd9] [G/B] [Cadd9] [E5] [G] [A]
-[E5] [G] [A] [E5] [G] [A]
-[E5]
-- - -
-{eop}
 
 {sop: Verse 1}
 [E5]                      [G]        [A]
@@ -24,7 +16,7 @@ I didn't know what I was getting into
 
 {soc}
 [C]                       [D]
-So you've had a little trouble in town
+{soh}So you’ve had a little trouble in town{eoh}
 Now you're keeping some demons down
 [C]
 Stop dragging my
@@ -45,13 +37,19 @@ It's hard to think about what you've wanted
 It's hard to think about what you've lost
 This doesn't have to be the big get even
 This doesn't have to be anything at all
-I know you really wanna tell me goodbye
-I know you really wanna be your own girl
+
+{soh}I know you really wanna tell me goodbye
+I know you really wanna be your own girl{eoh}
 {eop}
+
+
+
+
+
 
 {soc}
 [C]                           [D]
-Baby, you could never look me in the eye
+{soh}Baby, you could never look me in the eye{eoh}
 Yeah, you buckle with the weight of the words
 [C]
 Stop dragging my
@@ -83,13 +81,23 @@ People running 'round loose in the world
 Ain't got nothing better to do
 Than make a meal of some bright eyed kid
 You need someone looking after you
-I know you really wanna tell me goodbye
-I know you really wanna be your own girl
+
+{soh}I know you really wanna tell me goodbye
+I know you really wanna be your own girl{eoh}
 {eop}
+
+
+
+
+
+
+
+
+
 
 {soc}
 [C]                           [D]
-Baby, you could never look me in the eye
+{soh}Baby, you could never look me in the eye{eoh}
 Yeah, you buckle with the weight of the words
 [C]
 Stop dragging my

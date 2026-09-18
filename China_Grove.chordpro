@@ -4,25 +4,22 @@
 {key: E}
 {metronome: 146}
 {duration: 3:15}
-
-
 {c:Patch 99-1}
-
 {c:Tempo 146}
 
 {sop: Intro}
 [E] [D] [A/C#] [A] [E] [D] [A/C#] [A]
-[E] [D] [A/C#] [A] [E] [D] [A/C#] [A]
-- - -
 {eop}
 
 {sop: Verse 1}
 [E]
-When the sun comes up on a sleepy little town
+When the sun comes up 
+on a sleepy little town
 [D]          [A/C#]   [A]  [E]
 Down around San Antone
 [E]
-And the folks are risin' for another day
+And the folks are risin' 
+for another day
 [D]       [A/C#]      [A]      [E]
 'Round about their homes
 [C#m]                           [B]
@@ -38,13 +35,17 @@ You're talkin' 'bout China Grove, oh
 China Grove
 {eoc}
 
+
+
 {sop: Verse 2}
 [E]
-Well, the preacher and the teacher, Lord, they're a caution
+Well, the preacher and the teacher, 
+Lord, they're a caution
 [D]            [A/C#]    [A]   [E]
 They are the talk of the town
 [E]
-When the gossip gets to flyin' and they ain't lyin'
+When the gossip gets to flyin' 
+and they ain't lyin'
 [D]           [A/C#]        [A]         [E]
 When the sun goes fallin' down
 [C#m]                              [B]
@@ -67,24 +68,21 @@ But ev'ry day there's a new thing comin'
 [F#m]                 [C#m]
 The ways of an oriental view
 [C#m]
-The sheriff and his buddies with their samurai swords
+The sheriff and his buddies 
+with their samurai swords
 [F#]
 You can even hear the music at night
 [G#m] [B]
 [C#m]
-And though it's a part of the Lone Star State
+And though it's a part of the 
+Lone Star State
 [F#m]                       [C#m]
 People don't seem to care
 [A]
 They just keep on lookin' to the East
 [C] [D] [E] [C] [D] [E]
 {eop}
-
-{sop: Bridge 2}
-[E] [D] [A/C#] [A] [E] [D] [A/C#] [A]
-[E]
-- - -
-{eop}
+{c:INTRO}
 
 {sop: Solo}
 {c: Solo}
