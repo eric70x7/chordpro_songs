@@ -1,0 +1,94 @@
+{t:Hey You}
+{st:Pink Floyd}
+{key:Em}
+{metronome:112}
+{duration:4:39}
+
+{c:Duration 4:39}
+{c:Tempo 112}
+
+{sop:Intro}
+[Em] [Dm]
+
+{sop:Verse 1]}
+[Em]
+Hey you!
+Out there in the cold,
+Getting lonely, getting old,
+[Bm]
+Can you feel me?
+[Em]
+Hey you!
+Standing in the aisles,
+With itchy feet and fading smiles,
+[Bm]
+Can you feel me?
+[D]
+ Hey you!
+[G]     [D] [C]
+Don't help them to bury the light.
+[Bm]             [Am]          [Em]
+  Don't give in  without a fight.
+{eop}
+
+{sop:Verse 2}
+[Dm]    [Em]
+  Hey you!
+[Em]
+Out there on your own,
+Sitting naked by the phone,
+[Bm]
+Would you touch me?
+[Em]
+Hey you!
+With your ear against the wall,
+Waiting for someone to call out,
+[Bm]
+Would you touch me?
+[D]
+ Hey you!
+[G]     [D] [C]
+Would you help me to carry the stone?
+[Bm]              [Am]           [Em]
+Open your heart,  I'm coming home.
+
+{sop:Solo}
+[Em] [Am]
+
+{sop:Bridge}
+[C]           [D]    [G]  [D]
+ But it was only fantasy.
+[C]                 [D]        [G]   [D]   [C]
+ The wall was too high, as you can see.
+[C]                  [D]              [G]   [D]     [C]
+No matter how he tried he could not break free.
+[C]                   [D]        [Em]
+And the worms ate into his brain.
+
+{sop:Interlude}
+[Dm] [Em]
+
+{sop:Verse 3}
+[Em]
+Out there on the road,
+Always doing what you're told,
+[Bm]
+Can you help me?
+[Em]
+Hey you!
+Out there beyond the wall,
+Breaking bottles in the hall,
+[Bm]
+Can you help me?
+[D]
+ Hey you!
+[G]   [D] [C]
+Don't tell me there's no hope at all.
+[Bm]
+Together we stand,
+[Am]           [Em]
+  Divided we fall.
+
+{eop}
+
+{midi: CC0.0@2, PC10@2}

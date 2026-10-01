@@ -1,0 +1,152 @@
+{t:We're Not Gonna Take It}
+{st:Twisted Sister}
+{key:E}
+{metronome:149}
+{duration:3:40}
+
+{c:Duration 3:40}
+{c:Tempo 149}
+
+{sop:Intro}
+[E] [B]
+[E] [A]
+[E] [B] [E] [D#]
+[C#] [B] [E] [D#] [C#] [B]
+
+{eop}
+
+{sop:Verse 1}
+[E]              [B]
+We've got the right to choose and
+[E]               [A]
+There ain't no way we'll lose it
+[E]                 [B]                [E]
+This is our life, this is our song
+[B] [E]                [B]
+We'll fight the powers that be just
+[E]               [A]
+Don't pick our destiny 'cause
+[E]                   [B]               [E] [B]
+You don't know us, you don't belong
+
+{eop}
+
+{soc:Chorus}
+[E]               [B]
+We're not gonna take it
+[E]                  [A]
+No, we ain't gonna take it
+[E]               [B]              [E] [D#] [C#] [B]
+We're not gonna take it anymore
+
+{eoc}
+
+{sop:Verse 2}
+[E]             [B]            [E]
+Oh you're so condescending
+[A]
+Your gall is never ending
+[E]                [B]                          [E]
+We don't want nothin', not a thing from you
+[B] [E]             [B]
+Your life is trite and jaded
+[E]           [A]
+Boring and confiscated
+[E]                    [B]                [E] [B]
+If that's your best, your best won't do
+
+{eop}
+
+{sop:Bridge}
+[D5]    [C#5] [B5]
+Oh, oh, oh
+[D5]    [C#5] [B5]
+Oh, oh, oh
+[E]
+We're right
+[F]
+We're free
+[F#]
+We'll fight
+[B]
+You'll see
+
+{eop}
+
+{soc:Chorus}
+[E]               [B]
+We're not gonna take it
+[E]                  [A]
+No, we ain't gonna take it
+[E]               [B]              [E] [B]
+We're not gonna take it anymore
+[E]               [B]
+We're not gonna take it
+[E]                  [A]
+No, we ain't gonna take it
+[E]               [B]              [E] [D#] [C#] [B]
+We're not gonna take it anymore
+
+{eoc}
+
+{sop:Guitar Solo}
+[E] [B] [E] [A]
+[E] [B] [E] [B]
+[E] [B] [E] [A]
+[E] [B] [E] [D#] [C#] [B]
+
+{eop}
+
+{sop:Bridge}
+[D5]    [C#5] [B5]
+Oh, oh, oh
+[D5]    [C#5] [B5]
+Oh, oh, oh
+[E]
+We're right
+[F]
+We're free
+[F#]
+We'll fight
+[B]
+You'll see
+
+{eop}
+
+{sop:Interlude}
+[E]               [B]
+We're not gonna take it
+[E]                  [A]
+No, we ain't gonna take it
+[E]               [B]              [E] [B]
+We're not gonna take it anymore
+
+{eop}
+
+{soc:Chorus}
+[E]               [B]
+We're not gonna take it
+[E]                  [A]
+No, we ain't gonna take it
+[E]               [B]              [E] [B]
+We're not gonna take it anymore
+[E]               [B]
+We're not gonna take it
+[E]                  [A]
+No, we ain't gonna take it
+[E]               [B]              [E] [B]
+We're not gonna take it anymore
+
+{eoc}
+
+{sop:Outro}
+[E]               [B]
+We're not gonna take it
+[E]  [B]
+No, we ain't gonna take it
+[E]          [B]
+We're not gonna take it anymore
+
+{eop}
+
+{midi: CC0.0@2, PC10@2}

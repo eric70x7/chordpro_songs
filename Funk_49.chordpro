@@ -1,0 +1,87 @@
+{t:Funk #49}
+{st:The James Gang}
+{key:A}
+{metronome:91}
+{duration:3:54}
+
+{c:Duration 3:54}
+{c:Tempo 91}
+
+{sop:Intro}
+[Am][A7][D][A7]
+[A7]
+
+{eop}
+
+{sop:Verse 1}
+[D][A7][A7]
+I sleep all day, out all night
+[D]                   [A7]
+I know where you're goin'
+[A7]
+I don't think that's actin' right
+[D]                    [A7]
+You don't think it's showin'
+
+{eop}
+
+{sop:Bridge}
+[A5][B5][E7#9]
+
+{eop}
+
+{sop:Verse 2}
+[A7][D][A7][A7]
+A jumpin' up, fallin' down
+[D]             [A7]
+Don't misunderstand me
+[A7]
+You don't think that I know your plan
+[D]                  [A7]
+What you tryin' to hand me?
+
+{eop}
+
+{sop:Bridge}
+[A5][B5][E7#9][A7]
+[D][A7]
+
+{eop}
+
+{sop:Interlude}
+[A5][A7][D][A7]
+
+{eop}
+
+{sop:Verse 3}
+[A7][D][A7]
+[A7]
+Out all night, sleep all day
+[D]                  [A7]
+I know what you're doin'
+[A7]
+If you're gonna a act that way
+[D]                     [A7]
+I think there's trouble brewin'
+
+{eop}
+
+{sop:Bridge}
+[A5][B5][E7#9][A7]
+[D][A7][A7][D][A7]
+
+{eop}
+
+{sop:Outro}
+[A7][D][A7][A7][D][A7]
+[A7][D][A7][A7][D][A7]
+
+{eop}
+
+{sop:Fade Out}
+[A7][D][A7][A7][D][A7]
+[A7][D][A7][A7][D][A7]
+
+{eop}
+
+{midi: CC0.0@2, PC10@2}

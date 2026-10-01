@@ -1,0 +1,75 @@
+{t:Mississippi Queen}
+{st:Mountain}
+{key:E}
+{metronome:140}
+{duration:2:31}
+
+{c:Duration 2:31}
+{c:Tempo 140}
+
+{sop:Intro}
+[E] [B] [A]
+ 
+ 
+{eop}
+
+{sop:Verse 1}
+[E]
+ Mississippi Queen, if you know what I mean
+Mississippi Queen, she taught me everything
+[A]
+ Way down around Vicksburg, around Louisiana way
+[E]
+ Lived a Cajun lady, we called her Mississippi Queen
+ 
+ 
+{eop}
+
+{soc:Chorus}
+[B]
+ You know she was a dancer
+[A]
+ She moved better on wine
+          [E]
+While the rest of them dudes was a getting their kicks
+Buddy, beg your pardon, I was getting mine
+ 
+ 
+{eoc}
+
+{sop:Verse 2}
+[E]
+ Mississippi Queen, if you know what I mean
+Mississippi Queen, she taught me everything
+[A]
+ This lady she asked me if I would be her man
+[E]
+ You know that I told her I'd do what I can
+ 
+ 
+{eop}
+
+{soc:Chorus}
+[B]
+ To keep her looking pretty
+[A]
+ Buy her dresses that shine
+          [E]
+While the rest of them dudes was a makin' their bread
+                                         [E] [A]
+Buddy, beg your pardon, I was losing mine
+[B]
+ You know she was a dancer
+[A]
+ She moved better on wine
+          [E]
+While the rest of them dudes was gettin' their kicks
+Brother, beg your pardon, now I'm getting mine
+Ohhhh, Mississippi Queen
+{eoc}
+
+{sop:Outro}
+[E] [B] [A]
+{eop}
+
+{midi: CC0.0@2, PC10@2}
