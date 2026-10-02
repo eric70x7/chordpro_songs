@@ -1,0 +1,91 @@
+{t:Fire and Rain}
+{st:James Taylor}
+{key:A}
+{metronome:76}
+{duration:3:20}
+
+{c:Duration 3:20}
+{c:Tempo 76}
+
+{sop:Intro}
+[A] [Em7] [Dsus2] [D] [A] [A] [E]
+[Gmaj7]
+{eop}
+
+{sop:Verse 1}
+[A]                   [Em7]                 [Dsus2]              [A]
+Just yesterday morning they let me know     you were gone.
+            [E]                      [Gmaj7]
+Suzanne the plans they made put an end  to you.
+[A]                  [Em7]           [Dsus2]      [A]
+I walked out this morning and I wrote down this song.
+               [E]                 [Gmaj7]
+I just can't remember who to send     it to.
+{eop}
+
+{soc:Chorus}
+[D] [D/C#]      [Bm7/E]    [E7]             [A]
+I've seen fire and I've seen rain.
+         [D]          [D/C#]              [Bm7/E]         [E7]     [A]
+I've seen sunny days    that I thought     would never end.
+          [D]           [D/C#]            [Bm7/E]        [E7]         [A]      [G]             [G/F#]         [E7sus4]   [Asus2]
+I've seen lonely times    when I could     not find  a friend. But I always thought    that I'd see   you     again.
+{eoc}
+
+{sop:Verse 2}
+          [A]                   [Em7]             [Dsus2]                [A]
+Won't you look down upon me Jesus, you got to help me make a stand.
+            [E]                   [Gmaj7]
+Just got to see me through another day.
+[A]          [Em7]           [Dsus2]           [A]
+My body's aching and my time is at hand.
+        [E]           [Gmaj7]
+I won't make it any other way.
+{eop}
+
+{soc:Chorus}
+[D]    [D/C#]          [Bm7/E]    [E7]        [A]
+Woh, I've seen fire     and I've seen rain.
+          [D]         [D/C#]              [Bm7/E]         [E7]     [A]
+I've seen sunny days    that I thought     would never end.
+          [D]           [D/C#]            [Bm7/E]        [E7]         [A]
+I've seen lonely times    when I could     not find  a friend.
+        [G]           [G/F#]         [E7sus4]   [Asus2]
+But I always thought    that I'd see   you     again.
+{eoc}
+
+{sop:Verse 3}
+     [A]                     [Em7]           [Dsus2]                        [A]
+Been walking my mind to an easy time, my back turned towards' the sun.
+                    [E]                     [Gmaj7]
+Lord knows when the cold wind blows it'll turn your head around.
+                   [A]                [Em7]            [Dsus2]                     [A]
+Well, there's hours of time on a telephone line to talk about things to come.
+                 [E]                  [Gmaj7]
+Sweet dreams and flying machines in pieces on the ground.
+{eop}
+
+{soc:Chorus}
+[D]    [D/C#]      [Bm7/E]    [E7]        [A]
+Woh, I've seen fire and I've seen rain.
+          [D]         [D/C#]              [Bm7/E]         [E7]     [A]
+I've seen sunny days    that I thought     would never end.
+          [D]           [D/C#]            [Bm7/E]        [E7]         [A]
+I've seen lonely times    when I could     not find  a friend.
+        [G]           [G/F#]         [E7sus4]      [Asus2]
+But I always thought    that I'd see   you baby, one more time again now.
+{eoc}
+
+{sop:Outro}
+                [Asus2]
+Thought I'd see you  one more time again.
+There's just a few things coming my way this time around.
+{eop}
+
+{sop:Fade Out}
+Thought I'd see you, thought I'd see you fire and rain now.
+Da da da
+{eop}
+
+{midi: CC0.0@2, PC10@2}
+{tag: Acoustic}

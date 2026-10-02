@@ -1,0 +1,84 @@
+{t:Home}
+{st:Phillip Phillips}
+{key:C}
+{metronome:121}
+{duration:3:30}
+
+{c:Duration 3:30}
+{c:Tempo 121}
+
+{sop:Intro}
+[C] [Cadd11] [C]
+[Cadd11]
+{eop}
+
+{sop:Verse}
+[C]     [Cadd11]              [C]
+Hold on     to me as we go
+[Cadd11]      [C]       [Cadd11]                   [C]
+As we roll down     this unfamiliar road
+[Cadd11]                  [Am] [Cadd11]                  [C]
+And although this wave    is stringing us along
+[Cadd11]     [C]    [Csus2/B] [Am]  [G]  [Am]
+Just know you're  not alone
+                 [Cadd11] [C]    [G]        [C]
+'Cause I'm gonna make   this place your home
+{eop}
+
+{soc:Chorus}
+[C]         [Cadd11]             [C]
+Settle down,    it 'll all be clear
+[Cadd11] [C]                        [Cadd11]
+Don't pay no mind to the demons
+                   [C]
+They fill you with fear
+[Cadd11]    [Am]                        [F]
+The trouble it might drag you down
+           [C]                       [G]
+If you get lost, you can always be found
+     [C]    [Csus2/B] [Am]  [G]  [Am]
+Just know you're  not alone
+                 [F]    [C]    [G]        [C]
+'Cause I'm gonna make this place your home
+{eoc}
+
+{sop:Post-Chorus}
+[F] [C] [Am] [G]
+[F] [C] [G] [F]
+[C] [Am] [G] [F]
+[C] [G] [F] [C]
+[Am] [G] [F] [C]
+[G]
+{eop}
+
+{soc:Chorus}
+[C]         [Cadd11]             [C]
+Settle down,    it 'll all be clear
+[Cadd11] [C]                        [Cadd11]
+Don't pay no mind to the demons
+                   [C]
+They fill you with fear
+[Cadd11]    [Am]                        [F]
+The trouble it might drag you down
+           [C]                       [G]
+If you get lost, you can always be found
+     [C]    [Csus2/B] [Am]  [G]   [Am]
+Just know you're  not alone 
+                 [F]    [C]    [G]        [C]
+'Cause I'm gonna make this place your home
+{eoc}
+
+{sop:Post-Chorus}
+[F] [C] [Am] [G]
+[F] [C] [G] [F]
+[C] [Am] [G] [F]
+[C] [G]
+{eop}
+
+{sop:Outro}
+[F] [C] [Am] [G]
+[F] [C] [G]
+{eop}
+
+{midi: CC0.0@2, PC10@2}
+{tag: Acoustic}

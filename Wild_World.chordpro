@@ -1,0 +1,104 @@
+{t:Wild World}
+{st:Cat Stevens}
+{key:Am}
+{metronome:75}
+{duration:3:20}
+
+{c:Duration 3:20}
+{c:Tempo 75}
+
+{sop:Intro}
+[Am] [D] [G] [C] [F] [Dm]
+[E]
+{eop}
+
+{sop:Verse 1}
+[Am]                  [D]              [G]
+Now that I've lost everything to you
+            [C]                       [F]
+You say you want to start something new
+         [Dm]                           [E]
+And it's breaking my heart you're leaving
+Baby, I'm grieving
+[Am]                         [D]
+But if you want to leave, take good care
+[G]                [C]                         [F]
+Hope you have a lot of nice things to wear
+           [Dm]                      [E]            [G]
+But then a lot of nice things turn bad out there
+{eop}
+
+{soc:Chorus}
+[C]   [G]                [F]
+Oh baby baby it's a wild world
+[G]                 [F]            [C]
+It's hard to get by just upon a smile
+[C]   [G]                [F]
+Oh baby baby it's a wild world
+[G]              [F]               [C]            [Dm] [E]
+I'll always remember you like a child, girl
+{eoc}
+
+{sop:Verse 2}
+[Am]                               [D]
+You know I've seen a lot of what the world can do
+[G]                  [C]
+And it's breaking my heart in two
+[F]               [Dm]                 [E]
+'Cause I never want to see you sad girl
+Don't be a bad girl
+[Am]                   [D]               [G]
+But if you want to leave take good care
+                [C]                          [F]
+Hope you make a lot of nice friends out there
+           [Dm]                          [E]         [G]
+But just remember there's a lot of bad and beware
+{eop}
+
+{soc:Chorus}
+[C]   [G]                [F]
+Oh baby baby it's a wild world
+[G]                 [F]            [C]
+It's hard to get by just upon a smile
+[C]   [G]                [F]
+Oh baby baby it's a wild world
+[G]              [F]               [C]            [Dm] [E]
+I'll always remember you like a child, girl
+{eoc}
+
+{sop:Verse 3}
+[Am] [D] [G] [C] [F] [Dm]
+[E]                [Am]                   [D]               [G]
+Baby I love you,  but if you want to leave take good care
+                [C]                       [F]
+Hope you make a lot of nice friends out there
+           [Dm]
+But just remember there's a lot of bad
+[E]         [G]
+And beware
+{eop}
+
+{soc:Chorus}
+[C]   [G]                [F]
+Oh baby baby it's a wild world
+[G]                 [F]            [C]
+It's hard to get by just upon a smile
+[C]   [G]                [F]
+Oh baby baby it's a wild world
+[G]              [F]               [C]            [Dm] [E]
+I'll always remember you like a child, girl
+{eoc}
+
+{sop:Outro}
+[C]   [G]                [F]
+Oh baby baby it's a wild world
+[G]                 [F]            [C]
+It's hard to get by just upon a smile
+[C]   [G]                [F]
+Oh baby baby it's a wild world
+[G]              [F]               [C]
+I'll always remember you like a child, girl
+{eop}
+
+{midi: CC0.0@2, PC10@2}
+{tag: Acoustic}
