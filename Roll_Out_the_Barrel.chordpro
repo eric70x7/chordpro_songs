@@ -1,0 +1,25 @@
+{t:Roll Out the Barrel}
+{st:Jaromír Vejvoda}
+{key:A}
+{metronome:120}
+{duration:2:35}
+
+{c:Duration 2:35}
+{c:Tempo 120}
+
+{sop:Intro}
+[A] [E7] [A] [E] [E7]
+{eop}
+
+{sop:Verse 1}
+[A]      [E7]         [A]                    [E]          [E7]
+Roll out the barrel, we'll have a barrel of fun
+[Bm]             [E7]                                   [A]
+Roll out the barrel, we've got the blues on the run
+[A]      [E7]   [A]                    [A7]           [D]
+Zing boom tararrel, ring out a song of good cheer
+[Bm]                [E7]        [A]              [Bm]     [E]  [A]
+Now's the time to roll the barrel, for the gang's all here
+{eop}
+
+{midi:CC0.0@2, PC10@2}
