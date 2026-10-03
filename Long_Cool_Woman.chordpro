@@ -6,11 +6,6 @@
 {tag: Eric Sings}
 {c:Tempo 138}
 
-{sop: Intro}
-[Em]
-- - -
-{eop}
-
 {sop: Verse 1}
 [E]            [G]        [A]     [E]
 Saturday night I was down town, 
@@ -30,7 +25,8 @@ My temperature started to rise
 
 {soc}
 [A]
-She was a long cool woman in a black dress
+She was a long cool woman 
+in a black dress
 [G]               [E]
 Just a five nine, beautiful, tall
 [A]
@@ -38,6 +34,11 @@ With just one look I was a bad mess
 [G]                  [E]
 'Cause that long cool woman had it all
 {eoc}
+
+
+
+
+
 
 {sop: Verse 2}
 [E]         [G]           [A]         [E]
