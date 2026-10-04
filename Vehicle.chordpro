@@ -1,6 +1,6 @@
 {t: Vehicle}
 {st: The Ides of March}
-{ipodid: 4092329790592628826}
+{ipodid:}
 {key: Bm}
 {metronome: 102}
 {duration: 2:56}
@@ -46,10 +46,18 @@ Got to have you child
 Great God in heaven you know I love you
 {eoc}
 
+
+
+
+
+
+
+
+
+
 {sop: Pre-Verse}
 [Em] [Bm]
 {eop}
-
 {sop: Verse 2}
 [Em]
 Well if you want to be a movie star
@@ -100,6 +108,12 @@ Great God in heaven you know I love you
 Well
 {eop}
 
+
+
+
+
+
+
 {sop: Verse 3}
 [Em]
 I'm a friendly stranger in a black sedan
@@ -149,11 +163,8 @@ Got to have you child
 [C]             [B]              [Em]         [Bm]
 Great God in heaven you know I love you
 {eop}
-
 {sop: Outro}
 [Bm] [Bm] [Bm] [Em]
-- - -
 {eop}
 {midi: CC0.0@2, PC9@2}
-
 {tag: Whiskey Lizard}

@@ -31,6 +31,21 @@ But you move me, honey
 Yes, you do
 {eoc}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {sop: Verse 2}
 [D]           [A]           [E]
 Now and again I get the feeling
@@ -54,13 +69,25 @@ Yes, you do
 {sop: Bridge 1}
 [C] [G] [C] [G] [C] [G] [C] [G]
 [E] [B] [E] [B] [E] [B] [E] [B]
-- - -
 {eop}
 
 {sop: Solo}
-[D] - [A] - [E]
-- - -
+[D]  [A]  [E]
 {eop}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {sop: Verse 3}
 [D]           [A]           [E]
@@ -87,7 +114,6 @@ Yes, you do
 [D] [A] [D] [A] [E]
 - - -
 {eop}
-
 {midi: CC0.0@2, PC9@2, CC80.127@2}
 {tag: Whiskey Lizard}
 {tag: BBB}

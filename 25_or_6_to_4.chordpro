@@ -10,10 +10,6 @@
 {sop: Intro}
 {c:Horns}
 [Gm] [F] [C/E] [Eb] [D7]
-[Gm] [F] [C/E] [Eb] [D7]
-[Gm] [F] [C/E] [Eb] [D7]
-[Gm] [F] [C/E]
-[Eb] [D7]
 - - -
 {eop}
 
@@ -30,11 +26,13 @@ Giving up I close my eyes
 
 {soc}
 [Eb]                                 [Bb]
-Sitting cross-legged on the floor
+{soh}Sitting cross-legged on the floor{eoh}
 {c:Walkdown half steps Bb}
 [F]                          [Eb]
 Twenty five or six to four
 {eoc}
+
+
 
 {sop: Interlude}
 {c:Horns + Guitar}
@@ -57,7 +55,7 @@ Wondering how much I can take
 
 {soc}
 [Eb]                             [Bb]
-Should I try to do some more?
+{soh}Should I try to do some more?{eoh}
 {c:Walkdown half steps Bb}
 [F]                          [Eb]
 Twenty five or six to four
@@ -65,13 +63,12 @@ Twenty five or six to four
 
 {sop: Solo}
 {c:Guitar walk up then jam}
-[Gm] [F] [C/E] [Eb] [D7] x 8
+[Gm] [F] [C/E] [Eb] [D7]
 {eop}
 
 {sop: Interlude}
 {c:Intro}
-[Gm] [F] [C/E] [Eb] [D7] x 4
-- - -
+[Gm] [F] [C/E] [Eb] [D7]
 {eop}
 
 {sop: Verse 3}
@@ -88,7 +85,7 @@ Waiting for the break of day
 
 {soc}
 [Eb]                          [Bb]
-Twenty five or six to four
+{soh}Twenty five or six to four{eoh}
 [F]                          [Eb]
 Twenty five or six to four
 {eoc}

@@ -5,12 +5,8 @@
 {metronome: 130}
 {duration: 3:18}
 
-
 {c:Tempo 130}
 {c:SLIDE}
-{sop: SLIDE}
-[E]
-{eop}
 
 {sop: Verse 1}
 [E]
@@ -68,10 +64,6 @@ boot scootin' boogie
 [E]
 {eop}
 
-
-
-
-
 {sop: Verse 3}
 [E]
 The bartender asks me, 
@@ -89,6 +81,9 @@ all out makin' it shake
 [A7]       [E]
 Doin' the boot scootin' boogie
 {eop}
+
+
+
 
 {soc}
 [A7]                   [E]
@@ -121,13 +116,10 @@ go to town, boot scootin' boogie
 I say get down, turn around, 
 go to town, boot scootin' boogie
 {eoc}
-
 {sop: Outro}
 [B7]                  [E]
 Oh get down, turn around, 
 go to town, boot scootin' boogie
-[E][A7][E]
-{eop}
+[E][A7][E]{eop}
 {midi: CC0.0@2, PC9@2}
-
 {tag: Whiskey Lizard}
