@@ -8,6 +8,7 @@
 {c:Tempo 113}
 
 {sop: Intro}
+{c:Gm pent}
 One, two, three...
 {eop}
 
@@ -39,6 +40,10 @@ Turn me on
 I'm your boogie man, I'm your boogie man
 I'll do what you want
 {eoc}
+
+
+
+
 
 {sop: Verse 2}
    [C]        [Gm]        [C]         [Gm]       [C]
@@ -86,6 +91,7 @@ I want to love you all from sundown to sunup
 [C]   [Eb] [F]
 Oh yeah                       Oh yeah
 {eop}
+{c:Gm pent picking}
 
 {sop: Instrumental}
 [Gm]  [C]   [Gm]  [C]   [Gm]  [C]   [Gm]  [C]
@@ -118,4 +124,4 @@ Ooh ooh ooh   ah ah
 Ooh ooh ooh   ah ah - FADE OUT
 {eop}
 
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC8@2}
