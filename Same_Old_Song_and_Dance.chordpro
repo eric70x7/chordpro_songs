@@ -8,7 +8,9 @@
 {eop}
 
 {sop: Solo}
-[E5] [G5] [A5] [C5] [D5] [F5]
+[E5] [G5] 
+[A5] [C5] [D5] [F5]
+{c:Solo}
 [G5] [A5] [C5] [D5] [E5]
 - - -
 {eop}
@@ -45,6 +47,8 @@ It's the same old story, same old story
 Same old song and dance
 {eoc}
 
+{c:Solo}
+
 {sop: Bridge 1}
 [B5]  [A5]  [G5]  [A5]
 Fate comes a-knockin', doors start lockin'
@@ -55,8 +59,8 @@ Can't stand the pain when it's all the same to you, my friend
 {eop}
 
 {sop: Solo}
+{c:Slide Solo - Sax Solo}
 [B5] [C#5] [D5] [E5]
-- - -
 {eop}
 
 {sop: Verse 3}
@@ -77,6 +81,7 @@ Same old song and dance
 {eoc}
 
 {sop: Outro}
+{c:Outro Solo}
 [E5]
 {eop}
 
