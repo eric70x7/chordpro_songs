@@ -49,8 +49,8 @@ What you tryin' to hand me?
 {eop}
 
 {sop:Interlude}
+{c:Percussion interlude}
 [A5][A7][D][A7]
-
 {eop}
 
 {sop:Verse 3}
@@ -85,3 +85,4 @@ I think there's trouble brewin'
 {eop}
 
 {midi: CC0.0@2, PC10@2}
+{tag: BBB}

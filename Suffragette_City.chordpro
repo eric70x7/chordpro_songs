@@ -87,7 +87,7 @@ She's all right
 {eop}
 
 {soc:Chorus}
-[F] [G]         [A]                         [D]
+        [A]                         [D]
 Oh don't lean on me man, cause you can't afford the ticket
 [F]          [C]             [G]
 Back from Suffragette City
@@ -152,3 +152,4 @@ Suffragette
 {eop}
 
 {midi: CC0.0@2, PC10@2}
+{tag: BBB}

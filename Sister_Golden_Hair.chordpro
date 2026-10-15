@@ -1,56 +1,74 @@
-{title: Sister Golden Hair}
-{artist: America}
-{metronome: 134}
+{t:Sister Golden Hair}
+{st:America}
+{key:E}
+{metronome:135}
+{duration:3:20}
+{c:Duration 3:20}
+{c:Tempo 135}
 
-{c:Tempo 134}
-
-{sop: Intro}
-[C#m] [A] [E] [G#m] [C#m] [B] [A]
+{sop:Intro}
+[C#m] [A] [E] [Esus4] [E] 
+[G#m] [C#m] [B] [A]
 {eop}
 
-{sop: Verse 1}
-[E]Well, I tried to make it Sunday, but I [G#m]got so damn depressed,  
-That I [A]set my sights on [E]Monday and I [G#m]got myself undressed  
-I ain't [A]ready for the [F#m]altar, but I [C#m]do agree[G#m] there's ti[A]mes,  
-When a [F#m]woman sure can [A]be a friend of [E]mine [Esus4] [E]
+{sop:Verse 1}
+       [E]                              [G#m]
+Well I tried to make it sunday, but I got so damned depressed
+       [A]                [E]            [G#m]
+That I set my sights on Monday and I got myself undressed.
+           [A]          [F#m]          [C#m]     [G#m]        [A]
+I ain't ready for the altar, but I do agree   there's times
+       [F#m]            [A]                   [E]
+When a woman sure can be a friend of mine.
 {eop}
 
-{sop: Verse 2}
-[E]Well, I keep on thinkin' '[G#m]bout you, Sister Golden Hair surprise,  
-And I [A]just can't live with[E]out you; can't you [G#m]see it in my eyes?  
-I’ve been [A]one poor corres[F#m]pondent, and I’ve [C#m]been too, too [G#m]hard to [A]find,  
-But it [F#m]doesn’t mean you [A]ain’t been on my [E]mind
+{sop:Verse 2}
+                                           [G#m]
+Well, I keep on thinkin' 'bout you, Sister Golden Hair surprise
+      [A]                   [E]                  [G#m]
+And I just can't live without you; can't you see it in my eyes?
+             [A]           [F#m]                [C#m]          [G#m]   [A]
+I've been one poor correspondent, I've been too, too hard   to find,
+       [F#m]             [A]                      [E]
+But it doesn't mean you ain't been on my mind.
 {eop}
 
-{soc: Chorus}
-[B]Will you meet me in the middle, will you [A]meet me in the [E]air?  
-[B]Will you love me just a little, just e[A]nough to show you [E]care?  
-Well I [F#m]tried to fake it, I [G#m]don’t mind sayin’, I [A]just can’t make it
+{soc}
+             [B]                               [A]              [E]
+Will you meet me in the middle, will you meet me in the air?
+             [B]                             [A]                 [E]
+Will you love me just a little, just enough to show you care?
+            [F#m]              [G#m]                  [Asus2]
+Well I tried   to fake it, I don't mind sayin', I just can't make it.
 {eoc}
 
-{sop: Instrumental}
-[C#m] [A] [E] [G#m] [C#m] [B] [A]
+{sop:Interlude}
+[C#m] [A] [E] [Esus4] [E] 
+[G#m] [C#m] [B] [A]
 {eop}
 
-{sop: Verse 3}
-[E]Well, I keep on thinkin' '[G#m]bout you, Sister Golden Hair surprise,  
-And I [A]just can't live with[E]out you; can't you [G#m]see it in my eyes?  
-I’ve been [A]one poor corres[F#m]pondent, and I’ve [C#m]been too, too [G#m]hard to [A]find,  
-But it [F#m]doesn’t mean you [A]ain’t been on my [E]mind
+{sop:Verse 3}
+        [E]                                  [G#m]
+Well, I keep on thinkin' 'bout you, Sister Golden Hair surprise
+      [A]                   [E]                  [G#m]
+And I just can't live without you; can't you see it in my eyes?
+             [A]           [F#m]                [C#m]          [G#m]   [A]
+I've been one poor correspondent, I've been too, too hard   to find,
+       [F#m]          [A]                         [E]
+But it doesn't mean you ain't been on my mind.
 {eop}
 
-{soc: Chorus}
-[B]Will you meet me in the middle, will you [A]meet me in the [E]air?  
-[B]Will you love me just a little, just e[A]nough to show you [E]care?  
-Well I [F#m]tried to fake it, I [G#m]don’t mind sayin’, I [A]just can’t make it
+{soc}
+             [B]                               [A]              [E]
+Will you meet me in the middle, will you meet me in the air?
+             [B]                             [A]                 [E]
+Will you love me just a little, just enough to show you care?
+            [F#m]              [G#m]                  [Asus2]
+Well I tried   to fake it, I don't mind sayin', I just can't make it.
 {eoc}
 
-{sop: Outro}
-[E]Doo wop doo wop ... [G#m]  
-[A]Doo wop doo wop ... [E] [G#m]  
-[A]Doo wop doo wop ... [F#m] [C#m]  
-[F#m]Doo wop doo wop ... [A] [E] [Esus4] [E]
+{sop:Outro}
+[B] [A] [E] 
 {eop}
-{tag: Eric Sings}
-{tag: Acoustic}
+
 {midi: CC0.0@2, PC10@2}
