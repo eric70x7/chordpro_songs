@@ -1,6 +1,6 @@
 {t:Got to Be Real}
 {st:Cheryl Lynn}
-{key:Eb}
+{key:C}
 {metronome:117}
 {duration:3:01}
 
@@ -12,8 +12,8 @@ What you find         ah
 {eop}
 
 {sop:Verse 1}
-[Bb] [F] [Bb]  
-[Bb] [F] [G] [Bb] [F]
+[G] [D] [G]  
+[G] [D] [E] [G] [D]
 What you feel         now
 What you know         a
 To be real
@@ -27,7 +27,7 @@ What you know         a
 
 {soc:Chorus}
 {c:Pluck}
-[Gm] [F]
+[Em] [D]
 Ooh, your love's for     real now
 You know that your love is my  love
 My   love  is your love  
@@ -36,8 +36,8 @@ What you find,         ah
 {eoc}
 
 {sop:Verse 2}
-[Bb] [F] [Bb]  
-[Bb] [F] [G] [Bb] [F]
+[G] [D] [G]  
+[G] [D] [E] [G] [D]
 (I think I love  you baby)
 What you feel         now
 (I feel I need  you baby)
@@ -47,7 +47,7 @@ What you know         a
 
 {soc:Chorus}
 {c:Pluck}
-[Gm] [F]
+[Em] [D]
 Ooh, your love's for     real now
 You know that your love is my  love
 My   love  is your love  
@@ -56,8 +56,8 @@ What you find,         ah
 {eoc}
 
 {sop:Verse 3}
-[Bb] [F] [Bb]  
-[Bb] [F] [G] [Bb] [F]
+[G] [D] [G]  
+[G] [D] [E] [G] [D]
 (I think I love  you baby)
 What you feel         now
 (I     feel I need)
@@ -80,8 +80,8 @@ What you find         ah
 {eop}
 
 {sop:Verse 4}
-[Bb] [F] [Bb]  
-[Bb] [F] [G] [Bb] [F]
+[G] [D] [G]  
+[G] [D] [E] [G] [D]
 What you feel         now
 What you know         ah
 To be real
@@ -100,4 +100,4 @@ To be real
 (real, real, real), to be real
 {eop}
 
-{midi: CC0.0@2, PC10@2}
+{midi: CC0.0@2, PC9@2}
