@@ -4,12 +4,10 @@
 {metronome: 128}
 {duration: 2:52}
 
-
 {c:Tempo 128}
 
 {sop: Intro}
 [F] [Bb7] [F] [C] [F]
-- - -
 {eop}
 
 {sop: Verse 1}
@@ -44,6 +42,8 @@ All the boys were getting ready to fight
 [F]
 Betty Lou's gettin' out tonight
 {eop}
+
+
 
 {soc}
 [F]
@@ -82,6 +82,12 @@ What do you think about that boys
 [F] [Bb7] [F] [C] [F]
 - - -
 {eop}
+
+
+
+
+
+
 
 {sop: Interlude}
 [F]
