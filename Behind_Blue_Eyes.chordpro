@@ -3,8 +3,7 @@
 {key: Em}
 {metronome: 126}
 {duration: 3:41}
-{tag: Eric Sings}
-{tag: Whiskey Lizard}
+
 
 {c:Tempo 126}
 
@@ -130,3 +129,5 @@ To be the sad man
 Behind blue eyes
 {eop}
 {midi: CC0.0@2, PC10@2}
+
+{tag: BBB}

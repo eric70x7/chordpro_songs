@@ -1,8 +1,9 @@
 {t: Call Me the Breeze}
 {st: Lynyrd Skynyrd}
 {key: A}
-{metronome: 133}
+{metronome: 95}
 {duration: 5:08}
+{c:Tempo 95}
 
 {c:Chorus Verse}
 {c:Guitar Solo over 2x}
