@@ -9,6 +9,14 @@
 
 {sop: Intro}
 [G7]
+{sot}
+E|-------------------
+B|-------------------
+G|---4-3-4-4-4-3-4---
+D|--5-5---5-5-5---5--
+A|-------------------
+E|------------------- 
+{eot}
 {eop}
 
 {sop: Verse 1}
@@ -30,9 +38,9 @@ You can't do that
 Well, it's the second time I've caught you talking to him
 Do I have to tell you one more time, I think it's a sin
              [C7]
-I think I'll let you down
+I think I'll let you down. {soh}Let you down{eoh}
                   [G7]
-And leave you flat
+And leave you flat {soh}Gonna let you down and leave you flat{eoh}
              [D7]                 [C7]
 Because I've told you before, oh
              [G7]
@@ -41,11 +49,11 @@ You can't do that
 
 {soc}
               [B7]  [Em]
-Everybody's green
+Everybody's {soh}green{eoh}
     [Am]              [Bm]           [G7]
 Cos I'm the one who won your love
                 [B7]  [Em]
-But if they'd seen
+But if they'd {soh}seen{eoh}
        [Am]                      [Bm]              [D7]
 You're talking that way they'd laugh in my face
 {eoc}
@@ -55,9 +63,9 @@ You're talking that way they'd laugh in my face
 So please listen to me, if you wanna stay mine
 I can't help my feelings, I'll go out of my mind
           [C7]
-I'm gonna let you down
+I'm gonna let you down {soh}Let you down{eoh}
                   [G7]
-And leave you flat
+And leave you flat {soh}Gonna let you down and leave you flat{eoh}
              [D7]                 [C7]
 Because I've told you before, oh
              [G7]  [D7]
@@ -65,17 +73,18 @@ You can't do that
 {eop}
 
 {sop: Solo}
+{c:Solo - melody}
 [G7] [C7] [G7] [D7]
 [C7] [G7]
 {eop}
 
 {soc}
-               [B7]  [Em]
-Everybody's green
+              [B7]  [Em]
+Everybody's {soh}green{eoh}
     [Am]              [Bm]           [G7]
 Cos I'm the one who won your love
                 [B7]  [Em]
-But if they'd se  en
+But if they'd {soh}seen{eoh}
        [Am]                      [Bm]              [D7]
 You're talking that way they'd laugh in my face
 {eoc}
@@ -93,6 +102,8 @@ Because I've told you before, oh
              [G7]
 You can't do that
 {eop}
+
+{c:Intro lick to retard}
 
 {midi: CC0.0@2, PC10@2}
 {tag: BBB}

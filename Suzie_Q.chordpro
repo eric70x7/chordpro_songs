@@ -1,6 +1,6 @@
 {t: Suzie Q}
 {st: Creedence Clearwater Revival}
-{key:Gm}
+{key:Em}
 {metronome: 130}
 {duration: 3:00}
 
@@ -8,57 +8,60 @@
 {c:Tempo 130}
 
 {sop: Intro}
-[Gm]
+[Em]
 {eop}
 
 {sop: Pre-Verse}
-[Gm]
+[Em]
 Oh Susie Q,
 {eop}
 
 {sop: Verse 1}
-[Gm]
+[Em]
   oh Susie Q
-          [C]                [Eb] [D]      [Gm]
+          [A]                [C] [B]      [Em]
 Oh Susie Q baby I love you,  Susie Q
 I like the way you walk
 I like the way you talk
-                       [C]
+                       [A]
 I like the way you walk
-                       [Eb]
+                       [C]
 I like the way you talk
-[D]      [Gm]
+[B]      [Em]
 Susie Q
 {eop}
 
 {sop: Guitar Solo 1}
-[Gm] [C] [Eb] [D] [Gm]
-[C] [Eb] [D] [Gm]
+[Em]
+{c:Guitar Solo 1 - pent}
+[Em] [A] [C] [B] [Em]
+[A] [C] [B] [Em]
 {eop}
 
 {sop: Pre-Verse}
-[Gm]
-                             [Gm]
+[Em]
+                             [Em]
 Well, say that you'll be true
 {eop}
 
 {sop: Verse 2}
 Well, say that you'll be true
-                             [C]                
+                             [A]                
 Well, say that you'll be true
-                 [Eb] [D]      [Gm]
+                 [C] [B]      [Em]
 and never leave me blue,  Susie Q
 
 Well, say that you'll be mine
 Well, say that you'll be mine,
-                              [C]
+                              [A]
 Well, say that you'll be mine
-[Eb].   [D]      [Gm]
+[C].   [B]      [Em]
 Baby all the time
 {eop}
 
 {sop: Guitar Solo 2}
-[Gm]
+[Em]
+{c:Guitar Solo 2 - BB box}
   Uh uh
 Uh uh
 Uh uh
@@ -66,52 +69,54 @@ Uh
 {eop}
 
 {sop: Pre-Verse}
-[Gm]
+[Em]
   Oh Susie Q,
 {eop}
 
 {sop: Verse 3}
-[Gm]
+[Em]
   oh Susie Q
-          [C]                [Eb] [D]      [Gm]
+          [A]                [C] [B]      [Em]
 Oh Susie Q baby I love you,  Susie Q
 I like the way you walk
 I like the way you talk
-                       [C]
+                       [A]
 I like the way you walk
-                       [Eb]
+                       [C]
 I like the way you talk
-[D]      [Gm]
+[B]      [Em]
 Susie Q
 Oh Susie Q, oh Susie Q
-           [C]                [Eb] [D]      [Gm]
+           [A]                [C] [B]      [Em]
 Oh Susie Q, baby I love you,  Susie Q
 {eop}
 
 {sop: Guitar Solo 3}
-[Gm] [D] [F] [G] [Gm] [D] [F] [G]
-[Gm] [D] [F] [G] [Gm] [D] [F] [G]
-[Gm] [D] [F] [G] [Gm] [D] [F] [G]
-[Gm]
+{c: Guitar Solo 3}
+[Em] [B] [D] [E] [Em] [B] [D] [E]
+[Em] [B] [D] [E] [Em] [B] [D] [E]
+[Em] [B] [D] [E] [Em] [B] [D] [E]
+[Em]
 {eop}
 
 {sop: Interlude}
-[F] [Eb] [Gm]
+[D] [C] [Em]
 {eop}
 
 {sop: Guitar Solo 4}
-[Gm] [G] [F] [G] [F] [G] [G] [F]
-[G] [F] [G] [G] [F] [G] [F] [G] [G] [F]
-[G] [F] [G] [G] [F] [G] [F] [G] [G] [F]
-[G] [F] [G]
+{c: Guitar Solo 4}
+[Em] [E] [D] [E] [D] [E] [E] [D]
+[E] [D] [E] [E] [D] [E] [D] [E] [E] [D]
+[E] [D] [E] [E] [D] [E] [D] [E] [E] [D]
+[E] [D] [E]
 {eop}
 
 {sop: Interlude}
-[F] [Gm]
+[D] [Em]
 {eop}
 
 {sop: Outro}
-[Gm]
+[Em]
 {eop}
 
 {midi: CC0.0@2, PC57@2}
