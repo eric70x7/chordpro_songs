@@ -3,20 +3,8 @@ name: Validate Setlists
 on:
   push:
     branches: [main]
-    paths:
-      - '**.lst'
-      - '**.chordpro'
-      - '**.pro'
-      - 'scripts/validate_setlists.py'
-      - '.github/workflows/validate-setlists.yml'
   pull_request:
     branches: [main]
-    paths:
-      - '**.lst'
-      - '**.chordpro'
-      - '**.pro'
-      - 'scripts/validate_setlists.py'
-      - '.github/workflows/validate-setlists.yml'
 
 jobs:
   validate:
