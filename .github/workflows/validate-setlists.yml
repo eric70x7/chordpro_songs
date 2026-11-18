@@ -1,0 +1,28 @@
+name: Validate Setlists
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.lst'
+      - '**.chordpro'
+      - '**.pro'
+      - 'scripts/validate_setlists.py'
+      - '.github/workflows/validate-setlists.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - '**.lst'
+      - '**.chordpro'
+      - '**.pro'
+      - 'scripts/validate_setlists.py'
+      - '.github/workflows/validate-setlists.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate setlists against chordpro titles
+        run: python3 scripts/validate_setlists.py
