@@ -1,0 +1,95 @@
+{t: The Loco-Motion}
+{st: Grand Funk Railroad}
+{key: D}
+{metronome: 124}
+{duration: 2:46}
+
+{c:Duration 2:46}
+{c:Tempo 124}
+
+{sop: Intro}
+Everybody's do-ing a brand new dance no-ow
+Come on baby do the locomotion
+I know you'll get to like it if you give it a chance no-ow
+Come on baby do the locomotion
+{eop}
+
+{sop: Verse 1}
+[D]                  [B]
+My little baby sister can do it with ease
+[D]                       [B]
+It's easier than learning your ABC's
+[D]                [A]
+So come on come on and d-o the locomotion with me
+[D]
+you got to swing your hips no-ow
+[G]
+come on
+[D]
+jump up       jump back
+[A]
+oh well i think you got the kna-ack      woh woh
+{eop}
+
+{sop: Verse 2}
+[D]                    [B]
+now that you can do it well lets make a chain no-ow
+[D]          [B]
+come on baby do the locomotion
+[D]          [B]
+a chugga chugga motion like a railroad train no-ow
+[D]          [B]
+come on baby do the locomotion
+{eop}
+
+{sop: Bridge}
+[G]                     [E]
+do it nice and easy now and don't loose control
+[G]                   [E]
+a little bit of rythm and a lot of soul
+[D]                   [A]
+Well come on come on and d-o the locomotion with me
+{eop}
+
+{sop: Lead}
+[D] [G] [D] [G] [D] [G] [D] [A]
+{eop}
+
+{sop: Verse 3}
+[D]                           [B]
+woh woh move around the floor in a locomotion
+[D]          [B]
+come on baby do the locomotion
+[D]                 [B]
+do it holding hands if'n you get the notion
+[D]          [B]
+come on baby do the locomotion
+{eop}
+
+{sop: Bridge 2}
+[G]                         [E]
+theres never been a dance that so easy to do
+[G]                       [E]
+it even makes you happy when your feeling blue
+[D]                [A]
+so come on come on d-o the locomotion with me
+{eop}
+
+{sop: Outro}
+[D]                [A]
+so come on come on d-o the locomotion with me
+[D]          [B]
+come on baby do the locomotion
+[D]                [A]
+so come on come on d-o the locomotion with me
+[D]          [B]
+come on baby do the locomotion
+[D]          [B]
+come on baby do the locomotion
+[D]          [B]
+come on baby do the locomotion
+[D]          [B]
+come on baby do the locomotion
+{eop}
+
+{midi: CC0.0@2, PC10@2}
