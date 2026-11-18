@@ -1,9 +1,43 @@
-{title: Dance To The Music}
-{artist: Sly & The Family Stone}
+{t: Dance To The Music}
+{st: Sly & The Family Stone}
+{key: G}
+{metronome: 128}
+{duration: 3:00}
 
-[G]
+{c:Duration 3:00}
+{c:Tempo 128}
 
-All we need is the drummer....
+{sop: Intro}
+[G] [Bb] [F] [C]
+{eop}
 
-I'm gonna add a little guitar and make it easy to move your feet
-{tag: Whiskey Lizard}
+{sop: Verse 1}
+[G] [Bb] [F] [C]
+{c: (cue) All we need is the drummer...}
+{c: (cue) I'm gonna add a little guitar and make it easy to move your feet}
+{eop}
+
+{sop: Verse 2}
+[G] [G7] [C7] [F7]
+{c: (cue) All we need is a bassman...}
+{c: (cue) All we need is a horn player...}
+{eop}
+
+{soc}
+[Bb]             [F]
+All we want is to hear some funky
+[C]         [G]
+Dance to the mu-sic
+{eoc}
+
+{sop: Bridge}
+[G] [Bb] [F] [C]
+{c: (cue) Feel a little better, good God}
+{c: (cue) ...then everybody dance to the music}
+{eop}
+
+{sop: Outro}
+[G] [Bb] [F] [C]
+{eop}
+
+{midi: CC0.0@2, PC10@2}
