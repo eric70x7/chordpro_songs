@@ -52,14 +52,7 @@ Well come on come on and d-o the locomotion with me
 {eop}
 
 {sop: Lead}
-[D]
-[G]
-[D]
-[G]
-[D]
-[G]
-[D]
-[A]
+[D] [G] [D] [G] [D] [G] [D] [A]
 {eop}
 
 {sop: Verse 3}
