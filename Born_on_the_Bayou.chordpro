@@ -1,0 +1,90 @@
+{t: Born on the Bayou}
+{st: Creedence Clearwater Revival}
+{key: A}
+{metronome: 117}
+{duration: 5:13}
+
+{c:Duration 5:13}
+{c:Tempo 117}
+
+{sop: Intro}
+[E7]
+{eop}
+
+{sop: Verse 1}
+    [E7]
+Now when I was just a little boy I stand up to my daddy's knee
+My papa said son don't let the man get you do what he done to me
+'Cause he'll get you 'cause he'll get you now now
+{eop}
+
+{sop: Verse 2}
+    [E7]                                                   [D] [E7]
+And I can remember the Fourth of July runnin' through the back wood bare
+                                                            [D] [E7]
+And I can still hear my old hound dog barkin' chasin' down a hoodoo there
+                           [D] [A]
+Chasin' down a hoodoo there
+{eop}
+
+{soc}
+[E7]             [D] [A]
+  Born on the bayou
+[E7]           [D] [A]
+  Born on the bayou
+[E7]              [D]   [A]  [E7]
+  Born on the bayou Lord Lord
+{eoc}
+
+{sop: Solo}
+[A] [E]
+{c:Solo 1}
+[E7] [D] [A] [E] [E7] [D] [A] [E]
+[E7] [D] [A] [E] [E7] [D] [A] [E]
+[E7]
+{eop}
+
+{sop: Interlude}
+[E7] [E7]
+{eop}
+
+{sop: Verse 3}
+[E7]                                                 [D] [E7]
+Wish I was back on the bayou rollin' with some Cajun Queen
+Wishin' I were a fast freight train oh just chooglin' on down to New Orleans
+{eop}
+
+{soc}
+[E7]
+Born on the bayou
+Born on the bayou
+Born on the bayou
+{eoc}
+
+{sop: Interlude}
+[E7] [D] [A] [E] [E7] [E7]
+{eop}
+
+{sop: Verse 4}
+    [E7]                                                   [D] [E7]
+And I can remember the Fourth of July runnin' through the back wood bare
+                                                            [D] [E7]
+And I can still hear my old hound dog barkin' chasin' down a hoodoo there
+                           [D] [A]
+Chasin' down a hoodoo there
+{eop}
+
+{soc}
+[E7]             [D] [A]
+  Born on the bayou
+[E7]           [D] [A]
+  Born on the bayou
+[E7]             [D] [A] [E7]
+  Born on the bayou
+{eoc}
+
+{sop: Outro}
+[E7]
+{eop}
+
+{midi: CC0.0@2, PC57@2}
