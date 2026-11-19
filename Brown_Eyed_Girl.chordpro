@@ -1,6 +1,11 @@
 {t: Brown Eyed Girl}
 {st: Van Morrison}
 {key: G}
+{metronome: 151}
+{duration: 3:03}
+
+{c:Duration 3:03}
+{c:Tempo 151}
 
 {sop: Intro}
 [G] [C] [G] [D]
