@@ -1,6 +1,11 @@
 {t: Johnny B. Goode}
 {st: Chuck Berry}
 {key:A}
+{metronome: 168}
+{duration: 2:41}
+
+{c:Duration 2:41}
+{c:Tempo 168}
 {tag: Eric Sings}
 
 

@@ -1,6 +1,11 @@
 {t: Devil with the Blue Dress On}
 {st: Mitch Ryder and The Detroit Wheels}
 {key: C}
+{metronome: 172}
+{duration: 3:01}
+
+{c:Duration 3:01}
+{c:Tempo 172}
 
 {sop: Intro}
 [C] [F] [C]

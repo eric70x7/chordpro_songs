@@ -1,6 +1,11 @@
 {t: Hurts So Good}
 {st: John Cougar}
 {key: A}
+{metronome: 125}
+{duration: 3:39}
+
+{c:Duration 3:39}
+{c:Tempo 125}
 
 {sop: Intro}
 [A][E][A][E]
