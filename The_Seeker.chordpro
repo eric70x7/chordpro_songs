@@ -1,6 +1,11 @@
 {t: The Seeker}
 {st: The Who}
 {key: A}
+{metronome: 92}
+{duration: 3:06}
+
+{c:Duration 3:06}
+{c:Tempo 92}
 
 {sop: Intro}
 [G-A] [G-D] [G-A] [G-D]

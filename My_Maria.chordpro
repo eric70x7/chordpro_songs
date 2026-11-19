@@ -1,8 +1,13 @@
 
 {t: My Maria}
 {st: Brooks & Dunn}
+{key: A}
+{metronome: 126}
+{duration: 3:28}
 {ipodid: 1814883450694426533}
-{key:A}
+
+{c:Duration 3:28}
+{c:Tempo 126}
 
 {sop: Intro}
 [A] [E] [B] [A]

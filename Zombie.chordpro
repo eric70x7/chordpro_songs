@@ -1,6 +1,11 @@
 {t: Zombie}
 {st: The Cranberries}
 {key: Em}
+{metronome: 167}
+{duration: 5:06}
+
+{c:Duration 5:06}
+{c:Tempo 167}
 
 {sop: Intro}
 [Em] [C] [G] [D/F#]

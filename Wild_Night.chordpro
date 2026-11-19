@@ -1,6 +1,11 @@
 {t: Wild Night}
 {st: John Cougar Mellencamp}
 {key: G}
+{metronome: 144}
+{duration: 3:28}
+
+{c:Duration 3:28}
+{c:Tempo 144}
 
 {sop: Intro}
 [Em]

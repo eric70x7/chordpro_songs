@@ -1,6 +1,11 @@
 {t: Swingtown}
 {st: Steve Miller Band}
 {key: A}
+{metronome: 131}
+{duration: 3:30}
+
+{c:Duration 3:30}
+{c:Tempo 131}
 
 {sop: Intro}
 [A]

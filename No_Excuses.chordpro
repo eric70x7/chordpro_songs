@@ -1,6 +1,11 @@
 {t: No Excuses}
 {st: Alice In Chains}
 {key: A}
+{metronome: 117}
+{duration: 4:16}
+
+{c:Duration 4:16}
+{c:Tempo 117}
 
 {sop: Intro}
 [Aadd9] [Badd11]

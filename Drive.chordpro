@@ -1,6 +1,11 @@
 {t: Drive}
 {st: Incubus}
 {key: Em}
+{metronome: 91}
+{duration: 3:52}
+
+{c:Duration 3:52}
+{c:Tempo 91}
 
 {sop: Intro}
 [Em][Em9][Cmaj7][Em/A][Em][Em9][Cmaj7][Em/A]
