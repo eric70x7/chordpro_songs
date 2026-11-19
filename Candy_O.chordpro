@@ -1,6 +1,11 @@
 {t: Candy-O}
 {st: The Cars}
 {key: E}
+{metronome: 124}
+{duration: 2:36}
+
+{c:Duration 2:36}
+{c:Tempo 124}
 
 {sop: Intro}
 [E5]
