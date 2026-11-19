@@ -39,6 +39,10 @@ Chasin' down a hoodoo there
 {sop: Solo}
 [A] [E]
 {c:Solo 1}
+{c:3-4 note licks x8}
+{c:Diads on high E x14}
+{c:Lick on Low E x8}
+{c:Intro 7th chord x4}
 [E7] [D] [A] [E] [E7] [D] [A] [E]
 [E7] [D] [A] [E] [E7] [D] [A] [E]
 [E7]
@@ -62,6 +66,8 @@ Born on the bayou
 {eoc}
 
 {sop: Interlude}
+{c:Lick on Low E x16}
+{c:Intro 7th chord x4}
 [E7] [D] [A] [E] [E7] [E7]
 {eop}
 
@@ -84,6 +90,7 @@ Chasin' down a hoodoo there
 {eoc}
 
 {sop: Outro}
+{c:Intro 7th chord}
 [E7]
 {eop}
 
