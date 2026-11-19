@@ -1,6 +1,12 @@
 {t: Time}
 {st: Pink Floyd}
 {key: F#m}
+{metronome: 120}
+{duration: 6:53}
+
+{c:Duration 6:53}
+{c:Tempo 120}
+
 {sop:Verse 1}
 [F#m]Ticking away the moments that make a dull [A]day    
 You f[E]ritter and waste the hours in an off hand w[F#m]ay    
