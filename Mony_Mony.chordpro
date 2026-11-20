@@ -1,47 +1,47 @@
 {t: Mony Mony}
 {st: Billy Idol}
 {ipodid:}
-{key:E}
+{key:G}
 {metronome: 135}
 {duration: 5:01}
 
 
 {c:Key}
-[E]
+[G]
 
 {sop: Verse 1}
-[E]                                            [A] [E]
+[G]                                            [C] [G]
 Here she come now saying, "Mony, Mony"
 Shoot 'em down, turn around, come on, Mony
 Hey, she gimme love and I feel alright now
 {eop}
 
 {sop: Pre-Chorus}
-[E]
+[G]
 You gotta toss and turn and feel alright
-[A]
+[C]
 I feel alright
 I said, "Yeah"
-[B]
+[D]
 Yeah
 Yeah, yeah, yeah
 {eop}
 
 {soc}
 {c: Pick octave}
-[B]                   [E]
+[D]                   [G]
 'Cause you make me feel (Like a pony)
-[E]
+[G]
 So good (Like a pony)
 So good (Like a pony)
 So good (Mony Mony)
-[A]
+[C]
 So fine (Mony Mony)
 So fine (Mony Mony)
 It's all mine (Mony Mony)
 Well, I feel alright
 I said, "Yeah"
-[B]
+[D]
 Yeah
 Yeah, yeah, yeah, yeah
 {eoc}
@@ -49,47 +49,47 @@ Yeah, yeah, yeah, yeah
 {c: Bass & Drums}
 
 {sop: Verse 2}
-[E]                                            [A] [E]
+[G]                                            [C] [G]
 Well, you could shake it, Mony, Mony
 Shotgun dead and I'll come on Mony
 Don't stop cooking as I feel alright now
 {eop}
 
 {sop: Pre-Chorus}
-[E]
+[G]
 But don't stop now, come on, Mony
-[A]
+[C]
 Come on, hey
 I said, "Yeah"
-[B]
+[D]
 Yeah
 Yeah, yeah, yeah
 {eop}
 
 {soc}
-[B]                   [E]
+[D]                   [G]
 'Cause you make me feel (Like a pony)
-[E]
+[G]
 So good (Like a pony)
 So good (Like a pony)
 Well, I feel alright
-[A]
+[C]
 You so fine (Mony Mony)
 You so fine (Mony Mony)
 It's all mine (Mony Mony)
 And, I feel alright
 I said, "Yeah"
-[B]
+[D]
 Yeah
-[B]                      [E]
+[D]                      [G]
 Yeah, yeah, yeah, yeah
 {eoc}
 
 {c: SCRAPE}
 
 {sop: Bridge}
-[E] [A] [E] [A]
-[E]         [A]
+[G] [C] [G] [C]
+[G]         [C]
 I love you Mony MoMoMony
 Oh, I love you Mony MoMoMony
 I love you Mony MoMoMony
@@ -97,24 +97,24 @@ Yeah
 {eop}
 
 {sop: Pre-Chorus}
-[B]
+[D]
 Yeah, yeah, yeah, yeah
 {eop}
 
 {soc}
-[E]
+[G]
 Come on
 Come on
 Come on
 Come on
-[A]
+[C]
 Come on, come on
 Come on, come on
 Feel alright
 I said, "Yeah"
-[B]
+[D]
 Yeah
-[B]                      [E]
+[D]                      [G]
 Yeah, yeah, yeah, yeah
 {eoc}
 
@@ -123,60 +123,60 @@ Yeah, yeah, yeah, yeah
 {eop}
 
 {sop: Verse 3}
-[E]                                            [A] [E]
+[G]                                            [C] [G]
 Wake it, shake it, Mony Mony
 Up, down, turn around, come on, Mony
 Hey! She gimme love and I feel alright now
 {eop}
 
 {sop: Pre-Chorus}
-[E]
+[G]
 I said don't stop now, come on, Mony
-[A]
+[C]
 Come on, Mon, I said, "Yeah"
-[B]
+[D]
 Yeah
 Yeah, yeah, yeah
-[B]                   [E]
+[D]                   [G]
 'Cause you make me feel (Like a pony)
 {eop}
 
 {soc}
-[E]
+[G]
 So good (Like a pony)
 So good (Like a pony)
 So good (Like a pony)
-[A]
+[C]
 So fine
 So fine
 And, I feel alright
 I said, "Yeah"
-[B]
+[D]
 Yeah
 Yeah, yeah, yeah
 {eoc}
 
 {sop: Outro}
-[E]
+[G]
 I wanna ride your pony
 Ride your pony
 Ride your pony
-[A]
+[C]
 Mony Mony (Mony Mony)
 Feel alright
 I said, "Yeah"
-[B]
+[D]
 Yeah
 Yeah, yeah, yeah
-[B]                       [E]
+[D]                       [G]
 'Cause you make me feel (Like a pony)
-[E]
+[G]
 So good (Like a pony)
 So good (Like a pony)
-[A]
+[C]
 So good (Like a pony)
 (Mony Mony)
-[B]
+[D]
 (Mony Mony)
 {eop}
 {midi: CC0.0@2, PC10@2}
