@@ -4,10 +4,8 @@
 {metronome: 127}
 {duration: 3:53}
 {tag: BBB}
+{c: 127 BPM, 3:53}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:53}
-{c:Tempo 127}
 
 {sop: Intro}
 [Em7] [G] [A] [Em7] [G] [A]

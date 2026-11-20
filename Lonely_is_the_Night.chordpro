@@ -4,10 +4,9 @@
 {metronome: 85}
 {duration: 4:42}
 {tag: Whiskey Lizard}
+{c: 85 BPM, 4:42}
 {midi: CC0.0@2, PC10@2}
 
-{c:Duration 4:42}
-{c:Tempo 85}
 {sop:Intro}
 [E]
 {eop}
@@ -39,28 +38,6 @@ You been stealing shots from the side
 [D]        [Cadd9]    [D]        [G]   [E]
 Let your feelings go for a ride
 {eoc}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {c:Intro}
 
@@ -107,19 +84,6 @@ No more lazing 'round the T V
 [D]         [Cadd9]  [D]             [G]   [E]
 You'll go crazy, come out with me
 {eoc}
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {c:Intro}
 {sop:Main Riff}

@@ -4,9 +4,8 @@
 {metronome: 142}
 {duration: 5:43}
 {tag: KAB}
+{c: 142 BPM, 5:43}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 142}
 
 {sop: Pre-Verse}
 {c:Pre-Verse}

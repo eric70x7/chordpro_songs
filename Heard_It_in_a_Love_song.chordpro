@@ -4,10 +4,10 @@
 {metronome: 147}
 {duration: 4:55}
 {tag: On Deck}
+{c: 147 BPM, 4:55}
 {midi: CC0.0@2, PC10@2}
 {ipodid: 45678}
 
-{c:Tempo 147}
 {c:Intro}
 {c:Verse 1} I ain't never been with a woman long enough for my boots to get old
 {c:Chorus} Heard it in a love song

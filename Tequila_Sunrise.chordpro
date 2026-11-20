@@ -4,10 +4,8 @@
 {metronome: 111}
 {duration: 2:52}
 {tag: Acoustic}
+{c: 111 BPM, 2:52}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 2:52}
-{c:Tempo 111}
 
 {sop:Intro}
 [G] [G6] [G] [G6] [G] [G6] [G] [G6]

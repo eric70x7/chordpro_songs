@@ -4,9 +4,8 @@
 {metronome: 95}
 {duration: 5:08}
 {tag: Whiskey Lizard}
+{c: 95 BPM, 5:08}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 95}
 
 {c:Chorus Verse}
 {c:Guitar Solo over 2x}
@@ -43,7 +42,6 @@ Ain't no changes in me
 There ain't no change in the weather
 [D]                      [A]
 Ain't no changes in me
-
 
 [E]
 And I ain't hidin' from nobody

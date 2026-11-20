@@ -3,9 +3,9 @@
 {key: G}
 {metronome: 95}
 {duration: 3:42}
+{c: 95 BPM, 3:42}
 {midi: CC0.0@2, PC8@2}
 
-{c:Tempo 95}
 {c: Key}
 [G]
 

@@ -3,11 +3,9 @@
 {key: A}
 {metronome: 126}
 {duration: 3:28}
+{c: 126 BPM, 3:28}
 {midi: CC0.0@2, PC10@2}
 {ipodid: 1814883450694426533}
-
-{c:Duration 3:28}
-{c:Tempo 126}
 
 {sop: Intro}
 [A] [E] [B] [A]

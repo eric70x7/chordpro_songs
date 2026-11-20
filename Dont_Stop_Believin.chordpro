@@ -4,10 +4,10 @@
 {metronome: 119}
 {duration: 4:11}
 {tag: Whiskey Lizard}
+{c: 119 BPM, 4:11}
 {midi: CC0.0@2, PC19@2}
 {ipodid: Unknown}
 
-{c:Tempo 119}
 {c:Tap in delay time}
 
 {sop: Intro}

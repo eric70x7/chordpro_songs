@@ -4,9 +4,8 @@
 {metronome: 116}
 {duration: 3:22}
 {tag: KAB}
+{c: 116 BPM, 3:22}
 {midi: CC0.0@2, PC9@2}
-
-{c:Tempo 116}
 
 {sop: Intro}
 [F#m] [A] [E] [F#m] [A] [E]

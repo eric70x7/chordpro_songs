@@ -4,9 +4,8 @@
 {metronome: 115}
 {duration: 4:31}
 {tag: Whiskey Lizard}
+{c: 115 BPM, 4:31}
 {midi: CC0.6@2, PC25@2}
-
-{c:Tempo 115}
 
 {c:Patch 99-2}
 

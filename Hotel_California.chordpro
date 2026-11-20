@@ -3,10 +3,9 @@
 {key: Bm}
 {metronome: 147}
 {duration: 6:30}
+{c: 147 BPM, 6:30}
 {midi: CC0.0@2, PC10@2}
 {ipodid: 6175295615369468628}
-
-{c:Tempo 147}
 
 {sop: Intro}
 [Bm] [F#]

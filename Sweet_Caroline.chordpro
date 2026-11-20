@@ -4,9 +4,8 @@
 {metronome: 128}
 {duration: 3:24}
 {tag: Whiskey Lizard}
+{c: 128 BPM, 3:24}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 128}
 
 {sop: Intro}
 [F#7]
@@ -34,10 +33,6 @@ Hands, touchin' hands
 [F#7]             [E]                      [F#]
 Reachin' out, touchin' me, touchin' you
 {eop}
-
-
-
-
 
 {soc}
 [B]             [E]
@@ -73,8 +68,6 @@ Warm, touchin' warm
 [F#7]             [E]                      [F#]
 Reachin' out, touchin' me, touchin' you
 {eop}
-
-
 
 {soc}
 [B]             [E]

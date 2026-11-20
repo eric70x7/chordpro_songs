@@ -3,9 +3,8 @@
 {key: Ab}
 {metronome: 98}
 {duration: 4:28}
+{c: 98 BPM, 4:28}
 {midi: CC0.0@2, PC9@2}
-
-{c:Tempo 98}
 
 {sop: Verse 1}
 [Abm7]          [Bdim7]         [Bbm7]

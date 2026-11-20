@@ -4,9 +4,8 @@
 {metronome: 108}
 {duration: 3:47}
 {tag: KAB}
+{c: 108 BPM, 3:47}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 108}
 
 {sop: Intro}
 [G] [Cadd9] [G] [Cadd9] [G] [Cadd9] [G] [Cadd9]

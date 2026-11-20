@@ -5,9 +5,8 @@
 {duration: 4:04}
 {tag: BBB}
 {tag: KAB}
+{c: 124 BPM, 4:04}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 124}
 
 {sop: Intro}
 [E7]

@@ -4,10 +4,8 @@
 {metronome: 124}
 {duration: 2:46}
 {tag: Whiskey Lizard}
+{c: 124 BPM, 2:46}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 2:46}
-{c:Tempo 124}
 
 {sop: Intro}
 Everybody's do-ing a brand new dance no-ow

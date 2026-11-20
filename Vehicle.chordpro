@@ -4,10 +4,9 @@
 {metronome: 102}
 {duration: 2:56}
 {tag: Whiskey Lizard}
+{c: 102 BPM, 2:56}
 {midi: CC0.0@2, PC9@2}
 {ipodid: }
-
-{c:Tempo 102}
 
 {sop: Intro}
 [Em] [Bm]
@@ -46,15 +45,6 @@ Got to have you child
 [Em]
 Great God in heaven you know I love you
 {eoc}
-
-
-
-
-
-
-
-
-
 
 {sop: Pre-Verse}
 [Em] [Bm]
@@ -108,12 +98,6 @@ Great God in heaven you know I love you
 [Em] [Bm] [Em] [Bm]
 Well
 {eop}
-
-
-
-
-
-
 
 {sop: Verse 3}
 [Em]

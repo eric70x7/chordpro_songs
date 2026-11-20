@@ -4,9 +4,9 @@
 {metronome: 132}
 {duration: 4:41}
 {tag: BBB}
+{c: 132 BPM, 4:41}
 {midi: CC0.0@2, PC34@2}
 
-{c:Tempo 132}
 {sop: Intro}
 [E5]
 {eop}

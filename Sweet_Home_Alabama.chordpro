@@ -5,10 +5,9 @@
 {duration: 4:43}
 {tag: KAB}
 {tag: Whiskey Lizard}
+{c: 98 BPM, 4:43}
 {midi: CC0.0@2, PC9@2}
 {ipodid: }
-
-{c:Tempo 98}
 
 {sop: Intro}
 [D] [C] [G]
@@ -51,10 +50,6 @@ Lord, I'm coming home to you
 [D] [C] [G]
 {eop}
 
-
-
-
-
 {sop: Verse 3}
 [D]            [C]            [G]         [F] [C]
 In Birmingham they love the Gov'nor, boohoohoo
@@ -81,26 +76,6 @@ Lord, I'm coming home to you, here I come
 {sop: Bridge 2}
 [D] [C] [G] [D] [C] [G] [F/C] [C]
 {eop}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {sop: Verse 4}
 [D]         [C]            [G]

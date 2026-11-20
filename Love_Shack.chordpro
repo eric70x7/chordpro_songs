@@ -4,9 +4,8 @@
 {metronome: 134}
 {duration: 5:21}
 {tag: Whiskey Lizard}
+{c: 134 BPM, 5:21}
 {midi: CC0.0@2, PC0@2}
-
-{c:Tempo 134}
 
 {sop: Intro}
 [Bb] If you see a faded sign

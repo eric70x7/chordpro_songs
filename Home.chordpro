@@ -4,10 +4,8 @@
 {metronome: 121}
 {duration: 3:30}
 {tag: Acoustic}
+{c: 121 BPM, 3:30}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:30}
-{c:Tempo 121}
 
 {sop:Intro}
 [C] [Cadd11] [C]

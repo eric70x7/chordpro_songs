@@ -4,9 +4,8 @@
 {metronome: 86}
 {duration: 7:28}
 {tag: KAB}
+{c: 86 BPM, 7:28}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 86}
 
 {sop: Intro (Choir)}
 [E]                          [A/C#]

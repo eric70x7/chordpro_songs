@@ -3,10 +3,8 @@
 {key: A}
 {metronome: 117}
 {duration: 5:13}
+{c: 117 BPM, 5:13}
 {midi: CC0.0@2, PC57@2}
-
-{c:Duration 5:13}
-{c:Tempo 117}
 
 {sop: Intro}
 [E7]

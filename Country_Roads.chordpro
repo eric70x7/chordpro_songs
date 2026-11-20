@@ -4,9 +4,8 @@
 {metronome: 82}
 {duration: 3:10}
 {tag: KAB}
+{c: 82 BPM, 3:10}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 82}
 
 {c:Verse 1} Almost heaven, West Virginia
 {c:Verse 2} All my memories, gather round her

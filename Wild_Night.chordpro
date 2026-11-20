@@ -3,10 +3,8 @@
 {key: G}
 {metronome: 144}
 {duration: 3:28}
+{c: 144 BPM, 3:28}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:28}
-{c:Tempo 144}
 
 {sop: Intro}
 [Em]

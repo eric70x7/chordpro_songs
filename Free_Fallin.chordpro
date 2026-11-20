@@ -5,9 +5,8 @@
 {duration: 4:16}
 {tag: KAB}
 {tag: BBB}
+{c: 84 BPM, 4:16}
 {midi: CC0.0@2, PC9@2}
-
-{c:Tempo 84}
 
 {sop: Intro}
 [E] [Asus2] [Asus2] [E] [Bsus4]

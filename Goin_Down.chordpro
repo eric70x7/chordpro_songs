@@ -4,9 +4,9 @@
 {metronome: 105}
 {duration: 3:29}
 {tag: KAB}
+{c: 105 BPM, 3:29}
 {midi: CC0.0@2, PC10@2}
 
-{c:Tempo 110}
 {c:Intro}
 {c:Verse 1} One way or another, it's all gonna end the same
 {c:Chorus} Yeah we're all goin down

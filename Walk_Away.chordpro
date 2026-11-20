@@ -5,9 +5,8 @@
 {duration: 4:41}
 {tag: BBB}
 {tag: Whiskey Lizard}
+{c: 124 BPM, 4:41}
 {midi: CC0.0@2, PC34@2}
-
-{c:Tempo 124}
 
 {sop: Intro}
 {c:Wait for lead}
@@ -42,8 +41,6 @@ and walk away
 [A]  [Bm/F#] [C/G] [Bm/F#]
 [A]  [D/A] [A] [D/A]
 {eop}
-
-
 
 {sop: Verse 2}
 [A] [D/A]

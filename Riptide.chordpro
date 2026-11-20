@@ -4,10 +4,8 @@
 {metronome: 102}
 {duration: 3:24}
 {tag: Acoustic}
+{c: 102 BPM, 3:24}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:24}
-{c:Tempo 102}
 
 {sop:Intro}
 [Bbm] [Ab] [Db] [Bbm] [Ab]

@@ -5,9 +5,8 @@
 {duration: 3:23}
 {tag: Whiskey Lizard}
 {tag: BBB}
+{c: 122 BPM, 3:23}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 122}
 
 {sop: Intro}
 [D]

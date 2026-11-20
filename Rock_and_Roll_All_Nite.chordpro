@@ -4,9 +4,8 @@
 {metronome: 145}
 {duration: 2:57}
 {tag: BBB}
+{c: 145 BPM, 2:57}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 145}
 
 {c:Intro}
 {c:2 measures drums}

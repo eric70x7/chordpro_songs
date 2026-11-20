@@ -3,6 +3,7 @@
 {key: G}
 {metronome: 90}
 {duration: 4:35}
+{c: 90 BPM, 4:35}
 {midi: CC0.0@2, PC10@2}
 
 {sop: Intro}

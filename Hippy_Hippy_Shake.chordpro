@@ -4,9 +4,8 @@
 {metronome: 150}
 {duration: 1:45}
 {tag: BBB}
+{c: 150 BPM, 1:45}
 {midi: CC0.0@2, PC9@2}
-
-{c:Tempo 150}
 
 {sop:Verse}
                         [A]                                        [E]

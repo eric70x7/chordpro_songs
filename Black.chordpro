@@ -4,10 +4,8 @@
 {metronome: 75}
 {duration: 5:43}
 {tag: KAB}
+{c: 75 BPM, 5:43}
 {midi: CC0.0@2, PC33@2}
-
-{c:Duration 5:43}
-{c:Tempo 75 BPM}
 
 {sop: Intro}
 [E] [A] [E]

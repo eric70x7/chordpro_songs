@@ -5,6 +5,7 @@
 {duration: 3:30}
 {tag: Whiskey Lizard}
 {tag: BBB}
+{c: 146 BPM, 3:30}
 {midi: CC0.0@2, PC10@2}
 
 {c:Intro}
@@ -30,9 +31,6 @@ Take the world in a love embrace
 Fire all of your guns at once
 and explode into space
 {eoc}
-
-
-
 
 {sop: Verse 2}
 [E]
@@ -67,10 +65,6 @@ Born to be wild
 [E]
 {c: Play melody 2x to come out}
 {eop}
-
-
-
-
 
 {sop: Verse 3}
 [E]

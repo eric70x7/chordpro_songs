@@ -5,9 +5,8 @@
 {duration: 3:12}
 {tag: Eric Sings}
 {tag: Acoustic}
+{c: 87 BPM, 3:12}
 {midi: CC0.0@2, PC8@2}
-
-{c:Tempo 87}
 
 {sop: Verse 1}
 {c: Hammer ons all verse chords}

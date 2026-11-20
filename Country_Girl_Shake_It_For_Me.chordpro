@@ -3,10 +3,8 @@
 {key: Em}
 {metronome: 106}
 {duration: 3:46}
+{c: 106 BPM, 3:46}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:46}
-{c:Tempo 106}
 
 {sop:Intro}
 [Em] [G] [D/F#] [Em]

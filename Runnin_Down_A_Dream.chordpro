@@ -4,10 +4,9 @@
 {metronome: 170}
 {duration: 4:22}
 {tag: Whiskey Lizard}
+{c: 170 BPM, 4:22}
 {midi: CC0.0@2, PC10@2}
 {ipodid: }
-
-{c:Tempo 170}
 
 {c:Intro lick x 4}
 
@@ -38,18 +37,6 @@ Runnin' down a dream
 {eoc}
 
 {c:Intro lick x 1}
-
-
-
-
-
-
-
-
-
-
-
-
 
 {sop: Verse 2}
   [E]
@@ -85,21 +72,6 @@ Oooo     Oooo
 [Cmaj7]   [Dsus2]
 Oooo     Oooo     Oooo
 {eop}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {sop: Verse 3}
 [E]
@@ -137,17 +109,6 @@ goin' wherever it leads
 Runnin' down a dream
 Oooo
 {eoc}
-
-
-
-
-
-
-
-
-
-
-
 
 {sop: Interlude}
 [Cmaj7] - [Dsus2] - [E] -

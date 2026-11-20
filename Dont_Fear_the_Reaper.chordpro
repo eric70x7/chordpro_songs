@@ -4,10 +4,8 @@
 {metronome: 141}
 {duration: 5:08}
 {tag: Whiskey Lizard}
+{c: 141 BPM, 5:08}
 {midi: CC0.0@2, PC41@2}
-
-{c:Duration 5:08}
-{c:Tempo 141}
 
 {sop: Intro}
 [Am] [G] [F] [G] [Am] [G] [F] [G]
@@ -54,11 +52,6 @@ La, la, la, la, la
 [F] [G]
 {eop}
 
-
-
-
-
-
 {sop: Verse 2}
 [Am] [G]     [F]  [G]
 Valentine is done
@@ -99,7 +92,6 @@ La, la, la, la, la
 [Am] [G] [F] [G] [Am] [G] [F] [G]
 [Am7]
 
-
 {eoc}
 
 {sop: Break}
@@ -107,12 +99,6 @@ La, la, la, la, la
 [F] [G] [Am] [G] [F] [G] [Am] [G]
 [F] [G] [Am] [G] [F] [G] [Am] [G]
 {eop}
-
-
-
-
-
-
 
 {sop: Verse 3}
 [F]   [G]      [Am]  [G]
@@ -149,7 +135,6 @@ She had taken his hand,
    [G]           [F]
 she had become like they are
 
-
 {eoc}
 
 {sop: Outro}
@@ -160,6 +145,5 @@ Come on baby, don't fear the reaper
 {sop: Fade Out}
 [Am] [G] [F] [G] [Am] [G] [F] [G]
 [Am] [G] [F] [G] [Am] [G] [F] [G]
-
 
 {eop}

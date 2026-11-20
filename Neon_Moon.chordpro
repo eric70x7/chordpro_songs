@@ -4,12 +4,11 @@
 {metronome: 102}
 {duration: 4:21}
 {tag: Whiskey Lizard}
+{c: 102 BPM, 4:21}
 {midi: CC0.0@2, PC25@2}
 {ipodid: }
 
 {c: Patch 99-4}
-
-{c:Tempo 102}
 
 {sop: Intro}
 [Dsus2]

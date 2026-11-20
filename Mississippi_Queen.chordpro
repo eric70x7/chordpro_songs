@@ -3,14 +3,11 @@
 {key: E}
 {metronome: 140}
 {duration: 2:31}
+{c: 140 BPM, 2:31}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 2:31}
-{c:Tempo 140}
 
 {sop:Intro}
 [E] [B] [A]
-
 
 {eop}
 
@@ -23,7 +20,6 @@ Mississippi Queen, she taught me everything
 [E]
  Lived a Cajun lady, we called her Mississippi Queen
 
-
 {eop}
 
 {soc:Chorus}
@@ -35,7 +31,6 @@ Mississippi Queen, she taught me everything
 While the rest of them dudes was a getting their kicks
 Buddy, beg your pardon, I was getting mine
 
-
 {eoc}
 
 {sop:Verse 2}
@@ -46,7 +41,6 @@ Mississippi Queen, she taught me everything
  This lady she asked me if I would be her man
 [E]
  You know that I told her I'd do what I can
-
 
 {eop}
 

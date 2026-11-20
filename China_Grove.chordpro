@@ -4,11 +4,11 @@
 {metronome: 146}
 {duration: 3:15}
 {tag: Whiskey Lizard}
+{c: 146 BPM, 3:15}
 {midi: CC0.6@2, PC24@2}
 {ipodid: }
 
 {c:Patch 99-1}
-{c:Tempo 146}
 
 {sop: Intro}
 [E] [D] [A/C#] [A] [E] [D] [A/C#] [A]
@@ -38,14 +38,6 @@ You're talkin' 'bout China Grove, oh
 China Grove
 {eoc}
 
-
-
-
-
-
-
-
-
 {sop: Verse 2}
 [E]
 Well, the preacher and the teacher,
@@ -69,22 +61,6 @@ We're talkin' 'bout China Grove, oh
 [D] [A/C#]      [E]
 China Grove
 {eoc}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {sop: Bridge 1}
 [G#m] [B] [C#m]

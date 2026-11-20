@@ -4,9 +4,8 @@
 {metronome: 117}
 {duration: 3:27}
 {tag: Whiskey Lizard}
+{c: 117 BPM, 3:27}
 {midi: CC0.0@2, PC1@2}
-
-{c:Tempo 117}
 
 {sop: Intro}
 [Gm7]

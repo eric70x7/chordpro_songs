@@ -3,10 +3,8 @@
 {key: Dm}
 {metronome: 136}
 {duration: 3:05}
+{c: 136 BPM, 3:05}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:05}
-{c:Tempo 136}
 
 {sop: Intro}
 [Dm]

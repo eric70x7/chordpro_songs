@@ -4,9 +4,8 @@
 {metronome: 126}
 {duration: 3:08}
 {tag: On Deck}
+{c: 126 BPM, 3:08}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 126}
 
 {sop: Verse 1}
 [E7]

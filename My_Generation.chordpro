@@ -3,9 +3,8 @@
 {key: G}
 {metronome: 96}
 {duration: 3:18}
+{c: 96 BPM, 3:18}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 96}
 
 {sop: Verse 1}
 [G] [F] [G]

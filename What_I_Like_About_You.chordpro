@@ -5,9 +5,8 @@
 {duration: 3:38}
 {tag: KAB}
 {tag: BBB}
+{c: 160 BPM, 3:38}
 {midi: CC0.0@2, PC8@2}
-
-{c:Tempo 160}
 
 {sop:Intro}
 [Esus4] [E] [A] [D] [D] [A] [Esus4] [E] [A] [D] [A]

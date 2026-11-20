@@ -7,11 +7,8 @@
 {tag: BBB}
 {tag: KAB}
 {tag: Whiskey Lizard}
+{c: 168 BPM, 2:41}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 2:41}
-{c:Tempo 168}
-
 
 {sop: Intro}
 {c:SOLO intro}

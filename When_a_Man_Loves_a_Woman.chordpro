@@ -4,9 +4,9 @@
 {metronome: 66}
 {duration: 2:51}
 {tag: BBB}
+{c: 66 BPM, 2:51}
 {midi: CC0.0@2, PC8@2}
 
-{c:Tempo 66}
 {c:Key A}
 
 {sop: Intro}

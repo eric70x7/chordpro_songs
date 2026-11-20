@@ -4,9 +4,8 @@
 {metronome: 125}
 {duration: 4:27}
 {tag: KAB}
+{c: 125 BPM, 4:27}
 {midi: CC0.0@2, PC34@2}
-
-{c:Tempo 125}
 
 {sop: Intro}
 [E5] [Am7]

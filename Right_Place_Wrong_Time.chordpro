@@ -4,9 +4,8 @@
 {metronome: 105}
 {duration: 2:55}
 {tag: Whiskey Lizard}
+{c: 105 BPM, 2:55}
 {midi: CC0.0@2, PC9@2}
-
-{c:Tempo 105}
 
 {sop: Intro}
 [Ebm7] [Ab7]

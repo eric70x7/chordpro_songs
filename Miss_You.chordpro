@@ -5,9 +5,8 @@
 {duration: 4:48}
 {tag: KAB}
 {tag: Whiskey Lizard}
+{c: 110 BPM, 4:48}
 {midi: CC0.0@2, PC0@2}
-
-{c:Tempo 110}
 
 {sop: Intro}
 [Am7] [Dm7] [Am7] [Dm7]

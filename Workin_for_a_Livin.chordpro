@@ -4,10 +4,8 @@
 {metronome: 158}
 {duration: 2:39}
 {tag: BBB}
+{c: 158 BPM, 2:39}
 {midi: CC0.0@2, PC9@2}
-
-{c:Duration 2:39}
-{c:Tempo 158}
 
 {sop:Intro}
 [A]

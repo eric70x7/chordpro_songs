@@ -4,10 +4,8 @@
 {metronome: 127}
 {duration: 2:51}
 {tag: Whiskey Lizard}
+{c: 127 BPM, 2:51}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 2:51}
-{c:Tempo 127}
 
 {sop:Intro}
 [E] [A] [C#m] [B]

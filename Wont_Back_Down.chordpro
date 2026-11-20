@@ -4,10 +4,8 @@
 {metronome: 114}
 {duration: 2:58}
 {tag: Eric Sings}
+{c: 114 BPM, 2:58}
 {midi: CC0.0@2, PC9@2}
-
-{c:Duration 2:58}
-{c:Tempo 114}
 
 {sop: Intro}
 [Em] [D] [G]

@@ -3,9 +3,8 @@
 {key: G}
 {metronome: 146}
 {duration: 5:10}
+{c: 146 BPM, 5:10}
 {midi: CC0.0@2, PC11@2}
-
-{c:Tempo 146}
 
 {sop: Intro}
 {eop}

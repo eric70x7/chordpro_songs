@@ -3,10 +3,8 @@
 {key: A}
 {metronome: 92}
 {duration: 3:06}
+{c: 92 BPM, 3:06}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:06}
-{c:Tempo 92}
 
 {sop: Intro}
 [G-A] [G-D] [G-A] [G-D]

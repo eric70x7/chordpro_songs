@@ -4,6 +4,7 @@
 {metronome: 130}
 {duration: 2:31}
 {tag: Whiskey Lizard}
+{c: 130 BPM, 2:31}
 {midi: CC0.0@2, PC10@2}
 
 {sop: Intro}

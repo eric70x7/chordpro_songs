@@ -5,9 +5,8 @@
 {duration: 3:55}
 {tag: Eric Sings}
 {tag: BBB}
+{c: 118 BPM, 3:55}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 118}
 
 {c:Verse 1} It's been a whole lot easier since the bitch left town
 {c:Verse 2} Other people's thoughts, they ain't your handmedowns

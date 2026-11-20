@@ -4,9 +4,8 @@
 {metronome: 124}
 {duration: 2:45}
 {tag: Acoustic}
+{c: 124 BPM, 2:45}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 124}
 
 {sop: Intro}
 [D]

@@ -4,9 +4,8 @@
 {metronome: 90}
 {duration: 2:30}
 {tag: Whiskey Lizard}
+{c: 90 BPM, 2:30}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 90}
 
 {sop: Verse 1}
 [G]                 [D]

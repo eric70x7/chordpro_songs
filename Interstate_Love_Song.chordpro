@@ -4,10 +4,8 @@
 {metronome: 84}
 {duration: 3:14}
 {tag: KAB}
+{c: 84 BPM, 3:14}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:14}
-{c:Tempo 84 BPM}
 
 {sop: Intro}
 [C#m7] [E] [Asus2] [G#7sus4] [G#7]

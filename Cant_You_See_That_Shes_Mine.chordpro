@@ -4,9 +4,8 @@
 {metronome: 132}
 {duration: 2:22}
 {tag: BBB}
+{c: 132 BPM, 2:22}
 {midi: CC0.0@2, PC9@2}
-
-{c:Tempo 132}
 
 {sop: Verse 1}
 [G7] [D7]

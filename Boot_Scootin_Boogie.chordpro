@@ -4,10 +4,10 @@
 {metronome: 130}
 {duration: 3:18}
 {tag: Whiskey Lizard}
+{c: 130 BPM, 3:18}
 {midi: CC0.0@2, PC9@2}
 {ipodid: }
 
-{c:Tempo 130}
 {c:SLIDE}
 
 {sop: Verse 1}
@@ -83,9 +83,6 @@ all out makin' it shake
 [A7]       [E]
 Doin' the boot scootin' boogie
 {eop}
-
-
-
 
 {soc}
 [A7]                   [E]

@@ -5,6 +5,7 @@
 {duration: 3:41}
 {tag: Whiskey Lizard}
 {tag: BBB}
+{c: 147 BPM, 3:41}
 {midi: CC0.6@2, PC26@2}
 
 {c: Patch 99-3}
@@ -41,12 +42,6 @@ You better start from the start
 You want to be in the show?
 C'mon baby, let's go
 {eoc}
-
-
-
-
-
-
 
 {sop: Verse 2}
 [B5]                       [G]

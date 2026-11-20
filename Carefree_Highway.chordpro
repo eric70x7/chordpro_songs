@@ -4,10 +4,10 @@
 {metronome: 85}
 {duration: 3:45}
 {tag: Acoustic}
+{c: 85 BPM, 3:45}
 {midi: CC0.0@2, PC10@2}
 {ipodid: 67890}
 
-{c:Tempo 85}
 {c:Intro}
 {c:Verse 1} Picking up the pieces of my sweet shattered dream
 {c:Chorus} Carefree highway, let me slip away on you

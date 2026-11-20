@@ -4,10 +4,9 @@
 {metronome: 91}
 {duration: 4:47}
 {tag: Whiskey Lizard}
+{c: 91 BPM, 4:47}
 {midi: CC0.0@2, PC9@2}
 {ipodid: }
-
-{c:Tempo 91}
 
 {sop: Intro}
 [Dm]

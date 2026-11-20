@@ -6,9 +6,8 @@
 {tag: Eric Sings}
 {tag: BBB}
 {tag: Whiskey Lizard}
+{c: 138 BPM, 3:17}
 {midi: CC0.0@2, PC1@2}
-
-{c:Tempo 138}
 
 {sop: Verse 1}
 [E]            [G]        [A]     [E]
@@ -38,13 +37,6 @@ With just one look I was a bad mess
 [G]                  [E]
 'Cause that long cool woman had it all
 {eoc}
-
-
-
-
-
-
-
 
 {sop: Verse 2}
 [E]         [G]           [A]         [E]

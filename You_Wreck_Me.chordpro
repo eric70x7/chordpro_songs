@@ -6,6 +6,7 @@
 {tag: Eric Sings}
 {tag: Whiskey Lizard}
 {tag: BBB}
+{c: 165 BPM, 3:27}
 {midi: CC0.0@2, PC9@2, CC80.127@2}
 {ipodid: }
 
@@ -33,21 +34,6 @@ Yeah, you break me in two
 But you move me, honey
 Yes, you do
 {eoc}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {sop: Verse 2}
 [D]           [A]           [E]
@@ -77,20 +63,6 @@ Yes, you do
 {sop: Solo}
 [D]  [A]  [E]
 {eop}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {sop: Verse 3}
 [D]           [A]           [E]

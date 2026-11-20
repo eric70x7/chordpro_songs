@@ -4,10 +4,10 @@
 {metronome: 124}
 {duration: 3:38}
 {tag: Whiskey Lizard}
+{c: 124 BPM, 3:38}
 {midi: CC0.0@2, PC24@2}
 
 {c:Patch 3.1 - Clean dotted 18}
-{c:Tempo 124}
 
 {sop: Intro}
 {c:Bass & Drums}

@@ -5,10 +5,9 @@
 {duration: 5:33}
 {tag: BBB}
 {tag: Whiskey Lizard}
+{c: 120 BPM, 5:33}
 {midi: CC0.0@2, PC10@2}
 {ipodid: }
-
-{c:Tempo 120}
 
 {sop: Intro}
 [A5] [D/F#] [A5]
@@ -110,8 +109,6 @@ She said, "Love, Lord above
 Now he's trying to trick me in love"
 Yeah!
 {eop}
-
-
 
 {soc}
 [A]           [G]

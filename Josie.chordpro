@@ -4,9 +4,8 @@
 {metronome: 120}
 {duration: 4:33}
 {tag: Whiskey Lizard}
+{c: 120 BPM, 4:33}
 {midi: CC0.0@2, PC9@2}
-
-{c:Tempo 120}
 
 {sop: Intro}
 [E5] [F#5] [D#5] [E5] [E5] [F#5] [D#5] [B5] [D5]

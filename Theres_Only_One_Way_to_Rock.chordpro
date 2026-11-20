@@ -3,9 +3,8 @@
 {key: F#m}
 {metronome: 132}
 {duration: 4:15}
+{c: 132 BPM, 4:15}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 132}
 
 {sop:Intro}
 [F#m]

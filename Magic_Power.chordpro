@@ -3,10 +3,8 @@
 {key: G}
 {metronome: 152}
 {duration: 4:52}
+{c: 152 BPM, 4:52}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 4:52}
-{c:Tempo 152}
 
 {sop: Intro}
 [D] [C] [G] [C]

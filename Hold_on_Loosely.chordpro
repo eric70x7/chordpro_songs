@@ -4,9 +4,8 @@
 {metronome: 128}
 {duration: 4:39}
 {tag: BBB}
+{c: 128 BPM, 4:39}
 {midi: CC0.0@2, PC9@2}
-
-{c:Tempo 128}
 
 {sop: Intro}
 [E5]      [B/D#]    [D5]     [A/C#]   [B5] [A5] [E5]

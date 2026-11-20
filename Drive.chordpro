@@ -3,10 +3,8 @@
 {key: Em}
 {metronome: 91}
 {duration: 3:52}
+{c: 91 BPM, 3:52}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:52}
-{c:Tempo 91}
 
 {sop: Intro}
 [Em][Em9][Cmaj7][Em/A][Em][Em9][Cmaj7][Em/A]

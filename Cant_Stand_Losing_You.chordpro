@@ -4,10 +4,8 @@
 {metronome: 142}
 {duration: 2:58}
 {tag: BBB}
+{c: 142 BPM, 2:58}
 {midi: CC0.0@2, PC9@2}
-
-{c:Duration 2:58}
-{c:Tempo 142}
 
 {sop:Intro}
 [Dm] [Gm] [Dm] [Gm]

@@ -4,9 +4,8 @@
 {metronome: 107}
 {duration: 4:04}
 {tag: Whiskey Lizard}
+{c: 107 BPM, 4:04}
 {midi: CC0.0@2, PC9@2, CC80.127@2}
-
-{c:Tempo 107}
 
 {sop: Verse 1}
 [E5]                      [G]        [A]
@@ -43,11 +42,6 @@ This doesn't have to be anything at all
 {soh}I know you really wanna tell me goodbye
 I know you really wanna be your own girl{eoh}
 {eop}
-
-
-
-
-
 
 {soc}
 [C]                           [D]
@@ -87,15 +81,6 @@ You need someone looking after you
 {soh}I know you really wanna tell me goodbye
 I know you really wanna be your own girl{eoh}
 {eop}
-
-
-
-
-
-
-
-
-
 
 {soc}
 [C]                           [D]

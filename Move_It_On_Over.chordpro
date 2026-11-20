@@ -4,9 +4,8 @@
 {metronome: 147}
 {duration: 4:20}
 {tag: BBB}
+{c: 147 BPM, 4:20}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 147}
 
 {sop: Verse 1}
        [G7]

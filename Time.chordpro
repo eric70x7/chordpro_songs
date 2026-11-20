@@ -3,10 +3,8 @@
 {key: F#m}
 {metronome: 120}
 {duration: 7:03}
+{c: 120 BPM, 7:03}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 7:03}
-{c:Tempo 120}
 
 {sop:Verse 1}
 [F#m]Ticking away the moments that make a dull [A]day

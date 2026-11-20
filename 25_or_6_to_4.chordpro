@@ -4,9 +4,8 @@
 {metronome: 147}
 {duration: 4:50}
 {tag: Whiskey Lizard}
+{c: 147 BPM, 4:50}
 {midi: CC0.0@2, PC34@2}
-
-{c:Tempo 147}
 
 {sop: Intro}
 {c:Horns}
@@ -32,8 +31,6 @@ Giving up I close my eyes
 [F]                          [Eb]
 Twenty five or six to four
 {eoc}
-
-
 
 {sop: Interlude}
 {c:Horns + Guitar}

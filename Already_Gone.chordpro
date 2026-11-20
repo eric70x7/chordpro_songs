@@ -4,9 +4,8 @@
 {metronome: 146}
 {duration: 4:16}
 {tag: BBB}
+{c: 146 BPM, 4:16}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 146}
 
 {c:Verse 1} Well, I heard some people talkin' just the other day
 {c:Verse 2} The letter that you wrote me made me stop and wonder why

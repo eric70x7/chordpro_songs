@@ -4,10 +4,8 @@
 {metronome: 122}
 {duration: 4:59}
 {tag: Whiskey Lizard}
+{c: 122 BPM, 4:59}
 {midi: CC0.0@2, PC8@2}
-
-{c:Duration 4:59}
-{c:Tempo 122}
 
 {sop:Intro}
 {c:Octave riff}
@@ -53,11 +51,6 @@ It's a  celebration
            Yahoo!
 {eop}
 
-
-
-
-
-
 {soc:Chorus}
 {c:Octave riff}
 [Ab]
@@ -102,15 +95,6 @@ It's  a    celebration
     Ce__le__brate    good  times, come on
 Let's celebrate
 {eoc}
-
-
-
-
-
-
-
-
-
 
 {sop:Verse 3}
 We're gonna have a good time tonight

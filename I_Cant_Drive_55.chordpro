@@ -3,9 +3,8 @@
 {key: E}
 {metronome: 134}
 {duration: 4:14}
+{c: 134 BPM, 4:14}
 {midi: CC0.0@2, PC10@2}
-
-{c:Tempo 134}
 
 {c:Intro}
 [E]     [A]     [E]     [G] [A] [G] [E] [A] [E] [G] [A] [G] [A] [E]

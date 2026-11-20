@@ -4,10 +4,8 @@
 {metronome: 117}
 {duration: 4:16}
 {tag: KAB}
+{c: 117 BPM, 4:16}
 {midi: CC0.0@2, PC9@2}
-
-{c:Duration 4:16}
-{c:Tempo 117}
 
 {sop: Intro}
 [Aadd9] [Badd11]

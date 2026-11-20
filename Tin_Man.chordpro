@@ -5,14 +5,11 @@
 {duration: 3:25}
 {tag: Acoustic}
 {tag: Eric Sings}
+{c: 172 BPM, 3:25}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:25}
-{c:Tempo 172}
 
 {sop:Intro}
 [C/D] [D7sus4]
-
 
 {eop}
 

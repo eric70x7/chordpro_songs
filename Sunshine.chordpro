@@ -5,14 +5,11 @@
 {duration: 2:19}
 {tag: Acoustic}
 {tag: Eric Sings}
+{c: 125 BPM, 2:19}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 2:19}
-{c:Tempo 125}
 
 {sop:Intro}
 [A]
-
 
 {eop}
 
@@ -26,7 +23,6 @@ Some man's gone, he's tried to run my life
                      [D]
 Don't know what he's asking
 
-
 {eop}
 
 {sop:Verse 2}
@@ -39,11 +35,7 @@ When I grow up I'm going to make it mine
                              [D]
 But these aren't dues I been paying
 
-
 {eop}
-
-
-
 
 {soc:Chorus}
 [D]                     [A]
@@ -54,7 +46,6 @@ The time is all we've lost, I'll try it
 But he can't even run his own life
         [G]                        [E]
 I'll be damned if he'll run mine, Sunshine
-
 
 {eoc}
 
@@ -68,7 +59,6 @@ Some man's gone, he's tried to run my life
                      [D]
 Don't know what he's asking
 
-
 {eop}
 
 {sop:Verse 4}
@@ -80,7 +70,6 @@ The fruits of what I do are going
 He says in love and war all is fair
                             [D]
 But he's got cards he ain't showing
-
 
 {eop}
 
@@ -94,7 +83,6 @@ But he can't even run his own life
         [G]                        [E]
 I'll be damned if he'll run mine, Sunshine
 
-
 {eop}
 
 {sop:Verse 5}
@@ -106,7 +94,6 @@ I promise you I'll be singing
 This old world, she's gonna turn around
                       [D]
 Brand new bells'll be ringing
-
 
 {eop}
 

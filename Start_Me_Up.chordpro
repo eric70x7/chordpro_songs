@@ -3,10 +3,8 @@
 {key: F}
 {metronome: 122}
 {duration: 3:33}
+{c: 122 BPM, 3:33}
 {midi: CC0.0@2, PC10@2}
-
-{c:Duration 3:33}
-{c:Tempo 122}
 
 {sop: Intro}
 [F] [Bb] [F]
