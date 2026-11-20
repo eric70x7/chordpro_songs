@@ -3,6 +3,8 @@
 {key: C}
 {metronome: 147}
 {duration: 4:52}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 4:52}
 {c:Tempo 147}
@@ -116,6 +118,3 @@ Oooooooohhh, my Sharona
 [G5]             [C]       [Bb]
   Oooooooohhh, my Sharona
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

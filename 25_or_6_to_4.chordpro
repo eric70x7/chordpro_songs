@@ -1,9 +1,10 @@
 {t: 25 or 6 to 4}
 {st: Chicago}
-{key:Gm}
+{key: Gm}
 {metronome: 147}
 {duration: 4:50}
-
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC34@2}
 
 {c:Tempo 147}
 
@@ -98,7 +99,3 @@ Twenty five or six to four
 [Cm] [Bb] [F/A] [Ab]
 [Gsus2]
 {eop}
-
-{midi: CC0.0@2, PC34@2}
-
-{tag: Whiskey Lizard}

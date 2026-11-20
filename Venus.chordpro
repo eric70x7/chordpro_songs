@@ -3,6 +3,8 @@
 {key: Em}
 {metronome: 128}
 {duration: 3:08}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC1@2}
 
 {c:Tempo 128}
 
@@ -28,17 +30,17 @@ She's got it,
 Yeah, baby, she's got it.
 [Em] [A]
 Well,
-[C] 
+[C]
 I'm your Venus,
-[B] 
+[B]
 I'm your fire
 [Em] [A]
 at your desire.
 [Em] [A]
 Well,
-[C] 
+[C]
 I'm your Venus,
-[B] 
+[B]
 I'm your fire
 [Em] [A]     [Em]     [A]
 at your desire.
@@ -71,17 +73,17 @@ She's got it,
 Yeah, baby, she's got it.
 [Em] [A]
 Well,
-[C] 
+[C]
 I'm your Venus,
-[B] 
+[B]
 I'm your fire
 [Em] [A]
 at your desire.
 [Em] [A]
 Well,
-[C] 
+[C]
 I'm your Venus,
-[B] 
+[B]
 I'm your fire
 [Em] [A]     [Em]     [A]
 at your desire.
@@ -105,17 +107,17 @@ She's got it,
 Yeah, baby, she's got it.
 [Em] [A]
 Well,
-[C] 
+[C]
 I'm your Venus,
-[B] 
+[B]
 I'm your fire
 [Em] [A]
 at your desire.
 [Em] [A]
 Well,
-[C] 
+[C]
 I'm your Venus,
-[B] 
+[B]
 I'm your fire
 [Em] [A]     [Em]     [A]
 at your desire.
@@ -135,6 +137,3 @@ at your desire.
 {sop: Outro}
 [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A] [Em] [A]
 {eop}
-
-{midi: CC0.0@2, PC1@2}
-{tag: Whiskey Lizard}

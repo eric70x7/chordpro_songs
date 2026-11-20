@@ -1,6 +1,8 @@
 {t: This Is How We Do It}
 {st: Montell Jordan}
 {key: Bm}
+{midi: CC0.0@2, PC10@2}
+
 {comment: Capo 2}
 
 {sop: Intro}
@@ -171,5 +173,3 @@ Let's flip up the track, bring the old school back
 [Em]
 (This is how we do it)
 {eop}
-
-{midi: CC0.0@2, PC10@2}

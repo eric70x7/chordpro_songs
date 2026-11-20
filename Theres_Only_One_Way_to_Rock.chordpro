@@ -3,6 +3,7 @@
 {key: F#m}
 {metronome: 132}
 {duration: 4:15}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 132}
 
@@ -118,5 +119,3 @@ Yeah! To rock Ow! One way to rock Ow!
 [F#m]
 Huh!
 {eop}
-
-{midi: CC0.0@2, PC10@2}

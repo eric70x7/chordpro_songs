@@ -1,9 +1,9 @@
-
 {t: My Maria}
 {st: Brooks & Dunn}
 {key: A}
 {metronome: 126}
 {duration: 3:28}
+{midi: CC0.0@2, PC10@2}
 {ipodid: 1814883450694426533}
 
 {c:Duration 3:28}
@@ -83,7 +83,3 @@ My Maria
 [B]    [E]
 Maria I love you
 {eoc}
-
-
-
-{midi: CC0.0@2, PC10@2}

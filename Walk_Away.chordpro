@@ -1,9 +1,11 @@
 {t: Walk Away}
 {st: James Gang}
-{key:A}
+{key: A}
 {metronome: 124}
 {duration: 4:41}
-
+{tag: BBB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC34@2}
 
 {c:Tempo 124}
 
@@ -17,7 +19,7 @@
 {sop: Verse 1}
 [A] [D/A]
 Takin' my time
-Choosin' my lines 
+Choosin' my lines
 Tryin' to decide what to do
 Looks like my stop
 Don't want to get off
@@ -32,7 +34,7 @@ Seems to me
 [F#m]{eoh}
 Seems to me
 [D] [E] [A]
-You just turn your pretty head 
+You just turn your pretty head
 and walk away
 {eoc}
 
@@ -61,7 +63,7 @@ Seems to me
 [F#m]
 Seems to me
 [D] [E] [A]
-You just forget what we said 
+You just forget what we said
 and greet the day
 {eoc}
 
@@ -81,7 +83,7 @@ You don't want to talk about it
 [F#m]
 Seems to me
 [D]         [E]        [A]
-You just turn your pretty head 
+You just turn your pretty head
 and walk away
 {eoc}
 
@@ -107,7 +109,7 @@ You don't want to talk about it
 [F#m]
 Seems to me
 [D]         [E]        [A]
-You just turn your pretty head 
+You just turn your pretty head
 and walk away
 {eoc}
 
@@ -115,13 +117,8 @@ and walk away
 [A] [Bm/F#] [C/G] [Bm/F#] [A]
 Walk away
 {c:Solo Am pent}
-[A] [Bm/F#] [C/G] [Bm/F#] 
-[A] [Bm/F#] [C/G] [Bm/F#] 
-[A] [Bm/F#] [C/G] [Bm/F#] 
+[A] [Bm/F#] [C/G] [Bm/F#]
+[A] [Bm/F#] [C/G] [Bm/F#]
+[A] [Bm/F#] [C/G] [Bm/F#]
 [A] [Bm/F#] [C/G] [Bm/F#]
 {eop}
-
-{midi: CC0.0@2, PC34@2}
-{tag: BBB}
-
-{tag: Whiskey Lizard}

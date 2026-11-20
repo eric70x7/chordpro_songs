@@ -1,8 +1,11 @@
 {t: Old Time Rock & Roll}
 {st: Bob Seger}
-{key:F#}
+{key: F#}
 {metronome: 124}
 {duration: 3:14}
+{tag: KAB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Verse 1}
 
@@ -87,6 +90,3 @@ Still like that old time rock 'n' roll
 {c: Guitar Solo Outro}
 [B] [C#] [F#] [C#]
 {eop}
-{midi: CC0.0@2, PC10@2}
-{tag: KAB}
-{tag: Whiskey Lizard}

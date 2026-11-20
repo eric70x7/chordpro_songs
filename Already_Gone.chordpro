@@ -3,6 +3,8 @@
 {key: G}
 {metronome: 146}
 {duration: 4:16}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 146}
 
@@ -113,7 +115,3 @@ I will sing this vict'ry song
                  [C]   [G]            [F]
 'Cause I'm al_ready gone
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

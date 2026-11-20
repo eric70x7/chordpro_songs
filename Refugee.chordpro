@@ -3,7 +3,8 @@
 {key: F#m}
 {metronome: 116}
 {duration: 3:22}
-
+{tag: KAB}
+{midi: CC0.0@2, PC9@2}
 
 {c:Tempo 116}
 
@@ -104,6 +105,3 @@ Oh oh oh
 [F#m] [A] [E] [F#m] [A] [E]
 [F#m] [A] [E] [F#m] [A] [E]
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: KAB}

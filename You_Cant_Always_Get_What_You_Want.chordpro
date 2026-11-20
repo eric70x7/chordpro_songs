@@ -3,7 +3,8 @@
 {key: E}
 {metronome: 86}
 {duration: 7:28}
-
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 86}
 
@@ -147,7 +148,3 @@ You get what you need
 [E] [Aadd9/C#] [E]
 - - -
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

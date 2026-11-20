@@ -3,6 +3,7 @@
 {key: G}
 {metronome: 152}
 {duration: 4:52}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 4:52}
 {c:Tempo 152}
@@ -164,5 +165,3 @@ You got the magic
 [G] [D] [C]
 You got the power
 {eop}
-
-{midi: CC0.0@2, PC10@2}

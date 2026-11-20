@@ -3,6 +3,8 @@
 {key: C}
 {metronome: 172}
 {duration: 3:01}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:01}
 {c:Tempo 172}
@@ -143,6 +145,3 @@ Devil with the blue dress, blue dress, blue dress
 [C]              [F]          [C]
 Devil with the blue dress on
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

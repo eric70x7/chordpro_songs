@@ -1,9 +1,10 @@
 {t: When a Man Loves a Woman}
 {st: Percy Sledge}
-{key:A}
+{key: A}
 {metronome: 66}
 {duration: 2:51}
-
+{tag: BBB}
+{midi: CC0.0@2, PC8@2}
 
 {c:Tempo 66}
 {c:Key A}
@@ -94,6 +95,3 @@ Baby, baby, baby, you're my world
 [E] [A] [E/G#]
 When a man loves a woman...
 {eop}
-{midi: CC0.0@2, PC8@2}
-
-{tag: BBB}

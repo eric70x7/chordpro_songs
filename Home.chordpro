@@ -1,8 +1,10 @@
-{t:Home}
-{st:Phillip Phillips}
-{key:C}
-{metronome:121}
-{duration:3:30}
+{t: Home}
+{st: Phillip Phillips}
+{key: C}
+{metronome: 121}
+{duration: 3:30}
+{tag: Acoustic}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:30}
 {c:Tempo 121}
@@ -63,7 +65,7 @@ The trouble it might drag you down
            [C]                       [G]
 If you get lost, you can always be found
      [C]    [Csus2/B] [Am]  [G]   [Am]
-Just know you're  not alone 
+Just know you're  not alone
                  [F]    [C]    [G]        [C]
 'Cause I'm gonna make this place your home
 {eoc}
@@ -79,6 +81,3 @@ Just know you're  not alone
 [F] [C] [Am] [G]
 [F] [C] [G]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Acoustic}

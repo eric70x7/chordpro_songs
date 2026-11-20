@@ -1,8 +1,10 @@
 {t: Glad All Over}
 {st: The Dave Clark Five}
-{key:G}
+{key: G}
 {metronome: 140}
 {duration: 2:44}
+{tag: BBB}
+{midi: CC0.0@2, PC25@2}
 
 {c:Tempo 140}
 
@@ -108,6 +110,3 @@ I'm so glad you're mine now
 I'm so glad you're mine now
 I'm so glad you're mine now
 Whoa-whoa-whoa-whoa-whoa-whoa . . . .
-
-{midi: CC0.0@2, PC25@2}
-{tag: BBB}

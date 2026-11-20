@@ -3,6 +3,8 @@
 {key: G}
 {metronome: 125}
 {duration: 5:45}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 125}
 
@@ -128,8 +130,8 @@ E|-----------------
 
 {sop: Bridge}
 {c:HORNS}
-[G] 
-[Am7] [Bm7] [Em] [D] 
+[G]
+[Am7] [Bm7] [Em] [D]
 [Am7] [Bm7] [Em] [D] [G]
 
 {c:Short Solo}
@@ -189,6 +191,3 @@ Guadalajara won't do, now
 [D] [Em7] [Am7] [Bm7] [Em7]
 [D] [Em7] [Am7] [Bm7] [Em7]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Whiskey Lizard}

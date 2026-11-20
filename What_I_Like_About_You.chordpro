@@ -3,6 +3,9 @@
 {key: A}
 {metronome: 160}
 {duration: 3:38}
+{tag: KAB}
+{tag: BBB}
+{midi: CC0.0@2, PC8@2}
 
 {c:Tempo 160}
 
@@ -122,7 +125,3 @@ Uh huh huh, brrr Hey
 Uh huh huh [D] [A]
 Hey
 {eop}
-
-{midi: CC0.0@2, PC8@2}
-{tag: KAB}
-{tag: BBB}

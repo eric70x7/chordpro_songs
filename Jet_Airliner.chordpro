@@ -1,6 +1,7 @@
 {t: Jet Airliner}
 {st: Steve Miller Band}
 {key: A}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [A][D][A][D][A]
@@ -88,4 +89,3 @@ Oh, big ol' jet airliner
 {sop: Outro}
 Yeah, yeah, yeah, yeah
 {eop}
-{midi: CC0.0@2, PC10@2}

@@ -1,7 +1,9 @@
 {t: You’re All I’ve Got Tonight}
 {st: The Cars}
-{ipodid: 6175295615369466523}
 {key: B}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
+{ipodid: 6175295615369466523}
 
 {sop: Intro}
 [B5] [E5] [B5] [A5] [A#5] [B5] [E5] [B5]
@@ -81,7 +83,3 @@ I said I need you tonight
 {eop}
 
 {sop: Verse 3}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

@@ -3,6 +3,8 @@
 {key: F#}
 {metronome: 138}
 {duration: 2:14}
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 138}
 
@@ -72,7 +74,3 @@ I don't even care, we could have all three
 [F#5]
 She said...
 {eoc}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

@@ -3,7 +3,8 @@
 {key: D}
 {metronome: 124}
 {duration: 3:38}
-
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC24@2}
 
 {c:Patch 3.1 - Clean dotted 18}
 {c:Tempo 124}
@@ -132,6 +133,3 @@ Boogie
 [D7sus4] [Dm7] [Gm7]      [D7sus4] [Dm7] [Gm7]
 Boogie
 {eop}
-{midi: CC0.0@2, PC24@2}
-
-{tag: Whiskey Lizard}

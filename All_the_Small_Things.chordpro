@@ -1,7 +1,9 @@
 {t: All the Small Things}
 {st: Blink-182}
-{metronome: 149}
 {key: C}
+{metronome: 149}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [C] [Csus4] [G] [Am] [F]
@@ -69,7 +71,3 @@ Keep your head still, I'll be your [G]thrill
 [F]The night will go on, {c: -pauses-} the night will go on
 [C]My little windmill{eoh}
 {eoc}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

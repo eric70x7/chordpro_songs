@@ -5,6 +5,8 @@
 {duration: 3:12}
 {tag: Eric Sings}
 {tag: Acoustic}
+{midi: CC0.0@2, PC8@2}
+
 {c:Tempo 87}
 
 {sop: Verse 1}
@@ -71,4 +73,3 @@ You belong somewhere you feel free
 [Bb] [-] [Dm] [-] [C]
 - - -
 {eop}
-{midi: CC0.0@2, PC8@2}

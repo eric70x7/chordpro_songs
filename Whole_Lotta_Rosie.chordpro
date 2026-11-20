@@ -1,6 +1,8 @@
 {t: Whole Lotta Rosie}
 {st: AC/DC}
 {key: A}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [A5] [D5] [A5] [A5] [D5] [A5] [A5] [D5] [A5] [A5] [D5] [A5]
@@ -97,8 +99,3 @@ Whole lotta Rosie
 Whole lotta woman
 [A5] [D5] [A5] [A5] [A5] [D5] [A5] [A5]
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

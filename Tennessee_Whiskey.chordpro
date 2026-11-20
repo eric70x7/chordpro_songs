@@ -3,6 +3,9 @@
 {key: A}
 {metronome: 110}
 {duration: 4:53}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC8@2}
+
 {c:Tempo 110}
 
 {sop: Intro}
@@ -85,6 +88,3 @@ Tennessee whiskey
 [A] [D/A] [A]
 Tennessee whiskey
 {eop}
-{midi: CC0.0@2, PC8@2}
-
-{tag: Whiskey Lizard}

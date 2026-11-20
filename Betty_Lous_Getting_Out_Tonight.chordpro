@@ -3,6 +3,9 @@
 {key: F}
 {metronome: 128}
 {duration: 2:52}
+{tag: BBB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 128}
 
@@ -123,7 +126,3 @@ Grab a hold of somethin' hold on tight
 [F]
 Betty Lou's gettin' out tonight
 {eoc}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: Whiskey Lizard}

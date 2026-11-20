@@ -3,7 +3,9 @@
 {key: D}
 {metronome: 82}
 {duration: 6:05}
-
+{tag: KAB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC8@2}
 
 {c:Tempo 82}
 
@@ -156,8 +158,3 @@ She been doing to me
 [D]
 - - -
 {eop}
-
-{midi: CC0.0@2, PC8@2}
-
-{tag: KAB}
-{tag: Whiskey Lizard}

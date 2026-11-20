@@ -3,6 +3,7 @@
 {key: C}
 {metronome: 130}
 {duration: 4:01}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Verse 1}
 [C]
@@ -151,6 +152,3 @@ Jump!
 [F] [G] [C] [F] [G] [C]
 [F] [G] [C]
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}

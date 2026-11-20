@@ -3,6 +3,7 @@
 {key: E}
 {metronome: 124}
 {duration: 2:36}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 2:36}
 {c:Tempo 124}
@@ -63,5 +64,3 @@ All the same in the end
 {sop: Outro}
 [E5]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

@@ -1,10 +1,12 @@
 {t: All Right Now}
 {st: Free}
-{ipodid:}
 {key: A}
 {metronome: 120}
 {duration: 5:33}
-
+{tag: BBB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
+{ipodid: }
 
 {c:Tempo 120}
 
@@ -147,7 +149,3 @@ Everything is all right [G]yeah
 [D/F#]          [A]
 Woo
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: Whiskey Lizard}

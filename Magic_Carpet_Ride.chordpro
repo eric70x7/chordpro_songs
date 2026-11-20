@@ -1,8 +1,9 @@
-
 {t: Magic Carpet Ride}
 {st: Steppenwolf}
 {key: G}
 {duration: 4:00}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC5@2}
 
 {sop: Intro}
 [E5]
@@ -84,11 +85,11 @@ Look inside girl
 Let the sound
 [G7sus2]
 Take you away
-[G7sus2] 
+[G7sus2]
 {eoc}
 
 {sop: Bridge 3}
-[E7sus2] 
+[E7sus2]
 {eop}
 
 {soc}
@@ -107,7 +108,3 @@ Fantasy will set you free
 {eop}
 
 {c:Repeat chorus}
-
-{midi: CC0.0@2, PC5@2}
-
-{tag: Whiskey Lizard}

@@ -3,7 +3,8 @@
 {key: G}
 {metronome: 108}
 {duration: 4:28}
-
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 108}
 
@@ -30,7 +31,7 @@ I wanna know what you're doin' after the show
 {eop}
 
 {sop: Pre-Chorus}
-       [C] [D] [F] [C]                                      [C] [D] [E] [C]      
+       [C] [D] [F] [C]                                      [C] [D] [E] [C]
 Now it's up to you, we can make a secret rendezvous
 Just me and you, I'll show you lovin' like you never knew
 {eop}
@@ -63,7 +64,7 @@ Tell me, are you hot mama? you sure look that way to me
 {eop}
 
 {sop: Pre-Chorus}
-       [C] [D] [F] [C]                                      [C] [D] [E] [C]      
+       [C] [D] [F] [C]                                      [C] [D] [E] [C]
 Are you old enough? will you be ready when I call you bluff?
 Is my timing right? did you save your love for me to__night?
 {eop}
@@ -86,7 +87,7 @@ I'm hot blooded, hot blooded
 {eop}
 
 {sop: Pre-Chorus}
-       [C] [D] [F] [C]                                      [C] [D] [E] [C]      
+       [C] [D] [F] [C]                                      [C] [D] [E] [C]
 Now it's up to you, we can make a secret rendezvous oh
 Before we do, you have to get away from you know who
 {eop}
@@ -114,6 +115,3 @@ You're making me sing
 [D]
 For your sweet sweet thing
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

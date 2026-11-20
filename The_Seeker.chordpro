@@ -3,6 +3,7 @@
 {key: A}
 {metronome: 92}
 {duration: 3:06}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:06}
 {c:Tempo 92}
@@ -23,7 +24,7 @@ They call me
 
 {sop: Chorus 1}
 The [D]Seeker[D-C]
-I've been searchin' low and [G-A]high[G-D] 
+I've been searchin' low and [G-A]high[G-D]
 [D-C]I won't get to get what I'm after
 [C-G]Till the day I die
 [G-A] [G-D] [G-A] [G-D]
@@ -39,7 +40,7 @@ They call me
 
 {sop: Chorus 2}
 The [D]Seeker[D-C]
-I've been searchin' low and [G-A]high[G-D] 
+I've been searchin' low and [G-A]high[G-D]
 [D-C]I won't get to get what I'm after
 [C-G]Till the day I die
 [G-A] [G-D] [G-A] [G-D]
@@ -82,11 +83,8 @@ They call me
 
 {sop: Chorus 3}
 The [D]Seeker[D-C]
-I've been searchin' low and [G-A]high[G-D] 
+I've been searchin' low and [G-A]high[G-D]
 [D-C]I won't get to get what I'm after
 [C-G]Till the day I die
 [G-A] [G-D] [G-A] [G-D]
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}

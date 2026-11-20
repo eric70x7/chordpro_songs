@@ -3,6 +3,8 @@
 {key: D}
 {metronome: 202}
 {duration: 3:27}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:27}
 {c:Tempo 202}
@@ -145,6 +147,3 @@ Rock it inside out
 [D9]
 Whoo!
 {eoc}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

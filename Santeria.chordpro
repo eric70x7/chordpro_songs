@@ -1,11 +1,12 @@
 {t: Santeria}
 {st: Sublime}
-{ipodid: 836242602347651893}
 {key: E}
 {metronome: 91}
 {duration: 3:03}
 {tag: Eric Sings}
 {tag: Acoustic}
+{midi: CC0.0@2, PC10@2}
+{ipodid: 836242602347651893}
 
 {c:Intro}
 
@@ -103,5 +104,3 @@ ah my soul will have to wait!
 [D#m] [C#m] [B] [A] [B] [E9]
 - - -
 {eop}
-
-{midi: CC0.0@2, PC10@2}

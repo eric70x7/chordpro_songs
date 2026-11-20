@@ -1,8 +1,10 @@
-{t:Funk #49}
-{st:The James Gang}
-{key:A}
-{metronome:91}
-{duration:3:54}
+{t: Funk #49}
+{st: The James Gang}
+{key: A}
+{metronome: 91}
+{duration: 3:54}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:54}
 {c:Tempo 91}
@@ -83,6 +85,3 @@ I think there's trouble brewin'
 [A7][D][A7][A7][D][A7]
 
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

@@ -3,6 +3,8 @@
 {key: E}
 {metronome: 107}
 {duration: 4:04}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC9@2, CC80.127@2}
 
 {c:Tempo 107}
 
@@ -117,6 +119,3 @@ Stop dragging my heart around
 Stop dragging my heart around
 [E5] [G] [A]
 {eop}
-{midi: CC0.0@2, PC9@2, CC80.127@2}
-
-{tag: Whiskey Lizard}

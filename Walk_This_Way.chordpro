@@ -1,6 +1,7 @@
 {t: Walk This Way}
 {st: Aerosmith}
 {key: C}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [E5]
@@ -102,4 +103,3 @@ ALike this
 [E5][A5][E5][A5]
 [E5]
 {eop}
-{midi: CC0.0@2, PC10@2}

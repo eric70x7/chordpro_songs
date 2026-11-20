@@ -1,8 +1,10 @@
 {t: Colour My World}
 {st: Chicago}
-{key:G}
+{key: G}
 {metronome: 79}
 {duration: 3:02}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:02}
 {c:Tempo 79}
@@ -28,7 +30,7 @@ And now,
                 [G#7M]
 Now that you're near,
              [E7sus2]
-Promise your love  
+Promise your love
 [E7]                    [A7M]
   That I've waited to share
    [F9]
@@ -36,7 +38,7 @@ And   dreams
                  [D7]
 Of our moments together
                [Gmaj7]         [C]   [D7]     [Gmaj7]
-Colour my world     with hope  of loving you  
+Colour my world     with hope  of loving you
 {eop}
 
 {sop: Flute Solo}
@@ -45,6 +47,3 @@ Colour my world     with hope  of loving you
 [F9] [D7] [Gmaj7] [C] [D7]
 [Gmaj7]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Whiskey Lizard}

@@ -1,6 +1,7 @@
 {t: Enter Sandman}
 {st: Metallica}
 {key: Em}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [E5][A5][E5][A#5][A5][E5][A#5][A5][E5]
@@ -97,5 +98,3 @@ Pray the Lord my soul to take
 [Fade Out]
 [E5]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

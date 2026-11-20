@@ -1,6 +1,7 @@
 {t: Pride (In the Name of Love)}
 {st: U2}
 {key: B}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro 1}
 [A]
@@ -88,4 +89,3 @@ In the [B]name of [E]love
 {sop: Outro}
 [B] [E] [A] [F#m]
 {eop}
-{midi: CC0.0@2, PC10@2}

@@ -3,6 +3,9 @@
 {key: A}
 {metronome: 174}
 {duration: 3:47}
+{tag: Whiskey Lizard}
+{tag: BBB}
+{midi: CC0.0@2, PC9@2}
 
 {c:Tempo 174}
 
@@ -111,7 +114,7 @@ Jack, get back, come on before we crack{eoh}
 
 {sop: Outro}
 [D] [A]     [G] [D/F#] [G]
-Lose your blues, 
+Lose your blues,
 Everybody cut, everybody cut
 Everybody cut, everybody cut
 [D/F#] [D]
@@ -119,7 +122,3 @@ Everybody cut, everybody cut
 [A]
 Everybody, everybody cut footloose
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: Whiskey Lizard}
-{tag: BBB}

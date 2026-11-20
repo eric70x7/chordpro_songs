@@ -1,6 +1,7 @@
 {t: It's All Over Now}
 {st: The Rolling Stones}
 {key: G}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [G] [F] [C] [D] [G] [F] [C] [D]
@@ -58,5 +59,3 @@ Because I [D]used to love her
 [G]I said I [D]used to love her
 [C]But it's all over [G]now
 {eop}
-
-{midi: CC0.0@2, PC10@2}

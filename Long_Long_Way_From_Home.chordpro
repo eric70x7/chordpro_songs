@@ -3,7 +3,9 @@
 {key: Dm}
 {metronome: 126}
 {duration: 2:55}
-
+{tag: BBB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 {c:Straight D first 2 measures throughout}
@@ -112,7 +114,3 @@ Oh she's waiting for me
 [C]     [Bb]   [A]      [G]    [Bb]     [A]     [Gm]     [F]     [Dm]
 But I'm a long, long way from home
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: Whiskey Lizard}

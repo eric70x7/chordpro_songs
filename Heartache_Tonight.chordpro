@@ -1,6 +1,8 @@
 {t: Heartache Tonight}
 {st: The Eagles}
-{key:F#}
+{key: F#}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [A][E][E][B][F#]
@@ -70,6 +72,3 @@ There’s gonna be a [B7]heartache tonight, a heartache tonight I [G#7]know
 [A][E][E][B][F#]
 [A][E][E][B][F#]
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

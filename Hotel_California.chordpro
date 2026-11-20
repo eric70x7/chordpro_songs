@@ -1,10 +1,10 @@
 {t: Hotel California}
 {st: Eagles}
-{ipodid: 6175295615369468628}
 {key: Bm}
 {metronome: 147}
 {duration: 6:30}
-
+{midi: CC0.0@2, PC10@2}
+{ipodid: 6175295615369468628}
 
 {c:Tempo 147}
 
@@ -39,7 +39,7 @@ There were voices down the corridor, I thought I heard them say
 [A] [A] [B] [C#] [D]
 [G]                            [D]
 Welcome to the Hotel California
-[F#7]                  [Bm] 
+[F#7]                  [Bm]
 Such a lovely place, such a lovely face
 [Bm] [C#] [D] [E] [F#] [D]
 [G]                                  [D]
@@ -102,4 +102,3 @@ You can check out any time you like, but you can never leave
 {c: SOLO}
 
 [B] [B] [C#] [B]
-{midi: CC0.0@2, PC10@2}

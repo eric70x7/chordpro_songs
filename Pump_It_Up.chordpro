@@ -3,6 +3,8 @@
 {key: B}
 {metronome: 139}
 {duration: 3:18}
+{tag: BBB}
+{midi: CC0.0@2, PC8@2}
 
 {c:Tempo 139}
 
@@ -115,5 +117,3 @@ Don't really need   it
 [B] [A#] [A] [B] [A#] [A] [B] [A#] [A] [B] [A#] [A]
 [B] [A#] [A] [B] [A#] [A]
 {eop}
-{midi: CC0.0@2, PC8@2}
-{tag: BBB}

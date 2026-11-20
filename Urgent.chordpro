@@ -3,7 +3,8 @@
 {key: Em}
 {metronome: 115}
 {duration: 4:31}
-
+{tag: Whiskey Lizard}
+{midi: CC0.6@2, PC25@2}
 
 {c:Tempo 115}
 
@@ -155,6 +156,3 @@ Oh oh         oh oh       oh oh
 It's urgent
 [Em] [D] [Am] [C] [Em]
 {eop}
-{midi: CC0.6@2, PC25@2}
-
-{tag: Whiskey Lizard}

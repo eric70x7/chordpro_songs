@@ -1,10 +1,11 @@
 {t: Vehicle}
 {st: The Ides of March}
-{ipodid:}
 {key: Bm}
 {metronome: 102}
 {duration: 2:56}
-
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC9@2}
+{ipodid: }
 
 {c:Tempo 102}
 
@@ -166,5 +167,3 @@ Great God in heaven you know I love you
 {sop: Outro}
 [Bm] [Bm] [Bm] [Em]
 {eop}
-{midi: CC0.0@2, PC9@2}
-{tag: Whiskey Lizard}

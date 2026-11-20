@@ -3,6 +3,8 @@
 {key: D}
 {metronome: 132}
 {duration: 3:13}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 132}
 
@@ -23,7 +25,7 @@ I just know it And he's holdin' her in his arms late late at night
 {eop}
 
 {soc}
-[A] [A] [D] [A] [Bm] [A] [Bm] [A] 
+[A] [A] [D] [A] [Bm] [A] [Bm] [A]
 You know I wish that I had Jessie's girl
 I wish that I had Jessie's girl
 [Bm] [A] [Bm] [A] [G] [A] [D] [Bm] [A]
@@ -42,12 +44,12 @@ I just know it And he's holdin' her in his arms late late at night
 {eop}
 
 {soc}
-[A] [A] [D] [A] [Bm] [A] [Bm] [A] 
+[A] [A] [D] [A] [Bm] [A] [Bm] [A]
 You know I wish that I had Jessie's girl
 I wish that I had Jessie's girl
 [Bm] [A] [Bm] [A] [G] [A] [D] [Bm] [A]
 Where can I find a woman like that?
-[A] [A] [D] [A] [Bm] [A] [Bm] [A] 
+[A] [A] [D] [A] [Bm] [A] [Bm] [A]
 Like Jessie's girl I wish that I had Jessie's girl
 [Bm] [A] [Bm] [A] [G] [A] [D] [G] [A] [D]
 Where can I find a woman
@@ -88,6 +90,3 @@ Like Jessie's girl I wish that I had Jessie's girl
 I want Jessie's girl
 [D] [A] [D] [A] [A] [D] [A] [D] [A] [G] [D]
 {eoc}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

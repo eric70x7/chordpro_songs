@@ -3,7 +3,9 @@
 {key: Am}
 {metronome: 130}
 {duration: 3:44}
-
+{tag: BBB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 130}
 
@@ -86,7 +88,3 @@ I get double vision, oooh
 [Dm]
 How?
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: Whiskey Lizard}

@@ -1,16 +1,17 @@
-{t:Mississippi Queen}
-{st:Mountain}
-{key:E}
-{metronome:140}
-{duration:2:31}
+{t: Mississippi Queen}
+{st: Mountain}
+{key: E}
+{metronome: 140}
+{duration: 2:31}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 2:31}
 {c:Tempo 140}
 
 {sop:Intro}
 [E] [B] [A]
- 
- 
+
+
 {eop}
 
 {sop:Verse 1}
@@ -21,8 +22,8 @@ Mississippi Queen, she taught me everything
  Way down around Vicksburg, around Louisiana way
 [E]
  Lived a Cajun lady, we called her Mississippi Queen
- 
- 
+
+
 {eop}
 
 {soc:Chorus}
@@ -33,8 +34,8 @@ Mississippi Queen, she taught me everything
           [E]
 While the rest of them dudes was a getting their kicks
 Buddy, beg your pardon, I was getting mine
- 
- 
+
+
 {eoc}
 
 {sop:Verse 2}
@@ -45,8 +46,8 @@ Mississippi Queen, she taught me everything
  This lady she asked me if I would be her man
 [E]
  You know that I told her I'd do what I can
- 
- 
+
+
 {eop}
 
 {soc:Chorus}
@@ -71,5 +72,3 @@ Ohhhh, Mississippi Queen
 {sop:Outro}
 [E] [B] [A]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

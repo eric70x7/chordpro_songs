@@ -3,7 +3,8 @@
 {key: G}
 {metronome: 100}
 {duration: 3:11}
-
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 100}
 
@@ -102,6 +103,3 @@ die
 [G] [Em] [G]                   [Em] [G]
 Watch the world die
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

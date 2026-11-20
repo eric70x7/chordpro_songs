@@ -3,7 +3,8 @@
 {key: G}
 {metronome: 92}
 {duration: 3:58}
-
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC0@2}
 
 {c:Tempo 92}
 
@@ -104,6 +105,3 @@ I don't belong here
 [G]
 I don't belong here
 {eoc}
-{midi: CC0.0@2, PC0@2}
-
-{tag: Whiskey Lizard}

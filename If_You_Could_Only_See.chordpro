@@ -3,7 +3,8 @@
 {key: A}
 {metronome: 133}
 {duration: 4:21}
-
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 133}
 
@@ -141,6 +142,3 @@ If you could only see how blue her eyes can be when she says
 [Cmaj7/F]
 When she says she loves me
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

@@ -3,7 +3,8 @@
 {key: G}
 {metronome: 108}
 {duration: 3:47}
-
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 108}
 
@@ -106,6 +107,3 @@ Well hell, when she says baby
 [D]               [Em]  [D]   [Cadd9]
 Well I can't help but be scared of it all sometimes
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

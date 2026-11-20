@@ -3,6 +3,8 @@
 {key: D}
 {metronome: 124}
 {duration: 2:46}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 2:46}
 {c:Tempo 124}
@@ -91,7 +93,3 @@ come on baby do the locomotion
 [D]          [B]
 come on baby do the locomotion
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

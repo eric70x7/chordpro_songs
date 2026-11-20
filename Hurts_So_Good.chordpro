@@ -3,6 +3,8 @@
 {key: A}
 {metronome: 125}
 {duration: 3:39}
+{tag: BBB}
+{midi: CC0.0@2, PC9@2}
 
 {c:Duration 3:39}
 {c:Tempo 125}
@@ -65,7 +67,3 @@ Huh
 {sop: Outro}
 [A5][E7/A][A][A6][A5]- - -
 {eop}
-
-{midi: CC0.0@2, PC9@2}
-
-{tag: BBB}

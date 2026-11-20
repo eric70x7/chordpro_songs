@@ -3,6 +3,10 @@
 {key: C}
 {metronome: 112}
 {duration: 3:08}
+{tag: BBB}
+{tag: KAB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC34@2}
 
 {sop: Intro}
 [C]
@@ -22,7 +26,7 @@ Huh! Oh yeah
 [G]
 You been running all over the town now
 [F]                                                   [C]
-Oh! I guess I'll have to put your 
+Oh! I guess I'll have to put your
 flat feet on the ground
 {eop}
 
@@ -96,11 +100,3 @@ All you want to do is ride around Sally
 [C]
 Oh, Lord
 {eop}
-
-
-
-{midi: CC0.0@2, PC34@2}
-
-{tag: BBB}
-{tag: KAB}
-{tag: Whiskey Lizard}

@@ -4,6 +4,7 @@
 {metronome: 117}
 {duration: 3:27}
 {tag: Whiskey Lizard}
+{midi: CC0.0@2, PC1@2}
 
 {c:Tempo 117}
 
@@ -13,7 +14,7 @@
 {eop}
 
 {sop: Verse 1}
-[Gm7] 
+[Gm7]
 Down around the corner
 Half a mile from here
 You see them long trains runnin'
@@ -21,12 +22,12 @@ And you watch 'em disappear
 [Cm7]
 Without love
 Where would you be now?
-[Gm7]                 [D#]  [Dsus]   [D] 
+[Gm7]                 [D#]  [Dsus]   [D]
 Without love
 {eop}
 
 {sop: Verse 2}
-[Gm7] 
+[Gm7]
 You know I saw Miss Lucy
 Down along the tracks
 She lost her home and her family
@@ -34,7 +35,7 @@ And she won't be coming back
 [Cm7]
 Without love
 Where would you be right now?
-[Gm7]                 [D#]  [Dsus]   [D] 
+[Gm7]                 [D#]  [Dsus]   [D]
 Without love
 {eop}
 
@@ -49,7 +50,7 @@ Got to keep on pushin', mama
 [Cm7]
 Without love
 Where would you be now-na-na-now?
-[Gm7]                 [D#]  [Dsus]   [D] 
+[Gm7]                 [D#]  [Dsus]   [D]
 Without love
 {eop}
 
@@ -57,7 +58,7 @@ Without love
 {c:Harmonica Solo Gm pent}
 [Gm7]
 [Cm7]
-[Gm7]                 [D#]  [Dsus]   [D] 
+[Gm7]                 [D#]  [Dsus]   [D]
 - - -
 {eop}
 
@@ -72,7 +73,7 @@ Got to keep on pushin', mama
 [Cm7]
 Without love
 Where would you be now?
-[Gm7]                 [D#]  [Dsus]   [D] 
+[Gm7]                 [D#]  [Dsus]   [D]
 Without love
 {eop}
 
@@ -86,7 +87,7 @@ And the steel rails lie cold and hard
 [Cm7]
 Without love
 Where would you be right now?
-[Gm7]                 [D#]  [Dsus]   [D] 
+[Gm7]                 [D#]  [Dsus]   [D]
 Without love
 {eop}
 
@@ -98,10 +99,10 @@ Ooh, where would you be now?
 
 {sop: Outro}
 [Gm7]
-Mmm, got to get you, baby baby, 
+Mmm, got to get you, baby baby,
 won't you move it down?
 Won't you move it down?
-Baby, baby, baby, baby, 
+Baby, baby, baby, baby,
 won't you move it down?
 When the big train run
 When the train is movin' on
@@ -116,5 +117,3 @@ Gonna keep on movin'
 {c:Drum solo}
 
 {c:Outro immediately after drums}
-
-{midi: CC0.0@2, PC1@2}

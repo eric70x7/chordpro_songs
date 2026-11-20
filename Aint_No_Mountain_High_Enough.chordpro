@@ -3,6 +3,8 @@
 {key: D}
 {metronome: 130}
 {duration: 2:31}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D/A]
@@ -121,8 +123,3 @@ Ain't no mountain high enough
 [Abmaj7]   [Fm]        [Gm7]      [Cm7]
 Ain't no valley low enough
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

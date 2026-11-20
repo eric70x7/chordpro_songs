@@ -1,12 +1,16 @@
 {t: Johnny B. Goode}
 {st: Chuck Berry}
-{key:A}
+{key: A}
 {metronome: 168}
 {duration: 2:41}
+{tag: Eric Sings}
+{tag: BBB}
+{tag: KAB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 2:41}
 {c:Tempo 168}
-{tag: Eric Sings}
 
 
 {sop: Intro}
@@ -110,8 +114,3 @@ Oh, go, go, Johnny, go
 [E]             [A]
 Go, Johnny B Good
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: KAB}
-{tag: Whiskey Lizard}

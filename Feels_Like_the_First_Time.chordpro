@@ -3,7 +3,8 @@
 {key: G}
 {metronome: 108}
 {duration: 3:49}
-
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC18@2}
 
 {c:Tempo 108}
 
@@ -129,7 +130,3 @@ Because it feels like
 [F]            [G]
 The very first time
 {eop}
-
-{midi: CC0.0@2, PC18@2}
-
-{tag: Whiskey Lizard}

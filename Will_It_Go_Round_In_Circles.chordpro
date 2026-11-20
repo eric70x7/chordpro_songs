@@ -3,6 +3,7 @@
 {key: Ab}
 {metronome: 98}
 {duration: 4:28}
+{midi: CC0.0@2, PC9@2}
 
 {c:Tempo 98}
 
@@ -129,5 +130,3 @@ Will it fly high like a bird up in the sky
 {sop: Fade Out}
 [Abm7] [Db7] [Abm7] [Db7]
 {eop}
-
-{midi: CC0.0@2, PC9@2}

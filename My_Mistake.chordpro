@@ -1,8 +1,9 @@
-{t:My Mistake}
-{st:The Kingbees}
-{key:E}
-{metronome:140}
-{duration:2:55}
+{t: My Mistake}
+{st: The Kingbees}
+{key: E}
+{metronome: 140}
+{duration: 2:55}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 2:55}
 {c:Tempo 140}
@@ -103,5 +104,3 @@ My, my, my, my, my, my, my, my, oh, my, my
 [F#7]               [A]        [B]     [E]
 
 {eop}
-
-{midi: CC0.0@2, PC10@2}

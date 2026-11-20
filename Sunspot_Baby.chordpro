@@ -3,6 +3,8 @@
 {key: E}
 {metronome: 119}
 {duration: 4:36}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 119}
 
@@ -100,6 +102,3 @@ I'm gonna catch up sometime
 {sop: Outro}
 [E]     [A]     [E]     [A]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

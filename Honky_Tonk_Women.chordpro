@@ -3,6 +3,10 @@
 {key: G}
 {metronome: 120}
 {duration: 3:00}
+{tag: BBB}
+{tag: KAB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Verse 1}
 [G]                                        [C]
@@ -32,7 +36,7 @@ I had to pull out of some kind of a fight
 [G]                                [C]
 The lady, then she covered me with roses
 [G]                [D]                     [G]
-She blew my nose 
+She blew my nose
 and then she blew my mind Hey! Yeah!
 {eop}
 
@@ -65,8 +69,3 @@ That gimme, gimme, gimme the honky tonk
 {eoc}
 
 [G]
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: KAB}
-{tag: Whiskey Lizard}

@@ -1,6 +1,8 @@
 {t: Movin’ On}
 {st: Bad Company}
 {key: C}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Gmadd11/C] [F/C] [C] [Gmadd11/C]
@@ -63,8 +65,3 @@ Oh oh oh oh oh oh
 {eop}
 
 [C-C-Bb] [Bb-Bb-F] [F-F-Eb]
-
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

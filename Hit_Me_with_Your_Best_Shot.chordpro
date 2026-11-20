@@ -1,18 +1,21 @@
-{t:Hit Me With Your Best Shot}
-{st:Pat Benatar}
-{key:E}
-{metronome:127}
-{duration:2:51}
+{t: Hit Me With Your Best Shot}
+{st: Pat Benatar}
+{key: E}
+{metronome: 127}
+{duration: 2:51}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
+
 {c:Duration 2:51}
 {c:Tempo 127}
 
 {sop:Intro}
-[E] [A] [C#m] [B] 
+[E] [A] [C#m] [B]
 {eop}
 
 {sop:Verse 1}
-[E] [B/Eb] [C#m] [B] [A] 
-Well you're the real tough cookie 
+[E] [B/Eb] [C#m] [B] [A]
+Well you're the real tough cookie
 With a  long history
 Of breaking little hearts
 Like the one in me
@@ -25,15 +28,15 @@ Lets get down to it
 {soc}
 [E]           [A]             [C#m]     [B]
 Hit me with your best shot
-Why don't you hit me 
+Why don't you hit me
 With your best shot
 Hit me with your best shot
 Fire away!
 {eoc}
 
 {sop:Verse 2}
-[E] [B/Eb] [C#m] [B] [A] 
-You come on with it, come on, 
+[E] [B/Eb] [C#m] [B] [A]
+You come on with it, come on,
 You don't fight fair
 That's okay, see if I care
 Knock me down,    it's all in vain
@@ -43,7 +46,7 @@ I get right back on my feet again
 {soc}
 [E]           [A]             [C#m]     [B]
 Hit me with your best shot
-Why don't you hit me 
+Why don't you hit me
 With your best shot
 Hit me with your best shot
 Fire away!
@@ -54,8 +57,8 @@ Fire away!
 {eop}
 
 {sop:Bridge}
-[E] [B/Eb] [C#m] [B] [A] 
-Well you're the real tough cookie 
+[E] [B/Eb] [C#m] [B] [A]
+Well you're the real tough cookie
 With a  long history
 Of breaking little hearts
 Like the one in me
@@ -68,7 +71,7 @@ You put me in my place
 {soc}
 [E]           [A]             [C#m]     [B]
 Hit me with your best shot
-Why don't you hit me 
+Why don't you hit me
 With your best shot
 Hit me with your best shot
 Fire away!
@@ -77,6 +80,3 @@ Fire away!
 {sop:Outro}
 [E] [A] [C#m] [B]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Whiskey Lizard}

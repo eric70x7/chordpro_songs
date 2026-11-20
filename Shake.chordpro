@@ -1,9 +1,7 @@
-{t:Shake}
-{st:Stumbles}
-
-{key:G}
+{t: Shake}
+{st: Stumbles}
+{key: G}
+{tag: KAB}
+{midi: CC0.0@2, PC34@2}
 
 {c:Key G}
-
-{midi: CC0.0@2, PC34@2}
-{tag: KAB}

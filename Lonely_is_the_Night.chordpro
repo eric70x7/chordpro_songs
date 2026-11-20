@@ -1,8 +1,11 @@
-{t:Lonely is the Night}
-{st:Billy Squier}
-{key:E}
-{metronome:85}
-{duration:4:42}
+{t: Lonely is the Night}
+{st: Billy Squier}
+{key: E}
+{metronome: 85}
+{duration: 4:42}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
+
 {c:Duration 4:42}
 {c:Tempo 85}
 {sop:Intro}
@@ -140,5 +143,3 @@ Lonely is the night
 Lonely, lonely, lonely
 [A] [E]                  [A]
 Lonely is the night
-{midi: CC0.0@2, PC10@2}
-{tag: Whiskey Lizard}

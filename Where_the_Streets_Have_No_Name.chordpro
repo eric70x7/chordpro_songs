@@ -1,6 +1,7 @@
 {t: Where the Streets Have No Name}
 {st: U2}
 {key: D}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro 1}
 [D] [Dmaj7] [Gadd#11] [G]
@@ -97,5 +98,3 @@ Blown by the wind
 [G] [Bm] [Asus4] [A]
 [D]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

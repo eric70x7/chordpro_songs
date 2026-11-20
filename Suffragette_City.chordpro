@@ -1,8 +1,10 @@
-{t:Suffragette City}
-{st:David Bowie}
-{key:D}
-{metronome:144}
-{duration:3:11}
+{t: Suffragette City}
+{st: David Bowie}
+{key: D}
+{metronome: 144}
+{duration: 3:11}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:11}
 {c:Tempo 144}
@@ -150,6 +152,3 @@ Oh, Suffragette
 Suffragette
 
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

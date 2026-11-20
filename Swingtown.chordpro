@@ -3,6 +3,7 @@
 {key: A}
 {metronome: 131}
 {duration: 3:30}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:30}
 {c:Tempo 131}
@@ -54,4 +55,3 @@ And the music's calling
 [Fade Out]
 [A]
 {eop}
-{midi: CC0.0@2, PC10@2}

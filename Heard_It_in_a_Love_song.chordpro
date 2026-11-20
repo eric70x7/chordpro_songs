@@ -3,8 +3,9 @@
 {key: D}
 {metronome: 147}
 {duration: 4:55}
+{tag: On Deck}
+{midi: CC0.0@2, PC10@2}
 {ipodid: 45678}
-
 
 {c:Tempo 147}
 {c:Intro}
@@ -136,5 +137,3 @@ Can't be wrong
 {sop: Outro}
 [A] - [G] - [D] -
 {eop}
-{tag: On Deck}
-{midi: CC0.0@2, PC10@2}

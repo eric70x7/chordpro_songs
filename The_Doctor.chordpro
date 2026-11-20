@@ -1,6 +1,7 @@
-{t:The Doctor}
-{artist:The Doobie Brothers}
-{key:E}
+{t: The Doctor}
+{st: The Doobie Brothers}
+{key: E}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 {sot}
@@ -81,5 +82,3 @@ Music is the [A]doctor of my [B]soul
 {sop:Intro as outro}
 [E]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

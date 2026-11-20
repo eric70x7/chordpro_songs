@@ -1,10 +1,11 @@
 {t: Neon Moon}
 {st: Brooks & Dunn}
-{ipodid:}
-{key:D}
+{key: D}
 {metronome: 102}
 {duration: 4:21}
-
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC25@2}
+{ipodid: }
 
 {c: Patch 99-4}
 
@@ -17,9 +18,9 @@
 
 {sop: Verse 1}
 [Dsus2]
-When the sun goes down 
+When the sun goes down
 on my side of town
-That lonesome feeling 
+That lonesome feeling
 comes to my door
 [G]                 [Dsus2]
 And the whole world turns blue
@@ -27,11 +28,11 @@ And the whole world turns blue
 
 {sop: Verse 2}
 [Dsus2]
-And there's a rundown bar 
+And there's a rundown bar
 across the railroad tracks
 I got a table for two, way in the back
 [G]                          [Dsus2]
-Where I sit alone 
+Where I sit alone
 and I think of losing you
 [A]
 I spend most every night
@@ -43,10 +44,10 @@ Beneath the light of a neon moon
 [G]                   [A]
 If you lose your one and only
 [G]                   [A]
-There's always room here 
+There's always room here
 for the lonely
 [G]                          [A]
-To watch your broken dreams dance 
+To watch your broken dreams dance
 in and out of the beams
 [Dsus2]
 Of a neon moon
@@ -54,28 +55,28 @@ Of a neon moon
 
 {sop: Verse 3}
 [Dsus2]
-I think of two young lovers 
+I think of two young lovers
 running wild and free
-I close my eyes 
+I close my eyes
 and sometimes see
-[G]                        
-You in the shadows 
+[G]
+You in the shadows
 [Dsus2]
 of that smokefilled room
 {eop}
 
 {sop: Verse 4}
 [Dsus2]
-No telling how many tears 
+No telling how many tears
 I've sat here and cried
-Or how many lies 
+Or how many lies
 that I've lied
 [G]
 Telling my poor heart
 [Dsus2]
 She'll come back someday
-Oh, but I'll be alright 
-as long as there's light 
+Oh, but I'll be alright
+as long as there's light
 [Dsus2]
 from a neon moon
 {eop}
@@ -84,10 +85,10 @@ from a neon moon
 [G]                   [A]
 Oh, if you lose your one and only
 [G]                   [A]
-There's always room here 
+There's always room here
 for the lonely
 [G]                          [A]
-To watch your broken dreams 
+To watch your broken dreams
 dance in and out of the beams
 [Dsus2]
 Of a neon moon
@@ -99,9 +100,9 @@ Of a neon moon
 
 {sop: Verse 5}
 [Dsus2]
-The jukebox plays on 
+The jukebox plays on
 drink by drink
-And the words of every sad song 
+And the words of every sad song
 seem to say what I think
 [G]
 And this hurt inside of me
@@ -118,25 +119,21 @@ From a neon moon
 [G]                   [A]
 Oh, if you lose your one and only
 [G]                   [A]
-There's always room here 
+There's always room here
 for the lonely
 [G]
 To watch your broken dreams
 [A]                     [Dsus2]
-Dance in and out of the beams 
+Dance in and out of the beams
 of a neon moon
 [A]
 To watch your broken dreams
 [Dsus2]
-Dance in and out of the beams 
+Dance in and out of the beams
 of a neon moon
 [A]
 Oh, watch your broken dreams
 [Dsus2]
-Dance in and out of the beams 
+Dance in and out of the beams
 of a neon moon
 {eoc}
-
-{midi: CC0.0@2, PC25@2}
-
-{tag: Whiskey Lizard}

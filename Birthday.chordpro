@@ -3,6 +3,9 @@
 {key: A}
 {metronome: 140}
 {duration: 2:43}
+{tag: BBB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 140}
 
@@ -75,7 +78,3 @@ I'm glad it's your birthday
 [A]                        [A]
 Happy birthday to you
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: Whiskey Lizard}

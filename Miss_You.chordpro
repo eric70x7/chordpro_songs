@@ -3,7 +3,9 @@
 {key: Am}
 {metronome: 110}
 {duration: 4:48}
-
+{tag: KAB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC0@2}
 
 {c:Tempo 110}
 
@@ -166,7 +168,3 @@ Aah aah aah aah
 [Am7] [Dm7] [Am7] [Dm7]
 - - -
 {eop}
-{midi: CC0.0@2, PC0@2}
-
-{tag: KAB}
-{tag: Whiskey Lizard}

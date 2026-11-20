@@ -1,9 +1,10 @@
 {t: Ring of Fire}
 {st: Social Distortion}
-{key:G}
+{key: G}
 {metronome: 104}
 {duration: 2:38}
-
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 104}
 
@@ -127,7 +128,3 @@ That ring of fire
 [D5]      [G5]
 That ring of fire
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

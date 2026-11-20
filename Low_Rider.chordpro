@@ -1,8 +1,11 @@
-{t:Low Rider}
-{st:War}
-{key:G}
-{metronome:140}
-{duration:3:11}
+{t: Low Rider}
+{st: War}
+{key: G}
+{metronome: 140}
+{duration: 3:11}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC57@2}
+
 {c:Duration 3:11}
 {c:Tempo 140}
 
@@ -54,6 +57,3 @@ Take a little trip with me
 {sop:Outro}
 [G7]
 {eop}
-
-{midi: CC0.0@2, PC57@2}
-{tag: Whiskey Lizard}

@@ -3,7 +3,8 @@
 {key: A}
 {metronome: 134}
 {duration: 4:31}
-
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 134}
 
@@ -127,6 +128,3 @@ Yeah Yeah Yeah Yeah Yeah Yeah
 Yeah Yeah Yeah Space Truckin'
 [A5] [D5] [A5] [D5] [A5] [D5] [A5] [D5]
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

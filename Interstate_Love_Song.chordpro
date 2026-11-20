@@ -3,6 +3,8 @@
 {key: E}
 {metronome: 84}
 {duration: 3:14}
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:14}
 {c:Tempo 84 BPM}
@@ -81,6 +83,3 @@ All  of these things I said to you
 {sop: Outro}
 [Asus4] [A] [Asus2] [E] [F#m] [E] [F#m] [E]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: KAB}

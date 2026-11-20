@@ -3,8 +3,8 @@
 {key: Bb}
 {metronome: 142}
 {duration: 3:40}
+{midi: CC0.0@2, PC10@2}
 {ipodid: Unknown}
-
 
 {c:Tempo 142}
 
@@ -83,4 +83,3 @@
 [F]He said one more job ought to get it
 [Eb]One last shot[F]
 {eop}
-{midi: CC0.0@2, PC10@2}

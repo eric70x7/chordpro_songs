@@ -3,15 +3,17 @@
 {key: D}
 {metronome: 124}
 {duration: 3:16}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:DROP D}
 
 {sop: Verse 1}
-[D5]                                                              
-Well I'm an eightball shooting double fisted 
-                             [D5] [C5] [D5] [C5] 
+[D5]
+Well I'm an eightball shooting double fisted
+                             [D5] [C5] [D5] [C5]
 Drinking son of a gun
-I wear my jeans a little tight 
+I wear my jeans a little tight
 Just to watch the little boys come undone
 {eop}
 
@@ -33,9 +35,9 @@ You know I'm here, I'm here for the party
 {c: Intro lick}
 
 {sop: Verse 2}
-[D5]                                                              
+[D5]
 I may not be a ten
-                            [D5] [C5] [D5] [C5] 
+                            [D5] [C5] [D5] [C5]
 But the boys say I clean up good
 And if I gave 'em half a chance for some rowdy romance
 You know they would
@@ -88,8 +90,3 @@ And I ain't leaving till they throw me out
 Gonna have a little fun gonna get me some
 You know I'm here, I'm here for the party
 {eoc}
-
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

@@ -3,6 +3,9 @@
 {key: A}
 {metronome: 95}
 {duration: 5:08}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
+
 {c:Tempo 95}
 
 {c:Chorus Verse}
@@ -118,7 +121,3 @@ I don't carry me no load
 [E]                  [A#7] [A7]
 Oooh Mister Breeze
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

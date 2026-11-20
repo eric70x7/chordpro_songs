@@ -3,6 +3,8 @@
 {key: G}
 {metronome: 147}
 {duration: 4:20}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 147}
 
@@ -95,6 +97,3 @@ Move it on over. Won't'cha rock it on over
       [D7]              [C7]                 [G7]
 Move over cool dog, a hot dog's movin' in
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

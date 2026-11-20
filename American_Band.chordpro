@@ -1,8 +1,11 @@
-{t:We're an American Band}
-{st:Grand Funk Railroad}
-{key:G}
-{metronome:128}
-{duration:3:27}
+{t: We're an American Band}
+{st: Grand Funk Railroad}
+{key: G}
+{metronome: 128}
+{duration: 3:27}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
+
 {c:Tempo 128}
 {sop:Intro}
 [D]
@@ -42,7 +45,7 @@ We're an American band
 [C]
 We're an American band
 [Bb]     [C]
-We're coming to your town, 
+We're coming to your town,
 we'll help you party it down
 [D] [C]
 We're an American band
@@ -84,14 +87,14 @@ We're an American band
 [C]
 We're an American band
 [Bb]     [C]
-We're coming to your town, 
+We're coming to your town,
 we'll help you party it down
 [D]               [C] [D]
 We're an American band
 [C]
 We're an American band
 [Bb]     [C]
-We're coming to your town, 
+We're coming to your town,
 we'll help you party it down
 [D] [C]
 We're an American band
@@ -112,7 +115,7 @@ We're an American band
 [C]
 We're an American band
 [Bb]     [C]
-We're coming to your town, 
+We're coming to your town,
 we'll help you party it down
 [D]
 We're an American band
@@ -121,7 +124,7 @@ We're an American band
 [C]
 We're an American band
 [Bb]     [C]
-We're coming to your town, 
+We're coming to your town,
 we'll help you party it down
 [D]
 We're an American band
@@ -135,6 +138,3 @@ We're an American band, oooh oooh
 [D] [C] [D]
 We're an American band, oooh oooh
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Whiskey Lizard}

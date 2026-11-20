@@ -3,6 +3,7 @@
 {key: G}
 {metronome: 132}
 {duration: 2:30}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Verse 1}
 [G]
@@ -88,4 +89,3 @@ Another road where maybe I could see another kind of mind there
 Then suddenly I see you
 Did I tell you I need you
 {eop}
-{midi: CC0.0@2, PC10@2}

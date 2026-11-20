@@ -3,6 +3,8 @@
 {key: E}
 {metronome: 144}
 {duration: 4:27}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 144}
 
@@ -52,7 +54,7 @@ Keep in touch with Mama Kin
 [F#]
 {soh}You better check it out{eoh}
 [B]
-{soh}Cause someday soon you'll have to climb back on the 
+{soh}Cause someday soon you'll have to climb back on the
 wagon{eoh}
 
 [B] [G#] [A] [Bb] [B]
@@ -79,7 +81,7 @@ But don't forget to drop me a line
 [F#]
 {soh}You better check it out{eoh}
 [B]
-{soh}'Cause someday soon you'll have to climb back on the 
+{soh}'Cause someday soon you'll have to climb back on the
 wagon{eoh}
 {eop}
 
@@ -104,7 +106,7 @@ Sleepin' late and smokin' tea
 
 {sop:Solo 2}
 {c:Short solo Am pent}
-[A] [A] [G] [F#] [E] 
+[A] [A] [G] [F#] [E]
 [A]
 {eop}
 
@@ -129,7 +131,7 @@ But don't forget to drop me a line
 [F#]
 {soh}You better check it out{eoh}
 [B]
-{soh}'Cause someday soon you'll have to climb back on the 
+{soh}'Cause someday soon you'll have to climb back on the
 wagon{eoh}
 {eop}
 
@@ -152,6 +154,3 @@ Livin' out your fantasy
 Sleepin' late and smokin' tea
 [C]     [D]     [E7sus4]     [E]
 {eoc}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

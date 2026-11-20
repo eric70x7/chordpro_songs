@@ -1,8 +1,9 @@
-{t:Copperhead Road}
-{st:Steve Earle}
-{key:D}
-{metronome:164}
-{duration:4:30}
+{t: Copperhead Road}
+{st: Steve Earle}
+{key: D}
+{metronome: 164}
+{duration: 4:30}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 4:30}
 {c:Tempo 164}
@@ -84,5 +85,3 @@ Copperhead Road
 {sop:Outro}
 [D]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

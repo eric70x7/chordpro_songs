@@ -1,8 +1,10 @@
-{t:Celebration}
-{st:Kool & the Gang}
-{key:Ab}
-{metronome:122}
-{duration:4:59}
+{t: Celebration}
+{st: Kool & the Gang}
+{key: Ab}
+{metronome: 122}
+{duration: 4:59}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC8@2}
 
 {c:Duration 4:59}
 {c:Tempo 122}
@@ -130,7 +132,7 @@ Let's celebrate,   it's all right
 {soc:Chorus}
 [Ab]
     Ce__le__brate    good  times, come on    Let's celebrate
-       Ooh-ooh-ooh-ooh  
+       Ooh-ooh-ooh-ooh
     Cele__brate    good  times, come on
 It's  a    celebration
     Ce__le__brate    good  times, come on    Let's celebrate
@@ -141,11 +143,8 @@ Let's celebrate
 
 {sop:Outro}
 [Ab]
-Cele__brate    good  times, come on                    
-Ooh-ooh-ooh-ooh  
+Cele__brate    good  times, come on
+Ooh-ooh-ooh-ooh
 Cele__brate    good  times, come on
     Ce__le__brate    good  times, come on
 {eop}
-
-{midi:CC0.0@2, PC8@2}
-{tag: Whiskey Lizard}

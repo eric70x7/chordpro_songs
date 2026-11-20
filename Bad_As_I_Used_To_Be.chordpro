@@ -3,7 +3,8 @@
 {key: Am}
 {metronome: 120}
 {duration: 5:00}
-
+{tag: KAB}
+{midi: CC0.0@2, PC8@2}
 
 {c:Tempo 120}
 
@@ -103,6 +104,3 @@ I'm just as bad as I used to be
 [C] [D] [Am7] [C] [D] [Am7]
 [C] [D] [Am7]
 {eop}
-{midi: CC0.0@2, PC8@2}
-
-{tag: KAB}

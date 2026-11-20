@@ -3,9 +3,11 @@
 {key: D}
 {metronome: 110}
 {duration: 2:47}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC8@2}
 
 {c:Tempo 110}
-[D]     [G] 
+[D]     [G]
 
 {soc}
 [D]     [G]     [D]
@@ -92,6 +94,3 @@ You are my candy girl
 [A]     [D]     [D]
 And you've got me wanting you
 {eoc}
-
-{midi: CC0.0@2, PC8@2}
-{tag: Whiskey Lizard}

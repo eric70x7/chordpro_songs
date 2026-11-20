@@ -1,6 +1,9 @@
 {t: Pick Up the Pieces}
 {st: Average White Band}
 {key: Fm}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
+
 {comment: Instrumental}
 
 [Bbsus4 Intro x 4]
@@ -14,43 +17,38 @@ E|-------
 {eot}
 
 {c: Theme A1}
-[Fm7 x 4] 
-[Fm7 x 4] 
+[Fm7 x 4]
+[Fm7 x 4]
 [Bbsus4 x 2] [Fm7 x 2]
 [Fm7 x 2]
 
 {c: Theme A1}
-[Fm7 x 4] 
-[Fm7 x 4] 
+[Fm7 x 4]
+[Fm7 x 4]
 [Bbsus4 x 2] [Fm7 x 2]
 [Fm7 x 2]
 [Bbsus4 Intro x 4] [Cm]
 
-[Fm7 x 2] 
+[Fm7 x 2]
 
 {c: Theme A1}
-[Fm7 x 4] 
-[Fm7 x 4] 
+[Fm7 x 4]
+[Fm7 x 4]
 [Bbsus4 x 2] [Fm7 x 2]
 [Bbsus4 Intro x 4] [Cm]
 
 {c: SAX SOLO}
-[Bb7sus4 x 4] 
-[Bb7sus4 x 4] 
-[Bb7sus4 x 4] 
-[Fm7 x 4] 
+[Bb7sus4 x 4]
+[Bb7sus4 x 4]
+[Bb7sus4 x 4]
+[Fm7 x 4]
 
 {c: Theme A1}
-[Fm7 x 4] 
-[Fm7 x 4] 
+[Fm7 x 4]
+[Fm7 x 4]
 [Bbsus4 x 2] [Fm7 x 2]
 [Bbsus4 Intro x 4]
 [Bbsus4 Intro x 4] [Cm]
 
 {c: Theme A1}
-[Fm7 x 12] 
-
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}
+[Fm7 x 12]

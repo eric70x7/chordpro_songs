@@ -4,8 +4,8 @@
 {metronome: 118}
 {duration: 3:55}
 {tag: Eric Sings}
-
-
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 118}
 
@@ -106,6 +106,3 @@ Little miss, little [D]miss, little miss, little miss can't be [C]wrong, oh
 Oh, oh, oh
 Oh
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

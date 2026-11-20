@@ -3,6 +3,9 @@
 {key: G}
 {metronome: 90}
 {duration: 3:52}
+{tag: Acoustic}
+{tag: Eric Sings}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:52}
 {c:Tempo 90}
@@ -135,7 +138,3 @@ And it's alright by me
 Oh yeah,   it's alright by me, yeah yeah yeah
 [Am] [C] [G] [D] [Am] [G/B] [C] [G]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Acoustic}
-{tag: Eric Sings}

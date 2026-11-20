@@ -3,12 +3,14 @@
 {key: B}
 {metronome: 147}
 {duration: 3:41}
-
+{tag: Whiskey Lizard}
+{tag: BBB}
+{midi: CC0.6@2, PC26@2}
 
 {c: Patch 99-3}
 
 {sop: Intro}
-[B5] [Bdim] [E5/B] 
+[B5] [Bdim] [E5/B]
 - - -
 {eop}
 
@@ -18,7 +20,7 @@ Everyone's watching to see what you will do
 [B5]                          [G#m]  [E]
 Everyone's looking at you, oh
 [B5]                       [G]
-Everyone's wondering 
+Everyone's wondering
 will you come out tonight
 [B5]                          [G#m]            [E]
 Everyone's trying to get in right, get it right
@@ -89,6 +91,3 @@ You better start from the start
 You want to be in the show?
 C'mon baby, let's go
 {eoc}
-{midi: CC0.6@2, PC26@2}
-{tag: Whiskey Lizard}
-{tag: BBB}

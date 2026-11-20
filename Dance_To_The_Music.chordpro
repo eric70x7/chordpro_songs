@@ -3,6 +3,8 @@
 {key: G}
 {metronome: 128}
 {duration: 3:00}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:00}
 {c:Tempo 128}
@@ -39,7 +41,3 @@ Dance to the mu-sic
 {sop: Outro}
 [G] [Bb] [F] [C]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

@@ -3,8 +3,9 @@
 {key: E}
 {metronome: 96}
 {duration: 3:08}
+{tag: On Deck}
+{midi: CC0.0@2, PC10@2}
 {ipodid: 12345}
-
 
 {c:Tempo 96}
 
@@ -155,5 +156,3 @@ For one of them girls
             [C#m]     [A]
 Hmm, one of them girls
 {eop}
-{tag: On Deck}
-{midi: CC0.0@2, PC10@2}

@@ -3,7 +3,8 @@
 {key: F}
 {metronome: 117}
 {duration: 5:08}
-
+{tag: KAB}
+{midi: CC0.0@2, PC26@2}
 
 {c:Tempo 117}
 
@@ -91,6 +92,3 @@ They're all wasted!
 [F] [Eb] [C] [F]
 - - -
 {eop}
-{midi: CC0.0@2, PC26@2}
-
-{tag: KAB}

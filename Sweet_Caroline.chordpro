@@ -3,7 +3,8 @@
 {key: B}
 {metronome: 128}
 {duration: 3:24}
-
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 128}
 
@@ -104,6 +105,3 @@ Sweet Caroline
 [F#]
 Good times never seemed missing...
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

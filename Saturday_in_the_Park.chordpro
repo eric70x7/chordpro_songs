@@ -3,7 +3,8 @@
 {key: C}
 {metronome: 114}
 {duration: 3:55}
-
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC9@2}
 
 {c:Tempo 114}
 
@@ -129,6 +130,3 @@ For the day
 [G]    [C]
 Yeah, yeah, yeah
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: Whiskey Lizard}

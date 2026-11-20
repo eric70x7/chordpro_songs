@@ -1,6 +1,8 @@
 {t: Bring it on Home}
 {st: Led Zeppelin}
 {key: E}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Verse 1}
 [E]Baby, baby
@@ -73,8 +75,3 @@ A|---------------|
 E|---------------|
 {eot}
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

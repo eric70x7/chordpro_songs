@@ -3,7 +3,8 @@
 {key: E}
 {metronome: 120}
 {duration: 4:27}
-
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Intro}
 
@@ -66,6 +67,3 @@ I'm your money maker
 I am your deal man
 I am your deal man
 {eoc}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

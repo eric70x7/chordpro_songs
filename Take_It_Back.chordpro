@@ -1,10 +1,11 @@
 {t: Take It Back}
 {st: Reba McEntire}
-{ipodid: 8898384342880132097}
 {key: D}
 {metronome: 110}
 {duration: 3:17}
-
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
+{ipodid: 8898384342880132097}
 
 {sop: Intro}
 [A] [G] [D]
@@ -116,6 +117,3 @@ So, take it back, ah take it back
 [D] [G] [A] [G] [D]
 - - -
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

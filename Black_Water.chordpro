@@ -3,6 +3,9 @@
 {key: D}
 {metronome: 84}
 {duration: 4:15}
+{tag: Acoustic}
+{tag: Eric Sings}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 4:15}
 {c:Tempo 84}
@@ -106,7 +109,3 @@ Pretty mama come and take me by the hand
 {sop: Fade-Out}
 [Am7] [D]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Acoustic}
-{tag: Eric Sings}

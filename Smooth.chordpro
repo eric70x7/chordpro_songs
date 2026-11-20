@@ -3,6 +3,8 @@
 {key: Am}
 {metronome: 116}
 {duration: 4:55}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC34@2}
 
 {c:Tempo 116}
 
@@ -157,6 +159,3 @@ Let's don't forget about it
 Let's don't forget about it
 [Am] [F] [E7] [Am] [F] [E7] [Am] [F] [E7]
 {eop}
-
-{midi: CC0.0@2, PC34@2}
-{tag: Whiskey Lizard}

@@ -1,8 +1,9 @@
-{t:Long Time}
+{t: Long Time}
 {st: Boston}
 {key: Bb}
 {metronome: 119}
 {duration: 7:47}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Verse 1}
 [F]   [D#]     [Bb]
@@ -97,6 +98,3 @@ Well I'm takin' my time, I'm just movin' along
 Oh, just movin' along, ah
 Just takin' my time, yeah...
 {eoc}
-
-
-{midi: CC0.0@2, PC10@2}

@@ -3,6 +3,9 @@
 {key: E}
 {metronome: 136}
 {duration: 3:45}
+{tag: BBB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC2@2}
 
 {c:Tempo 136}
 
@@ -138,7 +141,3 @@ No satis_faction, no satis_faction, no satis_faction
 {sop: Fade Out}
 [D] [A] [E] [A] [D] [A]
 {eop}
-
-{midi: CC0.0@2, PC2@2}
-{tag: BBB}
-{tag: Whiskey Lizard}

@@ -3,6 +3,9 @@
 {key: D}
 {metronome: 124}
 {duration: 4:13}
+{tag: Whiskey Lizard}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 124}
 
@@ -79,7 +82,3 @@ Let the Midnight Special shine a light on me
                                      [A7]                    [D]
 Let the Midnight Special shine a ever loving light on me
 {eoc}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}
-{tag: BBB}

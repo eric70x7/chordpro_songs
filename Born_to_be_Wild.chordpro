@@ -3,7 +3,9 @@
 {key: E}
 {metronome: 146}
 {duration: 3:30}
-
+{tag: Whiskey Lizard}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Intro}
 
@@ -25,7 +27,7 @@ And whatever comes our way
 Yeah, darlin' gonna make it happen
 [E]
 Take the world in a love embrace
-Fire all of your guns at once 
+Fire all of your guns at once
 and explode into space
 {eoc}
 
@@ -45,7 +47,7 @@ And the feelin' that I'm under
 Yeah, darlin', gonna make it happen
 [E]
 Take the world in a love embrace
-Fire all of your guns at once 
+Fire all of your guns at once
 and explode into space
 {eoc}
 
@@ -83,7 +85,7 @@ And whatever comes our way
 Yeah, darlin', gonna make it happen
 [E]
 Take the world in a love embrace
-Fire all of your guns at once 
+Fire all of your guns at once
 and explode into space
 {eoc}
 
@@ -102,7 +104,3 @@ Born to be wild
 {sop: Outro}
 [E]
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}
-{tag: BBB}

@@ -3,7 +3,9 @@
 {key: E}
 {metronome: 124}
 {duration: 4:04}
-
+{tag: BBB}
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 124}
 
@@ -92,7 +94,3 @@ Let it rooll
 [C] [C#] [D] [D#] [E] [E7]
 All night long
 {eoc}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: KAB}

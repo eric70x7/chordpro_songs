@@ -3,7 +3,8 @@
 {key: G}
 {metronome: 121}
 {duration: 3:18}
-
+{tag: KAB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Intro}
 
@@ -81,6 +82,3 @@ Pain is for certain and love's so unsure
 [G]   [D]   [Em]  [C]
 Tell me why, tell me why, tell me why
 {eoc}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

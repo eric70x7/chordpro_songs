@@ -3,7 +3,8 @@
 {key: F#}
 {metronome: 136}
 {duration: 3:14}
-
+{tag: KAB}
+{midi: CC0.0@2, PC34@2}
 
 {c:Tempo 136}
 
@@ -111,7 +112,3 @@ I'm aroaming
 I'm aroaming
 I'm aroaming
 {eop}
-
-{midi: CC0.0@2, PC34@2}
-
-{tag: KAB}

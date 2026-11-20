@@ -3,8 +3,9 @@
 {key: E}
 {metronome: 119}
 {duration: 4:11}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC19@2}
 {ipodid: Unknown}
-
 
 {c:Tempo 119}
 {c:Tap in delay time}
@@ -87,6 +88,3 @@
 [C#m7]Hold on to the [A]feelin'
 [E]Streetlights, [B]people[G#m][A]
 {eop}
-{midi: CC0.0@2, PC19@2}
-
-{tag: Whiskey Lizard}

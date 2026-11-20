@@ -1,8 +1,10 @@
-{t:Workin' For A Livin'}
-{st:Huey Lewis and the News}
-{key:A}
-{metronome:158}
-{duration:2:39}
+{t: Workin' For A Livin'}
+{st: Huey Lewis and the News}
+{key: A}
+{metronome: 158}
+{duration: 2:39}
+{tag: BBB}
+{midi: CC0.0@2, PC9@2}
 
 {c:Duration 2:39}
 {c:Tempo 158}
@@ -120,6 +122,3 @@ Whoa!
 [A]
 
 {eop}
-
-{midi: CC0.0@2, PC9@2}
-{tag: BBB}

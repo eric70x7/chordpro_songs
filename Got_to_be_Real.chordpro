@@ -1,8 +1,9 @@
-{t:Got to Be Real}
-{st:Cheryl Lynn}
-{key:C}
-{metronome:117}
-{duration:3:01}
+{t: Got to Be Real}
+{st: Cheryl Lynn}
+{key: C}
+{metronome: 117}
+{duration: 3:01}
+{midi: CC0.0@2, PC9@2}
 
 {c:Duration 3:01}
 {c:Tempo 117}
@@ -12,7 +13,7 @@ What you find         ah
 {eop}
 
 {sop:Verse 1}
-[G] [D] [G]  
+[G] [D] [G]
 [G] [D] [E] [G] [D]
 What you feel         now
 What you know         a
@@ -30,13 +31,13 @@ What you know         a
 [Em] [D]
 Ooh, your love's for     real now
 You know that your love is my  love
-My   love  is your love  
+My   love  is your love
 Our love is here to stay
 What you find,         ah
 {eoc}
 
 {sop:Verse 2}
-[G] [D] [G]  
+[G] [D] [G]
 [G] [D] [E] [G] [D]
 (I think I love  you baby)
 What you feel         now
@@ -50,13 +51,13 @@ What you know         a
 [Em] [D]
 Ooh, your love's for     real now
 You know that your love is my  love
-My   love  is your love  
+My   love  is your love
 Our love is here to stay
 What you find,         ah
 {eoc}
 
 {sop:Verse 3}
-[G] [D] [G]  
+[G] [D] [G]
 [G] [D] [E] [G] [D]
 (I think I love  you baby)
 What you feel         now
@@ -80,7 +81,7 @@ What you find         ah
 {eop}
 
 {sop:Verse 4}
-[G] [D] [G]  
+[G] [D] [G]
 [G] [D] [E] [G] [D]
 What you feel         now
 What you know         ah
@@ -90,14 +91,12 @@ What you feel         now
 What you know         ah
 To be real
 To be real      (it's time to be real)
-(It's time to be real) to be real      
+(It's time to be real) to be real
 (it's time to be real, it's time to be real)
-To be real      
+To be real
 (it's time to be real, it's time to be real)
-To be real      
+To be real
 (it's time to be real, it's time to be real)
-To be real          
+To be real
 (real, real, real), to be real
 {eop}
-
-{midi: CC0.0@2, PC9@2}

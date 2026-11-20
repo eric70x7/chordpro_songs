@@ -1,8 +1,11 @@
 {t: Suzie Q}
 {st: Creedence Clearwater Revival}
-{key:Em}
+{key: Em}
 {metronome: 130}
 {duration: 3:00}
+{tag: BBB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC57@2}
 
 {c:Duration 3:00}
 {c:Tempo 130}
@@ -46,7 +49,7 @@ Well, say that you'll be true
 
 {sop: Verse 2}
 Well, say that you'll be true
-                             [A]                
+                             [A]
 Well, say that you'll be true
                  [C] [B]      [Em]
 and never leave me blue,  Susie Q
@@ -118,8 +121,3 @@ Oh Susie Q, baby I love you,  Susie Q
 {sop: Outro}
 [Em]
 {eop}
-
-{midi: CC0.0@2, PC57@2}
-
-{tag: BBB}
-{tag: Whiskey Lizard}

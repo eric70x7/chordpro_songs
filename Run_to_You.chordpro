@@ -1,8 +1,10 @@
 {t: Run to You}
 {st: Bryan Adams}
-{key:Em}
+{key: Em}
 {metronome: 127}
 {duration: 3:53}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:53}
 {c:Tempo 127}
@@ -87,6 +89,3 @@ I'm gonna [G]stay all [D]night[A]
 [D]Yeah, [A]oh, I'm gonna [Em7]run to [G]you run to [D]you[A]
 [D]Yeah, I'm gonna [A]run to [Em7]you[G] [D]oh[A]
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

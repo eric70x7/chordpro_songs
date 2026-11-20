@@ -3,6 +3,8 @@
 {key: A}
 {metronome: 117}
 {duration: 4:16}
+{tag: KAB}
+{midi: CC0.0@2, PC9@2}
 
 {c:Duration 4:16}
 {c:Tempo 117}
@@ -69,7 +71,7 @@ Trade for warm sunshine
 You my friend
 I will defend
 And if we change, well I
-Love you anyway 
+Love you anyway
 {eop}
 
 {sop: Chorus 3}
@@ -82,7 +84,3 @@ Love you anyway
 {sop: Outro}
 [Aadd9] [Badd11]
 {eop}
-
-{midi: CC0.0@2, PC9@2}
-
-{tag: KAB}

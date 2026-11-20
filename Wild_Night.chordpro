@@ -3,6 +3,7 @@
 {key: G}
 {metronome: 144}
 {duration: 3:28}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 3:28}
 {c:Tempo 144}
@@ -72,5 +73,3 @@ The wild night is calling
 [Em]Ooh, [C]oohooh [D]wee
 [Em]The wild [D]night is [G]calling
 {eop}
-
-{midi: CC0.0@2, PC10@2}

@@ -1,9 +1,9 @@
 {t: Gimme Some Lovin'}
 {st: The Spencer Davis Group}
-{key:E}
+{key: E}
 {metronome: 148}
 {duration: 2:55}
-
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [E]
@@ -90,4 +90,3 @@ Yeah, yeah, yeah, yeah, yeah, yeah, yeah
 
 {sop: Outro}
 [B] [G] [E]
-{midi: CC0.0@2, PC10@2}

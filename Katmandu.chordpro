@@ -3,6 +3,7 @@
 {key: A}
 {metronome: 140}
 {duration: 6:09}
+{midi: CC0.0@2, PC10@2}
 
 {c:Tempo 140}
 
@@ -135,5 +136,3 @@ Now, if I ever get out of here
 [B7]     [C] [B7]                    [E]
 If I ever get out of here   I'm goin' to Katmandu
 {eoc}
-
-{midi: CC0.0@2, PC10@2}

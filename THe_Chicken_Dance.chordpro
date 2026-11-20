@@ -3,6 +3,8 @@
 {key: C}
 {metronome: 96}
 {duration: 2:57}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {c:Duration 2:57}
 {c:Tempo 96}
@@ -34,6 +36,3 @@
 [Dm] [Dm] [Dm] [Dm]
 [Dm] [Dm] [G] [C] [C]
 {eoc}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Whiskey Lizard}

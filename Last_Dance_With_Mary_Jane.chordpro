@@ -1,6 +1,8 @@
 {t: Last Dance with Mary Jane}
 {st: Tom Petty}
 {key: Am}
+{tag: Eric Sings}
+{midi: CC0.0@2, PC9@2}
 
 {sop: Intro}
 [Am][G][Dsus2][Am][Am][G][Dsus2][Am]
@@ -104,6 +106,3 @@ And I’m tired of this town a[A]gain [G]
 [Am][G][D][Am]- - -
 [Am][G][D][Am]
 {eop}
-{tag: Eric Sings}
-
-{midi: CC0.0@2, PC9@2}

@@ -1,10 +1,13 @@
 {t: You Wreck Me}
 {st: Tom Petty}
-{ipodid:}
 {key: D}
 {metronome: 165}
 {duration: 3:27}
 {tag: Eric Sings}
+{tag: Whiskey Lizard}
+{tag: BBB}
+{midi: CC0.0@2, PC9@2, CC80.127@2}
+{ipodid: }
 
 {sop: Intro}
 [D] [A] [E]
@@ -114,6 +117,3 @@ Yes, you do
 [D] [A] [D] [A] [E]
 - - -
 {eop}
-{midi: CC0.0@2, PC9@2, CC80.127@2}
-{tag: Whiskey Lizard}
-{tag: BBB}

@@ -3,6 +3,10 @@
 {key: G}
 {metronome: 145}
 {duration: 2:17}
+{tag: BBB}
+{tag: KAB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Verse 1}
 [G5]
@@ -75,9 +79,3 @@ I'm just looking for some tush
 [C5] [G5]
 - - -
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: KAB}
-{tag: Whiskey Lizard}

@@ -1,12 +1,12 @@
 {t: Sweet Home Alabama}
 {st: Lynyrd Skynyrd}
-{ipodid:}
 {key: G}
 {metronome: 98}
 {duration: 4:43}
-
-
-
+{tag: KAB}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC9@2}
+{ipodid: }
 
 {c:Tempo 98}
 
@@ -107,7 +107,7 @@ Lord, I'm coming home to you, here I come
 Now Muscle Shoals has got the Swampers
 And they've been known to pick a song or two
 Lord they get me off so much
-They pick me up when I'm feeling blue, 
+They pick me up when I'm feeling blue,
 now how 'bout you?
 {eop}
 
@@ -118,7 +118,7 @@ Where the skies are so blue
 Sweet home Alabama
 Lord, I'm coming home to you
 Sweet home Alabama, oh sweet home
-Where the skies are so blue 
+Where the skies are so blue
 and the governor's true
 Sweet home Alabama
 Lord, I'm coming home to you
@@ -129,7 +129,3 @@ Lord, I'm coming home to you
 [D] [C] [G]
 - - -
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: KAB}
-{tag: Whiskey Lizard}

@@ -1,6 +1,8 @@
 {t: Running on Empty}
 {st: Jackson Browne}
 {key: A}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D/A] [A] [D/A] [A]
@@ -139,7 +141,3 @@ Running on running into the sun but I'm running behind
 {sop: Outro}
 [D] [E] [D] [A/C#] [Bm] [A]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
