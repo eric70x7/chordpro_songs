@@ -3,9 +3,9 @@
 {key: B}
 {metronome: 128}
 {duration: 3:24}
-
-
-{c:Tempo 128}
+{tag: Whiskey Lizard}
+{c: 128 BPM, 3:24}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [F#7]
@@ -33,10 +33,6 @@ Hands, touchin' hands
 [F#7]             [E]                      [F#]
 Reachin' out, touchin' me, touchin' you
 {eop}
-
-
-
-
 
 {soc}
 [B]             [E]
@@ -73,8 +69,6 @@ Warm, touchin' warm
 Reachin' out, touchin' me, touchin' you
 {eop}
 
-
-
 {soc}
 [B]             [E]
 Sweet Caroline
@@ -104,6 +98,3 @@ Sweet Caroline
 [F#]
 Good times never seemed missing...
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

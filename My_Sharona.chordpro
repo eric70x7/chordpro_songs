@@ -3,9 +3,9 @@
 {key: C}
 {metronome: 147}
 {duration: 4:52}
-
-{c:Duration 4:52}
-{c:Tempo 147}
+{tag: BBB}
+{c: 147 BPM, 4:52}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [G5] [C] [G5]
@@ -116,6 +116,3 @@ Oooooooohhh, my Sharona
 [G5]             [C]       [Bb]
   Oooooooohhh, my Sharona
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

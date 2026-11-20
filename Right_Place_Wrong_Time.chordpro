@@ -3,8 +3,9 @@
 {key: Ebm}
 {metronome: 105}
 {duration: 2:55}
-
-{c:Tempo 105}
+{tag: Whiskey Lizard}
+{c: 105 BPM, 2:55}
+{midi: CC0.0@2, PC9@2}
 
 {sop: Intro}
 [Ebm7] [Ab7]
@@ -71,6 +72,3 @@ I'd have took the right move, but I made it at the wrong time
 I been on the right trip but, I must have used the wrong car
 My head was in a good place and I wonder what it's bad for
 {eop}
-
-{midi: CC0.0@2, PC9@2}
-{tag: Whiskey Lizard}

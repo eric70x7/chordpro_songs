@@ -1,11 +1,10 @@
-{t:New Shoes}
-{st:Paolo Nutini}
-{key:A}
-{metronome:150}
-{duration:3:24}
-
-{c:Duration 3:24}
-{c:Tempo 150}
+{t: New Shoes}
+{st: Paolo Nutini}
+{key: A}
+{metronome: 150}
+{duration: 3:24}
+{c: 150 BPM, 3:24}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [A] [G6/A] [A]
@@ -159,5 +158,3 @@ And I don't need an excuse,
            [D]
 'Cause I'm wearing my brand new shoes.
 {eop}
-
-{midi:CC0.0@2, PC10@2}

@@ -1,12 +1,13 @@
 {t: All Right Now}
 {st: Free}
-{ipodid:}
 {key: A}
 {metronome: 120}
 {duration: 5:33}
-
-
-{c:Tempo 120}
+{tag: BBB}
+{tag: Whiskey Lizard}
+{c: 120 BPM, 5:33}
+{midi: CC0.0@2, PC10@2}
+{ipodid: }
 
 {sop: Intro}
 [A5] [D/F#] [A5]
@@ -109,8 +110,6 @@ Now he's trying to trick me in love"
 Yeah!
 {eop}
 
-
-
 {soc}
 [A]           [G]
 All right now
@@ -147,7 +146,3 @@ Everything is all right [G]yeah
 [D/F#]          [A]
 Woo
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: Whiskey Lizard}

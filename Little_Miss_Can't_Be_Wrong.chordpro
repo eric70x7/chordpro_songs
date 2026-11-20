@@ -4,10 +4,9 @@
 {metronome: 118}
 {duration: 3:55}
 {tag: Eric Sings}
-
-
-
-{c:Tempo 118}
+{tag: BBB}
+{c: 118 BPM, 3:55}
+{midi: CC0.0@2, PC10@2}
 
 {c:Verse 1} It's been a whole lot easier since the bitch left town
 {c:Verse 2} Other people's thoughts, they ain't your handmedowns
@@ -106,6 +105,3 @@ Little miss, little [D]miss, little miss, little miss can't be [C]wrong, oh
 Oh, oh, oh
 Oh
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

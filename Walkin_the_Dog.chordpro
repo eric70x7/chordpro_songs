@@ -1,6 +1,8 @@
 {t: Walkin' the Dog}
 {st: Aerosmith}
 {key: Em}
+{tag: BBB}
+{midi: CC0.0@2, PC34@2}
 
 {sop: Intro}
 {c:Intro}
@@ -56,8 +58,3 @@ Pretty maids all in a row{eoh}
 {soh}Well if you [B]don't know how to do it
 I'll [A]show you how to walk the [E]dog{eoh}
 {eoc}
-
-
-{midi: CC0.0@2, PC34@2}
-
-{tag: BBB}

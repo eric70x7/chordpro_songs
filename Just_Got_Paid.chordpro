@@ -3,9 +3,9 @@
 {key: E}
 {metronome: 125}
 {duration: 4:27}
-
-
-{c:Tempo 125}
+{tag: KAB}
+{c: 125 BPM, 4:27}
+{midi: CC0.0@2, PC34@2}
 
 {sop: Intro}
 [E5] [Am7]
@@ -84,6 +84,3 @@ But it's way ahead of what's second best
 [D5] [E5] [D5] [E5]
 - - -
 {eop}
-{midi: CC0.0@2, PC34@2}
-
-{tag: KAB}

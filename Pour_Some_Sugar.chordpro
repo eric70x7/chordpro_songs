@@ -1,6 +1,7 @@
 {t: Pour Some Sugar On Me}
 {st: Def Leppard}
-{key:F}
+{key: F}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 Step inside
@@ -116,4 +117,3 @@ Sugar me!
 {sop: Outro}
 [F][Bb][C]
 {eop}
-{midi: CC0.0@2, PC10@2}

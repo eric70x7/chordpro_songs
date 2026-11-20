@@ -3,7 +3,9 @@
 {key: E}
 {metronome: 118}
 {duration: 4:07}
-
+{tag: Whiskey Lizard}
+{c: 118 BPM, 4:07}
+{midi: CC0.0@2, PC10@2}
 
 {c:Intro}
 
@@ -126,6 +128,3 @@ I hate myself
 [D5/A]                  [E5]
 I hate myself for loving you
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

@@ -3,13 +3,13 @@
 {key: C}
 {metronome: 146}
 {duration: 3:32}
-
-
-{c:Tempo 146}
+{tag: BBB}
+{c: 146 BPM, 3:32}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
-[C] [Am] [A#] 
-[C] [Am] [A#] 
+[C] [Am] [A#]
+[C] [Am] [A#]
 - - -
 {eop}
 
@@ -27,11 +27,11 @@ Don't you worry 'bout two left feet
 {soc}
 [C]
 Shake it up
-[Am]             [A#] 
+[Am]             [A#]
 Shake it up
 [C]
 Ooh yeah, shake it up
-[Am]             [A#] 
+[Am]             [A#]
 Just shake it up
 {eoc}
 
@@ -49,20 +49,20 @@ Don't let nobody pick your fun
 {soc}
 [C]
 Shake it up
-[Am]         [A#] 
+[Am]         [A#]
 Oohooh, shake it up
 [C]
 Yeah hm yeah, shake it up
-[Am]       [A#] 
+[Am]       [A#]
 Oohooh, shake it up
 {eoc}
 
 {sop: Bridge}
-[G]                    [Am] 
+[G]                    [Am]
 That's right, I said dance all night
-[G]                    [Am] 
+[G]                    [Am]
 And dance all night
-[G]                    [Am] 
+[G]                    [Am]
 Go all night
 [F]                     [G]
 Well, shake it up with all you've got, woo
@@ -87,11 +87,11 @@ Do the move with the quirky jerk
 {soc}
 [C]
 Just shake it up
-[Am]             [A#] 
+[Am]             [A#]
 Ooh ooh, shake it up
 [C]
 Oh yeah, shake it up
-[Am]             [A#] 
+[Am]             [A#]
 Shake it up
 [G]
 Oh well, dance all night
@@ -131,23 +131,20 @@ Ooh ooh, shake it up
 {sop: Outro}
 [C]
 Shake it up, shake it up. Shake it up baby
-[Am]             [A#] 
+[Am]             [A#]
 Shake it up, shake it up
 [C]
 Ooh ooh, shake it up. Shake it up. Shake it up baby
-[Am]             [A#] 
+[Am]             [A#]
 Shake it up, shake it up
 [C]
 Ooh ooh, shake it up, shake it up
-[Am]             [A#] 
+[Am]             [A#]
 Ooh ooh, shake it up, shake it up
 [C]
 Ooh ooh, shake it up, shake it up
-[Am]             [A#] 
+[Am]             [A#]
 Ooh ooh, shake it up, shake it up
 [A#]
 Ooh ooh, shake it...
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

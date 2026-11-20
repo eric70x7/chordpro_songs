@@ -3,9 +3,9 @@
 {key: Em}
 {metronome: 120}
 {duration: 4:33}
-
-
-{c:Tempo 120}
+{tag: Whiskey Lizard}
+{c: 120 BPM, 4:33}
+{midi: CC0.0@2, PC9@2}
 
 {sop: Intro}
 [E5] [F#5] [D#5] [E5] [E5] [F#5] [D#5] [B5] [D5]
@@ -37,7 +37,7 @@ When Josie comes home
 When Josie comes home
 [Em7]
 So good
-[F#m7add9]                      [Em7] 
+[F#m7add9]                      [Em7]
 She's the pride of the neighborhood
 [F#m7add9]
 She's the raw flame
@@ -73,7 +73,7 @@ When Josie comes home
 When Josie comes home
 [Em7]
 So bad
-[F#m7add9]                      [Em7] 
+[F#m7add9]                      [Em7]
 She's the best friend we ever had
 [F#m7add9]
 She's the raw flame
@@ -104,7 +104,7 @@ When Josie comes home
 When Josie comes home
 [Em7]
 So good
-[F#m7add9]                      [Em7] 
+[F#m7add9]                      [Em7]
 She's the pride of the neighborhood
 [F#m7add9]
 She's the raw flame
@@ -127,6 +127,3 @@ With her eyes on fire
 {sop: Outro}
 [Em7]
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: Whiskey Lizard}

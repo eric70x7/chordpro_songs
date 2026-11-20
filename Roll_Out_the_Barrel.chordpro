@@ -1,11 +1,11 @@
-{t:Beer Barrel Polka}
-{st:Jaromír Vejvoda}
-{key:A}
-{metronome:120}
-{duration:2:35}
-
-{c:Duration 2:35}
-{c:Tempo 120}
+{t: Beer Barrel Polka}
+{st: Jaromír Vejvoda}
+{key: A}
+{metronome: 120}
+{duration: 2:35}
+{tag: Whiskey Lizard}
+{c: 120 BPM, 2:35}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [A] [E7] [A] [E] [E7]
@@ -21,6 +21,3 @@ Zing boom tararrel, ring out a song of good cheer
 [Bm]                [E7]        [A]              [Bm]     [E]  [A]
 Now's the time to roll the barrel, for the gang's all here
 {eop}
-
-{midi:CC0.0@2, PC10@2}
-{tag: Whiskey Lizard}

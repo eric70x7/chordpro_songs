@@ -3,9 +3,9 @@
 {key: D}
 {metronome: 126}
 {duration: 4:34}
-
-
-{c:Tempo 126}
+{tag: KAB}
+{c: 126 BPM, 4:34}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D] [E] [D]
@@ -124,7 +124,3 @@ Ooo, your face is a mess
 Ooo, so how could they know?
 How could they know?
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

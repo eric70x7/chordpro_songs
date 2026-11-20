@@ -3,9 +3,9 @@
 {key: G}
 {metronome: 96}
 {duration: 2:25}
-
-
-{c:Tempo 96}
+{tag: KAB}
+{c: 96 BPM, 2:25}
+{midi: CC0.0@2, PC8@2}
 
 {sop: Intro}
 [G] [C] [G] [C] [G] [C] [G]
@@ -121,7 +121,3 @@ Big hands, I know you're the one
 [C] [G]
 - - -
 {eop}
-
-{midi: CC0.0@2, PC8@2}
-
-{tag: KAB}

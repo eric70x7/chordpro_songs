@@ -1,10 +1,10 @@
-{t:She Had Me At Heads Carolina}
-{st:Cole Swindell}
-{key:Ab}
-{metronome:135}
-{duration:3:26}
-{c:Duration 3:26}
-{c:Tempo 135}
+{t: She Had Me At Heads Carolina}
+{st: Cole Swindell}
+{key: Ab}
+{metronome: 135}
+{duration: 3:26}
+{c: 135 BPM, 3:26}
+{midi: CC0.0@2, PC9@2}
 
 {sop:Intro}
 [Db] [Eb] [Ab]
@@ -93,5 +93,3 @@ When this song is over, I gotta find her
 Yeah, she had me at Heads Carolina     Yeah
 {c:Licks}
 {eop}
-
-{midi: CC0.0@2, PC9@2}

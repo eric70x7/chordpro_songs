@@ -3,9 +3,9 @@
 {key: G}
 {metronome: 151}
 {duration: 3:03}
-
-{c:Duration 3:03}
-{c:Tempo 151}
+{tag: BBB}
+{c: 151 BPM, 3:03}
+{midi: CC0.0@2, PC8@2}
 
 {sop: Intro}
 [G] [C] [G] [D]
@@ -108,9 +108,3 @@ Sha la la la la la la la la la la te da
 Sha la la la la la la la la la la te da
 {eoc}
 {c:Intro}
-
-
-
-{midi: CC0.0@2, PC8@2}
-
-{tag: BBB}

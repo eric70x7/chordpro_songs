@@ -1,6 +1,7 @@
 {t: Sunshine Of Your Love}
 {st: Cream}
 {key: D}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D7]
@@ -59,4 +60,3 @@ I've been waiting so long
 To be where I'm going
 [A]In the [C]sunshine of your [G]love[A]
 {eoc}
-{midi: CC0.0@2, PC10@2}

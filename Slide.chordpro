@@ -1,11 +1,11 @@
 {t: Slide}
 {st: Goo Goo Dolls}
-{key:Em}
+{key: Em}
 {metronome: 112}
 {duration: 3:32}
-
-
-{c:Tempo 112}
+{tag: KAB}
+{c: 112 BPM, 3:32}
+{midi: CC0.0@2, PC25@2}
 
 {sop: Intro}
 [Em7] [D5] [Csus2] [Em7] [Em7] [D5]
@@ -142,7 +142,3 @@ Well, I will run away, run away, run away, run away
 {sop: Outro}
 [Csus2] [Em7] [Em7] [D5] [Csus2] [Gsus2]
 {eop}
-
-{midi: CC0.0@2, PC25@2}
-
-{tag: KAB}

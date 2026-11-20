@@ -3,9 +3,8 @@
 {key: Bm}
 {metronome: 127}
 {duration: 6:21}
-
-{c:Duration 6:21}
-{c:Tempo 127}
+{c: 127 BPM, 6:21}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Bm]
@@ -118,5 +117,3 @@ I have become comfortably numb
 {sop: Fade Out}
 [Bm] [A] [G] [Em] [Bm]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

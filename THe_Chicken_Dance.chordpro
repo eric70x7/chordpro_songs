@@ -3,37 +3,34 @@
 {key: C}
 {metronome: 96}
 {duration: 2:57}
-
-{c:Duration 2:57}
-{c:Tempo 96}
-
-{soc: Chorus}
-[C] [C] [G] [G]
-[Dm] [Dm] [G] [C]
-[C] [C] [G] [G]
-[Dm] [Dm] [C] [C]
-{eoc}
-
-{soc: Bridge}
-[C] [C] [C] [C]
-[Dm] [Dm] [Dm] [Dm]
-[Dm] [Dm] [Dm] [Dm]
-[Dm] [Dm] [G] [C] [C]
-{eoc}
-
-{soc: Chorus}
-[C] [C] [G] [G]
-[Dm] [Dm] [G] [C]
-[C] [C] [G] [G]
-[Dm] [Dm] [C] [C]
-{eoc}
-
-{soc: Bridge}
-[C] [C] [C] [C]
-[Dm] [Dm] [Dm] [Dm]
-[Dm] [Dm] [Dm] [Dm]
-[Dm] [Dm] [G] [C] [C]
-{eoc}
-
-{midi: CC0.0@2, PC10@2}
 {tag: Whiskey Lizard}
+{c: 96 BPM, 2:57}
+{midi: CC0.0@2, PC10@2}
+
+{soc: Chorus}
+[C] [C] [G] [G]
+[Dm] [Dm] [G] [C]
+[C] [C] [G] [G]
+[Dm] [Dm] [C] [C]
+{eoc}
+
+{soc: Bridge}
+[C] [C] [C] [C]
+[Dm] [Dm] [Dm] [Dm]
+[Dm] [Dm] [Dm] [Dm]
+[Dm] [Dm] [G] [C] [C]
+{eoc}
+
+{soc: Chorus}
+[C] [C] [G] [G]
+[Dm] [Dm] [G] [C]
+[C] [C] [G] [G]
+[Dm] [Dm] [C] [C]
+{eoc}
+
+{soc: Bridge}
+[C] [C] [C] [C]
+[Dm] [Dm] [Dm] [Dm]
+[Dm] [Dm] [Dm] [Dm]
+[Dm] [Dm] [G] [C] [C]
+{eoc}

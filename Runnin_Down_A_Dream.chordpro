@@ -3,21 +3,21 @@
 {key: E}
 {metronome: 170}
 {duration: 4:22}
-{ipodid:}
-
-
-{c:Tempo 170}
+{tag: Whiskey Lizard}
+{c: 170 BPM, 4:22}
+{midi: CC0.0@2, PC10@2}
+{ipodid: }
 
 {c:Intro lick x 4}
 
 {sop: Verse 1}
          [E]
-It was a beautiful day, 
+It was a beautiful day,
 the sun beat down
           [D]                 [E]
 I had the radio on, I was drivin'
 {c:Intro lick x 1}
-Trees flew by, 
+Trees flew by,
 me and Del were singin'
        [D]               [E]
 Little Runaway I was flyin'
@@ -29,7 +29,7 @@ Yeah runnin' down a dream
      [E]          [G]      [A]
 That never would come to me
    [D]        [G]   [E]
-Workin' on a mystery, 
+Workin' on a mystery,
   [E]   [G]     [A]
 goin' wherever it leads
 [A]      [G]     [E]
@@ -38,26 +38,14 @@ Runnin' down a dream
 
 {c:Intro lick x 1}
 
-
-
-
-
-
-
-
-
-
-
-
-
 {sop: Verse 2}
   [E]
-I felt so good 
+I felt so good
 like anything was possible
       [D]                               [E]
 I hit cruise control and rubbed my eyes
 {c:Intro lick x 1}
-The last three days 
+The last three days
 {soh}the rain was unstoppable{eoh}
        [D]                 [E]
 It was always cold, no sunshine
@@ -69,7 +57,7 @@ Yeah runnin' down a dream
      [E]          [G]      [A]
 That never would come to me
    [D]        [G]   [E]
-Workin' on a mystery, 
+Workin' on a mystery,
 [E]    [G]    [A]
 goin' wherever it leads
 [A]      [G]     [E]
@@ -85,28 +73,13 @@ Oooo     Oooo
 Oooo     Oooo     Oooo
 {eop}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {sop: Verse 3}
 [E]
 I rolled on as the sky grew dark
           [D]                      [E]
 I put the pedal down to make some time
 {c:Intro lick x 1}
-There's something good 
+There's something good
 {soh}waitin' down this road{eoh}
     [D]                    [E]
 I'm pickin' up whatever's mine
@@ -118,7 +91,7 @@ Yeah runnin' down a dream
      [E]          [G]      [A]
 That never would come to me
    [D]        [G]   [E]
-Workin' on a mystery, 
+Workin' on a mystery,
 [E]    [G]    [A]
 goin' wherever it leads
 [A]      [G]     [E]
@@ -128,25 +101,14 @@ Runnin' down a dream
  Yeah runnin' down a dream
      [E]          [G]      [A]
 That never would come to me
-   [D]        [G]   [E] 
-Workin' on a mystery, 
+   [D]        [G]   [E]
+Workin' on a mystery,
 [E]    [G]    [A]
 goin' wherever it leads
 [A]      [G]     [E]
 Runnin' down a dream
 Oooo
 {eoc}
-
-
-
-
-
-
-
-
-
-
-
 
 {sop: Interlude}
 [Cmaj7] - [Dsus2] - [E] -
@@ -163,7 +125,3 @@ Oooo
 [E] - [Cmaj7] - [Dsus2] - [E] -
  Oooo     Oooo     Oooo
 {eop}
-
-{midi: CC0.0@2, PC10@2} 
-
-{tag: Whiskey Lizard}

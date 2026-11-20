@@ -1,10 +1,13 @@
 {t: Mony Mony}
 {st: Billy Idol}
-{ipodid:}
-{key:G}
+{key: G}
 {metronome: 135}
 {duration: 5:01}
-
+{tag: BBB}
+{tag: Whiskey Lizard}
+{c: 135 BPM, 5:01}
+{midi: CC0.0@2, PC10@2}
+{ipodid: }
 
 {c:Key}
 [G]
@@ -179,7 +182,3 @@ So good (Like a pony)
 [D]
 (Mony Mony)
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: Whiskey Lizard}

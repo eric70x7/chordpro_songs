@@ -3,6 +3,9 @@
 {key: E}
 {metronome: 106}
 {duration: 3:47}
+{tag: Whiskey Lizard}
+{c: 106 BPM, 3:47}
+{midi: CC0.0@2, PC0@2}
 
 {c:Key:}
 [E]
@@ -24,7 +27,7 @@ Woah, gotta let the music play
 
 {sop: Verse 2}
 [E]                                               [A]
-What the people need 
+What the people need
 is a way to make them smile
 [E]                               [C#m]
 Ain't so hard to do if you know how
@@ -62,7 +65,7 @@ Oh, we're gonna dance our blues away
 
 {sop: Verse 4}
 [A]    [E]                                                       [A]
-And if I'm feeling good to you 
+And if I'm feeling good to you
 and you're feeling good to me
 [E]                                  [C#m]
 There ain't nothing we can't do or say
@@ -87,7 +90,7 @@ All the time
 
 [E]
 
-{c: Bends on top 3 strings maj pentatonic} 
+{c: Bends on top 3 strings maj pentatonic}
 
 [E]                    [D]
 Like a lazy flowing river
@@ -130,8 +133,3 @@ Oh, oh, oh listen to the music
 [F#] [A]
 All the time
 {eop}
-
-
-{midi: CC0.0@2, PC0@2}
-
-{tag: Whiskey Lizard}

@@ -3,9 +3,10 @@
 {key: G}
 {metronome: 114}
 {duration: 5:40}
-
-
-{c:Tempo 114}
+{tag: Whiskey Lizard}
+{tag: BBB}
+{c: 114 BPM, 5:40}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [G5]
@@ -98,7 +99,3 @@ Smoke on the water
 {sop: Outro}
 [G5]
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}
-{tag: BBB}

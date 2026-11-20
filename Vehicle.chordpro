@@ -1,12 +1,12 @@
 {t: Vehicle}
 {st: The Ides of March}
-{ipodid:}
 {key: Bm}
 {metronome: 102}
 {duration: 2:56}
-
-
-{c:Tempo 102}
+{tag: Whiskey Lizard}
+{c: 102 BPM, 2:56}
+{midi: CC0.0@2, PC9@2}
+{ipodid: }
 
 {sop: Intro}
 [Em] [Bm]
@@ -45,15 +45,6 @@ Got to have you child
 [Em]
 Great God in heaven you know I love you
 {eoc}
-
-
-
-
-
-
-
-
-
 
 {sop: Pre-Verse}
 [Em] [Bm]
@@ -108,12 +99,6 @@ Great God in heaven you know I love you
 Well
 {eop}
 
-
-
-
-
-
-
 {sop: Verse 3}
 [Em]
 I'm a friendly stranger in a black sedan
@@ -166,5 +151,3 @@ Great God in heaven you know I love you
 {sop: Outro}
 [Bm] [Bm] [Bm] [Em]
 {eop}
-{midi: CC0.0@2, PC9@2}
-{tag: Whiskey Lizard}

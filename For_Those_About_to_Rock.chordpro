@@ -1,6 +1,7 @@
 {t: For Those About to Rock (We Salute You)}
 {st: AC/DC}
 {key: B}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [B] [G] [D] [E] [B]
@@ -129,5 +130,3 @@ We salute you
 [E]    [B]
 Shoot
 {eop}
-
-{midi: CC0.0@2, PC10@2}

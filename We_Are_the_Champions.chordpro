@@ -3,9 +3,9 @@
 {key: Cm}
 {metronome: 64}
 {duration: 3:01}
-
-
-{c:Tempo 64}
+{tag: Whiskey Lizard}
+{c: 64 BPM, 3:01}
+{midi: CC0.0@2, PC11@2}
 
 {sop: Verse 1}
 [Cm]
@@ -99,6 +99,4 @@ No time for losers
 [Ab]            [Bb]       [Csus4]
 'Cause we are the champ
 {eop}
-{midi: CC0.0@2, PC11@2}
 [Dm]
-{tag: Whiskey Lizard}

@@ -3,9 +3,8 @@
 {key: F}
 {metronome: 122}
 {duration: 3:33}
-
-{c:Duration 3:33}
-{c:Tempo 122}
+{c: 122 BPM, 3:33}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [F] [Bb] [F]
@@ -132,5 +131,3 @@ You, you make a dead man come
 [F]                            [Bb]  [F]
 You, you you make a dead man come
 {eop}
-
-{midi: CC0.0@2, PC10@2}

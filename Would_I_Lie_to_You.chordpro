@@ -1,11 +1,10 @@
-{t:Would I Lie to You?}
-{st:Eurythmics}
-{key:A}
-{metronome:132}
-{duration:4:22}
-
-{c:Duration 4:22}
-{c:Tempo 132}
+{t: Would I Lie to You?}
+{st: Eurythmics}
+{key: A}
+{metronome: 132}
+{duration: 4:22}
+{c: 132 BPM, 4:22}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [D7sus4] [D7] [A] [G]
@@ -63,7 +62,7 @@ To your face, no deception
 That much is true
 Had all I can take
                 [D7sus4]
-Now I'm leaving you   
+Now I'm leaving you
 {eop}
 
 {sop:Interlude}
@@ -143,5 +142,3 @@ Would I lie to you?
 [G]        [A]          [G]
  Would I lie to you?
 {eop}
-
-{midi: CC0.0@2, PC10@2}

@@ -3,9 +3,9 @@
 {key: G}
 {metronome: 108}
 {duration: 3:49}
-
-
-{c:Tempo 108}
+{tag: Whiskey Lizard}
+{c: 108 BPM, 3:49}
+{midi: CC0.0@2, PC18@2}
 
 {sop: Intro}
 [G] [F] [Am] [G]
@@ -42,9 +42,6 @@ It feels like the first time
 [Am/G]                            [G]
 It feels like the very first time
 {eoc}
-
-
-
 
 {sop: Verse 2}
 [G]
@@ -129,7 +126,3 @@ Because it feels like
 [F]            [G]
 The very first time
 {eop}
-
-{midi: CC0.0@2, PC18@2}
-
-{tag: Whiskey Lizard}

@@ -1,6 +1,7 @@
-{t:Harolds Corral}
-{st:Whiskey Lizard}
+{t: Harolds Corral}
+{st: Whiskey Lizard}
 {duration: 3:00}
+{midi: CC0.0@2, PC10@2}
 
 Hey, wooo,  mmmm  yeah  hey  wooo
 
@@ -16,14 +17,13 @@ Cave Creek Proud
 Bringing Live Music
 To every crowd
 {eop}
- 
+
 {sop: Pre-Chorus}
 Sun on the mesa
 Sky turning gold
 One more round
 And we lose control
 {eop}
- 
 
 {soc}
 Harolds Corral
@@ -36,7 +36,7 @@ All night long
 Whiskey Lizard band is Rocking
 Sing it out, sing it strong
 Sing it strong
-{eoc} 
+{eoc}
 
 {sop: Verse 2}
 
@@ -50,7 +50,6 @@ As we rock the night
 Rocking Harolds
 with all our might
 {eop}
- 
 
 {sop: Pre-Chorus}
 
@@ -59,7 +58,6 @@ Sky turnin' gold
 One more round
 And we lose control
 {eop}
- 
 
 {soc}
 Harolds Corral
@@ -73,7 +71,6 @@ Whiskey Lizard Band is Rocking
 Sing it out, sing it strong
 Sing it strong
 {eoc}
- 
 
 {sop:Bridge}
 Raise 'em up now
@@ -83,7 +80,5 @@ Burnin' through the night
 
 One more chorus
 Let it ride
-Keep on dancing 
+Keep on dancing
 throughout the night
-
-{midi: CC0.0@2, PC10@2}

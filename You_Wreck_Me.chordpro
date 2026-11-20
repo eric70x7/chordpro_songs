@@ -1,10 +1,14 @@
 {t: You Wreck Me}
 {st: Tom Petty}
-{ipodid:}
 {key: D}
 {metronome: 165}
 {duration: 3:27}
 {tag: Eric Sings}
+{tag: Whiskey Lizard}
+{tag: BBB}
+{c: 165 BPM, 3:27}
+{midi: CC0.0@2, PC9@2, CC80.127@2}
+{ipodid: }
 
 {sop: Intro}
 [D] [A] [E]
@@ -30,21 +34,6 @@ Yeah, you break me in two
 But you move me, honey
 Yes, you do
 {eoc}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {sop: Verse 2}
 [D]           [A]           [E]
@@ -75,20 +64,6 @@ Yes, you do
 [D]  [A]  [E]
 {eop}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {sop: Verse 3}
 [D]           [A]           [E]
 I'll be the boy in the corduroy pants
@@ -114,6 +89,3 @@ Yes, you do
 [D] [A] [D] [A] [E]
 - - -
 {eop}
-{midi: CC0.0@2, PC9@2, CC80.127@2}
-{tag: Whiskey Lizard}
-{tag: BBB}

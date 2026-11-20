@@ -3,8 +3,8 @@
 {key: G}
 {metronome: 146}
 {duration: 5:10}
-
-{c:Tempo 146}
+{c: 146 BPM, 5:10}
+{midi: CC0.0@2, PC11@2}
 
 {sop: Intro}
 {eop}
@@ -74,5 +74,3 @@ To find it, to find it, to find it
 
 {sop: Outro}
 {eop}
-
-{midi: CC0.0@2, PC11@2}

@@ -3,9 +3,9 @@
 {key: A}
 {metronome: 120}
 {duration: 3:00}
-
-
-{c:Tempo 117}
+{tag: Whiskey Lizard}
+{c: 120 BPM, 3:00}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [A]
@@ -97,6 +97,3 @@ Ooh girl, you girl, want you
 [D]   [E]     [D]   [E]          [A]
 Ooh girl, you girl, want you
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

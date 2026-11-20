@@ -3,9 +3,10 @@
 {key: E}
 {metronome: 84}
 {duration: 4:16}
-
-
-{c:Tempo 84}
+{tag: KAB}
+{tag: BBB}
+{c: 84 BPM, 4:16}
+{midi: CC0.0@2, PC9@2}
 
 {sop: Intro}
 [E] [Asus2] [Asus2] [E] [Bsus4]
@@ -88,7 +89,3 @@ Oh!
 Now I'm free, free fallin'
 Now I'm free, free fallin'
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: KAB}
-{tag: BBB}

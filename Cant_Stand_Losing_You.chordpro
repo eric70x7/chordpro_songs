@@ -1,11 +1,11 @@
-{t:Can't Stand Losing You}
-{st:The Police}
-{key:Dm}
-{metronome:142}
-{duration:2:58}
-
-{c:Duration 2:58}
-{c:Tempo 142}
+{t: Can't Stand Losing You}
+{st: The Police}
+{key: Dm}
+{metronome: 142}
+{duration: 2:58}
+{tag: BBB}
+{c: 142 BPM, 2:58}
+{midi: CC0.0@2, PC9@2}
 
 {sop:Intro}
 [Dm] [Gm] [Dm] [Gm]
@@ -109,6 +109,3 @@ I can't stand losing you
 {sop:Outro}
 [Dm][Gm][Dm][Gm][Dm][Gm][Dm]
 {eop}
-
-{midi: CC0.0@2, PC9@2}
-{tag: BBB}

@@ -1,7 +1,8 @@
 {t: Whiskey in the Jar}
 {st: Traditional}
-{key:F}
-
+{key: F}
+{tag: KAB}
+{midi: CC0.0@2, PC27@2}
 
 {sop: Intro}
 [F][E5][Dm][F][E5]
@@ -91,7 +92,3 @@ Musha ring dum a doo dum a da, hey yah
 Musha ring dum a doo dum a da
 Musha ring dum a doo dum a da, hey[F]
 {eop}
-
-{midi: CC0.0@2, PC27@2}
-
-{tag: KAB}

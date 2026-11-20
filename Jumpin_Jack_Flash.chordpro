@@ -3,9 +3,9 @@
 {key: B}
 {metronome: 137}
 {duration: 3:42}
-
-
-{c:Tempo 137}
+{tag: Whiskey Lizard}
+{c: 137 BPM, 3:42}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [B] [E] [A] [B] [E] [A]
@@ -101,6 +101,3 @@ Jumping Jack Flash, its a gas
 [B] [E] [A] [B] [E] [A]
 [B] [E] [A]
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

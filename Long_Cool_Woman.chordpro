@@ -4,17 +4,20 @@
 {metronome: 138}
 {duration: 3:17}
 {tag: Eric Sings}
-{c:Tempo 138}
+{tag: BBB}
+{tag: Whiskey Lizard}
+{c: 138 BPM, 3:17}
+{midi: CC0.0@2, PC1@2}
 
 {sop: Verse 1}
 [E]            [G]        [A]     [E]
-Saturday night I was down town, 
+Saturday night I was down town,
 working for the F.B.I.
-Sitting in a nest of bad men, 
+Sitting in a nest of bad men,
 whiskey bottles piling high
-Boot legging boozer on the west side, 
+Boot legging boozer on the west side,
 full of people who are doing wrong
-Just about to call up the D.A. man, 
+Just about to call up the D.A. man,
 when I heard this woman singing a song
 [A]
 A pair of forty fives
@@ -25,7 +28,7 @@ My temperature started to rise
 
 {soc}
 [A]
-She was a long cool woman 
+She was a long cool woman
 in a black dress
 [G]               [E]
 Just a five nine, beautiful, tall
@@ -35,32 +38,25 @@ With just one look I was a bad mess
 'Cause that long cool woman had it all
 {eoc}
 
-
-
-
-
-
-
-
 {sop: Verse 2}
 [E]         [G]           [A]         [E]
 Saw her heading to
- the table, 
+ the table,
 well a tall walking big black cat
-When Charlie said 
-"I hope that you're able, boy," 
+When Charlie said
+"I hope that you're able, boy,"
 well I'm telling you she knows where it's at
-Well suddenly we heard a siren, 
+Well suddenly we heard a siren,
 and everybody started to run
-A jumping out of doors and tables, 
+A jumping out of doors and tables,
 well I heard somebody shooting a gun
-Well the D.A. was pumping my left hand, 
+Well the D.A. was pumping my left hand,
 and a she a holding my right
 [G]                                     [A]
-And I told her don't get scared, 
+And I told her don't get scared,
 ‘cause you're gonna be spared
 [A]
-I gotta be forgiven, 
+I gotta be forgiven,
 if I want to spend my living with
 {eop}
 
@@ -76,6 +72,3 @@ With just one look I was a bad mess
 [E]
 Had it all, had it all
 {eoc}
-{midi: CC0.0@2, PC1@2}
-{tag: BBB}
-{tag: Whiskey Lizard}

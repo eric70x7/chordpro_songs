@@ -3,9 +3,9 @@
 {key: D}
 {metronome: 180}
 {duration: 3:25}
-
-{c:Duration 3:25}
-{c:Tempo 180}
+{tag: BBB}
+{c: 180 BPM, 3:25}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D]   [A]   [D]   [A]   [G]   [A]   [D]
@@ -21,7 +21,7 @@ And she makes you want to scream
 [G]                 [A]              [D]
 Wishing you could get inside her pants
        [G]           [A]
-So you fantasize a-way  
+So you fantasize a-way
              [G]                 [E]           [A]
 While you're squeezing her you thought you heard her saying
 {eop}
@@ -106,12 +106,9 @@ Good girls don't, but I do...
 
 {sop: Outro}
     [D]      [A]
-But I do... 
+But I do...
     [D]      [A]
-But I do... 
+But I do...
      [D]     [A]  [G]  [D]
 But I do...
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

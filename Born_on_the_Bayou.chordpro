@@ -3,9 +3,8 @@
 {key: A}
 {metronome: 117}
 {duration: 5:13}
-
-{c:Duration 5:13}
-{c:Tempo 117}
+{c: 117 BPM, 5:13}
+{midi: CC0.0@2, PC57@2}
 
 {sop: Intro}
 [E7]
@@ -93,5 +92,3 @@ Chasin' down a hoodoo there
 {c:Intro 7th chord}
 [E7]
 {eop}
-
-{midi: CC0.0@2, PC57@2}

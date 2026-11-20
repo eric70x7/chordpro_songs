@@ -1,6 +1,7 @@
 {t: Feel Like Making Love}
 {st: Bad Company}
 {key: D}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D][C][G][D][C]
@@ -81,5 +82,3 @@ And if [D]I had the [Cadd9]sun and [G]moon, and they were [Cadd9]shi[D][Cadd9]ni
 [D]Feel like [Cadd9]makin' [G]love[D]
 [D][Cadd9][G]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

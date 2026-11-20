@@ -3,10 +3,10 @@
 {key: D}
 {metronome: 122}
 {duration: 3:23}
-
-
-
-{c:Tempo 122}
+{tag: Whiskey Lizard}
+{tag: BBB}
+{c: 122 BPM, 3:23}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D]
@@ -129,7 +129,3 @@ Talkin' 'bout my baby
 [D]
 She's some kind of wonderful
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}
-{tag: BBB}

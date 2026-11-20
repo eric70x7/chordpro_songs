@@ -1,10 +1,10 @@
-{t:Country Girl (Shake It For Me)}
-{st:Luke Bryan}
-{key:Em}
-{metronome:106}
-{duration:3:46}
-{c:Duration 3:46}
-{c:Tempo 106}
+{t: Country Girl (Shake It For Me)}
+{st: Luke Bryan}
+{key: Em}
+{metronome: 106}
+{duration: 3:46}
+{c: 106 BPM, 3:46}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [Em] [G] [D/F#] [Em]
@@ -190,5 +190,3 @@ Girl shake it for me
 {sop:Outro}
 [Em]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

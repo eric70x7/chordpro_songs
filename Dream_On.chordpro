@@ -3,9 +3,9 @@
 {key: Fm}
 {metronome: 80}
 {duration: 4:28}
-
-
-{c:Tempo 80}
+{tag: Whiskey Lizard}
+{c: 80 BPM, 4:28}
+{midi: CC0.0@2, PC9@2}
 
 {sop: Intro}
 [Fm] [Cm/F] [Fm6] [Dbmaj7b5/F] [Fm] [Fsus4] [Fm]
@@ -132,6 +132,3 @@ Sing with me if it's just for today
 [Dm7b5]               [Dbmaj7]                       [C]
 Maybe tomorrow, the good Lord will take you away
 {eoc}
-{midi: CC0.0@2, PC9@2}
-
-{tag: Whiskey Lizard}

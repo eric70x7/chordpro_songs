@@ -1,6 +1,8 @@
 {t: Sharp Dressed Man}
 {st: ZZ Top}
 {key: Cm}
+{tag: BBB}
+{midi: CC0.0@2, PC11@2}
 
 {sop: Intro}
 [Cm]
@@ -57,7 +59,3 @@ lookin' sharp and lookin' for [F]love.
 [Cm][F][Cm][F] - - - -
 [Cm][F] - - - -
 {eop}
-
-{midi: CC0.0@2, PC11@2} 
-
-{tag: BBB}

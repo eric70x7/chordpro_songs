@@ -3,9 +3,8 @@
 {key: G}
 {metronome: 116}
 {duration: 3:25}
-
-
-{c:Tempo 116}
+{c: 116 BPM, 3:25}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [G] [C]
@@ -129,4 +128,3 @@ Hang on, Sloopy
 Sloopy, hang on
 [D] [C] [G]
 {eoc}
-{midi: CC0.0@2, PC10@2}

@@ -1,12 +1,12 @@
 {t: Surrender}
 {st: Cheap Trick}
-{ipodid: 6175295615369465104}
 {key: B}
 {metronome: 134}
 {duration: 4:14}
-
-
-{c:Tempo 134}
+{tag: Whiskey Lizard}
+{c: 134 BPM, 4:14}
+{midi: CC0.0@2, PC10@2}
+{ipodid: 6175295615369465104}
 
 {sop: Intro}
 [G#] [A#] [G#] [A#]
@@ -167,6 +167,3 @@ Surrender, surrender
 But don't give yourself away
 [C] [C/A] [C/G] [F]
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

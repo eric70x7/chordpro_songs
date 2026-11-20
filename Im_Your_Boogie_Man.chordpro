@@ -3,9 +3,9 @@
 {key: Gm}
 {metronome: 113}
 {duration: 4:02}
-
-{c:Duration 4:02}
-{c:Tempo 113}
+{tag: Whiskey Lizard}
+{c: 113 BPM, 4:02}
+{midi: CC0.0@2, PC8@2}
 
 {sop: Intro}
 {c:Gm pent}
@@ -39,10 +39,6 @@ Turn me on
 I'm your boogie man, I'm your boogie man
 I'll do what you want
 {eoc}
-
-
-
-
 
 {sop: Verse 2}
 [Gm]
@@ -122,6 +118,3 @@ Wooh,
 [Gm]       [C]  [Gm]   [C]
 Ooh ooh ooh   ah ah - FADE OUT
 {eop}
-
-{midi: CC0.0@2, PC8@2}
-{tag: Whiskey Lizard}

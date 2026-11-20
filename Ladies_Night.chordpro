@@ -3,11 +3,11 @@
 {key: C#m}
 {metronome: 112}
 {duration: 3:28}
-
+{tag: Whiskey Lizard}
+{c: 112 BPM, 3:28}
+{midi: CC0.0@2, PC10@2}
 
 {c:Patch 00.2}
-
-{c:Tempo 112}
 
 {soc}
 [C#m7]
@@ -181,6 +181,3 @@ Everything is gonna be alright
 {c: Repeat x32}
 Come on, let's all celebrate
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

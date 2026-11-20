@@ -1,8 +1,11 @@
-{t:Jenny, Jenny}
+{t: Jenny, Jenny}
 {st: Tommy Tutone}
 {key: F#m}
 {metronome: 138}
 {duration: 3:45}
+{tag: Whiskey Lizard}
+{c: 138 BPM, 3:45}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 {c:Intro lick}
@@ -19,7 +22,7 @@ Who saw your name and number on the wall
 {sop: Pre-Chorus}
 [E]           [D] [C#] [A] [B]
 Jenny i've got your number
-[E]           [A] [C#] [D] [C#] 
+[E]           [A] [C#] [D] [C#]
 I need to make you mine
 [E]           [D] [C#] [A] [B]
 Jenny don't change your number
@@ -44,7 +47,7 @@ I tried my i magination but I was disturbed
 {sop: Pre-Chorus}
 [E]           [D] [C#] [A] [B]
 Jenny i've got your number
-[E]           [A] [C#] [D] [C#] 
+[E]           [A] [C#] [D] [C#]
 I need to make you mine
 [E]           [D] [C#] [A] [B]
 Jenny don't change your number
@@ -103,7 +106,3 @@ For the price of a dime I can always turn to you
 Eight six seven five three o nine
 Eight six seven five three o nine
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

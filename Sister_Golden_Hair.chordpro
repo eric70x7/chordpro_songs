@@ -1,13 +1,13 @@
-{t:Sister Golden Hair}
-{st:America}
-{key:E}
-{metronome:135}
-{duration:3:20}
-{c:Duration 3:20}
-{c:Tempo 135}
+{t: Sister Golden Hair}
+{st: America}
+{key: E}
+{metronome: 135}
+{duration: 3:20}
+{c: 135 BPM, 3:20}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
-[C#m] [A] [E] [Esus4] [E] 
+[C#m] [A] [E] [Esus4] [E]
 [G#m] [C#m] [B] [A]
 {eop}
 
@@ -43,7 +43,7 @@ Well I tried   to fake it, I don't mind sayin', I just can't make it.
 {eoc}
 
 {sop:Interlude}
-[C#m] [A] [E] [Esus4] [E] 
+[C#m] [A] [E] [Esus4] [E]
 [G#m] [C#m] [B] [A]
 {eop}
 
@@ -68,7 +68,5 @@ Well I tried   to fake it, I don't mind sayin', I just can't make it.
 {eoc}
 
 {sop:Outro}
-[B] [A] [E] 
+[B] [A] [E]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

@@ -3,14 +3,13 @@
 {key: E}
 {metronome: 136}
 {duration: 3:44}
-
-{c:Duration 3:44}
-{c:Tempo 136}
+{tag: Whiskey Lizard}
+{c: 136 BPM, 3:44}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 {c: 4x 1, 4x 2}
 [E]
- 
 
 {eop}
 
@@ -23,7 +22,7 @@
  'Cause when you're standing oh, so near,
 [C#m]                [G#]
    I kinda lose my mind.
- 
+
 {eop}
 
 {sop: Verse 2}
@@ -35,7 +34,7 @@
  I don't mind you coming here,
 [G#]                  [A]
   And wasting all my time.
- 
+
 {eop}
 
 {sop: Bridge}
@@ -53,7 +52,7 @@
  It doesn't matter where you've been,
 [C#m]                  [G#]
    As long as it was deep, yeah.
- 
+
 {eop}
 
 {sop: Pre-Chorus}
@@ -65,7 +64,7 @@ And   you look so fancy, I can tell.
  I don't mind you hanging out,
 [G#]                   [A]
   And talking in your sleep.
- 
+
 {eop}
 
 {soc: Chorus}
@@ -94,7 +93,7 @@ And   you look so fancy, I can tell.
  'Cause when you're standing oh, so near,
 [C#m]                [G#]
    I kinda lose my mind, yeah.
- 
+
 {eop}
 
 {sop: Pre-Chorus}
@@ -106,7 +105,7 @@ And   you look so fancy, I can tell.
  I don't mind you coming here,
 [G#]                  [A]
   And wasting all my time.
- 
+
 {eop}
 
 {soc: Chorus}
@@ -143,6 +142,3 @@ And   you look so fancy, I can tell.
 Yeah, yeah.
 [C#m] [G#] [A] [B] [C#m]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Whiskey Lizard}

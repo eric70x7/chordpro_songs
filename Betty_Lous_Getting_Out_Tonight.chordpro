@@ -3,8 +3,10 @@
 {key: F}
 {metronome: 128}
 {duration: 2:52}
-
-{c:Tempo 128}
+{tag: BBB}
+{tag: Whiskey Lizard}
+{c: 128 BPM, 2:52}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [F] [Bb7] [F] [C] [F]
@@ -42,8 +44,6 @@ All the boys were getting ready to fight
 [F]
 Betty Lou's gettin' out tonight
 {eop}
-
-
 
 {soc}
 [F]
@@ -83,12 +83,6 @@ What do you think about that boys
 - - -
 {eop}
 
-
-
-
-
-
-
 {sop: Interlude}
 [F]
 Betty Lou
@@ -123,7 +117,3 @@ Grab a hold of somethin' hold on tight
 [F]
 Betty Lou's gettin' out tonight
 {eoc}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}
-{tag: Whiskey Lizard}

@@ -4,9 +4,8 @@
 {metronome: 114}
 {duration: 2:58}
 {tag: Eric Sings}
-
-{c:Duration 2:58}
-{c:Tempo 114}
+{c: 114 BPM, 2:58}
+{midi: CC0.0@2, PC9@2}
 
 {sop: Intro}
 [Em] [D] [G]
@@ -79,5 +78,3 @@ And I won't back down
 [Em] [D]   [G]
 Won't back down
 {eoc}
-
-{midi: CC0.0@2, PC9@2}

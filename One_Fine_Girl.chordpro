@@ -3,7 +3,9 @@
 {key: D}
 {metronome: 152}
 {duration: 3:41}
-
+{tag: KAB}
+{c: 152 BPM, 3:41}
+{midi: CC0.0@2, PC18@2}
 
 {c:Intro}
 
@@ -79,6 +81,3 @@ You are one fine beauty I call mine
 [B]  [G] [E] [G]
 You are one fine girl
 {eoc}
-{midi: CC0.0@2, PC18@2}
-
-{tag: KAB}

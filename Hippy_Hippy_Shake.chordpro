@@ -3,8 +3,9 @@
 {key: E}
 {metronome: 150}
 {duration: 1:45}
-
-{c:Tempo 150}
+{tag: BBB}
+{c: 150 BPM, 1:45}
+{midi: CC0.0@2, PC9@2}
 
 {sop:Verse}
                         [A]                                        [E]
@@ -51,6 +52,3 @@ Yeah it's in the back ooh the hippy hippy shake
 Oh the hippy hippy shake ooh the hippy hippy shake
 [A] [E]
 {eop}
-
-{midi: CC0.0@2, PC9@2}
-{tag: BBB}

@@ -1,11 +1,11 @@
-{t:Fire and Rain}
-{st:James Taylor}
-{key:A}
-{metronome:76}
-{duration:3:20}
-
-{c:Duration 3:20}
-{c:Tempo 76}
+{t: Fire and Rain}
+{st: James Taylor}
+{key: A}
+{metronome: 76}
+{duration: 3:20}
+{tag: Acoustic}
+{c: 76 BPM, 3:20}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [A] [Em7] [Dsus2] [D] [A] [A] [E]
@@ -86,6 +86,3 @@ There's just a few things coming my way this time around.
 Thought I'd see you, thought I'd see you fire and rain now.
 Da da da
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Acoustic}

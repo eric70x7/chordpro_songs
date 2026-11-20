@@ -3,9 +3,9 @@
 {key: G}
 {metronome: 108}
 {duration: 3:47}
-
-
-{c:Tempo 108}
+{tag: KAB}
+{c: 108 BPM, 3:47}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [G] [Cadd9] [G] [Cadd9] [G] [Cadd9] [G] [Cadd9]
@@ -106,6 +106,3 @@ Well hell, when she says baby
 [D]               [Em]  [D]   [Cadd9]
 Well I can't help but be scared of it all sometimes
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

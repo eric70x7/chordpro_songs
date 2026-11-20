@@ -3,8 +3,9 @@
 {key: A}
 {metronome: 137}
 {duration: 3:40}
-
-{c:Tempo 137}
+{tag: BBB}
+{c: 137 BPM, 3:40}
+{midi: CC0.0@2, PC1@2}
 
 {c:Intro}
 [E] [B] [E] [B] [E] [B] [E] [B]
@@ -140,6 +141,3 @@ Living wild, wild, wild, wild
 [A]
 Life
 {eop}
-
-{midi: CC0.0@2, PC1@2}
-{tag: BBB}

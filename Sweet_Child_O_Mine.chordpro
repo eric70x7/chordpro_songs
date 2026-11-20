@@ -1,8 +1,8 @@
-
 {t: Sweet Child O' Mine}
 {st: Guns N' Roses}
+{key: D}
+{midi: CC0.0@2, PC10@2}
 {ipodid: 5826523817712827519}
-{key:D}
 
 {sop: Intro}
 [D] [Cadd9] [G] [D]
@@ -114,6 +114,3 @@ No no no no no no no
 Sweet child
 Sweet child of mine
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}

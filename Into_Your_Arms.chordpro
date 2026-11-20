@@ -3,8 +3,9 @@
 {key: D}
 {metronome: 124}
 {duration: 2:45}
-
-{c:Tempo 124}
+{tag: Acoustic}
+{c: 124 BPM, 2:45}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D]
@@ -94,6 +95,3 @@ I can go
 [D]
 I can go
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Acoustic}

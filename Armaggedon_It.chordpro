@@ -1,6 +1,7 @@
 {t: Armageddon It}
 {st: Def Leppard}
 {key: E}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro 1}
 [E][D][A][E][D][A]
@@ -155,4 +156,3 @@ Ev'ry bit of your lovin oh
 Never want it to stop
 Oh
 {eoc}
-{midi: CC0.0@2, PC10@2}

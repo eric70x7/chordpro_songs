@@ -3,9 +3,8 @@
 {key: Em}
 {metronome: 167}
 {duration: 5:06}
-
-{c:Duration 5:06}
-{c:Tempo 167}
+{c: 167 BPM, 5:06}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Em] [C] [G] [D/F#]
@@ -123,5 +122,3 @@ Zombie, zombie, zombie
 [Em] [C] [Em] [C]
 [Em] [C] [Em]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

@@ -3,9 +3,9 @@
 {key: E}
 {metronome: 86}
 {duration: 7:28}
-
-
-{c:Tempo 86}
+{tag: KAB}
+{c: 86 BPM, 7:28}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro (Choir)}
 [E]                          [A/C#]
@@ -147,7 +147,3 @@ You get what you need
 [E] [Aadd9/C#] [E]
 - - -
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

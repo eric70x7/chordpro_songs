@@ -1,6 +1,8 @@
 {t: Ain't Nobody}
 {st: Chaka Khan}
 {key: Ebm}
+{tag: Whiskey Lizard}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Ebm]
@@ -152,8 +154,3 @@ Makes me feel this way
 Ain't nobody
 [Abm]
 {eoc}
-
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

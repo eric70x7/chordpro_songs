@@ -1,9 +1,11 @@
 {t: If You Want Blood (You've Got It)}
 {st: AC/DC}
 {key: A}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
-[A] [D] [A] [D] [G] [D] 
+[A] [D] [A] [D] [G] [D]
 {eop}
 
 {sop: Verse 1}
@@ -28,7 +30,7 @@ Blood in gutter
 Every last drop
 You want blood, you got it
 {eoc}
-[Dsus4] [D] [Dsus4] 
+[Dsus4] [D] [Dsus4]
 
 [A] [D] [A] [D] [G] [D] [A] [D] [A] [D]
 
@@ -67,11 +69,11 @@ You want blood, you got
 [A]        [D]     [A] [F#] [G] [C]
 
 [A]        [D]     [A] [D] [Dsus4] [A]
-It blood on the rocks 
+It blood on the rocks
 [A]        [D]     [A] [F#] [G] [C]
-Blood on the streets 
+Blood on the streets
 [A]        [D]     [A] [D] [Dsus4] [A]
-Blood in the sky 
+Blood in the sky
 [A]        [D]     [A] [F#] [G] [C]
 Blood on the sheets
 [A]
@@ -84,7 +86,3 @@ If you want blood - you got it
 [D]      [A]   [D] [A]      [D]      [G]
 If you want blood you got it
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

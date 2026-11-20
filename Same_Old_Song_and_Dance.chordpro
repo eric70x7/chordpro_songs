@@ -1,6 +1,8 @@
 {t: Same Old Song and Dance}
 {st: Aerosmith}
 {key: E}
+{tag: BBB}
+{midi: CC0.0@2, PC34@2}
 
 {sop: Intro}
 [E5]
@@ -8,7 +10,7 @@
 {eop}
 
 {sop: Solo}
-[E5] [G5] 
+[E5] [G5]
 [A5] [C5] [D5] [F5]
 {c:Solo}
 [G5] [A5] [C5] [D5] [E5]
@@ -84,7 +86,3 @@ Same old song and dance
 {c:Outro Solo}
 [E5]
 {eop}
-
-{midi: CC0.0@2, PC34@2}
-
-{tag: BBB}

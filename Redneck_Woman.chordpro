@@ -1,9 +1,12 @@
 {t: Redneck Woman}
 {st: Gretchen Wilson}
-{ipodid: 415107524900013856}
 {key: E}
 {metronome: 183}
 {duration: 3:42}
+{tag: Whiskey Lizard}
+{c: 183 BPM, 3:42}
+{midi: CC0.0@2, PC10@2}
+{ipodid: 415107524900013856}
 
 {sop: Intro}
 {c: ala They Call Me the Breeze}
@@ -18,16 +21,16 @@ Well I ain't never been the Barbie doll type
 No I can't swing that sweet champagne
 I'd rather drink beer all night
 [A]
-In a tavern or in a honky tonk 
+In a tavern or in a honky tonk
 or on a four whell drive taligate
 [E]
-I've got posters on my wall 
+I've got posters on my wall
 of Skynyrd Kid and Strait
 [B]
-Some people look down on me 
+Some people look down on me
 but I don't give a rip
 [A]
-I'll stand barefooted in my own front yard 
+I'll stand barefooted in my own front yard
 with a baby on my hip
 {eop}
 
@@ -41,13 +44,13 @@ I say "Hey ya" and "Yeehaw"
 And I keep my Christmas lights on
 On my front porch all year long
 [E]
-And I know all the word to every 
+And I know all the word to every
 Charlie Daniels song
 [B]
-So here's to all my sisters 
+So here's to all my sisters
 Out there keeping it country
 [A]
-Let me get a big "hell yeah" 
+Let me get a big "hell yeah"
 From the redneck girls like me
 [E]
 Hell yeah!
@@ -66,7 +69,7 @@ Just as sexy as those models on TV
 No I don't need no designer tag
 To make my man want me
 [B]
-You might think I'm trashy 
+You might think I'm trashy
 a little too hardcore
 [A]
 But in my neck of the woods
@@ -83,13 +86,13 @@ I say "Hey ya" and "Yeehaw"
 And I keep my Christmas lights on
 On my front porch all year long
 [E]
-And I know all the word 
+And I know all the word
 to every Tonya Tucker song
 [B]
-So here's to all my sisters 
+So here's to all my sisters
 Out there keeping it country
 [A]
-Let me get a big "hell yeah" 
+Let me get a big "hell yeah"
 From the redneck girls like me
 [E]
 Hell yeah!
@@ -113,13 +116,13 @@ I say "Hey ya" and "Yeehaw"
 And I keep my Christmas lights on
 On my front porch all year long
 [E]
-And I know all the word 
+And I know all the word
 to every ol' Bocephus song
 [B]
-So here's to all my sisters 
+So here's to all my sisters
 Out there keeping it country
 [A]
-Let me get a big "hell yeah" 
+Let me get a big "hell yeah"
 From the redneck girls like me
 [E]
 Hell yeah!
@@ -128,8 +131,3 @@ Hell Yeah!
 [E]
 I said Hell Yeah!
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

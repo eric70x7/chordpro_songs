@@ -1,10 +1,11 @@
-{t:Gunpowder and Lead}
-{st:Miranda Lambert}
-{key:G}
-{metronome:94}
-{duration:3:12}
-{c:Duration 3:12}
-{c:Tempo 94}
+{t: Gunpowder and Lead}
+{st: Miranda Lambert}
+{key: G}
+{metronome: 94}
+{duration: 3:12}
+{tag: Whiskey Lizard}
+{c: 94 BPM, 3:12}
+{midi: CC0.0@2, PC9@2}
 
 {sop:Intro}
 [G] [F] [C]
@@ -87,6 +88,3 @@ Gunpowder and lead
 [F]                   [C]           [G]
  Gunpowder and lead
 {eop:Solo}
-
-{midi: CC0.0@2, PC9@2}
-{tag: Whiskey Lizard}

@@ -3,10 +3,10 @@
 {key: Em}
 {metronome: 78}
 {duration: 5:13}
-
-
-
-{c:Tempo 78}
+{tag: KAB}
+{tag: Whiskey Lizard}
+{c: 78 BPM, 5:13}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Em]
@@ -107,7 +107,3 @@ yeah
 [Em]There I go
 And I'm
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}
-{tag: Whiskey Lizard}

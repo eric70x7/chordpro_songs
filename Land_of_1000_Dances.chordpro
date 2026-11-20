@@ -3,9 +3,8 @@
 {key: D}
 {metronome: 87}
 {duration: 2:27}
-
-{c:Duration 2:27}
-{c:Tempo 87}
+{c: 87 BPM, 2:27}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D]
@@ -89,5 +88,3 @@ Aah, help me
 Aah, help me
 Aah, help me
 {eop}
-
-{midi: CC0.0@2, PC10@2}

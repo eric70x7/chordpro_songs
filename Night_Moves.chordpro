@@ -1,7 +1,9 @@
 {t: Night Moves}
 {st: Bob Seger}
-{ipodid: 6175295615369468705}
 {key: G}
+{tag: Eric Sings}
+{midi: CC0.0@2, PC10@2}
+{ipodid: 6175295615369468705}
 
 {sop: Intro}
 [G] [F] [C] [F]
@@ -157,6 +159,3 @@ Lord, I remember, oh yeah yeah
 [G]
 I remember, I remem
 {eop}
-
-{tag: Eric Sings}
-{midi: CC0.0@2, PC10@2}

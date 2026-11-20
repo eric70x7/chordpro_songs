@@ -1,6 +1,7 @@
 {t: Run Like Hell}
-{artist: Pink Floyd}
+{st: Pink Floyd}
 {key: Dm}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Dm] [D] [A] [G] [D] [A/D] [G]
@@ -79,4 +80,3 @@ Yah!
 {sop: Outro}
 [D] [A] [G] [D] [A/D] [G] [D]
 {eop}
-{midi: CC0.0@2, PC10@2}

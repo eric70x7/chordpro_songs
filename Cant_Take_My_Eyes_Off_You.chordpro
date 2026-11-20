@@ -3,6 +3,8 @@
 {key: E}
 {metronome: 124}
 {duration: 3:23}
+{c: 124 BPM, 3:23}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [F#7] [Am6/E] [E] [F#7]
@@ -131,6 +133,3 @@ Trust in me when I say
 [Emaj7]
 Oh pretty ba
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}

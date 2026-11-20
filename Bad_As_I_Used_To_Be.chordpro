@@ -3,9 +3,9 @@
 {key: Am}
 {metronome: 120}
 {duration: 5:00}
-
-
-{c:Tempo 120}
+{tag: KAB}
+{c: 120 BPM, 5:00}
+{midi: CC0.0@2, PC8@2}
 
 {sop: Intro}
 [Am7]
@@ -103,6 +103,3 @@ I'm just as bad as I used to be
 [C] [D] [Am7] [C] [D] [Am7]
 [C] [D] [Am7]
 {eop}
-{midi: CC0.0@2, PC8@2}
-
-{tag: KAB}

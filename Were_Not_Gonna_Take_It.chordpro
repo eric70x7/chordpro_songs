@@ -1,11 +1,11 @@
-{t:We're Not Gonna Take It}
-{st:Twisted Sister}
-{key:E}
-{metronome:149}
-{duration:3:40}
-
-{c:Duration 3:40}
-{c:Tempo 149}
+{t: We're Not Gonna Take It}
+{st: Twisted Sister}
+{key: E}
+{metronome: 149}
+{duration: 3:40}
+{tag: BBB}
+{c: 149 BPM, 3:40}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [E] [B]
@@ -149,6 +149,3 @@ No, we ain't gonna take it
 We're not gonna take it anymore
 
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

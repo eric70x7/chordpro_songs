@@ -1,11 +1,11 @@
 {t: Ball and Chain}
 {st: Social Distortion}
-{key:D}
+{key: D}
 {metronome: 142}
 {duration: 5:43}
-
-
-{c:Tempo 142}
+{tag: KAB}
+{c: 142 BPM, 5:43}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Pre-Verse}
 {c:Pre-Verse}
@@ -163,6 +163,3 @@ Take away this ball and chain
 [D]
 - - -
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

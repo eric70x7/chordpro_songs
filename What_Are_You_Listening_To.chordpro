@@ -3,6 +3,8 @@
 {key: Bb}
 {metronome: 120}
 {duration: 4:02}
+{c: 120 BPM, 4:02}
+{midi: CC0.0@2, PC10@2}
 
 [B] [F] [B] [F]
 
@@ -11,13 +13,13 @@
 I put that record on
 [Eb]
 Girl you know what song
-[F]                     
+[F]
 And I let it play again and again
 [Bb] [Bbsus2] [Bb]                [Cm]
 You're in every line
 [Eb]
 Takes me back in time
-[F] 
+[F]
 Yeah tonight I'm wondering
 {eop}
 
@@ -128,6 +130,3 @@ And I let it play again and again
 {c: Intro}
 [B] [F] [B] [F]
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}

@@ -3,8 +3,9 @@
 {key: A}
 {metronome: 126}
 {duration: 3:3}
-
-{c:Tempo 126}
+{tag: BBB}
+{c: 126 BPM, 3:3}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 {c:Ring out:}
@@ -12,7 +13,7 @@
 {eop}
 
 {sop: Verse 1}
-[E]        [G]         [A]         [G]     [E]  
+[E]        [G]         [A]         [G]     [E]
 See me ride out of the sunset
 On your color TV screen
 Out for all that I can get
@@ -34,7 +35,7 @@ T.N.T., watch me explode
 {eoc}
 
 {sop: Verse 2}
-[E]        [G]         [A]         [G]     [E]  
+[E]        [G]         [A]         [G]     [E]
 I'm dirty, mean and mighty unclean
 I'm a wanted man
 Public enemy number one
@@ -58,7 +59,7 @@ T.N.T., watch me explode!
 
 {sop: Solo}
 {c:SOLO - m pent}
-[E]        [G]         [A]         [G]     [E]  
+[E]        [G]         [A]         [G]     [E]
 {eop}
 
 {soc}
@@ -76,6 +77,3 @@ T.N.T., watch me explode!  - OY,  OY, OY
 {sop: Outro}
 [E]
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

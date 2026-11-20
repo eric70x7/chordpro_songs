@@ -3,8 +3,10 @@
 {key: A}
 {metronome: 142}
 {duration: 2:43}
+{tag: BBB}
+{c: 142 BPM, 2:43}
+{midi: CC0.0@2, PC4@2}
 
-{c:Tempo 142}
 {c:Intro}
 {c:Verse 1} Flew in from Miami Beach B.O.A.C.
 {c:Chorus} You don't know how lucky you are boy
@@ -121,6 +123,3 @@ Oh let me tell you, honey
 {c:8 riffs}
 [A]
 {eop}
-
-{midi: CC0.0@2, PC4@2}
-{tag: BBB}

@@ -3,7 +3,8 @@
 {key: Bb}
 {metronome: 78}
 {duration: 3:32}
-
+{c: 78 BPM, 3:32}
+{midi: CC0.0@2, PC10@2}
 
 {c:Intro}
 
@@ -83,4 +84,3 @@ To make you feel my love
 [C7]          [Eb/F]     [Bb]
 To make you feel my love
 {eop}
-{midi: CC0.0@2, PC10@2}

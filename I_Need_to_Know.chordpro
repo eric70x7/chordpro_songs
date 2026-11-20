@@ -1,11 +1,15 @@
 {t: I Need to Know}
 {st: Tom Petty and the Heartbreakers}
-{ipodid: 330315343343630554}
-{key:Dm}
+{key: Dm}
 {metronome: 150}
 {duration: 2:24}
 {tag: Eric Sings}
-
+{tag: KAB}
+{tag: Whiskey Lizard}
+{tag: BBB}
+{c: 150 BPM, 2:24}
+{midi: CC0.0@2, PC10@2}
+{ipodid: 330315343343630554}
 
 {c:Intro}
 {c:Verse 1} Well, the talk on the street says you might go solo
@@ -110,9 +114,3 @@ I need to know
 [C]                [Dm] [C] [Dm]
 Baby, I need to know
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}
-{tag: Whiskey Lizard}
-{tag: BBB}

@@ -3,8 +3,9 @@
 {key: E}
 {metronome: 162}
 {duration: 2:29}
-
-{c:Tempo 162}
+{tag: BBB}
+{c: 162 BPM, 2:29}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [E]
@@ -54,7 +55,7 @@ Oh no oh oh oh oh
 
 {sop:Solo}
 {c:Drone on hi E}
-[E] [A] [B] [E] [A] [B] 
+[E] [A] [B] [E] [A] [B]
 {eop}
 
 [E]
@@ -111,7 +112,3 @@ Babababa, bababababa, I want to be sedated
 [B]     [C#]    [F#]
 Babababa, bababababa, I want to be sedated {c:Hold F# ending}
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

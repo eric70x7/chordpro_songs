@@ -3,6 +3,8 @@
 {key: G}
 {metronome: 90}
 {duration: 4:35}
+{c: 90 BPM, 4:35}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [G] [D] [C] [G] [D]
@@ -130,6 +132,3 @@ An' I've made up my mind
 [Am]                            [D] [C] [D]
 I ain't wasting no more time
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}

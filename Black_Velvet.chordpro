@@ -1,12 +1,12 @@
 {t: Black Velvet}
 {st: Alannah Myles}
-{ipodid:}
 {key: Dm}
 {metronome: 91}
 {duration: 4:47}
-
-
-{c:Tempo 91}
+{tag: Whiskey Lizard}
+{c: 91 BPM, 4:47}
+{midi: CC0.0@2, PC9@2}
+{ipodid: }
 
 {sop: Intro}
 [Dm]
@@ -104,6 +104,3 @@ Black velvet if you please
 [Dm]
 If you please, if you please, if you please
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: Whiskey Lizard}

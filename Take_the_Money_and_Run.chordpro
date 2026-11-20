@@ -1,6 +1,8 @@
 {t: Take The Money And Run}
 {st: Steve Miller Band}
 {key: G}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 Woo Woo
@@ -24,7 +26,7 @@ Woo Woo Woo Go on
 take the money and run
 Oooh Lord
 [G]Go on [F]take the money and [C]run[Bb]
-[F]Woo Woo [F]Woo 
+[F]Woo Woo [F]Woo
 {eoc}
 
 {sop: Verse 2}
@@ -58,7 +60,3 @@ take the money and run
 Oooh Lord
 [G]Go on [F]take the money and [C]run[Bb]
 {eoc}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

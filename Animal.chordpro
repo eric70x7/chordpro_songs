@@ -1,6 +1,7 @@
 {t: Animal}
 {st: Def Leppard}
 {key: Dm}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Bb] [C] [Dm] [Bb] [C] [Dm]
@@ -111,4 +112,3 @@ And I want
 Oh, oh, oh, animal
 He, he
 {eop}
-{midi: CC0.0@2, PC10@2}

@@ -3,9 +3,9 @@
 {key: E}
 {metronome: 75}
 {duration: 5:43}
-
-{c:Duration 5:43}
-{c:Tempo 75 BPM}
+{tag: KAB}
+{c: 75 BPM, 5:43}
+{midi: CC0.0@2, PC33@2}
 
 {sop: Intro}
 [E] [A] [E]
@@ -141,6 +141,3 @@ Why can't it be mine
 {sop: Outro (Fade Out)}
 [Em] [D] [C]
 {eop}
-
-{midi: CC0.0@2, PC33@2}
-{tag: KAB}

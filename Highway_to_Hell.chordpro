@@ -1,6 +1,7 @@
 {t: Highway to Hell}
 {st: AC/DC}
 {key: Ab}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Ab] [Db/F] [Db/F] [Gb] [Db/F] [Gb] [Db/F] [Ab]
@@ -105,5 +106,3 @@ Highway to hell
 And I'm goin' down, all the way
 On the highway to hell
 {eop}
-
-{midi: CC0.0@2, PC10@2}

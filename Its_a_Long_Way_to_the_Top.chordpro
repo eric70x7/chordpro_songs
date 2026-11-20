@@ -1,6 +1,8 @@
 {t: It's a Long Way to the Top (If You Wanna Rock 'n' Roll)}
 {st: AC/DC}
-{key:A}
+{key: A}
+{tag: BBB}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [A]
@@ -74,7 +76,3 @@ It's a long way
 {sop: Outro}
 [A]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

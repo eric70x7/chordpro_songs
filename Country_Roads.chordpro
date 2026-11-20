@@ -1,11 +1,11 @@
 {t: Country Roads}
 {st: John Denver}
-{key:G}
+{key: G}
 {metronome: 82}
 {duration: 3:10}
-
-
-{c:Tempo 82}
+{tag: KAB}
+{c: 82 BPM, 3:10}
+{midi: CC0.0@2, PC10@2}
 
 {c:Verse 1} Almost heaven, West Virginia
 {c:Verse 2} All my memories, gather round her
@@ -105,6 +105,3 @@ Take me home, down country roads
 [D]                  [G]
 Take me home, down country roads
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

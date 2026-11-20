@@ -3,10 +3,9 @@
 {key: D}
 {metronome: 166}
 {duration: 3:30}
+{c: 166 BPM, 3:30}
+{midi: CC0.0@2, PC10@2}
 {ipodid: 98765}
-
-
-{c:Tempo 166}
 
 {sop: Intro}
 [D] - [Bm] - [G] - [D] -
@@ -100,4 +99,3 @@ You know I could, girl
 [G]            [D]                     [D] [Bm] [G] [D]
  I could die, I could die a happy man
 {eop}
-{midi: CC0.0@2, PC10@2}

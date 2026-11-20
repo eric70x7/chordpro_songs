@@ -1,11 +1,11 @@
 {t: Auld Lang Syne}
 {st: Traditional}
-{key:G}
+{key: G}
 {metronome: 90}
 {duration: 2:30}
-
-
-{c:Tempo 90}
+{tag: Whiskey Lizard}
+{c: 90 BPM, 2:30}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Verse 1}
 [G]                 [D]
@@ -116,6 +116,3 @@ We'll tak' a cup o' kindness yet
 [B]   [Em]   [C]  [D] [G]
 For auld lang syne
 {eoc}
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

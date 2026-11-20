@@ -1,11 +1,10 @@
-{title:}
 {t: Train Kept A-Rollin'}
 {st: Aerosmith}
 {key: E}
 {metronome: 110}
 {duration: 5:33}
-
-{c:Tempo 110}
+{c: 110 BPM, 5:33}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [E5]
@@ -144,5 +143,3 @@ But I just couldn't tell her so
 {sop:Outro}
 [E]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

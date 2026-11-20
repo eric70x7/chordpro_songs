@@ -1,6 +1,7 @@
 {t: I Will Follow}
-{artist: U2}
+{st: U2}
 {key: E}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [E] [A] [E] [A]
@@ -89,5 +90,3 @@ I am [E]found[A]
 {eop}
 
 {c: Intro Riff x3 end at start of 4th}
-
-{midi: CC0.0@2, PC10@2}

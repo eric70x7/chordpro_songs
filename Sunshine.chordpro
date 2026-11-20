@@ -1,16 +1,16 @@
-{t:Sunshine}
-{st:Jonathan Edwards}
-{key:A}
-{metronome:125}
-{duration:2:19}
-
-{c:Duration 2:19}
-{c:Tempo 125}
+{t: Sunshine}
+{st: Jonathan Edwards}
+{key: A}
+{metronome: 125}
+{duration: 2:19}
+{tag: Acoustic}
+{tag: Eric Sings}
+{c: 125 BPM, 2:19}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [A]
- 
- 
+
 {eop}
 
 {sop:Verse 1}
@@ -22,8 +22,7 @@ I don't feel much like dancing
 Some man's gone, he's tried to run my life
                      [D]
 Don't know what he's asking
- 
- 
+
 {eop}
 
 {sop:Verse 2}
@@ -35,12 +34,8 @@ Can't hear what he's saying
 When I grow up I'm going to make it mine
                              [D]
 But these aren't dues I been paying
- 
- 
+
 {eop}
-
-
-
 
 {soc:Chorus}
 [D]                     [A]
@@ -51,8 +46,7 @@ The time is all we've lost, I'll try it
 But he can't even run his own life
         [G]                        [E]
 I'll be damned if he'll run mine, Sunshine
- 
- 
+
 {eoc}
 
 {sop:Verse 3}
@@ -64,8 +58,7 @@ I don't feel much like dancing
 Some man's gone, he's tried to run my life
                      [D]
 Don't know what he's asking
- 
- 
+
 {eop}
 
 {sop:Verse 4}
@@ -77,8 +70,7 @@ The fruits of what I do are going
 He says in love and war all is fair
                             [D]
 But he's got cards he ain't showing
- 
- 
+
 {eop}
 
 {soc:Chorus}
@@ -90,8 +82,7 @@ The time is all we've lost, I'll try it
 But he can't even run his own life
         [G]                        [E]
 I'll be damned if he'll run mine, Sunshine
- 
- 
+
 {eop}
 
 {sop:Verse 5}
@@ -103,14 +94,9 @@ I promise you I'll be singing
 This old world, she's gonna turn around
                       [D]
 Brand new bells'll be ringing
- 
- 
+
 {eop}
 
 {sop:Outro}
 [D] [A/D] [Bmadd11/D] [D] [A/D] [Bmadd11/D] [A]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Acoustic}
-{tag: Eric Sings}

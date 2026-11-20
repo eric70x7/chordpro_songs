@@ -3,6 +3,8 @@
 {key: E}
 {metronome: 126}
 {duration: 2:38}
+{c: 126 BPM, 2:38}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [D/E] [E] [D/E] [E]
@@ -104,6 +106,3 @@ Let's get our big strong long, get on time, they're dancing in the street
 [D/E]           [E]          [D/E] [E]          [D/E]              [E]
 Across the ocean blue, me and you, we're dancing in the street
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}

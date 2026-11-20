@@ -3,8 +3,10 @@
 {key: E}
 {metronome: 136}
 {duration: 3:45}
-
-{c:Tempo 136}
+{tag: BBB}
+{tag: Whiskey Lizard}
+{c: 136 BPM, 3:45}
+{midi: CC0.0@2, PC2@2}
 
 {sop: Intro}
 Lick @ start [B] [C#] [D]
@@ -138,7 +140,3 @@ No satis_faction, no satis_faction, no satis_faction
 {sop: Fade Out}
 [D] [A] [E] [A] [D] [A]
 {eop}
-
-{midi: CC0.0@2, PC2@2}
-{tag: BBB}
-{tag: Whiskey Lizard}

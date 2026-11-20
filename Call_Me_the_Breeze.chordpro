@@ -3,7 +3,9 @@
 {key: A}
 {metronome: 95}
 {duration: 5:08}
-{c:Tempo 95}
+{tag: Whiskey Lizard}
+{c: 95 BPM, 5:08}
+{midi: CC0.0@2, PC10@2}
 
 {c:Chorus Verse}
 {c:Guitar Solo over 2x}
@@ -40,7 +42,6 @@ Ain't no changes in me
 There ain't no change in the weather
 [D]                      [A]
 Ain't no changes in me
-
 
 [E]
 And I ain't hidin' from nobody
@@ -118,7 +119,3 @@ I don't carry me no load
 [E]                  [A#7] [A7]
 Oooh Mister Breeze
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

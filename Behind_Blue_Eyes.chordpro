@@ -3,9 +3,9 @@
 {key: Em}
 {metronome: 126}
 {duration: 3:41}
-
-
-{c:Tempo 126}
+{tag: BBB}
+{c: 126 BPM, 3:41}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Em]
@@ -13,7 +13,7 @@
 {eop}
 
 {sop: Verse 1}
-[Em]                          [G] 
+[Em]                          [G]
 No one knows what it's like
                  [D]
 To be the bad man
@@ -21,7 +21,7 @@ To be the bad man
 To be the sad man
 [Aadd9]
 Behind blue eyes
-[Em]                             [G] 
+[Em]                             [G]
 No one knows what it's like
            [D]
 To be hated
@@ -47,7 +47,7 @@ That's never free
 {eoc}
 
 {sop: Verse 2}
-[Em]                                 [G] 
+[Em]                                 [G]
 No one knows what it's like
                          [D]
 To feel these feelings
@@ -55,7 +55,7 @@ To feel these feelings
 Like I do
               [Aadd9]
 And I blame you
-[Em]                          [G] 
+[Em]                          [G]
 No one bites back as hard
                  [D]
 On their anger
@@ -128,6 +128,3 @@ To be the sad man
 [Asus2]
 Behind blue eyes
 {eop}
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

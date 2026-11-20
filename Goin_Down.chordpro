@@ -3,9 +3,10 @@
 {key: G}
 {metronome: 105}
 {duration: 3:29}
+{tag: KAB}
+{c: 105 BPM, 3:29}
+{midi: CC0.0@2, PC10@2}
 
-
-{c:Tempo 110}
 {c:Intro}
 {c:Verse 1} One way or another, it's all gonna end the same
 {c:Chorus} Yeah we're all goin down
@@ -70,6 +71,3 @@ Yeah we're all goin down
 You'll never know till you're six feet under ground
 Goin down
 {eoc}
-{midi: CC0.0@2, PC10@2}
-
-{tag: KAB}

@@ -3,8 +3,9 @@
 {key: D}
 {metronome: 125}
 {duration: 2:35}
-
-{c:Tempo 125}
+{tag: Whiskey Lizard}
+{c: 125 BPM, 2:35}
+{midi: CC0.0@2, PC8@2}
 
 {sop: Intro}
 [A] [B] [C#]  [D][G7][A7]
@@ -83,6 +84,3 @@ E|-----
 
 {eot}
 {eop}
-
-{midi: CC0.0@2, PC8@2}
-{tag: Whiskey Lizard}

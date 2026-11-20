@@ -1,11 +1,10 @@
 {t: Man in the Box}
 {st: Alice in Chains}
-{key:Em}
+{key: Em}
 {metronome: 106}
 {duration: 4:46}
-
-
-{c:Tempo 106}
+{c: 106 BPM, 4:46}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Em]
@@ -114,4 +113,3 @@ Now you've sewn them shut
 [Em]
 - - -
 {eop}
-{midi: CC0.0@2, PC10@2}

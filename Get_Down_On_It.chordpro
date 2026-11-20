@@ -1,6 +1,7 @@
 {t: Get Down On It}
 {st: Kool & The Gang}
 {key: Em}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Em7] [Am7]
@@ -195,6 +196,3 @@ You (Get) move (down on) me (it), baby when you move
 [Em7]                    [Bm7] [C/D]
 (Get) down (down on it), (Get down on it get your back up off the wall)
 {eop}
-
-
-{midi: CC0.0@2, PC10@2}

@@ -3,9 +3,9 @@
 {key: D}
 {metronome: 124}
 {duration: 2:46}
-
-{c:Duration 2:46}
-{c:Tempo 124}
+{tag: Whiskey Lizard}
+{c: 124 BPM, 2:46}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 Everybody's do-ing a brand new dance no-ow
@@ -91,7 +91,3 @@ come on baby do the locomotion
 [D]          [B]
 come on baby do the locomotion
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: Whiskey Lizard}

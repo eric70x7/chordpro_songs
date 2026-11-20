@@ -1,11 +1,11 @@
-{t:Riptide}
-{st:Vance Joy}
-{key:Bbm}
-{metronome:102}
-{duration:3:24}
-
-{c:Duration 3:24}
-{c:Tempo 102}
+{t: Riptide}
+{st: Vance Joy}
+{key: Bbm}
+{metronome: 102}
+{duration: 3:24}
+{tag: Acoustic}
+{c: 102 BPM, 3:24}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [Bbm] [Ab] [Db] [Bbm] [Ab]
@@ -134,6 +134,3 @@ You're gonna sing the words wrong
                    [Bbm]          [Ab]                          [Db]
 I got a lump in my throat cause you're gonna sing the words wrong
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: Acoustic}

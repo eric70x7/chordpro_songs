@@ -1,12 +1,13 @@
 {t: We Are Family}
 {st: Sister Sledge}
-{ipodid: 415107524900013847}
-{key:G}
+{key: G}
 {metronome: 116}
 {duration: 3:36}
+{tag: Whiskey Lizard}
+{c: 116 BPM, 3:36}
+{midi: CC0.0@2, PC9@2}
+{ipodid: 415107524900013847}
 
-
-{c:Tempo 116}
 {c:Intro}
 {c:Chorus} We are family
 {c:Verse 1} Everyone can see we're together
@@ -152,6 +153,3 @@ Get up now
 [F7]
 We are family
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: Whiskey Lizard}

@@ -3,10 +3,9 @@
 {key: D}
 {metronome: 132}
 {duration: 2:22}
-
-
-
-{c:Tempo 132}
+{tag: BBB}
+{c: 132 BPM, 2:22}
+{midi: CC0.0@2, PC9@2}
 
 {sop: Verse 1}
 [G7] [D7]
@@ -120,6 +119,3 @@ or try to do
 {sop: Outro}
 [D7] [D9]
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: BBB}

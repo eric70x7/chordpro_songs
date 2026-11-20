@@ -3,9 +3,9 @@
 {key: G#m}
 {metronome: 120}
 {duration: 5:57}
-
-
-{c:Tempo 120}
+{tag: KAB}
+{c: 120 BPM, 5:57}
+{midi: CC0.0@2, PC9@2}
 
 {sop: Intro}
 [B] [F#] [G#m] [B] [F#] [G#m]
@@ -119,6 +119,3 @@ Baby, be a simple, really simple man
 [B]        [F#]             [G#m]
 Oh, be something you love and understand
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: KAB}

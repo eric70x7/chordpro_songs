@@ -1,16 +1,15 @@
-{t:The Middle}
-{st:Jimmy Eat World}
-{key:D}
-{metronome:162}
-{duration:2:48}
-
-{c:Duration 2:48}
-{c:Tempo 162}
+{t: The Middle}
+{st: Jimmy Eat World}
+{key: D}
+{metronome: 162}
+{duration: 2:48}
+{tag: BBB}
+{c: 162 BPM, 2:48}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Intro}
 [D5] [A] [G5] [D5]
- 
- 
+
 {eop}
 
 {sop:Verse 1}
@@ -26,8 +25,7 @@ Just try your best, try everything you can,
 And don't you worry what they tell themselves
                  [D5]
 When you're away.
- 
- 
+
 {eop}
 
 {soc:Chorus}
@@ -39,8 +37,7 @@ You're in the middle of the ride.
 Everything, everything will be just fine,
                             [D5]
 Everything, everything will be alright, alright.
- 
- 
+
 {eoc}
 
 {sop:Verse 2}
@@ -56,8 +53,7 @@ Live right now. Yeah, just be yourself.
 It doesn't matter if it's good enough
                  [D5]
 For someone else.
- 
- 
+
 {eop}
 
 {soc:Chorus}
@@ -76,8 +72,7 @@ You're in the middle of the ride.
 Everything, everything will be just fine,
                             [D5]
 Everything, everything will be alright, alright.
- 
- 
+
 {eoc}
 
 {sop:Guitar Solo}
@@ -86,8 +81,7 @@ Everything, everything will be alright, alright.
 Woo!
 [D5] [A] [D5] [G5]
 [D5] [A]
- 
- 
+
 {eop}
 
 {sop:Verse 3}
@@ -103,8 +97,7 @@ Just do your best, do everything you can,
 And don't you worry what the bitter hearts
               [D5]
 Are gonna say.
- 
- 
+
 {eop}
 
 {soc:Chorus}
@@ -128,6 +121,3 @@ Everything, everything will be alright.
 {sop:Outro}
 [D5] [A] [G5] [D5]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-{tag: BBB}

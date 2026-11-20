@@ -1,11 +1,11 @@
-{t:Bad Case of Loving You (Doctor, Doctor)}
-{artist:Robert Palmer}
-{key:E}
+{t: Bad Case of Loving You (Doctor, Doctor)}
+{st: Robert Palmer}
+{key: E}
 {metronome: 146}
 {duration: 3:10}
-
-{c:Duration 3:10}
-{c:Tempo 146}
+{tag: BBB}
+{c: 146 BPM, 3:10}
+{midi: CC0.0@2, PC10@2}
 
 {sop:Verse 1}
 [E]A hot summer night fell like a net
@@ -63,7 +63,3 @@ I've got a [E]bad case of [B]lovin' [E]you
 {sop:Outro}
 [E] [A] [B] [E]
 {eop}
-
-{midi: CC0.0@2, PC10@2}
-
-{tag: BBB}

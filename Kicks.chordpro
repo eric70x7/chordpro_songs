@@ -3,8 +3,9 @@
 {key: Ab}
 {metronome: 131}
 {duration: 2:31}
-
-{c:Tempo 131}
+{tag: BBB}
+{c: 131 BPM, 2:31}
+{midi: CC0.0@2, PC8@2}
 
 {sop: Intro}
 {sot}
@@ -21,7 +22,7 @@ E|-------------------------------------|
 {c:Stay on Intro during first half of verses}
 {sop: Verse}
 [Bb]        [Fm]                    [Bb]
-Girl, you thought you found the answer 
+Girl, you thought you found the answer
         [Fm]            [Bb]        [Fm]   [Bb] [Fm] [Bb]
 On that magic carpet ride last night.
              [Fm]              [Bb]
@@ -44,7 +45,7 @@ And don't it seem like..
 [Ab]                      [Db]
 Kicks just keep gettin' harder to find.
              [Ab]                   [Db]
-And all your kicks ain't bringin' you 
+And all your kicks ain't bringin' you
 peace of mind.
            [Ab]
 Before you find out it's too late, girl,
@@ -81,7 +82,7 @@ And don't it seem like..
 [Ab]                      [Db]
 Kicks just keep gettin' harder to find.
              [Ab]                   [Db]
-And all your kicks ain't bringin' you 
+And all your kicks ain't bringin' you
 peace of mind.
            [Ab]
 Before you find out it's too late, girl,
@@ -104,7 +105,7 @@ I'm gonna help you find yourself another way.
 [Ab]                      [Db]
 Kicks just keep gettin' harder to find.
              [Ab]                   [Db]
-And all your kicks ain't bringin' you 
+And all your kicks ain't bringin' you
 peace of mind.
            [Ab]
 Before you find out it's too late, girl,
@@ -118,13 +119,10 @@ And don't it seem like..
 [Ab]                      [Db]
 Kicks just keep gettin' harder to find.
              [Ab]                   [Db]
-And all your kicks ain't bringin' you 
+And all your kicks ain't bringin' you
 peace of mind.
            [Ab]
 Before you find out it's too late, girl,
                [C]
 you better get straight..
 {eop}
-
-{midi: CC0.0@2, PC8@2}
-{tag: BBB}

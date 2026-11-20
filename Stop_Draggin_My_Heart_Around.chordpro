@@ -3,8 +3,9 @@
 {key: E}
 {metronome: 107}
 {duration: 4:04}
-
-{c:Tempo 107}
+{tag: Whiskey Lizard}
+{c: 107 BPM, 4:04}
+{midi: CC0.0@2, PC9@2, CC80.127@2}
 
 {sop: Verse 1}
 [E5]                      [G]        [A]
@@ -41,11 +42,6 @@ This doesn't have to be anything at all
 {soh}I know you really wanna tell me goodbye
 I know you really wanna be your own girl{eoh}
 {eop}
-
-
-
-
-
 
 {soc}
 [C]                           [D]
@@ -86,15 +82,6 @@ You need someone looking after you
 I know you really wanna be your own girl{eoh}
 {eop}
 
-
-
-
-
-
-
-
-
-
 {soc}
 [C]                           [D]
 {soh}Baby, you could never look me in the eye{eoh}
@@ -117,6 +104,3 @@ Stop dragging my heart around
 Stop dragging my heart around
 [E5] [G] [A]
 {eop}
-{midi: CC0.0@2, PC9@2, CC80.127@2}
-
-{tag: Whiskey Lizard}

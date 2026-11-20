@@ -3,8 +3,9 @@
 {key: A}
 {metronome: 128}
 {duration: 4:39}
-
-{c:Tempo 128}
+{tag: BBB}
+{c: 128 BPM, 4:39}
+{midi: CC0.0@2, PC9@2}
 
 {sop: Intro}
 [E5]      [B/D#]    [D5]     [A/C#]   [B5] [A5] [E5]
@@ -147,6 +148,3 @@ Yeah, yeah, yeah
 [E5] [B/D#] [D5] [A/C#] [A5] [B5]
 [E5] [B/D#] [D5]
 {eop}
-{midi: CC0.0@2, PC9@2}
-
-{tag: BBB}

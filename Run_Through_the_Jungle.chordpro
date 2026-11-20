@@ -3,9 +3,8 @@
 {key: Dm}
 {metronome: 136}
 {duration: 3:05}
-
-{c:Duration 3:05}
-{c:Tempo 136}
+{c: 136 BPM, 3:05}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Intro}
 [Dm]
@@ -62,5 +61,3 @@ Whoa don't look back to see
 {sop: Outro}
 [Dm]
 {eop}
-
-{midi: CC0.0@2, PC10@2}

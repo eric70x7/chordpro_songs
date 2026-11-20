@@ -3,6 +3,9 @@
 {key: G}
 {metronome: 127}
 {duration: 2:59}
+{tag: Eric Sings}
+{c: 127 BPM, 2:59}
+{midi: CC0.0@2, PC10@2}
 
 {soc}
 [Cadd9]                       [D]
@@ -106,5 +109,3 @@ Yeah, I'm born to love again
 [G]
 I'm a brand new man
 {eop}
-{tag: Eric Sings}
-{midi: CC0.0@2, PC10@2}

@@ -3,9 +3,8 @@
 {key: D}
 {metronome: 86}
 {duration: 3:41}
-
-{c:Duration 3:41}
-{c:Tempo 86}
+{c: 86 BPM, 3:41}
+{midi: CC0.0@2, PC11@2}
 
 {sop: Intro}
 [D5]
@@ -136,5 +135,3 @@ she's a homegrown,   down to the bone
       [E5]    [D5] [F5] [G5] [F5]
 She's country
 {eop}
-
-{midi: CC0.0@2, PC11@2}

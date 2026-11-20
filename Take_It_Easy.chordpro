@@ -3,75 +3,66 @@
 {key: G}
 {metronome: 139}
 {duration: 3:32}
-
-{c:Tempo 139}
+{tag: Whiskey Lizard}
+{tag: Acoustic}
+{c: 139 BPM, 3:32}
+{midi: CC0.0@2, PC8@2}
 
 {sop: Intro}
-[G]     [C]     [D7sus4] 
+[G]     [C]     [D7sus4]
 [G]     [C]     [D7sus4] [G]
 {eop}
 
 {sop: Verse 1}
-[G]                                 
-Well I'm a runnin' down the road 
+[G]
+Well I'm a runnin' down the road
 try'n to loosen my load
-             [D]               [C]   
+             [D]               [C]
 I've got seven women on my mind
-     [G]                                 [D]   
-Four that want to own me, 
+     [G]                                 [D]
+Four that want to own me,
 two that want to stone me
-     [C]                        [G]   
+     [C]                        [G]
 One says she's a friend of mine
 {eop}
 
 {soc}
-     [Em]         [Em7]      [C]      [G]   
+     [Em]         [Em7]      [C]      [G]
 Take it easy,           take it ea_sy
-                 [Am]                  [C]               [Em]   
-Don't let the sound of your own wheels 
+                 [Am]                  [C]               [Em]
+Don't let the sound of your own wheels
 drive you crazy
-     [C]             [G]   
+     [C]             [G]
 {soh}Lighten up while you still can{eoh}
-          [C]               [G]   
+          [C]               [G]
 Don't even try to understand
-     [Am]               [C]                        [G]   
-Just find a place to make your stand, 
+     [Am]               [C]                        [G]
+Just find a place to make your stand,
 and take it easy
 {eoc}
 
-
-
-
-
-
-
-
-
-
-
-
 {sop: Verse 2}
-[G]                                 
-Well, I'm a standin' on a corner 
+[G]
+Well, I'm a standin' on a corner
 in Winslow, Arizona
-          [D]            [C]   
+          [D]            [C]
 It's such a fine sight to see
-   [G]                           [D]   
+   [G]                           [D]
 It's a girl, my Lord, in a flatbed Ford
-          [C]                             [G]   
+          [C]                             [G]
 Slowin' down to take a look at me
 {eop}
 
 {soc}
-     [Em]      [Em7]     [C]     [G]   
+     [Em]      [Em7]     [C]     [G]
 Come on, baby,     don't say maybe
-               [Am]                 [C]              [Em]   
-I gotta know if your sweet love 
+               [Am]                 [C]              [Em]
+I gotta know if your sweet love
 is gonna save me
-     [C]            [G]   
-{soh}We may lose and we may win{eoh}, 
+     [C]            [G]
+{soh}We may lose and we may win{eoh},
 though we will never be here again
-     [Am]            [C]                   [G]   
+     [Am]            [C]                   [G]
 So open up I'm climbin' in, so take it easy
 {eoc}
 {c:Solo - end on G  D chords}
@@ -83,65 +74,46 @@ So open up I'm climbin' in, so take it easy
 [Am] [C] [Em] [D]
 {eop}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {sop: Verse 3}
-[G]                                 
-Well, I'm a runnin' down the road 
+[G]
+Well, I'm a runnin' down the road
 tryin' to loosen my load
-               [D]           [C]   
+               [D]           [C]
 Got a world of trouble on my mind
-[G]                                 [D]   
-Lookin' for a lover 
-who won't blow my cover, 
+[G]                                 [D]
+Lookin' for a lover
+who won't blow my cover,
 she's so hard to find
 {eop}
 
 {soc}
-     [Em]         [Em7]      [C]      [G]   
+     [Em]         [Em7]      [C]      [G]
 Take it easy,           take it ea_sy
-                 [Am]                  [C]               [Em]   
-Don't let the sound of your own wheels 
+                 [Am]                  [C]               [Em]
+Don't let the sound of your own wheels
 make you crazy
-     [C]      [G]      [C]     [G]   
+     [C]      [G]      [C]     [G]
 Come on baby,     don't say maybe
-               [Am]            [C]              [G]   
-I gotta know if you sweet love 
+               [Am]            [C]              [G]
+I gotta know if you sweet love
 is gonna save me
 {eoc}
 
 {sop: Outro}
-[C]   
+[C]
 Ooh, ooh, ooh
-[G]   
+[G]
 Ooh, ooh, ooh
-[C]   
+[C]
 Ooh, ooh, ooh
-[G]   
+[G]
 Ooh, ooh, ooh
-[G7]   
+[G7]
 Ooh, ooh, ooh
-[C]   
+[C]
 Ooh, ooh, ooh
-              [G]   [G7] [C]   
+              [G]   [G7] [C]
 Oh we got it easy
-               [G]   [G7] [C]  [Em]   
+               [G]   [G7] [C]  [Em]
 We oughta take it easy
 {eop}
-
-{midi: CC0.0@2, PC8@2}
-{tag: Whiskey Lizard}
-{tag: Acoustic}

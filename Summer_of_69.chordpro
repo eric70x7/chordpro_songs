@@ -3,6 +3,8 @@
 {key: D}
 {metronome: 139}
 {duration: 3:35}
+{c: 139 BPM, 3:35}
+{midi: CC0.0@2, PC10@2}
 
 {sop: Verse 1}
 [D]
@@ -119,5 +121,3 @@ Sixty nine
 [A] [D] [A]
 - - -
 {eop}
-
-{midi: CC0.0@2, PC10@2}

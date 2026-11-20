@@ -3,8 +3,10 @@
 {key: A}
 {metronome: 160}
 {duration: 3:38}
-
-{c:Tempo 160}
+{tag: KAB}
+{tag: BBB}
+{c: 160 BPM, 3:38}
+{midi: CC0.0@2, PC8@2}
 
 {sop:Intro}
 [Esus4] [E] [A] [D] [D] [A] [Esus4] [E] [A] [D] [A]
@@ -122,7 +124,3 @@ Uh huh huh, brrr Hey
 Uh huh huh [D] [A]
 Hey
 {eop}
-
-{midi: CC0.0@2, PC8@2}
-{tag: KAB}
-{tag: BBB}
